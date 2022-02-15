@@ -1,0 +1,28 @@
+isolierung von piperin aus schwarzem pfeffer
+============================================
+
+durchführung
+------------
+In einer Heissdampfextraktionsapparatur mit 250 ml NS 29-Rundkolben, Extrak- 
+tionsaufsatz und NS 29-Rückflusskühler werden 12 g gemahlenen Pfeffer in die 
+Extraktionshülse gefüllt und mit etwas Filterwatte abgedeckt. Über den Rückfluss- 
+kühler werden 100 ml Essigsäureethylester langsam eingefüllt und 5 h unter 
+kräftigem Rückfluss extrahiert.
+
+isolierung und reinigung
+------------------------
+Nach dem Abkühlen wird das Lösungsmittel aus dem Rundkolben am Rotations- 
+verdampfer unter vermindertem Druck abdestilliert (->R1). Der Rückstand wird 
+mit einer Lösung von 1.2 g Kaliumhydroxid in 12 ml 50 %igen wässrigem 
+Ethanol versetzt und über einen kleinen Trichter mit Filterpapier in einen 25 ml 
+Erlenmeyerkolben filtriert. Der Erlenmeyerkolben wird mit einem Gummi- oder 
+Korkstopfen verschlossen und über Nacht in den Kühlschrank gestellt. 
+Dabei scheiden sich gelbe Kristalle ab, die über einen Hirschtrichter abgesaugt, 
+mit wenig Eiswasser gewaschen (->E1) und im Vakuumexsikkator über 
+Kieselgel ("Orangegel") getrocknet werden. 
+Ausbeute Reinprodukt: ca. 0.3 g gelbe Kristalle, Schmp. 125-126 °C.
+
+
+[http://rchsg19.uni-regensburg.de/OCP/skript/prakt/OCP1BioLA.pdf]
+
+

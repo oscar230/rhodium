@@ -1,0 +1,341 @@
+--------------------------------------------------------------------------------
+				Nutmeg and its Essential Oil
+--------------------------------------------------------------------------------
+
+From: an89433@anon.penet.fi
+Date: Sat, 25 Mar 1995 15:47:09 UTC
+Subject: Safrole
+
+
+After looking up Oil of Nutmeg in the Merck index (10th ed) I came up
+with the following :
+
+Oil of nutmeg, constit:
+
+  60-80% d-camphene (Bp 158.5-159.5 C), 8% d-pinene; dipentene,
+  d-borneol (Bp 212 C), l-terpineol, 6% geraniol (Bp 229-230 C),
+  safrole (Bp 232-234 C), 4% myristicin.
+
+The chemicals of interest here are safrole and myristicin. Temperatures
+are in degrees Celsius at 1atm pressure (760mm Hg). My question is :
+What is the fraction of safrole in oil of nutmeg. My guess is 4-6% but
+a corrected estimate is welcomed...
+
+Oil of sassafras (constit appx 80% of safrole) is of course preferred but
+nutmeg is so easily availble that it is at least worth checking this out.
+
+V. Jones
+
+--------------------------------------------------------------------------------
+
+Author: Daniel R Haney   
+Email: DrHaney@world.std.com
+Date: 1995/10/01
+
+> filter off the crystallized trimyristin.  
+
+>Uh... wrong compound. 
+
+  Crepitance.  Trimyristin is CHAFF.  You must separate it FIRST
+to get at the tiny fraction containing the phenylics of interest.
+
+> The one of interest here is myristicin, not 
+
+  Yes, I know, ya' yung whippersnapper.  The amusing Volatile Oil
+Of Nutmeg is the leftover you get with an extraction+crystallization.
+Volatile Oil components are less than 5% of the whole nutmeg weight
+while the fat trimyristin is at least 25%.  That's a lot of crap
+to ignore for doctrinaire reasons.
+
+  Merck sez enough about the volatile oil to show that it is mostly
+terpenes (oboy! let's eat it and belch like bandits) although
+containing substantial safrole (hurrah!) and myristicin.
+
+  I know you guys want an elegant one-step to snag the oils.  So 
+would I.  But ethanol is cheep and this fat extraction requires
+less energy than the steam distillation.
+
+
+Dragging my flu-ridden carcass around the house,
+-DrH
+
+--------------------------------------------------------------------------------
+
+Author: Daniel R Haney
+Email: DrHaney@world.std.com
+Date: 1995/10/01
+                                                       
+  I have come perilously close to a chemical prick-waving
+match with you and sincerely apologize.  As evidence of 
+earnest good intent, I am passing on the fruits of my
+studies on NUTMEG for the edification of all.
+
+On nutmeg, the Encyclopedia Britannica sez:
+
+        "Nutmeg and mace contain 7 to 14 percent essential oil,
+        the principal components of which are pinene, camphene, 
+        and diterpene, all having the empirical formula C10H16.
+        Nutmeg on expression yeilds about 24 to 30 percent fixed
+        oil called nutmeg butter, or oil of mace, the principal
+        component of which is trimyristin..."
+
+On volatile oil of NUTMEG, Merck 11th sez:
+
+        (skipping the reference to steam distillation)
+
+        "...Constit. 60-80% d-camphene, about 8% d-pinene;
+        dipentene, d-borneol, l-terpineol, about 6% geraniol, 
+        safrol, about 4% myristicin.  The myristicin fraction
+        with its more than 25% content of elemicin is supposed
+        to be responsible for the purported hallucinogenic
+        properties of nutmeg seed:  Shulgin, "Nature" 197, 4865,
+        (1963)"
+
+Sorta figured Shulgin would turn up in there.  More later.
+The elemicin is not listed or indexed as such in Merck 11th,
+but is the 3,4,5 trimethoxy substituted phenylallene.
+
+Neither safrole nor myristicin is there in SUBSTANTIAL amounts,
+only SIGNIFICANT amounts.  Useless for preparative intents,
+useful for scents and flavorings.
+
+100MG OF MYRISTICIN...
+
+4% of 10% (average 7,14) is 0.4%, that is to say, myristicin is .4% 
+the weight of whole nutmeg.  25 grams of whole nutmeg contains 100 mg 
+of the myristicin fraction.  I'd rather brew beer.
+  
+UBER ALCOHOL EXTRACTION: 
+
+>...What percentage of oils can be extracted out this way? 
+
+  Nearly all of them that can be had along with a lot of stuff
+you don't want.  Solvent extraction is so thorough the the nutmeg 
+is pale when you are done.
+
+>I was always under the impression that steam 
+>distillation was much more effective at squeezing the non-miscible 
+>non-volatiles out.
+
+MY CONJECTURE:
+The steam distillation is industrially feasible because of the 
+mechanical simplicity of equipment and lower physical handling.
+
+The alcohol extraction is fast but requires more handling and so is
+better applied to small scale,i.e., benchtop.  I guess it depends 
+on what amount you want to produce.
+
+By example, stearic acid is produced by both methods depending
+upon the cheapness of fuel and labor.  The results differ
+primarily in the last 3% of stuff that is NOT stearic acid such
+as proteins, inorganics, unsaturated fats, and funky esters.  
+Stearic acid is used in vast quantity to make soaps, creams, 
+and lotions.  [end digresssion]
+
+Shulgin's listing of the 10 essential oils follows.  I have
+renamed them from IUPAC to trivial allylbenzenes to reflect
+the ring substitution of a sibling phenalkylamine.
+
+estragole:      4-methoxy allylbenzene
+methyleugenol:  3,4-dimethoxy allylbenzene
+safrole:        3,4-methylenedioxy allylbenzene
+myristicin:     5-methoxy 3,4-methylenedioxy allylbenzene
+croweacin:      2-methoxy 3,4-methylenedioxy allylbenzene
+elemicin:       3,4,5-trimethoxy allylbenzene
+asarone:        2,4,5-trimethoxy propenylbenzene
+apiole:         2,5-dimethoxy 3,4-methylenedioxy allylbenzene
+dillapiole:     2,3-dimethoxy 4,5-methylenedioxy allylbenzene
+???:            2,3,4,5-tetramethoxy allylbenzene
+
+Jason keeps mentioning inorganic salts in nutmeg.  While my
+first impulse was to ignore that as insignificant, there is 
+no avoiding inorganic matter entrained in the nutmeg extracts.
+All woody/nutty materials contain significant inorganics.
+
+This has been recognized historically -
+
+Rock maple is awfully hard stuff in part because of the silicates
+in it.  Makes a nice solid body guitar, too.  Chews up saw blades.
+
+Stradivari treated wood with brine to leach out the inorganics
+as well as the water-soluble rosins and so got a lighter, more
+resonant material with extended high frequency response.
+
+I have no exact information as to the disposition of inorganics 
+in nutmeg or wood so if anyone else knows some figures, speak up.
+
+Good Cheer,
+Daniel R. Haney
+
+ps:  Hah!  The old fart's brain isn't entirely rusted shut.
+
+--------------------------------------------------------------------------------
+I got curious enough about nutmeg to do some reading.  Nutmeg contains
+a variety of allylbenzenes (double bond between beta and gamma carbons),
+all very similar to psychedelic amphetamines.  I tried drawing the
+compounds, but they're difficult in ASCII.  The compounds all have the
+allylbenzene in common, the differ in their substitutions at the 3,4,5
+positions of the benzene ring.  The compounds and their concentrations
+from (1):
+
+compound        substitutions                    concentration
+--------        -------------                    -------------
+myristicin      3-methoxy, 4,5-methylenedioxy    4.0%
+safrole         3,4-methylenedioxy               0.6%
+eugenol         3-methoxy, 4-hydroxyl            0.2%
+elemicin        3,4,5-trimethoxy                 *
+methyleugenol   3,4-dimethoxy                    *
+----
+*-mentioned in (4) and stated as being previously included with
+the myristicin portion incorrectly.
+
+Weil's (1) paper gives a broad history of nutmeg use as food and as
+narcotic, and gives a summary of research into the pharmacological
+effects of nutmeg.  Some of the more interesting work cited is that by
+Alexander Sulgin (3,4).  Unfortunately some of the cited work is from an
+unpublished paper, and the library didn't have the journal another
+article was in (3) so I only saw excerpts.
+
+The descriptions of the experience mentioned by Weil are consistent
+with pyschedelic amphetamine experiences, although the initial phase
+of an excitment and distorted perception is often followed by
+narcosis, the effects sometimes reported as lasting days.  There are a
+wide variety of other toxic effects reported (infrequently, death) with
+enough frequency to make it clear why this is not a widely abused
+substance.
+
+The psychedelic component is examined by Shulgin who concludes that
+the hallucinogenic action is mainly from the myristicin and related
+components.  He notes that only know mechanism of metabolism of any of
+the compounds is the detoxification of safrole to piperonylic acid.
+This reaction show the capacity to oxidize an olefinic side chain.
+He uses this fact to speculate on a possible pharmacologic mechanism
+(quoted from Weil):
+
+  "Shulte suggests that, if this degradative process is `applicable to
+   myristicin, or especially to elemicin, a theoretical intermediate, a
+   vinyl alcohol, could undergo transamination producing the known
+   psychotomimetic drug, 3,4,5-trimethoxy amphetamine (TMA).  The recent
+   description of the new, synthetic hallucinogen -
+   3-methoxy-4,5-methylenedioxy amphetamine (MMDA)-which might be
+   derived by an analogous process from myristicin, itself, is even more
+   suggestive of a psychotropic function for this component of nutmeg.'"
+
+References
+----------
+1. Weil, Andrew (1965). Nutmeg as a Narcotic. 19(3), 194-217.
+
+2. Truitt, Edward and others (1961).  The Pharmacology of Myristicin;  A
+Contribution to the Psychoparmacology of Nutmeg.  2(4), 205.
+
+3. Shulgin, Alexander T. (1963).   Concerning the pharmacology of nutmeg.
+Mind 299-303.
+
+4. Shulgin, Alexander T. (1964).   Composition of the myristicin fraction
+from oil of nutmeg.  Nature, 197:4865, p.379.
+
+
+--------------------------------------------------------------------------------
+
+Author: Jacob W Smith
+Email: smit0262@gold.tc.umn.edu
+Date: 1995/10/02
+
+Myristicin constitutes about two thirds of the aromatic ether
+fraction, but it cannot account entirely for the psychoactivity
+of nutmeg. Those occurring at more than 10 mg per 20 g are myristicin 
+(210 mg), elemicin (70 mg), safrole (39 mg), methyleugenol (18 mg), 
+and methylisoeugenol (11 mg). A 400-mg dose of myristicin, almost twice 
+the amount present in 20 gm of nutmeg (20 gm being assumed to be the 
+quantity required to produce psychotropic effects) produces only mild
+effects. 
+
+Schultes and Hofmann. The Botany and Chemistry of Hallucinogens. p. 121.
+
+--------------------------------------------------------------------------------
+
+Author: Jason Kennerly
+Email: jkenner@cello.gina.calstate.edu
+Date: 1995/10/01
+
+Roughly 60g of nutmeg powder was extracted into acetone. The acetone was 
+allowed to sit like that on a shelf for a few days and...
+
+Something precipitated! white stuff! What is it? I'm *guessing* this has 
+something to do with the fatty acids, but does it? What the hell is the 
+stuff. I saved it, i'm pretty damn curious as to what it is.... I know 
+its not likely to be anything useful, but does this type of thing happen 
+often?
+
+
+--------------------------------------------------------------------------------
+
+            Composition of the Myristicin Fraction from Oil of Nutmeg
+                               Alexander T. Shulgin
+                     Nature, Vol. 197, No. 4865, p. 379 (1963)
+
+The aromatic ether fraction of oil of nutmeg has been previously shown to 
+consist of eugenol (Ia), isoeugenol (IIa) safrole (Ic) and myristicin (Id). 
+Vacuum distillation yields a fraction (bp 109-112°C @1 mmHg; 60g from 
+1000g of "W.I." oil of nutmeg (George Lueders and Co))  which consisted of 
+a substance heretofore accepted both clinically and pharmacologically as 
+the single compound, myristicin (Id).
+
+    3            (I) 					 3            (II)
+     \___                                         \___
+     /   \				 KOH/EtOH           /   \
+ 4--<  O  >--CH2--CH==CH2	==========>     4--<  O  >--CH2==CH2-CH3
+     \___/                                        \___/
+     /                                            /
+    5  							 5
+
+				---------------------------
+					3       4       5
+				---------------------------
+				 a	OCH3    OH      H
+				 b	OCH3    OCH3    H
+				 c	O--CH2--O       H
+				 d	O--CH2--O       OCH3
+				 e	OCH3    OCH3    OCH3	
+				---------------------------
+
+The isomerization of this fraction with alcoholic potassium hydroxide 
+yielded (trans) isomyristicin (IId), isolated by crystallization of the 
+distilled reaction mixture. The mother liquors of this isolation. 
+On analysis by vapour phase chromatography, provided the first indication of 
+the complexity of the above "myristicin" fraction. Of the four peaks observed, 
+No. 1 was easily identified as methyl isoeugenol (IIb) by its infra-red 
+spectrum and direct comparison to a commercial sample. Peak No. 3 was to a 
+large extent trans-isomyristicin not removed by crystallization. The remaining 
+two peaks were isolated using a Beckman Megachrome preparative V.P.C. 
+instrument using a substrate of silicone 710, on firebrick at 220°C. 
+The presence of a methylenedioxy group (by nuclear magnetic resonance) and the 
+absence of absorption in the 963-967 cm-1 region of the infra-red spectrum of 
+peak 2 strongly suggested that the isomer might be cis-isomyristicin. That 
+trans-propenyl aromatic ethers possess a characteristic absorption band in the 
+above region (which is transparent for the cis-isomer) has been shown for 
+isosafrole, anethol, isoeugenol, methylisoeugenol and asarone. Further, it has 
+been shown recently that the cis-isomer of the stereoisomeric pairs invariably 
+precedes the trans-isomer during vapour chromatography. This peak was verified 
+as cis-isomyristicin by its conversion to trans-isomyristicin (IId) and its 
+synthesis from myristicin, both with alcoholic potassium hydroxide. The fourth 
+peak was also isolated by preparative chromatography and showed the absence of 
+a methylenedioxy group, but the presence of a strong band at 957 cm-1. 
+Isoelemicin (IIe) was synthesized by the potassium hydroxide isomerization of 
+elemicin and was found to possess an identical infra-red spectrum. Methyl 
+isoeugenol may be assumed to be in the propenyl form in the original sample of 
+nutmeg distillate. There is an unresolved peak at this identical time in the 
+original "myristicin" fraction and a search for the logical precursor methyl
+eugenol, has been unsuccessful.
+
+The implied presence of elemicin (Ie) in the original myristicin fraction was 
+confirmed by the successful separation of it from myristicin by low-temperature 
+chromatography (108°C, silicone 'SF-96'). Repeated fractional distillation was
+ineffective in increasing the myristicin content of this constant boiling 
+fraction over 70 percent. Consequently in assigning chemical and biological 
+properties to the substances as isolated from nutmeg, allowance must be made
+for this congeneric contaminant.
+
+--------------------------------------------------------------------------------
+
+

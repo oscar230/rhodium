@@ -1,0 +1,192 @@
+
+Action of some non-cyclic halogen derivatives on Hexamethylenetetramine
+                    by M.Delepine and M.Jaffeyx
+                 Bull. Soc. Chim. (4), p.108, 1921
+
+                       Translated by Icculus
+
+  We have prepared a very large number of combinations of HMTA with 
+halogen compounds, non-cyclique or cyclique, but the halogen function is 
+always primary. We know that these combinations must be considered like  
+quaternary salts of ammonia C6H12N4-RX, the group RX(=R'CH2X) attached 
+to the base, which acts like a tertiary amine.
+  Our foremost goal was to react the four isomers of iodobutan with HMTA 
+to judge their different reactivities. Two are primary: CH3CH2CH2CH2I 
+and (CH3)2CH2CH2I; one secondary: CH3CHICH2CH3 and the last tertiary: 
+(CH3)3CI. The differences in reactivities of these compounds are 
+attributable solely to the structure of these isomers. 
+Here are the results of our observations. 
+  
+Iodo-n-butylate: C6H12N4-C4H9I
+  This iodobutylate was prepared without difficulty by the method 
+indicated by us.  One heats to reflux in a double boiler 1mol of HMTA 
+dissolved in 12-15 times its weight in chloroform with 1 mol of the 
+iodo-n-butane. The quaternary salt precipitates at the end and is a sign 
+of its production. Collect after the temperture progresses; we verified 
+that 12 hours is sufficient; it is necessary to distill some of the 
+chloroform towards the end of the reaction to finish with a suitable 
+speed; after 12 hours the yield is 90-92% of theory and is good enough 
+that one need not be preoccupied with perfection by concentrating the 
+mother liquors.
+  The combination of the idoine with the base takes place equally well 
+in the cold. It also takes place in cold alcohol; after 45 days, 7.5 
+grams of base in 50ml of alcohol with 6.5 grams of the iodine formed 7.5 
+grams of crystals as opposed to the 8.1 grams theorized. It takes place 
+the same in cold water, on the condition of shaking time to time; if one 
+heats it you only obtain a gummy mass that can't be crystallized.
+  The noral iodobutylate of HMTA is a substance well crystallized in 
+thin white leaves(in needles when doone in the cold), here are the 
+characteristics for this combination: flavor is bitter, moderate 
+colubility in water (5%), less in alcohol (0.5%) and less still in 
+chloroform (0.08% and ether. Melting is observed ~140 C., but with 
+yellowing and decomposition, this is only an indication. M.Deroux found 
+a temperature much higher (198 C). The transformation to butylamine by 
+decomposition with HCL in alchol is an easy test.
+
+Bromo-butylate: C6H12N4-C4H9Br
+  This subsatnce is obtained by replacing the iodine with bromine. It 
+precipitates in colorless flakes, has a bitter flavor and melts at 95 C 
+with decomposition. It combines with bromine.
+
+Iodo-i-butane: C6H12N4-C6H9I
+  The rections is much slower and less complete than with the normal 
+iodine compound.  Theyield after 15 hours was only 27% and it is likely 
+that longer heating wouldn't increase it, also the chloroform solution 
+was yellow. Besides, the salt isn't pure; the bitter taste is clearly 
+accompanied with an acidic flavor.  The quaternary  salts of HMTA are 
+neutral. like HMTA itself, while the salts of HMTA are acidic.  We were 
+able to measure the acidity of the ppt. and found that it contained 15% 
+of the iodine salt of HMTA.
+
+Action of Secondary and Tertiary Iodo-Butylates: CH3CHICH2CH3 and   
+(CH3)3CI
+  These iodines give only slowly a white salt, with a distince acidic 
+taste, not bitter, when they are heated with HMTA in chloroform. The 
+salt is composed almost exclusively of the iodohydrate of the base.
+  These results show the large differences in the ability to join HMTA 
+with halogen butanes. We wanted to see if these conclusions were 
+generalisable.
+
+Other Primary Iodines
+  Among the other primary iodines we took two compounds : iodo-propane 
+normal and iodo-octane. The first formed with excellent yields (80% 
+after five hours, crystals melt @138 C with decomposition). The second 
+reacted much slower; it formed a sour substance, slightly acidic, 
+containig more idoine than expectd (40.7% instead of 33.4%), consistent 
+with M. Deroux who obtained 44.3%
+  In other words the combination is more difficult when the molecular 
+weight is increased.
+
+Secondary and tertiary Derivatives
+  We addressed the iodo-isopropyl (CH3CHICH3) and the secondary isomer 
+of iodo octene (C6H11CHICH3).
+  The iodo isopropyl reacted, but more difficultly than the normal, and 
+gave the combination C6H12N4-C3H7I; the reaction is visibly accompanied 
+by the formation of secondary products that strongly color the solution  
+after several hours.
+  The iodine of octene formed only a small quantity of the idodhydrate 
+of HMTA after many hours.
+  
+Tertiary Iodine of C8
+  We examined the methyl-3-iodo-3-heptane: CH3CH2CI(CH3)C4H9. It formed 
+paridly a large portion of the iodohydrate of HMTA.
+
+  To sum up, aside from the iodo-isopropyl, the secondary and tertiary 
+halogens don't form salts with HMTA.
+
+References:
+1. M. Delepine, Bull. Soc. Chim (3), p.353, 1895 
+
+=============================================================================   
+
+Here's a ref talking about making phenethylamine from phenethylbromide. 
+54% yield after three weeks. And we all has yet to see the Delepine 
+reaction work with a secondary halide, such as bromo/iodosafrole...
+This is also the article mentioned in "The Complete Book of Ecstacy", BTW.
+
+
+                     The Preparation of Primary Amines
+                    Galat & Elion, JACS 61, 3586 (1939)
+
+The transformation of alkyl halides into primary amines by the formation of
+a double compound with hexamethylenetetramine, followed by alcoholysis in
+the presence of hydrogen chloride, affords a very convenient means for the
+preparation of primary amines [1,2,3]. As this method has been practiced in
+the past, the alkyl halide is added to a solution of hexamethylenetetramine
+in chloroform, and the addition compound, after it has precipitated, is
+filtered off. The alkyl iodides react with reasonable rapidity, but the
+chlorides and bromides react much more slowly, and if they are to be used
+as starting materials, they should be converted into the iodide by addition
+of sodium iodide in acetone solution.
+
+This procedure has now been simplified by operating in a single solvent,
+alcohol, without isolation of the addition compound. The new procedure is
+as follows.
+
+To a solution of 1 mole of hexamethylenetetramine in eight to ten times its
+weight of hot 95% alcohol slightly more than 1 mole of sodium iodide is
+added. One mole of the alkyl chloride or bromide is then added and the
+solution is allowed to stand until the precipitation is complete. The
+period of precipitation will vary from a few minutes to several weeks
+depending upon the substance. The longer the carbon chain the longer is the
+time required for the precipitation. The mixture containing the precipitate
+is saturated with hydrogen chloride gas, whereupon the precipitate dissolves
+and ammonium chloride precipitates. When the latter has been filtered off
+and the alcohol removed by distillation, the resultant impure hydrochloride
+is converted into the pure amine by distillation with an excess of sodium
+hydroxide.
+
+The times of precipitation and the yields of several of the amines obtained
+were as follows: methylamine, one week, 72%; ethylamine, eight days, 82.5%;
+benzylamine, two hours, 82.5%; p-nitrobenzylamine, one day, 61%; phenethyl-
+amine, three weeks, 54%. The products obtained were of high purity, having
+melting points closely in accord with the values given in the literature.
+
+(1)  Delépine, Compt. Rend 120, 501 (1895); 124, 292 (1897);
+     Bull. soc. chim. [3] 17, 290 (1897); ibid. [4] 31, 108 (1922).
+(2)  Mannich and Hahn, Ber., 44, 1542 (1911).
+(3)  Foldi, Ber 58, 1830 (1920).
+
+
+=============================================================================
+
+I know everybody has heard of the Delepine, but here is a trick that makes 
+it work better. See Chemistry and Industry (London) Dec 7, 1974, p.962. 
+
+0.035 mol of hexamine, 0.035 mol of chloro or bromo compound and 0.035 mol 
+of NaI are stirred in 400 ml of ethanol @ room temp for 24h. Crystals are 
+filtered, waseh w/ cold EtOH and then refluexed for 2h in 300ml EtOH and 
+conc. HCl (20ml). On cooling crystals preciptate. If not acetone can be 
+added to the mixture to induce crystalization. 
+
+The NaI speeds up the fromation of the quaternary salt with hexamine, since 
+Cl and Br are much less ractive than I. 
+
+=============================================================================
+
+J. Am. Chem. Soc. 61, 3585 (1939)
+
+(details the use of NaI to convert the chloride or bromide to the iodide in 
+ethanol without isolation of the addition compound and subsequent formation 
+of a comound with hexaime. Also mentions the formation of methylamine in 72% 
+with this method. Was methyl chloride used as the alkyl halide? I think this 
+could be a new (for the hive) route to methyalmie production!) 
+
+Chemistry and Industry (London), 962 (1974) (mentioned in my earlier post) 
+
+Arch. Pharm,282,p.100 (1944) (german article on the formation of hexamine 
+salts with alkyl halides. Gives a 100% conversion (I think that is what it 
+is saying) of piperonyl bromide to the primary amine) 
+
+J. Biol. Chem., 20, p.682, (1915) 
+
+Organic Reactions (ref. book), 8, p.197 (1954) 
+
+Bull. Soc. chim. 	[3], 356 (1895)  
+			[3], 293 (1897) 
+			[4], 108 (1922) 
+
+Ber., 44, p.1542 (1911) 
+
+=============================================================================
+

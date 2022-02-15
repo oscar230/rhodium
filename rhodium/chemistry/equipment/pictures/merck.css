@@ -1,0 +1,37 @@
+/* This file originally found at http://www.erowid.org/archive/rhodium/chemistry/equipment/pictures/merck.css */
+.head {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A.head:hover {
+	COLOR: #ffff00; TEXT-DECORATION: underline
+}
+.sidebar {
+	COLOR: #00a820; TEXT-DECORATION: underline
+}
+A.sidebar:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+.text {
+	COLOR: #ff3333; TEXT-DECORATION: underline
+}
+A.text:hover {
+	COLOR: #ffff00; TEXT-DECORATION: underline
+}
+.footer {
+	TEXT-DECORATION: underline
+}
+A.footer:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+.footer1p {
+	FONT-SIZE: 10px; COLOR: #ffff00; FONT-FAMILY: Arial, Helvetica
+}
+A.footer1p:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.sidebarIn {
+	COLOR: #418600; TEXT-DECORATION: underline
+}
+A.sidebarIn:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}

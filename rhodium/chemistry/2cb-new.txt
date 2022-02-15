@@ -1,0 +1,302 @@
+-------------------------------------------------------------------------------
+                              New 2C-B synth idea?
+-------------------------------------------------------------------------------
+Rhodium:
+
+1,4-diMeO-benzene + chloroacetyl chloride => 2,5-di-MeO-beta-chloro-acetophenone
+
+a) Wolff-Kishner or Clemmensen on the ketone
+b) Swap the Cl with NaN3 in DMSO
+c) Reduce the azide to the amine
+d) Monobrominate the phenyl
+e) Make the freebase, distill it and precipitate 2C-B HCl from ether
+
+Maybe step b should be carried out first, and step a and c could be carried
+out simultaneously?
+
+(Of course the alpha halo acid halide can be bromo instead of chloro, as
+well as propionyl instead of acetyl if one wish to obtain DOB.)
+
+-------------------------------------------------------------------------------
+Osmium:
+
+I think the problem here is the demethylation of the methoxies by the lewis
+catalyst needed in this reaction, making it necessary to remethylate the formed
+phenol.
+
+Tar formation by reaction of this phenolic by-product with the omega-chlorine is
+another possible problem. For the same reason Clemmensen reduction of the
+acetophenone is no option (phenol formation). Wolff-Kishner reduction will
+probably producethe omega-hydrazine derivative, meaning one should do the azide
+first. The Friedel-Crafts-alkylation (reaction of the "wrong end of the acid
+chloride) is reversible, so probably no problem here. Do you have a ref. for
+this kind of Friedel-Crafts acylation?
+
+-------------------------------------------------------------------------------
+Fudd:
+
+Well, here's a few ideas on that.
+
+1) Starting from hydroquinone is cheaper and less suspicious than 1,4-dimethoxy
+   benzene, so while adding on a methylation step will be required, it isn't
+   such a bad thing.
+
+2) Would the Wolff-Kischner be able to reduce an azide? I mean, its been a long
+   time since I took basic organic chemistry, and I honestly don't remember half
+   the reactions they made us learn. If I remember right, azides are pretty
+   weak, but what do I know?
+
+3) Where are you going to purchase your chloroacetylchloride? Is there a way to
+   make this? Obviously bromoacetylbromide would work better, but where would
+   you get that either?
+
+4) I like the acetophenone detail of this synthesis. Making use of that adjacent
+   carbonyl to deactivate the benzene ring after substitution is a nice touch.
+   However, how will the Lewis acid interact with the carbonyl? Won't that
+   impede the mechanism?
+
+5) How stable is sodium azide? I don't know much about it, but it sounds
+   dangerous.
+
+6) Also, hydrazine is a little dangerous too. Where would you get it, and how
+   would you handle it without killing yourself?
+
+-------------------------------------------------------------------------------
+David:
+
+You can buy hydrazine sulfate. It's not illegal. You can make it a number of
+different ways also.
+
+-------------------------------------------------------------------------------
+Rhodium:
+
+Osmium: Then make the diester of chloroacetic acid with hydroquinone, and
+        subject it to friedel-crafts rxn conditions. No matter how you do it,
+        you'll end up with the chloroacetophenone. Reduce this Wolff-Kischner
+        style to give 2,5-dihydroxy-phenethylchloride. Now methylate the phenol
+        groups with CH3I or Me2SO4 (hopefully, the methyls will add faster than
+        everything will polymerize), followed by a delepine reaction on the
+        terminal chlorine to give 2C-H (thanks Drone!).
+
+OR - Chloroacetylate 1,4-dibromobenzene, reduce the ketone, delepine of the
+     terminal chlorine, and finally methanolysis of the 2,5-dibromophenethyl-
+     amine with NaOMe/EtOAc/CuBr.
+
+Fudd: Sodium azide is relatively stable, the only thing it doesn't like is
+      acids. the carbonyl will indeed interact with the lewis acid, forming a
+      complex, so you'll need at least a full equivalent of it. Chloroacetyl
+      chloride can be made by just chlorinating acetic acid if you have no
+      other source for it.
+
+-------------------------------------------------------------------------------
+Fan of shulgin:
+
+Just wanted to point out that hydrazine hydrate is seriously fucking nasty
+stuff. Its just about as carcinogenic as you can get and you have to be really
+careful when using it. Fume hood! Not just a room with a draught! Apart from
+that, it aint illegal anywhere I know of!
+
+-------------------------------------------------------------------------------
+Rhodium:
+
+Nasty stuff: HCN, HCl(g), BBr3, Cl2SO4 etc, anything lachrymatory or instantane-
+ously toxic. Theoretically nasty stuff: Hydrazine, mercury compounds, benz[a]-
+pyrene etc. Things that have no acute noxiousness or toxicity, but gives you
+cancer or chronic poisoning.
+
+I suffer from the inability to realize that I should sniff from a hydrazine
+bottle just as little as I would sniff from a bottle of chlorosulfonic acid, or
+that I should wash my hands as thoroughly after handling 100mg HgCl2, as after
+spilling 10 ml of ethylmercaptane on them.
+
+Well, I probably notice when I start to grow arms all over my back...
+
+--------------------------------------------------------------------------
+Rhodium:
+
+Oh, I discovered another new method when reading some old patents...
+
+2,5-dimetoxybenzaldehyde is reacted with methyl chloroacetate and sodium
+methoxide in methanol to form sodium alpha,beta-epoxy 1-(2,5-dimethoxyphenyl)-
+propionate (Darzen condensation). This is decarboxylated with potassium
+phosphate to yield 2,5-dimethoxyphenylacetaldehyde, which is condensed with
+ammonia and reduced with NaBH4 to yield 2C-H.
+
+-------------------------------------------------------------------------------
+Assholium:
+
+> 1,4-diMeO-benzene + chloroacetyl chloride => 2,5-di-MeO-beta-chloro-acetophenone
+
+This is stupid idea. Use chloroacetic acid and PPA (oh, well, polyphosphoric
+acid) as FC catalyst. See PIHKAL for common procedure. Acylation with
+chloroacetic acid described in OS'es in synth of adrenalone.
+
+> a) Wolff-Kishner or Clemmensen on the ketone
+
+Why do you like this kind of chemical masturbation? Exchange terminal chlorine
+to amine group with urotropine (Delepine rxn), and then reduce aminoketone to
+amine with Rh/C* and borohydride Na. Or this too simply for you?
+
+If chloroacetic acid unavailable, use acetic acid instead, - react 1,4-diMeO-
+benzene with AcOH in presence polyphosphoric acid (always got 85-90 yields), and
+make nitrosation of this acetophenone, and then reduce isonitrosoacetophenone
+directly to amine (using Os' lovely 4 bar catalytic hydrogenation or (my
+favorite) NaBH4 and 5%Pd-5%Rh/C*).
+
+Needless to say - you can use propionic acid instead of AcOH - and obtain
+2,5-diMeO-phenyl-isopropylamine.
+
+> b) Swap the Cl with NaN3 in DMSO
+> c) Reduce the azide to the amine
+> d) Monobrominate the phenyl
+
+Monobrominate, you say. What about thiocyanate? - just add in soln 1.2 eqv of
+KSCN and then dropping bromine. This will be very fun product. BTW, the
+rodano-derivative can be reduced to Shulgin's dream - bare thio group :)
+
+-------------------------------------------------------------------------------
+Rhodium:
+
+What are you talking about?
+
+The reason I wanted to use chloroacetylchloride was that otherwise I have
+nothing to stick my azide ion or hexaiminium salt to, right?
+
+And I DON'T think benzylic ketones will fall of especially easy, or anyone would
+be using meth instead of cat...
+
+And nitrosation? Would you convert the ketone to an oxime, which you later will
+recuce? Sorry, but I do not like alpha-phenethylamines.
+
+And using propionic acid would look nice, until you discover that there is NO
+way you could add an amine at the beta carbon.
+
+As for 4-substituents, what about cyano, methylenemethoxy (-CH2OCH3),
+trifluoromethyl, cyklopropoxy, cyclobutoxy, or why not Hg(I) ;)
+
+-------------------------------------------------------------------------------
+Assholium:
+
+> And nitrosation? Would you convert the ketone to an oxime, which you later
+> will recuce? Sorry, but I do not like alpha-phenethylamines.
+
+Wondered, but I'm too :))
+
+> And using propionic acid would look nice, until you discover that
+> there is NO way you could add an amine at the beta carbon.
+
+Beautiful words, Rhod! Possibly you mean alpha-carbon, not beta? If you like
+beta (end of side chain for propiophenone) - Mannich condensation do the work.
+But about alpha. For you information:
+
+Benzylketones have acid carbon in alpha position, and nitrosation (treatment
+with NaNO2/HCl(aq)) always goes on alpha-carbon, and f.e. for propiophenone we
+will have alpha-oximinopropiophenone (troubles? this is Ph-C(=O)-C(=NOH)-CH3 :)
+This is well-known widely-implemented bulk plant process, f.e. for preparation
+lovely PPA (DL-phenylpropanolamine, erythro-isomer in this case, mp 103-105C).
+
+Well. Refs:
+
+nitrosation methoxy, dimethoxy, hydroxy-propiophenones:
+
+Org. Synth. coll vol 2, 363 (1943)
+Ber, 30, 1515 (1897)
+Ber, 22, 526 (1889)
+JACS, 51, 2262 (1928)
+
+Result - alpha-oximino-propiophenones with yields 65-70%.
+         Can be readily reduced to phenyl-isopropylamines.
+
+Nitrosation 2,5-di-ethoxy-propiophenone:
+
+JACS, 70, 1084 (1948).
+
+PS. And I'm serious about thiocyano in 4-position. Very fun compound.
+    But frankly speaking, trifluoroethyl better :))
+
+-------------------------------------------------------------------------------
+Fudd:
+
+Assholium,
+
+That's some wacky chemistry you got there; if it's 1/2 as slick as it looks,
+you're my hero. Do you have journal articles for all of this?
+
+-------------------------------------------------------------------------------
+Rhodium:
+
+Assholium: Oh, I thought your nitrosation reaction was something you did ON the
+carbonyl...
+
+-------------------------------------------------------------------------------
+Osmium:
+
+Do the nitrosation of the propiophenone with organic nitrite ester (isoamyl-
+nitrite) as in J. Med. Chem. 1991, 34, 1662-1668 (97% yield in that step, they
+used an indanone, not propiophenone). Reduction of this intermediate to the
+amphetamine with Pd/C at 60psi/4 bar 77% after recrystallization.
+
+Tell us more about thiocyanate, assholium. Dosage, duration, all the juicy
+details.
+
+-------------------------------------------------------------------------------
+JOC 1987, 52, 2945-2947.
+
+(E)-1-(2,5-Dimethoxyphenyl)-2-nitroethene
+
+A mixture of 2,5-dimethoxybenzaldehyde (1.97 g, 11.8 mmol) and nitromethane
+(0.72 g, 11.8 mmol) in methanol (200 mL) was stirred at room temperature until
+the solids dissolved. The solution was cooled to 0 deg C and a 10.5 M NaOH
+solution (2 mL) was added dropwise over 20 min. The alkaline solution was added
+slowly to a 4% HCl solution (200 mL) maintained at 60 deg C. The pale yellow
+amorphous solid that formed was filtered and washed with water (200 mL). The
+crude product was recrystallized from absolute ethanol to give yellow needles
+(2.11 g, 85%)
+
+--------------------------------------------------------------------------------
+
+Rhodium:
+
+4-bromo-2,5-dimethoxybenzaldehyde [ Org Prep Proced Int 23(4), 419-424 (1991) ]
+
+The bromination of 2,5-dimethoxybenzaldehyde with elemental bromine in glacial
+acetic acid gives rise to two different products. The predominant one (4-bromo-
+2,5-dimethoxybenzaldehyde) is formed in 87% yield, while the other (6-bromo-
+2,5-dimethoxybenzaldehyde) is formed to an extent of only 5%. The selectivity
+should be much better when using NBS instead of elemental bromine, and repeated
+recrystallization from ethanol (or perhaps 95% MeOH or IPA will do just as well)
+should work satisfactorily to remove any 6-bromo-2,5-dimethoxybenzaldehyde
+present (which is easily detected with TLC or melting point determination).
+
+Experimental:
+
+A cold solution of 20.0g (0.12 mol) of 2,5-dimethoxybenzaldehyde in glacial
+acetic acid (115ml) was treated with 20.0g of bromine in 60ml glacial acetic
+acid. The solution was stirred at room temperature for two to three days and
+then dilute with ice water. The yellow precipitate was collected by filtration
+and dried (28g, 95%), mp 118-126°C (lit. 125-126°C). Recrystallization from
+95% ethanol gave 15.20g of 4-bromo-2,5-dimethoxybenzaldehyde, mp 132-133°C
+(lit. 132-133°C). Ethanol was removed from the mother liquor in vacuo and the
+residue was subjected to column chromatography (silicagel, benzene).
+The solid (10.4g) collected in the initial fractions consisted of
+4-bromo-2,5-dimethoxy-benzaldehyde, total yield 25.6g (87%), mp 132-133°C.
+Subsequent fractions gave 1.5g (5%) of 6-bromo-2,5-dimethoxybenzaldehyde,
+mp 102-103°C after recrystallization from ethanol.
+
+--------------------------------------------------------------------------------
+
+2,5-Dimethoxynitrostyrene (JOC 1987, 52, 2945-2947)
+
+A mixture of 2,5-dimethoxybenzaldehyde (1.97 g, 11.8 mmol) and nitromethane
+(0.72 g, 11.8 mmol) in methanol (200 mL) was stirred at room temperature until
+the solids dissolved. The solution was cooled to 0 deg C and a 10.5 M NaOH
+solution (2 mL) was added dropwise over 20 min. The alkaline solution was added
+slowly to a 4% HCl solution (200 mL) maintained at 60 deg C. The pale yellow
+amorphous solid that formed was filtered and washed with water (200 mL). The
+crude product was recrystallized from absolute ethanol to give yellow needles
+(2.11 g, 85%)
+
+Preparation of 10.5 M NaOH: Dissolve 10.5g sodium hydroxide under cooling
+in 20ml water, and after cooling dilute the solution to exactly 25ml.
+
+--------------------------------------------------------------------------------

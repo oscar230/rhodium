@@ -1,0 +1,110 @@
+------------------------------------------------------------------------
+                       Chem-R-Us NaGHB Synthesis
+------------------------------------------------------------------------
+
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Chem-R-Us NaGHB Synthesis:
+
+If you follow this synthesis exactly as I have described, you will
+always make pure NaGHB that is every bit as pure as the pharmaceutical
+stuff that can be bought in sane countries.
+
+You will need:
+
+Clean dry beakers and graduated cylinders, a set of chemical scales,
+narrow range pH strips for 5.5-8.0, a hot plate, and (if you intend
+to make powder) two sealed tupperware containers, a blender and a pyrex
+baking dish.
+
+1) Accurately measure out gamma-butyrolactone (GBL) in the volume of 
+milliliters (mls) you want to react.
+
+Example: You want to react 200 mls of GBL.
+
+2) Multiply this number by the average density of GBL (1.124 gms/ml).
+
+Example: (200 mls GBL) * (1.124 gms/ml) = 224.8 gms GBL
+
+3) Divide this number by the average molecular weight of GBL (86.06
+gms/mol).
+
+Example: (224.8 gms GBL) / (86.06 gms/mol) = 2.612 mols of GBL
+
+4) Multiply this number by the average molecular weight of NaOH (40.0
+gms/mol)
+
+Example: (2.612 mols) * (40.0) = 104.5 gms NaOH
+
+5) Weigh out this much NaOH using a set of chemical scales.
+
+6) Heat the GBL + 5% distilled water (by volume) to 100 degrees C
+
+Example: 200 mls GBL + 20 mls distilled water heated to 100C
+
+7) Completely dissolve the NaOH in distilled water at the rate of about
+40 grams per 100 mls of water.
+
+Example: (104.5 gms NaOH) / (40) = 2.6125 * 100 mlw H2O = 260 mls water
+
+8) *SLOWLY* drip (DO NOT POUR) 90% of the NaOH into the heated GBL
+and make sure that the reaction is occurring (the solution will begin
+boiling vigorously). If the reaction is not occuring, then you either
+have not heated the GBL to 100C or you have defective reactants (throw
+them out and get fresh stuff). Once the solution begins boiling, you
+can turn the heat off - the reaction will make its own heat.
+
+9) Begin measuring the pH of the reaction solution with narrow range pH
+paper (5.0 - 8.0 paper). When the range begins to get to 7.5 to 8.0,
+stop dripping the NaOH solution. This mixture will still have unreacted
+lactone in it - so now it is time to do some steam distillation.
+
+Steam Distillation (The purification step)
+
+10) Put a thermometer in the solution capable of measuring 200C and
+crank the heat up on the solution. You may want to add a boiling stone
+made from a clean piece of pea gravel to the solution (don't use a
+boiling stick because you will burn it up, and don't use a chemical
+boiling stone because they contain metals that are not supposed to go
+into humans).
+
+11) When the solution gets up to 150-155C, cut the heat back enough to
+hold the temperature steady at 150-155C. Hold it at that temperature
+until all bubbling stops. The beaker now contains melted NaGHB.
+
+12a) To make a liquid, add enough boiling water to make the dilution
+you want.
+
+Example: You want 1 gram NaGHB per 5 ml of solution. 200 mls of GBL
+will make 329 grams NaGHB. 329 * 5 ml = 1645 mls of solution. So
+add enough boiling water to bring the entire solution up to 1650 mls.
+
+12b) To make powder, pour out thin strips of the NaGHB melt into the
+pyrex casserole dish. Return the melt to the low heat to keep it
+melted. Let the strips cool - they will begin to curl up if the strips
+are about 1/2" to 1" in width. Scrape them up with a metal spatula and
+put them into a sealed tupperware container. Pour out more strips and
+repeat the procedure until you have used up all of the melt.
+
+13) Let the strips in the tupperware container cool down and shake them
+around a bit (while holding the lid tighly on). This will break up the
+strips.
+
+14) Put the boken up NaGHB pieces into a blender (no more than 1/3 full)
+at high speed. You may have to shake the blender around a bit to make
+sure everything is ground into powder. Pour the powder into a sealed
+tupperware container.
+
+15) You are done. Enjoy, and please don't do G and drive.
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGPfreeware 5.0i for non-commercial use
+Charset: noconv
+
+iQA/AwUBNz+0+1/caTCZXFKbEQJhwQCglP+Bnhj/QkQiKo1hZ7BCmUhDuzwAn2Nv
+IXJfDwWpkb+sq2Lw66eBcYYx
+=NbFW
+-----END PGP SIGNATURE-----
+

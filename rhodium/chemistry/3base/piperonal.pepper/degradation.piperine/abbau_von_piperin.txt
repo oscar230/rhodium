@@ -1,0 +1,28 @@
+abbau von piperin zur piperinsäure
+==================================
+ 
+Chemikalien: 
+------------
+0,5g Piperin 
+5ml 10% methanolische KOH 
+HCl
+
+durchführung:
+-------------
+0,5g Piperin werden alkalisch verseift. Die Verseifung mit 20 % KOH in MeOH/H2O
+9:1 mindestens über Nacht durchführen oder drastischere Bedingungen anwenden
+(vgl. Literatur, KOH-Schmelze oder HCl bzw. methanolische HCl unter Rückfluß), DC
+und GC-Kontrolle (mindestens eine Gruppe) erfolgt vor und nach der Verseifung.
+Nach Abkühlen auf Raumtemperatur wird das Lösungsmittel am Rotationsverdampfer
+abgezogen und der Rückstand in heißem Wasser aufgenommen (gegebenenfalls
+filtrieren). Nun wird mit konz. HCl angesäuert. Der voluminöse gelbe Niederschlag
+wird über einen Büchnertrichter abgesaugt mit kaltem Wasser gewaschen und aus 
+Ethanol umkristallisiert. Man erhält gelbe Nadeln, Smp.: 216-217°C.
+
+Literatur: E. Stahl und W. Schild; Isolierung und Charakterisieung von Naturstoffen,
+Gustav Fischer Verlag, 1981, Seite 143-145. 
+
+
+[http://www.uni-bayreuth.de/departments/oc1/teaching/phbcan99.rtf
+"isolierung von piperin aus schwarzem pfeffer und abbau zur piperinsaeure"
+ANALYTISCHES PRAKTIKUM für Biochemiker (Stand: September 1999), page 16-18]

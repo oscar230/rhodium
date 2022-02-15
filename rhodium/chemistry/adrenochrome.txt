@@ -1,0 +1,429 @@
+-------------------------------------------------------------------------------
+                            Notes about Adrenochrome
+-------------------------------------------------------------------------------
+Rev Drone
+
+Anybody who's read "Fear and Loathing in Las Vegas" with their eyes open has
+wondered about that andrenochrome scene. What is that stuff? Where do I get that
+stuff? etc.
+
+Well, andrenochrome is 3-hydroxy-1-methyl-5,6-indoline-dione -- made by the
+oxidation of epinephrine (andrenalin). Now I can see where the hydrogens were
+abstracted from, and I can generally speculate about the mechnism, but does
+anyone have the definative word on electron-pushing for this little chemical
+anomaly?
+
+Also, does anyone have experience with this stuff? Johnny Depp sure made it look
+kewl, and being the young, impressionable lad that I am, I'd sure like to know
+if it is "all that" or not.
+
+-------------------------------------------------------------------------------
+Beagle
+
+I have no experience with this compound, but of course I am very interested in
+it. Here are the original refs, in case anyone is willing to follow up on it.
+
+The original paper, in which Hoffer obtained "profound psychomimetic symptoms"
+from as little as 0.5 mg S.C. or I.V.: J. Mental Sci. 100, 29, '54
+
+Later papers where negative results or possible slight effects were obtained by
+dosages up to 25mg:
+
+Am. J. Psychiat. 111, 603, '55
+Am. J. Psychiat. 115, 162, '58
+Am. J. Psychiat. 116, 454, '59
+Lancet ii, 308, '58
+
+I believe that the ultimate athority of Shulgin refered to adrenochrome as "a
+facinating red herring" in Tihkal. And I really hate to argue with Him. I
+believe that the original, positive reports were based on experiments with one
+mentally unstable woman. This was covered in Hoffer and Osmonds The
+Hallucinogens, I believe. Other reviews are :
+
+Hormones, Brain Function and Behavior, p181 1957.
+Psychotropic Drugs p.10, 1957
+
+Opinions that adrenochrome is not active:
+Lancet, I 1287, 1960.
+
+In Nature 191, 245, ’61 it was pointed out that adrenochrome may have
+significance as a hallucinogen, since it is an in vitro glutamic acid
+decarboxylase and cholinesterase inhibitor.
+
+It has also been described as having a wide range of other physiological
+activites, as reviewed in Pharmacol. Rev. 1, 1, ’49 and Fortschr. Chem. Org.
+Naturstoffe. 14, 217, ’57
+
+Of course, most of this work was done under conditions that would be considered
+primitive today, and there is not absolute certainty that all research groups
+were working with the same compound. Originally, adrenochrome was prepared by
+oxidation of adrenalin with catechol oxidase or silver oxide. The chemistry of
+its preparation is reviewed in Chem. Rev. 59, 181, ’59.
+
+Additionally, adrenochrome semicarbazone has been claimed to have hallucinogenic
+properties similar to the parent substance: Acta Chem. Scand. 12, 1231, ’58. It
+certainly would be interesting to apply modern techniques to this mystery and
+settle it once and for all. Anyone looking for a research project?
+
+-------------------------------------------------------------------------------
+rev drone
+
+Many thanks for the extensive foray into andrenochrome you've offered. I have a
+few more andrenalin oxidations I can offer. I was told epinephrine was available
+OTC in a veterinary context, but otherwise is avaiable in bulk through several
+chemical companies. THe synthesis is a mere one-step reaction, so it looks like
+the makings of a fun weekend project. Off to the library I go...
+
+-------------------------------------------------------------------------------
+Beagle
+
+I would be glad to hear of any other epinephrine oxidations that you could
+offer. Also, for another fun fictionalized account of adrenochrome in the vein
+of H.S. Thompson, see Blood of a Wig, from the book Red Dirt Marijuana and Other
+Stories, by Terry Southern.
+
+I just checked Medline, and low and behold, there has been quite a bit of work
+done in recent years on the physiological significance of adrenochrome.
+
+One article that I saw on the mechanism of this transformation was Biol Signals,
+5(5):275-82 1996 Sep-Oct, where it was suggested that the transformation is an
+enzyme mediated one, and is dependant on H2O2 and O2-. NADH also apparently
+stimulates the production of adrenochrome, indicating involvement of NADH
+dehydrogenase.
+
+I had no idea that this was still a current topic of research, but there were
+over 100 cites, just going back to 1986.
+
+Further searching of Medline has yielded the following papers relating to
+adrenochrome and mental function that may prove interesting. I don't have easy
+access to any of them. If anyone gets them and finds anything interesting,
+please post.
+
+Molecular interactions in the phenomenology of the onset of mental illness.
+Chem-Biol-Interact. 1973 Jul; 7(1): 1-9
+
+[Chemical interaction between serotonin and adrenochrome. Contribution to the
+"short circuit" theory of the genesis of mental disease]
+Riv-Neurol. 1971 May-Jun; 41(3): 182-7
+
+Short circuit theory on the onset of mental illness.
+Clin-Chim-Acta. 1970 Oct; 30(1): 5-11
+
+-------------------------------------------------------------------------------
+Mobius
+
+In the book 'Legal Highs' (Adam Gottlieb) I found this monograph concerning
+Adrenochrome Semicarbazone:
+
+Usage:   100 mg is thoroughly dissolved in just enough alcohol, melted fat
+         (butter), or vegetable oil and ingested. Because of its poor solubility
+         in water these must be used to aid absorption.
+
+Effects: Physical stimulation, feeling of well-being, slight reduction of
+         thought processes.
+
+Contraindications: None noted. Act as a systemic hemostatic preventing capilary
+         bleeding during injury. Adrenochrome causes chemicaly induced schizo-
+         phrenia. Its semicarbazone does not...
+
+-------------------------------------------------------------------------------
+Teonanacatl
+
+I was curious if any of you have looked into the chemistry of adrenochrome...I
+just happened across a paper by Heacock, and it really interested me, but I
+haven't been able to find any other literature on it...I realize that it isn't
+fully an indole..but it is pretty close...you can close this thread if I've gone
+too far off topic (sorry in that case)
+
+-------------------------------------------------------------------------------
+Agnememnon
+
+Is this what you read?
+Review as a psychotomimetic agent: R.A. Heacock, Chim. Ther. 6, 300 (1971)
+
+How was it?
+
+Production:
+
+Prepn using Ag2O as an oxidising agent:
+MacCarthy, Chim. Ind. Paris 55, 435 (1946)
+
+Look at the Heacock article. If not that, the only place I know is Thompson's
+'Fear and Loathing in Las Vegas.' But who knows how much is based on fact?
+
+-------------------------------------------------------------------------------
+Teonanacatl
+
+Nien... not the same article, which is good  now I have something else to look
+up... sounds a lot like what I was looking for, cause the paper I've been
+reading mostly goes through it's chemistry (quite detailed...) and I was looking
+for some reviews of physiological action to round out my knowledge..thanks.
+Here's the ref for the one I was looking at (old as hell, but looks like the
+same author...)
+
+The Chemistry of Adrenochrome and Related Compounds, R.A. Heacock...damn it!
+I just realized I did it again... keep forgetting to attach any info on the
+paper I photocopy...I never learn... I'll look it up again for you (sorry).
+Only other info I have is that it was "received Jan 2 1959"...so probably a
+1959 paper. pp. 182-231.
+
+-------------------------------------------------------------------------------
+From "Biochemical Journal", Vol 31 part 1, yr 1937, page 609.
+
+"XIII. Properties of adrenochrome
+
+Adrenochrome is a very unstable substance: it is completely destroyed in 4 min.
+by 1% hydrochloric acid, and in 40 sec. by 1% ammonia. At pH 7.3 and 37C the red
+colour disappears in 35 min., and even under the optimium conditions for keeping
+the solution, at pH 4.0 and 0C, marked decompostion and melanin formation could
+be observed in 4-5 hours. In the dry crystalline condition adrenochrome could be
+kept for several weeks, but on standing in a vacuum desiccator it decomposed to
+give a brown amorphous product. The crystalline substance appears to be a
+hydrate. The crystals decompose on heating at abot 115-120C.
+
+Adrenochrome is very soluble in water and crystallizes from water only on
+evaporation practically to dryness. It is also readily soluble in methyl
+alcohol. It is removed quantitatively from the aqueous solution by adsorption on
+charcoal, and can be eluted again from the charcoal with methyl alcohol."
+
+From "The Journal of the Chemical Society", yr 1950, page 1276-1279.
+
+"b) (-) -Adrenaline (2 g.) was suspended in water (70 mL) and dilute
+hydrochloric acid was added dropwise with shaking, until a clear solution was
+obtained. Silver oxide (8 g.) was added, the mixture shaken vigorously for 5
+minutes and then filtered. The aqueous solution of adrenochrome this obtained
+was stable for about 12 hr at 0C."
+
+-------------------------------------------------------------------------------
+
+rev drone
+
+The folowing were taken from Beilstein
+
+Reaction
+
+Reaction ID 352748
+Reactant BRN 2368277 4-((R)-1-hydroxy-2-methylamino-ethyl)-benzene-1,2-diol
+Product BRN 84667 (R)-3-hydroxy-1-methyl-indoline-5,6-dione
+-------------------------
+
+Reaction Details 1 of 7
+
+Reaction Classification Preparation
+Reagent silver oxide
+methanol
+Ref. 1 1053607; Journal; Ellis; JPETAB; J.Pharmacol.Exp.Ther.; 79; 1943; 364,368;
+Ref. 2 1053608; Journal; Veer; RTCPA3; Recl.Trav.Chim.Pays-Bas; 61; 1942; 638,643;
+
+-------------------------
+
+Reaction Details 2 of 7
+
+Reaction Classification Preparation
+Reagent silver oxide
+ethanol
+Ref. 1 1053607; Journal; Ellis; JPETAB; J.Pharmacol.Exp.Ther.; 79; 1943; 364,368;
+Ref. 2 1053608; Journal; Veer; RTCPA3; Recl.Trav.Chim.Pays-Bas; 61; 1942; 638,643;
+-------------------------
+
+Reaction Details 3 of 7
+
+Reaction Classification Preparation
+Reagent silver oxide
+methanol
+formic acid
+Ref. 1 1053583; Journal; Heacock et al.; CJCHAG; Can.J.Chem.; 36; 1958; 853,855;
+Ref. 2 1053605; Journal; Sobotka; Austin; JACSAT; J.Amer.Chem.Soc.; 73; 1951; 3077;
+Ref. 3 1053598; Journal; Harley-Mason; JCSOA9; J.Chem.Soc.; 1950; 1276,1279;
+Ref. 4 1053586; Journal; Ingle et al.; JPHAA3; J.Am.Pharm.Assoc.; 37; 1948; 375;
+Ref. 5 1053606; Journal; MacCarthy; CHIEAN; Chim.Ind.(Paris); 55; 1946; 435;
+-------------------------
+
+Reaction Details 4 of 7
+
+Reaction Classification Preparation
+Reagent oxygen
+Other conditions in Gegenwart von Katalysatoren
+Ref. 1 1053600; Journal; Green et al.; JBCHA3; J.Biol.Chem.; 220; 1956; 237;
+Ref. 2 1053601; Journal; Chaix et al.; BBACAQ; Biochim.Biophys.Acta; 5; 1950; 472,473;
+Ref. 3 1053602; Journal; Drevon; Stupfel; C.r.Soc.Biol.; 143; 1949; 271;
+Ref. 4 1053603; Journal; Blaschko; Schlossmann; J.Physiol.London; 98; 1940; 130-140;
+Ref. 5 1053604; Journal; Green; Richter; BIJOAK; Biochem.J.; 31; 1937; 598,609;
+-------------------------
+
+Reaction Details 5 of 7
+
+Reaction Classification Preparation
+Reagent iron (2+)
+hydrogen peroxide
+Ref. 1 1053598; Journal; Harley-Mason; JCSOA9; J.Chem.Soc.; 1950; 1276,1279;
+Ref. 2 1053599; Journal; Mazur et al.; JBCHA3; J.Biol.Chem.; 220; 1956; 227;
+-------------------------
+
+Reaction Details 6 of 7
+
+Reaction Classification Preparation
+Reagent iron (2+)
+sodium peroxo disulfate
+Ref. 1 1053598; Journal; Harley-Mason; JCSOA9; J.Chem.Soc.; 1950; 1276,1279;
+Ref. 2 1053599; Journal; Mazur et al.; JBCHA3; J.Biol.Chem.; 220; 1956; 227;
+-------------------------
+
+Reaction Details 7 of 7
+
+Reaction Classification Preparation
+Reagent water
+iodic acid
+Ref. 1 1053597; Journal; Correia; Alves; Anais Fac.Farm.Porto; 14; 1954; 101,109;
+Ref. 2 1053596; Journal; Macciotta; GCITA9; Gazz.Chim.Ital.; 81; 1951; 485,488;
+
+Reaction
+
+Reaction ID 2106910
+Reactant BRN 2212160 4-(1-hydroxy-2-methylamino-ethyl)-benzene-1,2-diol
+Product BRN 84665 3-hydroxy-1-methyl-2,3-dihydro-indole-5,6-dione
+-------------------------
+
+Reaction Details 1 of 2
+
+Reaction Classification Chemical behaviour
+Reagent VOCl2, O2
+Solvent H2O
+Temperature 25 øC
+Other conditions dependence of rate constant on pH, adrenaline concentration,
+VOCl2 concentration; ionic strength: 0.100 mol dm%-3& (KNO3)
+Subject studied Rate constant
+Ref. 1 5731416; Journal; Jameson, Reginald F.; Kiss, Tamas; JCDTBI;
+J.Chem.Soc.Dalton Trans.; EN; 1986; 1833-1838;
+-------------------------
+
+Reaction Details 2 of 2
+
+Reaction Classification Chemical behaviour
+Other conditions disproportionation during electrooxidation of title compound at
+carbon-fiber microelectrodes at physiological pH
+Subject studied Rate constant
+Mechanism
+Ref. 1 5925724; Journal; Ciolkowski, Edward L.; Maness, Karolyn M.; Cahill,
+Paula S.; Wightman, R. Mark; Evans, Dennis H.; et al.; ANCHAM; Anal.Chem.;
+EN; 66; 21; 1994; 3611-3617;Reaction
+
+Reaction ID 2106911
+Reactant BRN 2212160 4-(1-hydroxy-2-methylamino-ethyl)-benzene-1,2-diol
+Product BRN 84665 3-hydroxy-1-methyl-2,3-dihydro-indole-5,6-dione
+161691 1-methyl-indole-3,5,6-triol
+-------------------------
+
+Reaction Details
+
+Reaction Classification Chemical behaviour
+Solvent D2O
+Time 350 min
+Temperature 24.9 øC
+Other conditions Irradiation
+other sensitizers: methylene blue, rose bengal, fluoresceine, superoxide
+dismutase; other inhibitors: 1,3-diphenylisobenzofuran,
+1,4-diazobicyclo<2,2,2>octane, KN3, NaN3; other solvent: H2O.
+Subject studied Rate constant
+Mechanism
+Ref. 1 5689294; Journal; Kruk, I.; ZPCLAH; Z.Phys.Chem.(Leipzig); EN; 268; 3;
+1987; 607-613;Reaction
+
+Reaction ID 2106912
+Reactant BRN 2212160 4-(1-hydroxy-2-methylamino-ethyl)-benzene-1,2-diol
+Product BRN 84665 3-hydroxy-1-methyl-2,3-dihydro-indole-5,6-dione
+2806381 C9H11NO3
+-------------------------
+
+Reaction Details
+
+Reaction Classification Chemical behaviour
+Other conditions Irradiation
+laser induced oxidation at pH5 at various electrodes; half life of 0-quinone
+Subject studied Product distribution
+Ref. 1 5562583; Journal; Skully, Joan P.; McCreery, Richard L.; ANCHAM;
+Anal.Chem.; EN; 52; 12; 1980; 1885-1889;
+
+Reaction
+
+Reaction ID 2173865
+Reactant BRN 2806381 C9H11NO3
+Product BRN 84665 3-hydroxy-1-methyl-2,3-dihydro-indole-5,6-dione
+-------------------------
+
+Reaction Details
+
+Reaction Classification Chemical behaviour
+Other conditions the half life
+Subject studied Rate constant
+Ref. 1 5562583; Journal; Skully, Joan P.; McCreery, Richard L.; ANCHAM;
+Anal.Chem.; EN; 52; 12; 1980; 1885-1889;
+
+Reaction
+
+Reaction ID 2199350
+Reactant BRN 3201122 (+-)-1-<3,4-dihydroxy-phenyl>-2-methylamino-ethanol
+Product BRN 5741691 C9H9NO3
+-------------------------
+
+Reaction Details
+
+Reaction Classification Preparation
+Reagent K3Fe(CN)6
+Solvent acetic acid
+H2O
+Time 5 min
+Temperature 5 øC
+Ref. 1 5676615; Journal; Kato, Eishin; Oya, Masayuki; Uda, Kozo; Iso, Tadashi;
+Fujita, Tadashi; Iwao, Jun-Ichi; CPBTAL;
+Chem.Pharm.Bull.; EN; 29; 7; 1981; 1935-1941;
+
+Reaction
+
+Reaction ID 3658966
+Reactant BRN 6685443 C9H11NO3
+Product BRN 84667 (R)-3-hydroxy-1-methyl-indoline-5,6-dione
+-------------------------
+
+Reaction Details
+
+Reaction Classification Chemical behaviour
+Reagent Fe(NO3)3, KNO3
+Solvent H2O
+Temperature 25 øC
+Subject studied Rate constant
+Ref. 1 5856275; Journal; Linert, Wolfgang; Herlinger, Erwin; Jameson, Reginald
+F.; JCPKBH; J.Chem.Soc.Perkin Trans.2; EN; 12; 1993; 2435-2439;
+
+-------------------------------------------------------------------------------
+
+Excerpt from "The Private Sea" by William Braden
+
+Chemistry and mysticism
+
+[...]
+
+The question of religious chemistry has been underscored recently by
+the wide attention given to the theories, already mentioned, of Dr. Abram
+Hoffer and Humphry Osmond. Their adrenochrome-adrenolutin hypothesis
+suggests that schizophrenia may be caused at least in part by defective
+adrenal metabolism. Very briefly, the adrenal gland secretes the hormone
+adrenaline, which helps coordinate biological mechanisms in emergency
+situations, for example, a fist fight or a threatened traffic accident.
+Heart rate is increased, the blood is sugared up and pumped to the
+necessary muscles. Adrenaline also may affect the emotions, contributing to
+anxiety and depression. In the body it turns into a toxic hormone called
+adrenochrome, which in turn can be converted into either of two other
+compounds: dihydroxyindole or adrenolutin. It is possible that
+dihydroxyindole balances off adrenaline to reduce tension and irritability;
+in schizophrenics, however, adrenochrome is converted primarily into
+adrenolutin, which also is toxic, and the combination of
+adrenochrome-adrenolutin results in a poisonous disruption of the brain's
+chemical processes. That is the theory. And the prescribed antidotes are
+nicotinic acid (niacin) or nicotinamide (Vitamin B-3). Discussing one of
+the villains in the piece, the scientists write: "There are few who doubt
+that adrenochrome is active in animals or in man, and it is now included
+among the family of compounds known as hallucinogens - compounds like
+mescaline and LSD-25 capable of producing psychological changes in man."
+
+-------------------------------------------------------------------------------

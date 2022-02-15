@@ -1,0 +1,232 @@
+
+Journal of Chromatography, 207 (1981) 379-385
+
+Quantitative Analysis of Psilocybin and Psilocin in Psilocybe Baeocytis by
+High-Performance Liquid Chromatography and by Thin-Layer Chromatography
+
+TLC:
+
+TLC was carried out on three different types (and sizes) of plates: 5 x 20
+cm coated with a 0.25 mm layer of silica gel 60F(256) (Merck, Darmstadt,
+G.F.R.); 10 x 20 cm coated with a 0.25-mm layer of microcrystalline
+cellulose (Q2F, Quantum Industries, Fairfield, NJ, U.S.A.); and 5 x 10 cm
+coated with a 0.25-mm layer of alumina K (Q3F, Quantum Industries). All
+plates were oven-dried and stored in a dessicator (damp plates resulted in
+inconsistent results). Psilocybin and psilocin standards were spotted on
+each plate, together with the methanolic extracts used in the HPLC work.
+
+The plates were developed for 15 cm at room temperature in the dark in
+either a covered development tank or a half-gallon covered Mason jar with
+one or more filter-paper wicks to ensure vapor saturation in the tanks.
+Nine solvent systems were used: (1) butanol-acetic acid-water (12:3:5);
+(2) butanol-acetic acid-water (2:1:1); (3) pure methanol; (4) 1.5% conc.
+aqueous ammonia in methanol (1.5 ml of reagent-grade ammonium hydroxide in
+98.5 ml of methanol); (5) conc. ammonia-water-n-propanol (12:188:500);
+(6) methanol saturated with conc. aqueous ammonia in chloroform (5:95);
+(7) water-saturated n-butanol; (8) pure n-propanol; and (9) ammonia-water-
+n-propanol (10:50:150). Development times ranged from 1.5 h with methanol
+to more than 7 h with aqueous ammonia-n-propanol.
+
+Developed plates were air-dried and then placed under a short-wave UV lamp
+(Mineralight, Ultra-Violet Products). Any spots visible to the naked eye
+or under short-wave UV radiation were encircled with a pencil. Ehrlich's
+(or Van Urk's) reagent [10% p-dimethylaminobenzaldehyde (pDAB) in conc.
+hydrochloric acid] was freshly prepared and sprayed in an acetone solution
+(1 part of Ehrlich's reagent to 4 parts of acetone), and color was allowed
+to develop overnight by wrapping the plate in the paper towel upon which
+it had been sprayed. On other plates, color was developed by dipping the
+plates ina 20% solution of pure anhydrous toluene-p-sulfonic acid (pTSA)
+in methanol. The plates were then photographed, and the photographs and
+plates were stored for future reference.
+
+Plate Type: 20 x 5 cm silica gel w/0.25-mm layer silica gel
+Solvent System: butanol-acetic acid-water (12:3:5)
+
+  Rf           Upon Drying    Short-Wave UV   Ehrlich's reagent
+ 0.83           not visible      visible         yellow-brown
+ 0.76           not visible      visible         strong light purple
+ 0.61           not visible      visible         very light blue
+ 0.56           not visible      visible         orange
+ 0.50           not visible      visible         pink-red becoming grey
+ 0.48           not visible      visible         yellowish brown (merged with .50)
+ 0.44            sky-blue        visible         lavender
+ 0.40           not visible      visible         aquamarine blue
+ 0.36            sky-blue        visible         darker purple
+ 0.31           not visible      visible         light blue
+ 0.28           not visible      visible         brownish orange becoming pink
+ 0.16            sky-blue        visible         pinkish brown becoming brownish purple
+ 0.13           not visible      visible         light brown
+
+Rf  0.16: Psilocybin
+Rf  0.36: Psilocin
+
+When developed the same way but dipped in 20% pTSA, only psilocybin,
+psilocin and three other spots (Rf 0.13, 0.34 and 0.76) were visible.
+Cellulose plates developed in butanol-acetic acid-water (12:3:5) also
+showed ample separation of psilocybin and psilocin, but only resolved four
+of the other spots. Psilocybin had an Rf of 0.48, and psilocin migrated to
+Rf  0.78.
+Alumina plates developed in butanol-acetic acid-water (12:3:5) did not
+separate psilocybin from psilocin.
+Solvent butanol-acetic acid-water (2:1:1), when used with 20 x 5 cm silica
+gel plates, also effectively separated psilocybin (Rf 0.21) from psilocin
+(Rf 0.46), as well as yielding several other spots, but gave less effective
+separation of other peaks than did butanol-acetic acid-water (12:3:5).
+Similarly, good separation of psilocybin (Rf 0.14) from psilocin (Rf 0.45)
+was obtained with 1.5% ammonia solution in methanol, but only four other
+spots were observed. Conc. ammonia-water-n-propanol (12:188:500) resolved
+nine spots in addition to psilocybin (Rf 0.11) and psilocin (Rf 0.58).
+However, the spots were streaked and were not as cleanly resolved as in
+butanol-acetic acid-water (12:3:5). Ammonia-water-n-propanol (10:50:150)
+resolved eight spots in addition to psilocybin (Rf 0.16) and psilocin
+(Rf 0.82), but also displayed considerable streaking. Methanol, n-propanol,
+water-saturated n-butanol and methanol saturated with conc. aqueous
+ammonia in chloroform (5:95) did not adequately resolve psilocybin and
+psilocin.
+
+The only solvent system/plate type even close to what you are using is
+possibly the 1.5% ammonia solution in methanol. My guess is that your 
+spot #4 is psilocybin Rf: ~0.2 (using your picture of the developed plate
+and assuming that each hash-mark is .1 RF), spot #3 is psilocin Rf: ~0.5.
+I have no idea what spots 1 & 2 are and the researchers didn't mention what
+the other four spots were when 1.5% ammonia solution in methanol was used
+as the solvent. Spot #2 Rf: ~0.8,  Spot #1 Rf: ~1.0 (if it moved with the
+solvent front)
+It also appears that you have some streaking between spot #3 and spot #2.
+It could be possible that the plate needs to be developed for longer than
+12 minutes.
+
+---
+
+> So, who's grading this thing anyway?  .. and how'd I do? ;)
+
+
+the grader is "the honorable gene poole - entheogenic research scientist"
+
+poole says you got an A.  hee also looked at the reference you posted
+earlier, and concluded that sally's #4 was psilocybine and #3 was
+psilocine with #1, and #2 remaining unidentified.
+
+the answer to the extra credit portion is - reduce the amount of methanol to slow the dot run.
+
+
+> BTW Sally, why are you using ethyl acetate-methanol-ammonia hydroxide for
+> the solvent? Do you have a ref for this or did you make this one up off the
+> top of your head? Also, I would suggest using a published solvent system
+> such as butanol-acetic acid-water (12:3:5) with a 20 x 5 cm silica gel
+> plate like the one in the above experiment... but that's just my opinion.
+
+the 17/2/6drop solvent was recommended by sasha as little as two months
+ago.  this for isolating psilocybine/psilocine and mescaline... and a
+chloroform/methanol mixture for lsa.  he mentioned it is a good gp indole
+seperating solvent for liquid column chromotography (and could be used
+for TLC also).
+
+***
+
+based on the pop quiz results, and further data from later experiments by
+sally, gene poole would currently recommend...
+
+ - keep the 17/2/6drop solvent for column seperation and TLC work if
+   sally is only interested in seperating out psilocybine/psilocine
+   because it develops quickly, low solvent cost, and easily resolves
+   the two desired compounds. (use ehrlich's reagent in addition too)
+
+ - use the (12:3:5 - butanol-acetic acid-water) solvent for exacting
+   laboratory research and analysis of fungal material.
+
+ - dot #1 is probably not a compound from the extraction at all, but
+   some artifact of the process (sally has a learning curve to overcome),
+   because nothing came out before dot #2 via column chromotograophy.
+
+ - dot #2 was a compound that crystallized into beautiful clear white
+   thin needles, but was not entheogenic in quantities up to 100 mg
+   (according to sally).
+
+
+***
+
+the next quiz will cover liquid column chromotography, so start studying!
+
+**********
+
+>  - dot #2 was a compound that crystallized into beautiful clear white
+>    thin needles, but was not entheogenic in quantities up to 100 mg
+>    (according to sally).
+
+
+sally continued her experiments, and reported the following :
+
+ - with more extacting TLC techniques, two smaller dots were found
+   between the original dot#3 and dot#4.
+
+ - dot#3 (sky blue under u.v. light) is not psilocine, since it
+   proved to be inactive in quantities up to 70 mg.
+
+
+*******
+
+pop quiz - TLC of ps. cubensis.
+
+sally extracts fungal material using methanol, and evaporates off the methanol.  the resulting goo is
+dissolved in a solvent mixture of ethyl acetate/methanol/amonium hydroxide (17ml/2ml/6drops) and TLCed.
+below  is what sally's plate looked like :
+
+|
+--(*) - dot #1---- <- solvent run after 12 minutes
+| (*) - dot #2
+|
+|
+| (*) - dot #3
+|
+|
+| (*) - dot #4
+|
+---X - sample----- <- baseline
+
+dot #1 moves at the speed of the solvent run, so it is actually distributed evenly along the entire top edge
+of the solvent run. in normal light it is a light yellowish colour parcipitate, just visible against the white
+silica background.  under shortwave light, it appears very dark.
+
+dot#2 is of less quantity than dot #1, is not visible in normal light, and appears as a fairly dark spot under
+shortwave light. it almost looks as if a light blue flourescence is occuring just below the dark spot when
+illuminated with shortwave light. this blueing dissappears within an hour or two.
+
+dot #3 is the smallest dot, much less than the others, is not visible in normal light, and appears as a light
+blue flourensing spot under shortwave light.  the blue disappears within an hour or two, but a faint dark spot
+is still visible under shortwave light for several days.
+
+dot #4 is the largest dot, roughtly the quantitly of dot #1.  on the dry plate, it appears as a dark
+blue/green to brown spot easily visible in normal light.  under shortwave light it appears as a very dark spot.
+
+
+quiz question -
+
+sally believe that dot #4 is psilocybine.  is she correct, and what are dots #1, #2, and #3?
+
+
+extra credit -
+
+how should sally adjust the solvent mixture so that all four dots appear below the top edge of the solvent run?
+
+-----------------------------------------------------------------
+
+Extraction and analysis of indole derivatives from fungal biomass.
+Journal of Basic Microbiology, 1994, 34(1):17-22.
+http://www.erowid.org/plants/mushrooms/mushrooms_journal1.shtml
+
+Abstract
+
+The occurrence and extraction of indole derivatives in six species
+from four genera of higher fungi were investigated. By using pure methanol
+for extraction of the mushrooms analysis revealed the highest
+concentrations of psilocybin and baeocystin. The psilocin content of the
+species was higher by using aqueous solutions of alcohols than with
+methanol alone but was an artificial phenomenon caused by enzymatic
+destruction of psilocybin. The extraction with dilute acetic acid yielded
+better results than with the water containing alcohols. The simple one-step
+procedure with methanol for the quantitative extraction is still the safest
+method to obtain the genuine alkaloids from fungal biomass.
+
+-----------------------------------------------------------------
+

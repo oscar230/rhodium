@@ -1,0 +1,46 @@
+THE MERCK INDEX on CD-ROM / Version 12:3 / 1999
+===============================================
+
+Monograph number:  7625.
+
+Title: Piperine .
+
+CAS Registry number: [94-62-2]
+CAS name(s): (E,E)- 1-[5-(1,3-Benzodioxol-5-yl)-1-oxo-2,4-pentadienyl]piperidine;
+             (E,E) -1-piperoylpiperidine.
+Molecular formula: C17H19NO3;
+Molecular weight: 285.34.
+Percent Composition: C 71.56%, H 6.71%, N 4.91%, O 16.82%.
+
+Literature references: Isolated from black pepper ( Piper nigrum L.); also in P. longum L.
+   ,P. retrofractum Vahl. ( P. offici narum C.D.C.), and P. clusii C.D.C.; in root bark
+   of Piper genicula tum Sw., Piperaceae. Extraction procedure: Caze neuve, Caillot,
+   Bull. Soc. Chim. [2] 27, 291 (1877). Synthesis: Rugheimer, Ber. 15, 1390 (1882);
+   Newman, Chem. Products 16, 379 (1953); Normant, Feugeas, Compt. Rend. 258, 2846 (1964).
+   Spectroscopic structural elucidation and preparative separation of piperine and its
+   stereoisomers isopiperine, isochavicine and chavicine, q.v.: R. De Cleyn, M. Verzele,
+   Bull. Soc. Chim. Belg. 84, 435 (1975). Synthesis of isomers: R. Grewe et al., Ber. 103, 
+   3752 (1970); of piperine and isochavicine: S. Tsuboi et al., Tetrahedron Letters 1979,
+   1043. Stereoselective synthesis of piperine: R. A. Olsen, G. O. Spessard, J. Agr. Food
+   Chem. 29, 942 (1981). More toxic to houseflies than pyrethrum: Harvill et al., Contrib.
+   Boyce Thompson Inst. 13, 87 (1943).
+
+Properties:  Monoclinic prisms from alcohol, mp 130° . Tasteless at first, but burning
+   aftertaste. Neutral to litmus. pK (18°): 12.22. Almost insol in water (40 mg/liter at
+   18°), in petr ether. One gram dissolves in 15 ml alcohol, 1.7 ml chloroform,
+   36 ml ether. Sol in benzene, acetic acid.
+
+Melting Point: 130°
+
+Derivative:  (E,Z)- Form,
+Additional name(s): isochavicine.
+Properties: Crystals from chloroform + hexane, mp 89° (Grewe), 103° (De Cleyn) .
+   uv max (methanol): 333 nm (epsi 16300) .
+Melting Point: 89° (Grewe), 103° (De Cleyn)
+UV Maxima: 333
+
+Derivative:  (Z,E)- Form,
+Additional name(s): isopiperine.
+Properties: Crystals from chloroform + hexane, mp 110° (Grewe), 86° (De Cleyn) .
+   uv max (methanol): 332 nm (epsi 21800) .
+Melting Point: 110° (Grewe), 86° (De Cleyn)

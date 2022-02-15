@@ -1,0 +1,40 @@
+Monograph number: 8468.
+
+Title: Safrole.
+
+CAS Registry number: [94-59-7]
+
+CAS name(s): 5-(2-Propenyl)-1,3-benzodioxole; 4-allyl-1,2-methylenedioxybenzene;
+Additional name(s): allylcatechol methylene ether; allyldioxybenzene methylene ether;
+m-allylpyrocatechin methylene ether.
+
+Molecular formula: C10H10O2;
+Molecular weight: 162.19.
+Percent Composition: C 74.06%, H 6.21%, O 19.73%.
+
+Literature references: Constituent of several essential oils, notably of sassafras
+in which it is present to the extent of about 75%. Has been used as topical antiseptic;
+pediculicide. Metabolism studies: Oswald et al., Biochim. Biophys. Acta 230, 237 (1971).
+Toxicity data: Hagan et al., Toxicol. Appl. Pharmacol. 7, 18 (1965).
+Review of carcino genic risk: IARC Monographs 10, 231-241 (1976).
+
+Properties:  Colorless or slightly yellow liq; sassafras odor. d(20) 1.096 . mp ~11° .
+bp 232-234° . n(20,D) 1.5383 . Insol in water. Very sol in alcohol. Miscible with
+chloroform, ether. LD50 in rats, mice ( mg/kg ): 1950 , 2350 orally (Hagan) .
+
+Density: d(20) 1.096
+
+Boiling point: bp 232-234°
+
+Melting Point: ~11°
+
+Refraction index: n(20,D) 1.5383
+
+Note:  Note: This substance may reasonably be anticipated to be a carcinogen:
+Seventh Annual Report on Carcinogens (PB95-109781, 1994) p 355.
+
+USE: In perfumery; denaturing fats in soap manuf; also in manuf of heliotropin.
+
+
+-----------------------------------------------
+THE MERCK INDEX on CD-ROM / Version 12:3 / 1999

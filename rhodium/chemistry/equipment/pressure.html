@@ -1,0 +1,192 @@
+<html>
+<head>
+<meta name="Sperowider-ArchiveRoot" content="../../../../../../">
+<meta name="Sperowider-DocRoot" content="../../../../">
+<meta name="Sperowider-OriginalURL" content="http://www.erowid.org/archive/rhodium/chemistry/equipment/pressure.html">
+<title>Pressure Converter</title>
+
+<script language="JavaScript1.2">
+
+
+
+function conv_atm(v) {
+this.document.bla.bar.value=(((v / 1.0) + 0.0) * 1.0 - 0.0) * 1.01325;
+this.document.bla.inHg.value=(((v / 1.0) + 0.0) * 1.0 - 0.0) * 29.9213;
+this.document.bla.inHgv.value=(((v / 1.0) + 0.0) * -1.0 - 1.0) * 29.9213;
+this.document.bla.kPa.value=(((v / 1.0) + 0.0) * 1.0 - 0.0) * 101.325;
+this.document.bla.mbar.value=(((v / 1.0) + 0.0) * 1.0 - 0.0) * 1013.25;
+this.document.bla.mmHg.value=(((v / 1.0) + 0.0) * 1.0 - 0.0) * 760.0;
+this.document.bla.pas.value=(((v / 1.0) + 0.0) * 1.0 - 0.0) * 101325.0;
+this.document.bla.psi.value=(((v / 1.0) + 0.0) * 1.0 - 0.0) * 14.6959;
+this.document.bla.psir.value=(((v / 1.0) + 0.0) * 1.0 - 1) * 14.6959;
+}
+function conv_bar(v) {
+this.document.bla.atm.value=(((v / 1.01325) + 0.0) * 1.0 - 0.0) * 1.0;
+this.document.bla.inHg.value=(((v / 1.01325) + 0.0) * 1.0 - 0.0) * 29.9213;
+this.document.bla.inHgv.value=(((v / 1.01325) + 0.0) * -1.0 - 1.0) * 29.9213;
+this.document.bla.kPa.value=(((v / 1.01325) + 0.0) * 1.0 - 0.0) * 101.325;
+this.document.bla.mbar.value=(((v / 1.01325) + 0.0) * 1.0 - 0.0) * 1013.25;
+this.document.bla.mmHg.value=(((v / 1.01325) + 0.0) * 1.0 - 0.0) * 760.0;
+this.document.bla.pas.value=(((v / 1.01325) + 0.0) * 1.0 - 0.0) * 101325.0;
+this.document.bla.psi.value=(((v / 1.01325) + 0.0) * 1.0 - 0.0) * 14.6959;
+this.document.bla.psir.value=(((v / 1.01325) + 0.0) * 1.0 - 1) * 14.6959;
+}
+function conv_inHg(v) {
+this.document.bla.atm.value=(((v / 29.9213) + 0.0) * 1.0 - 0.0) * 1.0;
+this.document.bla.bar.value=(((v / 29.9213) + 0.0) * 1.0 - 0.0) * 1.01325;
+this.document.bla.inHgv.value=(((v / 29.9213) + 0.0) * -1.0 - 1.0) * 29.9213;
+this.document.bla.kPa.value=(((v / 29.9213) + 0.0) * 1.0 - 0.0) * 101.325;
+this.document.bla.mbar.value=(((v / 29.9213) + 0.0) * 1.0 - 0.0) * 1013.25;
+this.document.bla.mmHg.value=(((v / 29.9213) + 0.0) * 1.0 - 0.0) * 760.0;
+this.document.bla.pas.value=(((v / 29.9213) + 0.0) * 1.0 - 0.0) * 101325.0;
+this.document.bla.psi.value=(((v / 29.9213) + 0.0) * 1.0 - 0.0) * 14.6959;
+this.document.bla.psir.value=(((v / 29.9213) + 0.0) * 1.0 - 1) * 14.6959;
+}
+function conv_inHgv(v) {
+this.document.bla.atm.value=(((v / -29.9213) + 1.0) * 1.0 - 0.0) * 1.0;
+this.document.bla.bar.value=(((v / -29.9213) + 1.0) * 1.0 - 0.0) * 1.01325;
+this.document.bla.inHg.value=(((v / -29.9213) + 1.0) * 1.0 - 0.0) * 29.9213;
+this.document.bla.kPa.value=(((v / -29.9213) + 1.0) * 1.0 - 0.0) * 101.325;
+this.document.bla.mbar.value=(((v / -29.9213) + 1.0) * 1.0 - 0.0) * 1013.25;
+this.document.bla.mmHg.value=(((v / -29.9213) + 1.0) * 1.0 - 0.0) * 760.0;
+this.document.bla.pas.value=(((v / -29.9213) + 1.0) * 1.0 - 0.0) * 101325.0;
+this.document.bla.psi.value=(((v / -29.9213) + 1.0) * 1.0 - 0.0) * 14.6959;
+this.document.bla.psir.value=(((v / -29.9213) + 1.0) * 1.0 - 1) * 14.6959;
+}
+function conv_kPa(v) {
+this.document.bla.atm.value=(((v / 101.325) + 0.0) * 1.0 - 0.0) * 1.0;
+this.document.bla.bar.value=(((v / 101.325) + 0.0) * 1.0 - 0.0) * 1.01325;
+this.document.bla.inHg.value=(((v / 101.325) + 0.0) * 1.0 - 0.0) * 29.9213;
+this.document.bla.inHgv.value=(((v / 101.325) + 0.0) * -1.0 - 1.0) * 29.9213;
+this.document.bla.mbar.value=(((v / 101.325) + 0.0) * 1.0 - 0.0) * 1013.25;
+this.document.bla.mmHg.value=(((v / 101.325) + 0.0) * 1.0 - 0.0) * 760.0;
+this.document.bla.pas.value=(((v / 101.325) + 0.0) * 1.0 - 0.0) * 101325.0;
+this.document.bla.psi.value=(((v / 101.325) + 0.0) * 1.0 - 0.0) * 14.6959;
+this.document.bla.psir.value=(((v / 101.325) + 0.0) * 1.0 - 1) * 14.6959;
+}
+function conv_mbar(v) {
+this.document.bla.atm.value=(((v / 1013.25) + 0.0) * 1.0 - 0.0) * 1.0;
+this.document.bla.bar.value=(((v / 1013.25) + 0.0) * 1.0 - 0.0) * 1.01325;
+this.document.bla.inHg.value=(((v / 1013.25) + 0.0) * 1.0 - 0.0) * 29.9213;
+this.document.bla.inHgv.value=(((v / 1013.25) + 0.0) * -1.0 - 1.0) * 29.9213;
+this.document.bla.kPa.value=(((v / 1013.25) + 0.0) * 1.0 - 0.0) * 101.325;
+this.document.bla.mmHg.value=(((v / 1013.25) + 0.0) * 1.0 - 0.0) * 760.0;
+this.document.bla.pas.value=(((v / 1013.25) + 0.0) * 1.0 - 0.0) * 101325.0;
+this.document.bla.psi.value=(((v / 1013.25) + 0.0) * 1.0 - 0.0) * 14.6959;
+this.document.bla.psir.value=(((v / 1013.25) + 0.0) * 1.0 - 1) * 14.6959;
+}
+function conv_mmHg(v) {
+this.document.bla.atm.value=(((v / 760.0) + 0.0) * 1.0 - 0.0) * 1.0;
+this.document.bla.bar.value=(((v / 760.0) + 0.0) * 1.0 - 0.0) * 1.01325;
+this.document.bla.inHg.value=(((v / 760.0) + 0.0) * 1.0 - 0.0) * 29.9213;
+this.document.bla.inHgv.value=(((v / 760.0) + 0.0) * -1.0 - 1.0) * 29.9213;
+this.document.bla.kPa.value=(((v / 760.0) + 0.0) * 1.0 - 0.0) * 101.325;
+this.document.bla.mbar.value=(((v / 760.0) + 0.0) * 1.0 - 0.0) * 1013.25;
+this.document.bla.pas.value=(((v / 760.0) + 0.0) * 1.0 - 0.0) * 101325.0;
+this.document.bla.psi.value=(((v / 760.0) + 0.0) * 1.0 - 0.0) * 14.6959;
+this.document.bla.psir.value=(((v / 760.0) + 0.0) * 1.0 - 1) * 14.6959;
+}
+function conv_pas(v) {
+this.document.bla.atm.value=(((v / 101325.0) + 0.0) * 1.0 - 0.0) * 1.0;
+this.document.bla.bar.value=(((v / 101325.0) + 0.0) * 1.0 - 0.0) * 1.01325;
+this.document.bla.inHg.value=(((v / 101325.0) + 0.0) * 1.0 - 0.0) * 29.9213;
+this.document.bla.inHgv.value=(((v / 101325.0) + 0.0) * -1.0 - 1.0) * 29.9213;
+this.document.bla.kPa.value=(((v / 101325.0) + 0.0) * 1.0 - 0.0) * 101.325;
+this.document.bla.mbar.value=(((v / 101325.0) + 0.0) * 1.0 - 0.0) * 1013.25;
+this.document.bla.mmHg.value=(((v / 101325.0) + 0.0) * 1.0 - 0.0) * 760.0;
+this.document.bla.psi.value=(((v / 101325.0) + 0.0) * 1.0 - 0.0) * 14.6959;
+this.document.bla.psir.value=(((v / 101325.0) + 0.0) * 1.0 - 1) * 14.6959;
+}
+function conv_psi(v) {
+this.document.bla.atm.value=(((v / 14.6959) + 0.0) * 1.0 - 0.0) * 1.0;
+this.document.bla.bar.value=(((v / 14.6959) + 0.0) * 1.0 - 0.0) * 1.01325;
+this.document.bla.inHg.value=(((v / 14.6959) + 0.0) * 1.0 - 0.0) * 29.9213;
+this.document.bla.inHgv.value=(((v / 14.6959) + 0.0) * -1.0 - 1.0) * 29.9213;
+this.document.bla.kPa.value=(((v / 14.6959) + 0.0) * 1.0 - 0.0) * 101.325;
+this.document.bla.mbar.value=(((v / 14.6959) + 0.0) * 1.0 - 0.0) * 1013.25;
+this.document.bla.mmHg.value=(((v / 14.6959) + 0.0) * 1.0 - 0.0) * 760.0;
+this.document.bla.pas.value=(((v / 14.6959) + 0.0) * 1.0 - 0.0) * 101325.0;
+this.document.bla.psir.value=(((v / 14.6959) + 0.0) * 1.0 - 1) * 14.6959;
+}
+function conv_psir(v) {
+this.document.bla.atm.value=(((v / 14.6959) + 1) * 1.0 - 0.0) * 1.0;
+this.document.bla.bar.value=(((v / 14.6959) + 1) * 1.0 - 0.0) * 1.01325;
+this.document.bla.inHg.value=(((v / 14.6959) + 1) * 1.0 - 0.0) * 29.9213;
+this.document.bla.inHgv.value=(((v / 14.6959) + 1) * -1.0 - 1.0) * 29.9213;
+this.document.bla.kPa.value=(((v / 14.6959) + 1) * 1.0 - 0.0) * 101.325;
+this.document.bla.mbar.value=(((v / 14.6959) + 1) * 1.0 - 0.0) * 1013.25;
+this.document.bla.mmHg.value=(((v / 14.6959) + 1) * 1.0 - 0.0) * 760.0;
+this.document.bla.pas.value=(((v / 14.6959) + 1) * 1.0 - 0.0) * 101325.0;
+this.document.bla.psi.value=(((v / 14.6959) + 1) * 1.0 - 0.0) * 14.6959;
+}
+
+
+
+</script>
+
+
+
+<body BGCOLOR="#FFFFFF">
+</head>
+
+<center>
+
+<h2>Convert between pressure units</h2>
+<hr>
+
+Enter a number in either field, then click outside the text box.
+
+<table>
+
+<form name="bla">
+
+<tr>
+<td>atmosphere, standard (atm):</td>
+<td><input type="text" name="atm" value="0" onChange="conv_atm(this.value)"><br></td>
+</tr>
+<tr>
+<td>bar:</td>
+<td><input type="text" name="bar" value="0" onChange="conv_bar(this.value)"><br></td>
+</tr>
+<tr>
+<td>inch of mercury (inHg):</td>
+<td><input type="text" name="inHg" value="0" onChange="conv_inHg(this.value)"><br></td>
+</tr>
+<tr>
+<td>inch of mercury vacuum (inHg):</td>
+<td><input type="text" name="inHgv" value="0" onChange="conv_inHgv(this.value)"><br></td>
+</tr>
+<tr>
+<td>kilopascal (kPa):</td>
+<td><input type="text" name="kPa" value="0" onChange="conv_kPa(this.value)"><br></td>
+</tr>
+<tr>
+<td>millibar (mbar):</td>
+<td><input type="text" name="mbar" value="0" onChange="conv_mbar(this.value)"><br></td>
+</tr>
+<tr>
+<td>millimeter of mercury (mmHg):</td>
+<td><input type="text" name="mmHg" value="0" onChange="conv_mmHg(this.value)"><br></td>
+</tr>
+<tr>
+<td>pascal:</td>
+<td><input type="text" name="pas" value="0" onChange="conv_pas(this.value)"><br></td>
+</tr>
+<tr>
+<td>psi absolute:</td>
+<td><input type="text" name="psi" value="0" onChange="conv_psi(this.value)"><br></td>
+</tr>
+<tr>
+<td>psi relative to 1atm:</td>
+<td><input type="text" name="psir" value="0" onChange="conv_psir(this.value)"><br></td>
+</tr>
+
+</form>
+
+</table>
+
+<hr>
+</center>
+
+</body>
+</html>

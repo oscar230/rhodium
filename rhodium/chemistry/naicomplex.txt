@@ -1,0 +1,70 @@
+-------------------------------------------------------------------------------
+                           NaI Addition complex V1.0
+                                   by Hellman
+-------------------------------------------------------------------------------
+
+Prebullshit.
+Don't like distillation,??.
+Want to have a 'no lab' police friendly home?
+
+Ever tried the bisulfite addition, for that matter ever obtained sodium
+bisulfite, instead of the meta bisulfite brewers special mix.? Well now the
+confusion has come to an end, we here at hellman laboratories have had those
+monkeys working hard, damn hard, just to make life a little easier for us
+toothless nutctackers,.
+
+Throw away your brewers concocktion, for his sturdier younger brother is here.
+Yes, I'm talking NaI, Sodium iodide, this really is something you can make at
+home, you see along time ago, a man came up with the bisulfite addition, well he
+didn't come up with it, he merely read vogel's practical organic chemistry from
+front to back,. If you look at the third edition book, somewhere on page 408,
+you will indeed see where elusis's motivation came from,.
+
+But, what he didn't tell us was that Nai will in fact I believe do a better job
+at performing an addition product,. Well this ol' bee thoughT hmm,
+
+Requirements
+1) 60 grams red oily dirty ketone
+2) 10 grams NaI( a huge excess to be safe)
+3) some sort of half assed reflux apparatus
+
+#note- one molecule of NaI connects with 3 molecules of ketone,you'll just have
+       to work out the math for yourself.
+
+Method.
+
+One would place the ketone 60g into your reflux apparatus, then plonk in your
+10g NaI, and then warm to reflux, as soon as it starts to reflux, dump the
+beaker/vessel into cold ice/acetonewater to bring down the temp -8C, where by
+little crystals will start forming, and the addition complex has been made,
+filter of these crystals, and then relux again to see if more form.
+
+Wash with toluene, filter, repeat, and your home with approx 20-40g NaIketone
+depending on your method of formation.
+
+to release your ketone simply add 300ml of water to the crystals, and gently
+warm, the ketone should float to the top, and the NaI/water should remain on the
+bottom, Pippete od the oil, and soldier on son'.
+
+-------------------------------------------------------------------------------
+vogels 5th edition,
+TEXTBOOK OF PRACTICAL ORGANIC CHEMISTRY
+New Edition: red cover
+p 409
+
+c) When only a relativly small quantity of pure, dry acetone is required, it may
+be purified through the bisulfite complex: the latter is decomposed with sodium
+carbonate solution, dried over anhydrous calcium sulphate then distilled.
+A more convenient proceedure is to make use of the addition compound with sodium
+iodide (NaI,3C3H6O), which decomposes on gentle heating and is particularly well
+adapted for the preperation of pure acetone.
+One hundred grams of finely powdered sodium iodide are dissolved under reflux in
+440f of commercial acetone, and the solution is cooled in a mixture of ice and
+salt(-8C).
+The crystals are filtered off and quickly transferred to a dry distilling flask,
+connected to an efficient condensor and to a reciever in cooled ice.Upon gentle
+warming, the acetone distills rapidly.
+
+(then the book goes on to say that it is also well suited to ethyl methyl ketone)
+
+-------------------------------------------------------------------------------

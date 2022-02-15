@@ -1,0 +1,189 @@
+--------------------------------------------------------------------------
+Dreamer - posted at the Hive 10-12-98
+--------------------------------------------------------------------------
+
+18gr of Palladium on Carbon were prepared using following methode:
+
+- 1,7gr PdCl2 in 2ml 31% HCl and 20ml dH2O are heated for 15min at 80°
+- 20gr activated carbon are heated with 450ml H2O and 15ml 31% HCl for 2h; 
+  the carbon is filtered off
+- the PdCl2 solution is added to 30gr sodium acetat trihydrate in 200ml 
+  dH2O in a 500ml Flask
+- the washed carbon is added to this solution
+- hydrogenate the mixture for 3h, using drone's hydrogen generator; set 
+  it up to produce 1mol of H2; don't forget to stir vigorously; iron 
+  powder works nicely (only powder works, sheet's won't)
+- when the hydrogenation is complete and the carbon settles down and you 
+  should have a colorless mixture with the catalyst at the bottom
+- filter the carbon , wash it with 4-5*100ml dH2O; dry the catalyst at 50°
+- I got 18gr (my filter methode wasn't good, use only glas no plastic, 
+  easier to clean) of 5% Palladium on Carbon;
+
+- - - - -
+
+- 22gr highly purified Phenyl-2-nitropropene
+- 300ml 99% glacial acetic acid (maybe too much)
+- 38gr Ammonium Formate
+- 9gr 5% Palladium on Carbon ( Pd-C)
+
+were introduced in a 500ml Flask.
+
+22gr P2NP were dissolved in 300ml 99% glacial acetic acid and added 
+to the 5% Pd-C. All was heated to 100° and vigorously stirred.
+I introduced 3*~13gr Ammonium Formate; All was refluxed for 25 min;
+Then everything was cooled; 100ml Chloroform were added so that it 
+is easier to filter the Pd-C. I used normal coffee filter paper and 
+vacuum, which worked. Then i added 1l of dH2O and the Chloroform 
+separated out. The layers were separated andi "washed" again with 
+additional 100ml Chloroform. But amphetamine wasn't soluble in the 
+glacial acetic acid, so i extracted it with the chloroform.
+
+The chloroform was eliminated and i got 15.5gr of a yellow oil, 
+which was dissolved in 200ml 15% HCl, washed trhee time with 75ml
+DCM, made basic with 25% NaOH and extracted with Ether. And again 
+i failed to make the HCl salt , i tried to dry the ether with Epsom 
+Salt and then to afford the salt with dry HCl. But all i got was a 
+slightly yellow colored layer at the bottom of my ether mixture.
+I decided then to make the salt with 99% H2SO4 in Ether and Ethanol, 
+which worked perfectly. (first i made again everything basic...)
+The salt was washed and i got 14gr of white! Amphetamine salt.
+
+- - - - -
+
+I didn't use any H2SO4 in the CTH because i don't know if it helps or if 
+it destroys everything, maybe it helps and the yields would be higher. 
+Maybe anhydrous ethanol works better, if anyone sends my Calcium oxide 
+POWDER i will try it )
+
+Palladium on carbon is not easy to handle, i suggest to use only glas 
+filter funnels, my plastic funnel is still full with carbon.
+
+Anyone knows a secure methode to form the HCl salt of an amphetamine ?
+I dried with the Epsom Salt (~30gr) for 2h, is it not possible to dry 
+with Epsom Salt (MgSO4 * 7H2O)? already too many H2O's ?
+   
+--------------------------------------------------------------------------
+beagle boy:        
+
+Excellent post! Most informative. Did your info on this reaction come from 
+Tet Lett 29(45), 5733 (1988)? Any other refs?
+
+I don't get this bit "But amphetamine wasn't soluble in the glacial acetic 
+acid, so i extracted it with the chloroform." It isn't!? And you didn't 
+basify the reaction mixture B4 extraction?
+
+You had problems forming the HCl salt because it is hard to do. Much 
+harder than meth HCl. Early papers on amphetamine synth. always described 
+the HCl salt as hygroscopic, if they could even obtain it as a solid at 
+all. Actually, when extremely pure it is not particularly hygroscopic. 
+
+Epsom Salts are not a good drying agent. Cook in the oven for awhile to 
+dehydrate first. 
+
+--------------------------------------------------------------------------
+Cherrie Baby:         
+
+Don't skimp on the formate. Most of the dudes (below) are using 5 to 12 
+mole xs. of Formate, w.r.t. main reactant, in their CTHs. This will give 
+the best yield.
+
+Was all the Pd homemade? I would have got hold of some of that Pd on 
+polymer - it should last at least 50 reductions.
+
+Catalytic Transfer Hydrogenation Reactions are considered so easy that 
+J. Chem. Ed. are flogging them for new undergrad. Programs. - get your 
+ticket soon. Cheap, versatile - but not perfect. Ultra-cheapskates can 
+even substitute Ni for Pd as the catalyst (sometimes)!
+
+Alkenes -> alkanes
+ketones -> alkanes
+nitroalkanes -> amines
+azides -> amines
+chloro-cpds -> hydrocarbons (psssst halo-ephedrine -> meth)
+deprotection of peptides
+deprotection of benzylic ether (to alcohol)
+nitro-alkene -> oxime
+
+Catalytic Transfer Hydrogenation Reactions for Undergraduate Practical 
+Programs, R Hanson, J. Chem. Ed. 74(4), p 430-1 (1997).
+
+Catalytic Transfer Hydrogenation of Benzaldehyde in a Microwave Oven, 
+Gordon et al. Organometallics 12, 5020-2 (1993).
+
+Microwave-Induced Organic Reaction Enhancement Chemistry. 2. Simplified 
+Techniques. Bose et al., J. Org. Chem. 56, p 6968-70 (1991). [page 6969]
+
+Transfer Hydrogenation: A stereospecific method for the conversion of 
+nitro alkanes to amines, Barrett, Tetr. Lett. 29(45) p 5733-4 (1988).
+
+Ammonium Formate in Organic Synthesis: A Versatile Agent in Catalytic 
+Hydrogen Transfer Reductions. R Ehrenkaufer, Synthesis 1988, p 91-95
+
+Reduction of Aldehydes and Ketones to Methylene Derivatives using 
+Ammonium Formate as a Catalytic Hydrogen Transfer Agent. S Ram & 
+L Spicer. Tetr. Lett. 29(31), p 3741-4 (1988).
+
+Heterogeneous Catalytic Transfer Hydrogenation and its Relation to Other 
+Methods for Reduction of Organic Compounds. R Johnstone, A Wilby & 
+I Entwistle. Chem. Rev. 85, p 129-170 (1985).
+
+A General Procedure for the Mild and Rapid Reduction of Aliphatic and 
+Aromatic Nitro compounds using Ammonium Formate as a Catalytic Hydrogen 
+Transfer Agent. S Ram & R Ehrenkaufer, Tetr. Lett. 25(32), p 3415-8 (1984).
+
+--------------------------------------------------------------------------
+Dreamer:
+
+beagle boy, after the filtration of the Pd-C with 100ml i added 1l of 
+dH2O. I separeted the two layers and "washed" again with 100ml Chloroform; 
+Then i added enough 50% NaOH to the glacial acetic acid to make it basic 
+and extracted it with DCM, when i evaporated the DCM i found only 1ml of 
+yellow oil. When i eliminated the chloroform from the washes i got ~15gr 
+of a yellow oil. This oil was then converted into the sulfuric salt.
+
+Maybe the ammonium formate didn't let the amphetamine dissolve in the 30% 
+acetic acid. When i made it basic i smelled ammonia too, maybe the ammonia 
+was present and reduced the dissolve power of glacial acetic(made it basic?), 
+boh, i am not a chemist, i am happy that i didn't loose my amphetamine oil. 
+
+My information source for this reaction was the internet and vogel's book 
+on practical organic chemistry...
+
+--------------------------------------------------------------------------
+dreamer:
+   
+
+- 0.05mol 8gr beta nitropropene C9H9NO2 63gr/mol
+- 13gr 5% Pd-C
+- 100ml Methanol
+- 50ml THF 
+- 0.15 mol NaBH4 
+
+- 8gr P2NP are dissolved in 50ml THF and 50ml Methanol and is stirred on 
+  a magnetic stirrer
+- 1.9gr NaBH4 are slowly added over a period of 30min
+- the addition of nabh4 is effervscent
+- after 15min of stirring 13gr 5% Pd/C in 100ml methanol is added;
+- don't add the Pd/C without solvent, it will catch fire )
+- the you should add slowly over a period off 1h (i did it) 4 gr NaBH4;
+- reaction is continued for another 3h and 5ml of acetic acid is added 
+  (to neutralize NaBH4 .. maybbe you don't this) and 20ml of 31% HCl and 
+  50ml of H2O;
+- the solution turns red
+- Pd/c is filtered away and washed with Methanol and dH2O
+- Methanol and THF is eliminated, the red color disappears
+- all is washed with DCM
+- make it basic with 100ml 25%NaOH and extract; you should get around 5gr 
+  of the freebase (i did), yield ~70%; the salt is easily made with H2SO4 
+  in ethanol, but don't add too much H2SO4 or your salt dissolves (if 
+  this happens make all basic and extract)
+
+a few days bevor i tried the same thing with ethanol, yields were much 
+lower and the addition of NaBH4 was not so effervescent
+
+I would like to try to isolate the nitroalkane which is formed by the 
+reduction with NaBH4 in methanol and reduce it with Al/Hg, i need to know 
+if reduction of a nitroalkane with Al/Hg is sensible to water (will it 
+work in 95% ethanol?) and how much Al/Hg for 0.1mol of P2NP i should use?
+
+--------------------------------------------------------------------------

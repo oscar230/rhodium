@@ -1,0 +1,78 @@
+-------------------------------------------------------------------------------
+               Electroreductive stnthesis of mescaline by Dwarfer
+-------------------------------------------------------------------------------
+
+Hi dude... I recently translated J. Prakt. Chemie (1930) electrochemical
+reduction of 3,4,5-trimethoxy-betanitrostyrene to mescaline, and will post
+it to a.d.c as soon as it becomes practical for me to do so. Some of the
+materials (porcellain made to proprietary specifications) are not
+available but adequate ceramics almost certainly exist for substitution,
+notably sintered borosilicate with a pore size of about 20 microns.
+
+> Good luck
+
+You too.
+
+<predator>
+
+Subj: Electrocatalytic-hydrogenation of nitrostyrenes
+
+This is a posting of a translation from p346 of Journal fur Praktiche
+Chemi (Vol 137) from the year 1933. Authors K. H. Slotta and G. Szyszka,
+pertaining to the electrolytic reduction of
+3,4,5-trimethoxy-beta-nitrostyrene to Mescalin. Probably works on a lot of
+Shulgin-type precursors too.
+
+I have yet to scan in the diagram which puts the equipment into some sort
+of configurational significance. If it happens that I never get around to
+doing that, you have the reference and can probably look it up. The
+picture doesn't need translation from German.
+
+ccm = ml ... a cubic centimetre. Letters in brackets refer to parts of the
+picture.
+
+--------------------------------------------------------------------------
+A) Equipment for electrolytic reduction
+
+An anode cell (Z) - a porous cell of Haldenwanger porcellain - was placed
+in a filter assembly of 500 ccm (F) volume. The anode had measurements of
+75mm x 160mm with a 70mm wide glazed edge that prevented the drawing-up
+and smearing of the liquid to be reduced.
+
+To the anode cellwas added a solution of 25ccm concentrated sulfuric acid
+in 175ccm water.The anode used was lead or carbon rod and was enclosed in
+a tightly wound, glass spiral cooler. The water in this was conducted to
+the outer container to help cool the inner tube. By regulating the cooling
+water it was possible to keep the whole reduction solutionfor the first
+six hours at 20 degrees Celsius. In the last hours the temperature was
+allowed to rise to 40 degrees Celsius, to get a nearly quantitative course
+of the reduction.
+
+The outer container contained a cathode (K) - a lead sheet (200mm x 90mm x
+2mm), which before each experiment was coated electrolytically using
+diluted sulfuric acid, with lead superoxide.
+
+B) Reduction
+
+A solution of 30g 3,4,5-trimethoxy-beta-nitrostyrene in 100ccm glacial
+acetic acid and 100ccm ethanol was mixed with 50ccm concentrated
+hydrochloric acid and added to the cathode container. The anode cell was
+filled with dilute sulfuric acid to the outer level of the cathode cell.
+Now a current of 5 to 6 amps was passed through the equipment for 12
+hours, so that the current density was about 3 amps.
+
+After the finished reduction, the contents of the cathode cell was
+filtered and dried under vacuum. The remainder was then dissolved in
+300ccm water. Any remaining unchanged nitrostyrene was removed by twice
+shaking it out with ethyl acetate. The ester in the solution was then
+removed by shaking out once with diethyl ether.
+
+The liquid thus obtained of chloride of mescaline was then put in a
+separating funnel which had ether added. The amine was freed with a cold
+concentrated solution of technical sodium hydroxide. The solution
+obtained, after extracting four times with ether, was dried with calcium
+carbonate and the amine precipitated with dry hydrochloric acid gas.
+
+After twice dissolving in absolute, dry, denatured alcohol, completely
+pure mescalin hydroxide was obtained as white leaf with a melting point of
+184 degrees Celsius and a yield of 24g (77.3%)

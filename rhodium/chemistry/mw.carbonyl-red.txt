@@ -1,0 +1,161 @@
+--------------------------------------------------------------------------
+     Microwave-Assisted Reduction of Carbonyl Compounds in Solid State
+               Using Sodium Borohydride Supported on Alumina
+
+                   Rajender S. Varma and Rajesh K. Saini
+
+          Tetrahedron Letters, Vol 38, No 25, pp. 4337-4338 (1997)
+
+
+        Abstract: A manipulatively simple and rapid method for the
+        reduction of carbonyl compounds is described that is conducted
+        under solventless 'dry' conditions using NaBH4-Alumina and
+        microwave irradiation.
+ 
+	Heterogeneous reactions that are facilitated by supported reagents 
+on various solid inorganic surfaces have received attention in recent 
+years [1]. The advantage of these methods over conventional homogeneous 
+reactions is that they provide greater selectivity, enhanced reaction 
+rates, cleaner products and manipulative simplicity. Relatively inexpensive 
+sodium borohydride, NaBH4, has been extensively used as a reducing agent in 
+view of its compatibility with protic solvents and safe nature [2]. NaBH4
+impregnated on neutral alumina reduces a wide variety of carbonyl compounds
+to the corresponding hydroxy derivatives in solution phase [3]. The solid
+state reduction of ketones has also been achieved by mixing with sodium
+borohydride and storing the mixture in a dry box for five days [4]. The
+major disadvantage in the heterogeneous reaction with NaBH4 is that solvent
+reduces the reaction rate while in the solid state reactions time period is
+too long (5 days) for it to be of any practical utility. Also, the large
+excess of the hydride reagent requirement (tenfold) in the later case is a
+serious limitation [4]. Consequently, there is interest in the use of NaBH4
+'doped' supports that are efficient and offer operational advantages [5].
+
+	In continuation of our program to develop environmentally benign 
+solventless methods using solid supports and microwave activation [6], we
+now wish to report a facile reduction of aldehydes and ketones by alumina
+supported NaBH4 [7] that proceeds in the solid state using microwaves. The
+process in its entirety involves a simple mixing of carbonyl compound with
+(10%) NaBH4-Alumina in solid state and irradiating the mixture in an
+unmodified household microwave oven for the time specified in the table.
+The extraction of the product in dichloromethane affords the corresponding
+alcohol in high yields. The reduction of aldehydes is completed within
+seconds on admixing with NaBH4 doped alumina (10%) at room temperature but
+p-nitrobenzaldehyde requires gentle warming for completion of the reaction
+(Entry 3). The useful chemoselective feature of the reaction is apparent
+from the reduction of trans-cinnamaldehyde (cinnamaldehyde/NaBH4-alumina,
+1:1 mol equiv.); olefinic moiety remains intact and only the aldehyde
+functionality is reduced in a facile reaction that takes place at room
+temperature. In the case of chalcone (chalcone/NaBH4-alumina, 1:8 mol
+equiv.), however, two products are formed in the ratio of 60:40 as shown in
+equation below. The additional examples are summarized in the table.
+
+                     NaBH4-Al2O3
+trans-PhCH=CH-C-Ph  =============>  trans-Ph-CH=C-CH-Ph + Ph-CH2-CH2-CH-Ph
+              \\          MW                      |                  |
+               O                                  OH                 OH
+                                          60%                40%
+
+	The reduction of acetophenone is representative of the general 
+procedure employed: Freshly prepared NaBH4-alumina (7) (1.13 g, 3.0 mmol of 
+NaBH4) is thoroughly mixed with neat acetophenone (0.36 g, 3.0 mmol) in a 
+test tube and placed in an alumina bath inside the microwave oven and 
+irradiated (30 sec) (8). Upon completion of the reaction, monitored on TLC
+(hexane:EtOAc, 8:2, v/v), the product is extracted into methylene chloride
+(2x15 mL). Removal of solvent under reduced pressure essentially provides
+pure sec-phenethyl alcohol in 87% yield. No side product formation is
+observed in any of the reactions investigated and no reaction takes place
+in the absence of alumina. Further, the recovered alumina can be recycled
+by mixing with fresh borohydrlde and reused for subsequent reductions
+without any loss in activity. The air used for cooling the magnetron
+ventilates the microwave cavity thus preventing hydrogen from reaching
+explosive concentrations. Although we did not encounter any accident during
+these studies, we recommend extreme caution for reactions on larger scale.
+
+                  ___    O                         ___   OH
+                 /   \  //     NaBH4-Al2O3        /   \  |
+              R-<  O  >-C-R1  =============>   R-<  O  >-C-R1
+                 \___/              MW            \___/
+
+Table: Solid state reduction of carbonyl compounds using NaBH4-Al2O3
+--------------------------------------------------------------------------
+                                    Carbonyl cpd      Time        Percent
+Entry   R       R1                 to NaBH4 ratio    sec (a)     Yield (b)
+--------------------------------------------------------------------------
+
+1       CH3     H                        1:1           RT           90
+2       Cl      H                        1:1           RT           93
+3       NO2     H                        1:2           40           87
+4       H       CH3                      1:1           30           87
+5       CH3     CH3                      1:1           90           90
+6       H       C6H5                     1:5           120(c)       92
+7       H       CH(OH)C6H5               1:8           180          79
+8       OCH3    CH(OH)C6H4-p-OCH3        1:5           120          62
+             C
+9       //\ / \                          1:7           120          85
+       |  ||   |
+        \\/ \_/
+		 
+--------------------------------------------------------------------------
+
+(a)     RT refers to reactions that are completed on simple mixing of the
+        substrates with NaBH4-Al2O3 at room temperature.
+(b)     Unoptimized yields of isolated products that exhibited physical and
+        spectral properties in accord with the assigned structures.
+(c)     In an oil bath at 130°C (temperature attained in MW oven. 2 min),
+        the reaction stopped at 40% conversion even after 4 h.
+
+	In conclusion, we have developed a facile and practical method for the
+solid state reduction of carbonyl compounds to alcohols using a solventless
+system, NaBH4-Al2O3, that is accelerated by microwave irradiation.
+
+
+					REFERENCES AND NOTES
+
+1.      (a) Balogh, M.; Laszlo, P. Organic Chemistry Using Clays;
+            Springer-Verlag: Berlin, 1993.
+        (b) Laszlo, P. Preparative Chemistry using Supported Reagents,
+            Academic Press, San Diego, California 1987, specially for
+            reactions in 'dry' media see p 387.
+        (c) McKillop, A.; Young, D.W. Synthesis, 1979, 401, 481.
+        (d) Posner, G.H. Angew. Chem. 1978, 90, 527; Angew. Chem. Int.
+            Ed. Engl. 1978, 17, 487.
+        (e) Kabalka, G.W.; Wadgacnkar, P.P.; Chatla, N. Synth. Commun.
+            1990, 20, 293.
+
+2.      Banfi, E.N.; Riva, R. In Reagents for Organic Synthesis, Ed. L.
+        Paquette, Wiley, New York, 1995, Vol. 7, pp. 4522-4528.
+
+3.      Santaniello, E.; Ponti, F.; Manzocchi, A. Synthesis 1978, 891.
+
+4.      Toda, F.; Kiyoshige, K.; Yagi, M. Angew. Chem. Int. Ed Engl.
+        1989, 28, 320.
+
+5.      Caycho, J.R.; Tellado, F.G.; Armas, P.D.; Tellado, J.J.M.
+        Tetrahedron Lett. 1997,38, 277.
+
+6.      (a) Varma, R.S.; Saini, R.K. Tetrahedron Lett. 1997, 38, in press;
+        (b) Varma, R.S.; Dahiya, R. Tetrahedron Lett. 1997, 38, 2043;
+        (c) Varma, R.S.; Dahiya, R.; Kumar, S. Tetrahedron Lett 1997,
+            38, 2039;
+        (d) Varma, R.S.; Chatterjee, A.K.; Varma, M. Tetrahedron Lett.
+            1993, 34, 3207;
+        (e) Varma, R.S.; Chatterjee, A.K.; Varma, M. Tetrahedron Lett.
+            1993, 34, 4603;
+        (f) Varma, R.S.; Varma, M.; Chatterjee, A.K. J. Chem. Soc.
+            Perkin. Trans. 1 1993, 999;
+        (g) Varma, R.S.; Lamoure, J.B.; Varma, M. Tetrahedron Lett. 1993,
+            34, 3029.
+
+7.      (10%) NaBH4-Alumina, is prepared by thoroughly mixing NaBH4 (5.0 g)
+        with neutral alumina (45.0 g) in solid state using a pestle and
+        mortar; admixing three components, carbonyl substrate, NaBH4 and
+        alumina together is equally efficient.
+
+8.      For a critical evaluation of activation process by microwaves see:
+        Raner, K.D.; Strauss, C.R.; Vyskoc, F.; Mokbel, L. J. Org. Chem.
+        1993, 58, 950. The temperature of the alumina bath (heat sink)
+        inside a Sears Kenmore microwave oven (operating at 2450 MHz)
+        equipped with a turntable at full power (900 Watts) found to be
+        ~70°C after 30 seconds of irradiation.
+
+--------------------------------------------------------------------------

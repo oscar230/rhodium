@@ -1,0 +1,32 @@
+Piperin
+
+(1-Piperoylpiperidin).
+
+ 
+
+C17H19NO3, MR 285,34. Gelbliche od. farblose monokline Prismen, Schmp. 
+128-129 °C. P. findet sich zu 5-9% im Pfeffer (Piper nigrum) als dessen 
+wichtigster Scharfstoff [LD50 (Ratte oral) 514 mg/kg] u. in vielen weiteren 
+Piper-Arten (Piperaceae). Neben P. sind über 50 analoge Amide, meist mit 
+Piperidin, Pyrrolidin u. Isobutylamin als Basenteil aus Piper-Arten bekannt. 
+Der scharfe Pfeffergeschmack bedingt auch die Verw. als Stomachikum u. in 
+alkohol. Getränken (Brandy). Wie eine große Zahl der Piper-Alkaloide zeigt P. 
+antimikrobielle Eigenschaften. Unter Lichteinwirkung isomerisiert P. zu einem 
+Gemisch von Stereoisomeren, das noch 18% P. neben 27% des Z,Z-Isomeren 
+(Chavicin, Öl), 22% des Z,E-Isomeren (Isopiperin, Schmp. 89 °C) u. 33% 
+E,Z-Isomeres (Isochavicin, Schmp. 110 °C) enthält.
+
+Lit.: Beilstein E V 20/3, 469 f. # Dtsch. Lebensm.-Rundsch. 80, 148 (1984) #
+Hager (5.) 6, 199 f. # J. Agric. Food Chem. 29, 942 (1981) # Karrer, Nr. 1021, 
+1022 # Merck-Index (12.), Nr. 7625 # Pelletier 3, 4146 # Sax (8.), Nr. PIV
+600.  Synth.: Justus Liebigs Ann. Chem. 1981, 1725 # Synlett 1994, 607.
+
+
+E piperine
+F pipérine
+I = S piperina
+Z 2939 90
+CAS 94-62-2 (P.); 495-91-0 (Chavicin); 30511-76-3 (Isopiperin); 30511-77-4 (Isochavicin)
+
+
+Quelle: Römpp Lexikon Chemie  Version 2.0, Stuttgart/New York: Georg Thieme Verlag 1999

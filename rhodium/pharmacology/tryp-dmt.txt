@@ -1,0 +1,96 @@
+From: Fat Freddie the Psychedelic Toad <ethnobotanical@hotmail.com>
+Subject: Re: Mixing nootropics with psychedelics
+Date: Sun, 19 Oct 1997 07:02:18 +0100
+
+Quicksilver wrote:
+> I'm curious as to what peoples experiences are with mixing smart drugs
+> with psychedelics and other drugs like LSD, shrooms, MDMA, or pot.
+
+
+   MAOI + tryptophan + L-methionine (+ B12 + B6 + folic acid) = DMT
+
+See Alexander Shulgin's new book 'TIHKAL'. This is a must for anyone
+interested in psychedelics, it is destined to become a classic. I will
+quote directly (without permission, sorry) where it describes the
+chemistry and effects of tryptamine:
+
+page 283.
+
+   ..... Almost forty years ago a researcher in the National institute
+   of Mental Health, in Maryland, discovered an enzyme in rabbit lung
+   that could transfer a methyl group to a tryptamine from the amino
+   acid donor, S-adenosyl-methione. With this system, sorotonin gave
+   N-methylsorotonin, N-methylsorotonin gave bufotenine, trptamine gave
+   N-methyltrptamine, and N-methyltrptamine gave DMT. What a fabulous
+   black box that would make. Get two enzyme preparations, one that can
+   methylate S-adenosyl-homocysteine to S-adenosyl-methionine and
+   another that can regenerate S-adenosyl-homocysteine by transferring
+   the methyl group to an available amine. Two catalysts in a chamber
+   heated to 37 C, with a spigot adding tryptamine at the top, and
+   another releasing DMT out the bottom. That's the science - I'll leave
+   the details to the engineers.
+
+page 582.
+
+   (with 15 g,  orally with 150 mg iproniazid) "this was a daily
+   treatment given to schizophrenic patients, tryptophan along with an
+   antidepressant which is a monoamine oxidase inhibitor. Most showed
+   marked changes such as an elevation in mood, an increased
+   involvement with other people in their ward, and an increased
+   extrovertism. A separate study of this composition with the addition
+   of the amino acid L_methionine produced in about half of these
+   patients a toxic or deliriod state."
+
+   ...... Tryptophan, a natural and nutritionally essential amino-acid,
+   is a centrally active intoxicant and sleep provider in man. It is
+   converted metabolicaly to tryptamine, which is a little bit
+   psychedelic.  When administered with methionine (another amino-acid
+   know to methylate things) it produces methylated tryptamines, the two
+   best studied being N-methyltryptamine (NMT) and N,N-dimethytryptamine
+   (DMT). The effects that result are hard to categorize, reflecting the
+   the diagnostic state of the patient. But something happens. In short,
+   tryptophan, alone or in combination with MAO inhibitors or methyl
+   donors, is a fabulous tool for exploring brain function...........
+
+A quick Web search turned up some useful information relating to
+methionine (again without permission):
+
+   The Cognitive Enhancement Research Institute
+   S-adenosylmethionine (SAM)
+
+   One of the essential metabolic functions of the body is active methyl
+   donation (cycle A). The active methylation donor is S-adenosyl-
+   methionine (SAM), which is produced from methionine by the addition 
+   of ATP (adenosine triphosphate). After the methyl group has been 
+   donated (reaction 3), homocysteine remains.  Because homocysteine has 
+   pro-oxidant properties (elevated levels are associated with cardio-
+   vascular disease), it must be detoxified. Two separate mechanisms 
+   exist both of which are serine dependent. In the first (reaction 1), 
+   homocysteine is re-methylated by methyltetrahydrofolate (Me-THF, or 
+   "activated" folic acid) back to methionine, and the SAM cycle is 
+   closed.  Under most circumstances, this should be the dominant 
+   pathway. In the second mechanism (reaction 2), homocysteine is 
+   combined with serine to form cystathionine which is split back apart 
+   (slightly differently) to yield cysteine and homoserine. This 
+   reaction depends on the enzyme cystathionine beta-synthase which 
+   opens up the SAM cycle and results in loss of methionine (and 
+   accumulation of cysteine).
+
+   The restoration of the SAM cycle is not solely dependent on
+   increasing serine levels. The folate cycle (cycle B) is essential to
+   close the SAM cycle and keep methionine available for producing SAM.
+
+   The folate cycle not only requires folic acid, but also vitamins B6
+   and B12, and NADH (a vitamin B3-containing reducing agent). NADH is
+   now available as a dietary supplement in the US.
+
+So it appears that to be safe methionine should be taken in combination
+with vitamins B12, B6 and folic acid. Again on the down side I have read
+that methionine has GI side effects such as nausea.
+
+A safe MAOI could be Peganum harmala extract (harmine). With the
+exception of tryptophan all the other ingredients are available from
+health food stores.
+
+Fat Freddie
+

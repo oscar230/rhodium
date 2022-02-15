@@ -1,0 +1,1745 @@
+-------------------------------------------------------------------------------
+      Synthesis of  the Fentanyl analog beta-hydroxy-alpha-methylfentanyl
+-------------------------------------------------------------------------------
+
+First a quick summary:
+----------------------
+
+Rev drone:
+
+Alright, I'm only gonna say this once...
+
+N-methyl-4-piperidone + methyl iodide  ===>
+N,N-dimethyl-4-piperidone iodide + phenylpropanolamine, base ===>
+beta-hydroxy-alpha-methyl-phenylethyl-4-piperidone + aniline, NaBH4 ===>
+4-anilo-1-(beta-hydroxy-alpha-methyl-phenethyl)-piperidone + (CH3CH2CO)2O ===>
+beta-hydroxy-alpha-methylfentanyl
+
+Next, you'll want ref's, I bet. Ho-hum. Invariably, Step 2 (the replacement
+of the quaternary amine with phenylpropanolamine) is the one you're wondering
+about, isn't it? I thought so.
+
+        Chem.Heterocycl.Compd.; 21; 12; 1985; 1355-1362;
+
+You probobly want to know a little about reductive
+amination of aniline with your piperidone, too.
+
+        Chem.Pharm.Bull.; 33; 5; 1985; 1826-1835;
+
+Just to be thorough, here's the addition of the propionyl group:
+
+        J.Heterocycl.Chem.; 26; 1989; 677-686;
+
+The reasons for doing this are numerous. N-methyl piperidone is unwatched,
+available in big quantities, and very cheap.
+
+-------------------------------------------------------------------------------
+The Hive BB - Chemistry Discourse
+
+Topic: a gift from drone to the DEA -- a little china white
+
+Drone 342:
+ Get ready for some gut-pumpin' chemical fun!
+
+ As a gift from my workin' class worker bee
+ subconscious to you, the larger community, here's a
+ little genie that I've been struggling to keep in the
+ bottle now for a year. "Pop", goes the cork, and like
+ a little butterfly, this chemical nugget spreads its
+ wings for the rest of the word.
+
+ Drone's home-made fentanyl analog!
+
+ Yep, drone has doen what was thought impossible, and
+ will now divulge what is thought unmentionable,
+ because DRONE #342 is DRONE #342, and can do that!
+
+ Folks, have you ever had a hankering for a big, juicy
+ ounce or two of synthetic heroin, but just thought it
+ impossible to allocate the necessary chemicals? Well,
+ your friend drone has taken out the guesswork and
+ managed to develope a synthetic route to a chemical
+ 1000 or so stronger than conventional smack.
+ Impossible, you say? NAY, my dear worker bees.
+
+ Here's the general overview of fentanyl synthesis.
+ 4-piperidone is reacted with a trimethyliodo
+ (quaternary) salt of a phenethylamine (or any number
+ of aromatic ethylamines), to produce an
+ N-arylethylpiperidone (you can use the quaternary salt
+ of the piperidone with the primary substituted
+ arylethytlamine, if you like, too.) Anyways, this is
+ reacted with aniline, and reduced with NaBH4, and then
+ reacted with propionic anhydride to produce the
+ fentanyl freebase.
+
+ It turns out:
+
+ *adding an ethyl carbon bridge to the piperidine ring
+ will not reduce potency.
+
+ *adding an extra methyl to the phenethyl substituent
+ to make a phenylisopropyl makes for a strong,
+ long-lasting compound.
+
+ *adding a hydroxy to the alpha-carbon of the pehethyl
+ side chain -- as seen in ephedrine -- will also
+ increase potency.
+
+ *as I said in a previous post, propionic anhydride can
+ be made at home (this is the most closely watched
+ chemical on the DEA's list, but this watching was
+ rendered obsolete by YoursTruly not too long ago.)
+
+ The Fentanyl Suite, in d(l)-major; Movement 1
+
+ (the curtain rises, our anti-hero is found quietly
+ sauntering through the woods, foraging for
+ precursors.)
+
+ Taking this into account, Atropine is extracted from
+ nightshade. It is hydrolyzed to form tropine. Tropine
+ is oxidized to form tropinone. Tropinone is then
+ exhaustively methylated with iodomethane.
+
+ Second Movement
+
+ Dexatrim is bought in a fiendish quantity. The PPA is
+ extracted and isolated as its free base. This is
+ combined with tropinone, to form
+ N-(1-hydroxy-1-phenyl)isopropyl tropinone.
+
+ (intermezzeo)
+
+ Third Movement
+
+ Aniline is combined with the aforementioned
+ freshly-made tropinone, and reduced with NaBH4.
+
+ Fourth Movement
+ (Allegro)
+
+ Propionic anhydride is made from a propionate salt
+ like calcium propionate by adding bromine or even
+ chlorine. Alternatively, propionate esters are
+ hydrolyzed, the acid component isolated, and combined
+ with acetic anhydride and allowed to reflux, with the
+ product being fractionally distilled.
+
+ (crescendo)
+
+ The propionic anhydride is added to our soon-to-be
+ fentanyl analog compound, and allowed to react (I
+ think around 50 C). The product is flash
+ chromatographed, combined with citric acid (or any
+ acid of your choice), and allowed to dry.
+
+ The material is cut with hundreds of times its mass of
+ mannitol.
+
+ Viola! China white has just been made out of
+ Nightshade, diet tablets, aniline, and food
+ preservatives. It's all there in the literature. Ref's
+ available upon request.
+
+ Are we having fun yet?
+
+ -drone #342
+
+-------------------------------------------------------------------------------
+Rhodium (Administrator)
+
+Could we have a little more pharmacological data on this compound?
+
+I'd like to have the ref on reacting a quat with 4-piperidone, to give the
+tertiary amine. If you have any refs on making 4-piperidone, that would be nice
+too.
+
+Tropinone is easily made from citric acid, methylamine and succinic dialdehyde
+(made from pyrrole). You can also make cocaine from it :)
+
+-------------------------------------------------------------------------------
+drone 3422 - posted 05-19-98 08:50 PM
+
+   -------------------------------------------------------
+
+The Robinson tropine synthesis isn't all its cracked up to be -- the main
+detraction is that succinaldehyde. Have you ever looked at its synthesis? At
+least the means that I found didn't look too appetizing; I'd extract tropines
+and hydrolyze and oxidize them over that any day of the week.
+
+I'll get you the ref's on this tommorow.
+
+-------------------------------------------------------------------------------
+
+Rhodium
+
+Yes, I've looked into the synthesis. Even going the whole way to cocaine isn't
+that hard in my opinion. But back to tropinone. I'd very much rather make it
+myself, than poison myself with atropine alkaloids.
+
+Succindialdehyde is made from pyrrole by refluxing with hydroxylamine and KOH.
+
+
+Solomon
+
+Hey drone, thanks alot for this great stuff.
+
+                                      Have you ever heard of PePAP (The meperidine anolog)?
+                                      It's (1-(2-Phenylethyl)-4-acetyloxpiperidine) I think.
+                                      Sounds kind of interesting to me.
+
+   drone 342                          [Image] posted 05-20-98 09:43 AM
+   Member
+                                      [Click Here to See the Profile for drone 342]
+                                      -------------------------------------------------------
+                                      Here's a ref or two.
+
+                   For the addition elimination with the quat amine,
+                   check out:
+                   Chem. Het. Comp. 21:2, (1985) 1355-1362
+
+                   There's another one somewhere around in my piles of
+                   shit, butI can't find it. This one is good though, and
+                   should help you out quiite nicely.
+
+                   For piperidone synths:
+                   JACS 53 1931 2693, 2696
+                   Helv. Chim. Acta 3, 1920, 815
+                   JOC 37 1972 1042-1045
+                   JCS 1952, 1164, 1167
+                   Yakugaku Zasshi 71 1951 1053, 1056
+                   JOC 10, 1945, 277, 279
+                   JCS 1949, 708, 711
+                   JACS 70, 1948 1820,1822
+
+                   for tropinone-based fentanyls' chemistry and/or
+                   pharmacology:
+                   JMC 22, 1167 (1979)
+                   J. Het. Chem. 14, 599 (1977)
+                   Org. Magn. Reson. 6, 441 (1974)
+
+                   For carfentanyl:
+                   DE PAT 2610228, 1976
+                   US PAT 4179569, 1979
+                   Arzneim Forsch 26, 1976 1521, 1523, 1528
+
+                   There, that ought keep ya busy!
+
+                   -drone #342
+
+   drone 342       [Image] posted 05-20-98 06:19 PM
+   Member
+                   [Click Here to See the Profile for drone 342]
+                   -------------------------------------------------------
+                   Rhodium,
+
+                   Tropninonecan be hydrolyzed from atropine in
+                   nightshade quite easily. A little acid-base
+                   extraction, followed by vacuum distillation, will give
+                   you an excellent product for xoidizing into tropinone.
+                   Its cheap and plentiful. On top of that, its
+                   uncontrollable and essentially unlimited.
+
+                   However, if you do come across some really facile way
+                   of making that succinaldehyde and feel like posting
+                   it, I have some excellent ref's for some wacky
+                   benztropine analogs that put coke itself to shame
+                   (judging by the pharmacology reports and biological
+                   assays, these little goodies will pump-n-suck your
+                   dopamine receptors like you know how you want them
+                   to.)
+
+                   -drone #342
+
+   drone 342       [Image] posted 05-20-98 08:12 PM
+   Member
+                   [Click Here to See the Profile for drone 342]
+                   -------------------------------------------------------
+                   Here's some stuff from Beilstein on thebaine
+                   isolation. I actually have more at home than this, but
+                   I just couldn't get it all together this morning.
+                   Anyways, here you go:
+
+                   Isolation From Natural Product Isolierung aus Opium
+                   Ref. 1 761186; Patent; Knoll A.G.; US 2712018; 1951;
+                   Ref. 2 761187; Journal; Heumann; BNUNA5; Bull.Narc.;
+                   9; 2; 1957; 34;
+                   -------------------------
+
+                   Isolation From Natural Product 2 of 13
+                   Isolation From Natural Product Bldg. in Samen u.
+                   Keimlingen von Papaver bracteatum
+                   Ref. 1 3022808; Journal; Sarkany et al.; PLMEAA;
+                   Planta Med.; 36; 1979; 289;
+                   -------------------------
+
+                   Isolation From Natural Product 3 of 13 Isolation From
+                   Natural Product Papaver albiflorum PACZ. subsp.
+                   albiflorum
+                   Ref. 1 5559025; Journal; Slavik, Jiri; Slavikova,
+                   Leonora; Dolejs, Ladislav; CCCCAK;
+                   Collect.Czech.Chem.Commun.; EN; 46; 10; 1981;
+                   2587-2593;
+                   -------------------------
+
+                   Isolation From Natural Product 4 of 13
+                   Isolation From Natural Product Papaver bracteatum
+                   Ref. 1 3022810; Journal; Levy et al.; PLMEAA; Planta
+                   Med.; 36; 1979; 362,364;
+                   -------------------------
+
+                   Isolation From Natural Product 5 of 13
+                   Isolation From Natural Product Papaver bracteatum
+                   LINDL.
+                   Ref. 1 5557634; Journal; Slavik, Jiri; Slavikova,
+                   Leonora; CCCCAK; Collect.Czech.Chem.Commun.; EN; 50;
+                   5; 1985; 1216-1226;
+                   -------------------------
+
+                   Isolation From Natural Product 6 of 13
+                   Isolation From Natural Product Papaver bracteatum Arya
+                   II
+                   Ref. 1 5910497; Journal; Meshulam, Haim; Lavie, David;
+                   PYTCAS; Phytochemistry; EN; 19; 1980; 2633-2636;
+                   -------------------------
+
+                   Isolation From Natural Product 7 of 13
+                   Isolation From Natural Product Papaver fugax
+                   Ref. 1 3017192; Journal; Sariyar et al.; PYTCAS;
+                   Phytochemistry; 12; 1973; 2431,2433;
+                   -------------------------
+
+                   Isolation From Natural Product 8 of 13
+                   Isolation From Natural Product Papaver oreophilum
+                   Ref. 1 3022809; Journal; Maturova et al.; PLMEAA;
+                   Planta Med.; 14; 1966; 22,38;
+                   -------------------------
+
+                   Isolation From Natural Product 9 of 13
+                   Isolation From Natural Product Papaver setigerum DC.
+                   Ref. 1 6038149; Journal; Slavik, Jiri; Slavikova,
+                   Leonora; CCCCAK; Collect.Czech.Chem.Commun.; EN; 61;
+                   7; 1996; 1047-1052;
+                   -------------------------
+
+                   Isolation From Natural Product 10 of 13
+                   Isolation From Natural Product Papaver somniferum
+                   Ref. 1 64358; Journal; Parker,H.I. et al.; JACSAT;
+                   J.Amer.Chem.Soc.; EN; 94; 1972; 1276-1282;
+                   -------------------------
+
+                   Isolation From Natural Product 11 of 13
+                   Isolation From Natural Product Papaver somniferum
+                   Ref. 1 163865; Journal; Barton,D.H.R. et al.; JCSOA9;
+                   J.Chem.Soc.; EN; 1965; 2423-2438;
+                   -------------------------
+
+                   Isolation From Natural Product 12 of 13
+                   Isolation From Natural Product Papaver somniferum
+                   Ref. 1 5829983; Journal; Waddell, Thomas G.; Rapoport,
+                   Henry; PYTCAS; Phytochemistry; EN; 24; 3; 1985;
+                   469-472;
+                   -------------------------
+
+                   Isolation From Natural Product 13 of 13
+                   Isolation From Natural Product Papaver somniferum
+                   after extraction with aqueous sodium bisulphite,
+                   removing morphine and codeine and extraction with
+                   acetic acid
+                   Ref. 1 5856249; Journal; Repasi, Janos; Hosztafi,
+                   Sandor; Szabo, Zoltan; PLMEAA; Planta Med.; EN; 59; 5;
+                   1993; 477-478;
+
+   drone 342       [Image] posted 05-20-98 08:33 PM
+   Member
+                   [Click Here to See the Profile for drone 342]
+                   -------------------------------------------------------
+                   Sorry about that; this last message belongs in the
+                   current opium thread in the novel discussion area.
+
+                   imagine my chagrin,
+
+                   -drone #342
+
+   Rhodium         [Image] posted 05-24-98 08:19 PM
+   Administrator
+                   [Click Here to See the Profile for Rhodium]
+                   -------------------------------------------------------
+
+                   Succinaldehyde [JACS 68, 1608-1610 (1946)]
+
+                   Various procedures, usually applicable for the
+                   preparation of aldehydes from appropriate
+                   intermediates, were tried unsuccessfully: e. g., the
+                   distillation of mixed calcium succinate and calcium
+                   formates, a Rosenmund type of reduction of succinyl
+                   chloride, the partial hydrogenation of succinonitrile,
+                   either catalytically or by Stephen's methods with
+                   stannous chloride, to the diimine; all gave no trace
+                   of the desired aldehyde. Bromo- and chloroacetal do
+                   not undergo the Fittig condensation, but instead yield
+                   ethyl vinyl ether. The Grignard condensation of
+                   beta-halogenopropionaldehyde acetal with ethyl
+                   orthoformate, expected to yield the tetraethyl acetal
+                   of succinaldehyde, was not tried since neither
+                   beta-chloro- nor beta-bromopropionaldehyde acetal
+                   would react with magnesium. Hence, resort was made to
+                   the synthesis of succinaldehyde from pyrrole, via the
+                   dioxime, and a procedure was employed which does not
+                   require the isolation of the dialdehyde.
+
+                   Succinaldoxime
+                   In a 2-liter, 3-necked flask, equipped with mechanical
+                   stirrer and reflux condenser, were placed 1 liter of
+                   ethanol, 67 g freshly distilled pyrrole, and 141g
+                   hydroxylamine hydrochloride. The mixture was stirred
+                   and heated to refluxing, as soon as solution was
+                   complete 106g anhydrous sodium carbonate was added, in
+                   small portions, as rapidly as possible; and the
+                   solution was then refluxed for-twenty-four hours. The
+                   hot alcoholic mixture was then filtered to remove
+                   sodium chloride, and the filtrate was evaporated to
+                   dryness under reduced pressure. The residue was taken
+                   up in the minimum of boiling water, the solution
+                   heated with decolorizing charcoal, filtered and the
+                   product allowed to crystallize in the refrigerator.
+                   Additional product could be obtained by concentrating
+                   the mother liquors. The yield of dioxime varied from
+                   40 to 44g, 35 to 38%, and the product melted at
+                   171-172¡C.
+
+                   Succinaldehyde
+                   A twentieth mole, 5.8g, of succinaldoxime was placed
+                   in a beaker of 250 ml. capacity and 54 ml. of 10%
+                   sulfuric acid was added. The mixture was cooled to 0¡C
+                   and to it was added, in small portions, 7.0g of sodium
+                   nitrite, keeping the temperature at 0¡C. Evolution of
+                   nitrogen dioxide fumes indicates too rapid addition of
+                   the nitrite. The dioxime was now completely dissolved,
+                   and the solution was allowed to warm
+                   slowly to 20¡C and effervescence to go to completion.
+                   The lemon-colored solution was then neutralized to
+                   litmus by the addition of small portions of barium
+                   carbonate, and the precipitated barium sulfate was
+                   removed, leaving the free succinaldehyde in the
+                   filtrate. The solution was assayed at this point by
+                   precipitating quantitatively from an aliquot portion
+                   the bis-2,4-dinitrophenylhydrazone; the weight of
+                   crude derivative showed that consistent yields of 90%
+                   of the dialdehyde could be expected. Since this
+                   solution was found satisfactory for these studies, the
+                   aldehyde was not isolated, thus avoiding loss of
+                   product. The bis-dinitrophenylhydrazone, after
+                   recrystallization from alcohol, melted at 278-280¡C.
+
+                   Succindialdoxime [JOC 21, 644-647 (1956)]
+
+                   Hydroxylamine hydrochloride (90.5 g., 1.30 moles) was
+                   pulverized and stirred 30 minutes at room temperature
+                   with alcohol (400 ml). A solution of potassium
+                   hydroxide (44.8 g, 0.8 mole) in water (50 ml.) and
+                   alcohol (50 ml) was added. To the thick mixture
+                   pyrrole (34.5 ml, 0.5 mole) was admitted and the whole
+                   was refluxed gently for 23 hours, during which period
+                   it gradually turned orange-brown
+                   and gave off ammonia. Alcohol (100 ml) was added,
+                   refluxing continued another hour, and the mixture was
+                   filtered hot with suction. The inorganic residue was
+                   washed white with hot alcohol (100 ml), and the dark
+                   filtrate and washings were concentrated under vacuum
+                   to a tan semi-solid which was collected and washed
+                   with a little alcohol: 56 g. When treated with 18 N
+                   sulfuric acid, the vacuum distillate turned
+                   bluish-green and deposited hydroxylamine hydrosulfate
+                   (1.8 g). The filtrate and washings, which had an odor
+                   reminiscent of indole, containedtarry impurities and
+                   hydroxylamine hemichloride (~8 g). The tan residue (56
+                   g) was mixed with an equal weight of water
+                   (endothermicity!) and, after a half hour, the
+                   water-soluble impurities (ammonium chloride and
+                   hydroxylamine hemichloride) were filtered off leaving
+                   35.5g (61%); This product ras recrystallized by
+                   addition of six times its weight of boiling water,
+                   swirling occasionally until dissolved, adding Darco
+                   (4g), and filtering after 2 minutes through Super-Cel
+                   with suction. The yellow filtrate soon deposited
+                   crystals and, after storing 2 days at 5¡C, the
+                   succindialdoxime was collected; 30.4 grams (52%) of
+                   pale yellow crystals, mp 169-170¡C.
+
+   Osmium          [Image] posted 05-26-98 04:58 AM
+   Member
+                   [Click Here to See the Profile for Osmium]
+                   -------------------------------------------------------
+                   Give us your coke analogue refs, drone.
+                   Please.
+
+   Piglet          [Image] posted 05-26-98 10:14 AM
+   Member
+                   [Click Here to See the Profile for Piglet]
+                   -------------------------------------------------------
+                   While we are on the subject of potent analogues, can
+                   anyone comment on the cocaine analogue with a P-Fluoro
+                   group on the benzoic acid ? the Future Synthetic Drugs
+                   of Abuse says that it is 60 times stronger than the
+                   parent compound. Many moons ago I suggested that this
+                   could be made by purchacing cocaine, purifying it and
+                   converting it to ecgonine using CaO and then reacting
+                   it with HCl/Methanol to get the methyl ester & then
+                   Para Fluoro Benzoic Acid. The PFBA could be made from
+                   Para Amino Benzoic Acid (health food shop!) via NaNO2
+                   to produce the diazonium salt and then reaction with
+                   sodium fluoroborate or fluoroboric acid (careful!).
+                   Fluoroboric acid can be made from hydrofluoric acid &
+                   boric acid. You can't use glass for this bit & the
+                   fluoride WILL send you to an early grave if you make a
+                   mistake.
+                   Ammonium flouride can be purchased to clean concrete
+                   off glass & for glass etching.
+
+   drone 342       [Image] posted 05-26-98 10:49 AM
+   Member
+                   [Click Here to See the Profile for drone 342]
+                   -------------------------------------------------------
+                   for benztropine analogs that are fun:
+
+                   US Pat 2799680 (1954)
+                   US Pat 2706198 (1952)
+                   JMC 37, 15, (1994 2258-2261
+                   JMC 38, 20, (1995)3933-3940
+
+                   for CIT and other coke-esque analogs:
+                   JMC 34, 10, (1991) 2719-2725
+                   JMC 34, 10, (1991) 3144-3146
+                   JMC 35, 13, (1992) 2497-2500
+                   JMC 35, 25, (1992) 4764-4766
+                   JMC 36, 7, (1993) 855- 862
+                   JMC 36, 20, (1993) 2886-2890
+                   JMC 37, 8, (1994) 1220-1223
+                   JMC 37, 10, (1994) 1535-1542
+                   JMC 37, 11, (1994) 1558-1561
+                   JMC 37, 18, (1994) 2865-2873
+                   JMC 38, 2, (1995) 379- 388
+                   JMC 38, 16, (1995) 3086-3093
+
+                   This is an incomplete list; I have a stack of xeroxes
+                   of articles realted to these chemicals that's about 3
+                   inches thick. Turns out, if you wire the phenyl group
+                   directyly to the tropane ring (no oxygens or
+                   carbonyls, or whatever), potency increases. In
+                   addition, it apprears the general rule is that
+                   substituents on the 4-position of the phenyl generally
+                   increase potency. As for benztropine, it turns out
+                   that if you add halides on its phenyl groups at the
+                   4-position, you get something much more selective for
+                   dopamine, and much less of an anticholinergic, which
+                   translates to a better (higher) ratio of
+                   tweak:wierdness than coke.
+
+                   This is one of my last posts for a long time, so I
+                   hope this helps out. Keep up the good fight.
+
+                   -drone #342
+
+   336669          [Image] posted 07-20-98 05:09 PM
+   Member
+                   [Click Here to See the Profile for 336669]
+                   -------------------------------------------------------
+                   wow! you guys really know your stuff, huh? I'm
+                   impressed!
+
+   drone 342       [Image] posted 07-21-98 11:03 AM
+   Member
+                   [Click Here to See the Profile for drone 342]
+                   -------------------------------------------------------
+                   Piglet, here are actually analogs of that cocain
+                   derivative that are even STRONGER. I'm awat from my
+                   ref's, but if you look up that fluorophenylecgognine
+                   analog using Beilstein, it'll list many more articles
+                   covering them.
+
+                   -drone #342
+
+   drone 342       [Image] posted 07-21-98 11:06 AM
+   Member
+                   [Click Here to See the Profile for drone 342]
+                   -------------------------------------------------------
+                   336669, thanks. I'm glad our work is appreciated. I've
+                   always felt that fentanyls could act as sort of the
+                   heavy artillary of the WOD's. Considering thier dosage
+                   size, and the materials they can be made out of
+                   they're unstoppable (look what a problem speed is, now
+                   imagine a drug with a dosage *SEVERAL ORDERS OF
+                   MAGNITUDE SMALLER*!)
+
+   BOZAKIUM        [Image] posted 07-21-98 04:27 PM
+                   [Click Here to See the Profile for BOZAKIUM]
+                   -------------------------------------------------------
+                   shit! this thread made me bust a nut in my pants!!! I
+                   have always wanted a good lead on the fentanyls, and
+                   y'all bees have opened the door for me. Thanx. For the
+                   money people out there, a pound of methyl fentanyl is
+                   worth over a bilion dollars. It would be great for
+                   someone to do a PIHKAL-type project on all the
+                   fentanyls AND coke analogues.mmm-mmm.
+
+   The Alchemist   [Image] posted 07-22-98 08:25 PM
+   Member
+                   [Click Here to See the Profile for The Alchemist]
+                   -------------------------------------------------------
+                   I would love to dream up some methyl-fetanyl but
+                   there's always that old story of the MPTP byproduct.
+                   Under what conditions is this byproduct made and
+                   what's the best way to keep it out?
+
+                   Clueless on the fentanyl scene but mmmmmmm... does it
+                   sound yummy.
+
+                   -the alchemist
+
+   drone 342       [Image] posted 07-24-98 09:37 AM
+   Member
+                   [Click Here to See the Profile for drone 342]
+                   -------------------------------------------------------
+                   Boz,
+
+                   A HardDrug-iHKAL-thingy is already in the works!
+
+                   MTPT is not a byproduct from fentanyls, but rather
+                   from some extremely potent pethidine analogs. Both
+                   opioid agonists, but I never understood why one would
+                   rather make pethidine over fentanyl. It was the result
+                   of high temps and/or low pH's at a particular step,
+                   but don't quote me on that.
+
+                   The most important thing here hygene. This stuff is
+                   extremely potent, and the last thing you want to do is
+                   accidentally breath in a milligram while working with
+                   it.
+
+                   -drone #342
+
+   Osiris          [Image] posted 07-25-98 04:13 PM
+   Junior Member
+                   [Click Here to See the Profile for Osiris]
+                   -------------------------------------------------------
+                   Drone, these fentanyls sound very interesting.
+                   Unfortunately, I do not see them taking over the
+                   world, due to the fact that they are so powerful. In
+                   the LSD world, the chemist can produce liquid and just
+                   pass it down to the people farther down the chain for
+                   them to cut and/or soak into blotter paper. I am
+                   assuming that the entanyls would be primarily
+                   distributed via blotter also. If one of the
+                   distributors fucks up and accidentally makes blotter
+                   without cutting and each blotter has 1 mg LSD, the
+                   unwitting ingestors will trip very hard but since it
+                   is impossible to OD on LSD with anything anywhere
+                   close to a normal dose, they will still be physically
+                   safe.
+
+                   Make a similar mistake with fentanyls, though, and
+                   people will be dropping like flies, right? That sort
+                   of thing tends to put people off your product. To
+                   avoid this possibility, the chemist will have to make
+                   up the blotters himself. If the chemist makes up ten
+                   million doses of his fentanyl, that means that he has
+                   to dip one hundred thousand blotter cards himself.
+                   Even if our chemist can come up with a way to do this
+                   more quickly and easily, he still has to figure out a
+                   way to purchase 100,000 blotter cards without drawing
+                   a lot of heat. And then he has to figure out how to
+                   MOVE all of that bulky paper.
+
+                   I have never been involved with anything of this
+                   nature, so this is all speculation and I might be
+                   wrong. If so, please correct me. It would be cool if
+                   massive fentanyl manufacturing, packaging and
+                   distribution could be made to work well - if nothing
+                   else, it would keep a lot of addicts from having to
+                   stick needles in themselves many times a day to get
+                   their fix, which would be a huge boon to overall
+                   public health.
+
+   bootie rocket   [Image] posted 07-25-98 05:54 PM
+                   [Click Here to See the Profile for bootie rocket]
+                   -------------------------------------------------------
+                   Perhaps it could be dissolved in a solvent and sprayed
+                   on an inactive powder and snorted. I'm not into H or
+                   it's derivitives but I can think of the way most H
+                   masters I've seen prefer to do it, and it aint
+                   snorting;)
+                   You sick little monkeys, I love ya! -BR
+
+   ICEKAT          [Image] posted 07-26-98 05:00 PM
+   Member
+                   [Click Here to See the Profile for ICEKAT]
+                   -------------------------------------------------------
+                   Hello ALL,
+
+                   I participated in a study at the univestity s
+                   departmant of anesthesiology with fentanyl and let me
+                   tell you it is a potentially very very dangerous drug.
+                   I say that because I know first hand. It has some some
+                   terrible side affects like at high doses riggitity and
+                   contraction of muscles, plus a not to unpleasant
+                   itchie eyes, nose, and back. You feel great at first
+                   but I at a very high dose decided I didn't need to
+                   breath. I was so out of it the staff had to shake me
+                   and tell me to remember to breath. I would then
+                   remember and breath but soon forget again until I
+                   became completly unresponsive and had to be resperated
+                   and brought down. I did this two times. And was
+                   artificialy resperated both times. The nausia is
+                   terrible, and Dry heaved twice even though I had
+                   fasted and no liquids and I felt terrilble. This drug
+                   is for only the most responcible of types because
+                   dosage is very very very very very critical. I was
+                   lucky enough to get the experience in a very controled
+                   stetting with a group of trained profesionals working
+                   to make sure everything would be ok. A little oops and
+                   say goodbye cause your going to forget to breath. I
+                   would suggest selling Naloxone (SP?) with any and all
+                   that gets on the streat because that is one of the
+                   only drugs to bring you down in case of overdose. Or a
+                   automatic resperator would work well to.
+
+                   BECAREFUl!!!!!!!!!!!!!!!!!!!!
+
+                   ICEKAT
+
+   drone 342       [Image] posted 07-26-98 06:19 PM
+   Member
+                   [Click Here to See the Profile for drone 342]
+                   -------------------------------------------------------
+                   Osiris,
+
+                   I see what you mean, but this is not the case.
+                   Fentanyl would obviously be mixed with something like
+                   mannitol to dlute it to a more manageable size.
+
+                   Why would anybody want to do blotter smack?
+
+                   In any case, you're worried about some dealer fucking
+                   up with measurements -- which is a reasonable concern.
+                   However, with fentanyls, its actaully SAFER than other
+                   comparable drugs. The therapeutic index for fentanyls
+                   is much higher than for heroin, so that you actually
+                   have a safer product. There's a wider safety margin
+                   with fentanyls than with opiates or any other opioids
+                   -- making this more ideal than other products.
+                   Moreover, the general trend with them is that as the
+                   potency increases, so does the ratio between getting
+                   fucked up and ODing. In a certain sense, by providing
+                   this product, a dealer would be offering a safer,
+                   cleaner, healthier alternative to the shit on the
+                   street -- you just might be *saving* lives! ;) In any
+                   case, the amount of impurities would be greatly
+                   diminished (let's not get nuts here; nobody'll get any
+                   humanitarian awards for distributing synthetic smack,
+                   even if it meant less overdoses, which is certainly
+                   debatable!)
+
+                   BootieRocket has the right idea here of what could be
+                   done. This idea also came to me. Yes, Bootie, we are
+                   sick. Sick, sick, sick.
+
+                   I have to say that what Icekat is saying is true --
+                   what he described is a textbook example of an opiate
+                   overdose. However, I'd also add that it's no more
+                   dangerous when it comes to dose-sizing than heroin --
+                   in fact its somewhat safer. A massive dose of just
+                   about any opioid agonist will give the effects that
+                   Icekat described.
+
+                   Naloxone is not something you want to give to heroin
+                   addicts. Wanna see a pretty freaky death? Watch what
+                   happens when you give 'em an opioid antagonist --
+                   "landflounder" is the name that comes to mind
+                   immediately.
+
+                   Anyways, this would be a great way of putting certain
+                   countries out of business (or at least give them a run
+                   for their money)-- Burma, Nigeria, Laos, Afghanistan
+                   etc. Imagine the regional chaos when the one commodity
+                   that bolsters the economies and dictatorships of so
+                   many parts of the world
+                   becomes far cheaper and easier to make "at home" than
+                   they possibly could afford to do the conventional way.
+
+                   -drone #342
+
+   drone 342       [Image] posted 07-26-98 06:21 PM
+   Member
+                   [Click Here to See the Profile for drone 342]
+                   -------------------------------------------------------
+                   Also, before I forget. Sasha IS NOT putting together a
+                   book on this stuff -- a little German elf friend of
+                   mine is. I realized that my comments might look a
+                   little confusing.
+
+                   -drone #342
+
+   Osiris          [Image] posted 07-27-98 01:30 AM
+   Junior Member
+                   [Click Here to See the Profile for Osiris]
+                   -------------------------------------------------------
+                   Drone, people would want to do blotter smack for the
+                   same reasons that people want to do blotter LSD: you
+                   can be sure it isn't cut with something dangerous, you
+                   don't have to stick needles in your flesh or snort/eat
+                   bad-tasting powder, you can be reasonably sure that
+                   the dosages are roughly the same per batch, and the
+                   look of the blotter paper provides an excellent way to
+                   easily determine the potency/quality of the drug and
+                   which batch it came from. You just suck on a tiny
+                   piece of tasteless blotter paper for half an hour and
+                   then spit it out.
+
+                   Suppose you mixed your fentanyl with mannitol, like
+                   you said. Can you be sure that there aren't any
+                   isolated bits of pure fentanyl that didn't get
+                   adequately mixed? Everyone, no matter how competent,
+                   makes a mistake every now and then. Can you vouch for
+                   the cutters farther down the line as well? Or suppose
+                   I don't like to snort or slam mannitol or other filler
+                   substances and I am used to purifying my street shit
+                   before I use it. I can't do that with fentanyl because
+                   I'll be lucky if I can *see* the pure drug when all
+                   the cut is gone!
+
+                   Although I am not into opiates, I would probably try
+                   fentanyl on blotter (once) if it was offerent to me.
+                   There is NO FUCKING WAY IN HELL I would ingest
+                   fentanyl in powder form. Too risky, especially
+                   considering that it looks much easier to make fentanyl
+                   than LSD and therefore the competence of the cooker
+                   could easily be much lower. If you were the chemist
+                   I'd probably trust you to have done things correctly,
+                   but out on the street you don't usually know these
+                   things and the risks are simply too great.
+
+                   As far as the ED/LD ratio, is it high enough that if
+                   someone slams a couple mg of powder which is 90%
+                   fentanyl instead of 0.5% (or whatever) they won't die?
+                   I doubt it, although you are the expert here. This
+                   could easily happen if the chemist lets any pure
+                   product get out of his lab and it is cut improperly by
+                   some know-nothing backstreet dealer. Thus, your
+                   chemist has to cut the shit out of his stuff before he
+                   sells it, thus multiplying enormously the quantities
+                   of material he has to move and thereby negating one of
+                   the few things that work in a chemist's favor - that
+                   he can sell pure product in a less bulky form.
+
+                   I don't mean to rain on your parade and you are the
+                   expert on the drug itself and I know nothing about
+                   fentanyls except what you have posted on The Hive, but
+                   I honestly don't see distribution on anything but
+                   blotter as being workable. With blotter the chemist
+                   has the hassle of having to prepare all the doses
+                   himself, but at least he isn't leaving it up to people
+                   who either don't know or don't care about how to
+                   properly handle such incredibly potent drugs.
+
+                   You have let the cat out of the bag with your detailed
+                   new methods of fentanyl production. If your methods
+                   are as easy as you say they are, they will leave the
+                   Hive and show up on the street because the smack
+                   market is so very lucrative. I would hate to have this
+                   new market start off with hundreds of OD deaths before
+                   a safe way of ensuring dosage consistency starts being
+                   used. If the people that are undoubtedly reading this
+                   right now and are planning to set up fentanyl labs
+                   start from scratch with use of blotter paper as a dose
+                   distribution mechanism, hopefully those hundreds of
+                   ODs will never have to happen.
+
+                   Fentanyl chemists/dealers will certainly not win any
+                   official humanitarian awards, but if they can convince
+                   hardcore addicts to switch from AIDS-spreading needles
+                   to harmless blotter tabs, I think a great good will
+                   have been done. As well, if tens of millions of doses
+                   of fentanyl can be cooked up without LSD-level
+                   difficulty, the overall street price should come WAY
+                   down due to dealer competition and maybe more addicts
+                   will be able to afford their fixes without having to
+                   make a living as thieves, dealers or prostitutes. I
+                   think those are quite noble goals, as is the goal of
+                   taking the production of opiates (and hopefully
+                   cocaine too, someday) away from third world countries
+                   who cannot hope for political stability as long as the
+                   incredibly lucrative drug trade poses such a pervasive
+                   corrupting influence.
+
+                   This thread is without a doubt the most important
+                   topic that has yet come up on the Hive. In fact, it is
+                   the most important topic I have seen come up since I
+                   started reading the original alt.drugs in 1990. These
+                   hyperpotent synthetic analogues of heroin and cocaine
+                   have the potential to change the world to such an
+                   extent that I am finding it difficult to grasp the
+                   sheer scale of it. Realignment of the foundations of
+                   the Heroin and Cocaine trade will topple governments
+                   and criminal empires.
+
+                   Given that what is said on The Hive almost certainly
+                   makes it way to the ears of those who control these
+                   empires, they'll certainly perceive you as a threat to
+                   their profits and try to eliminate you and anyone else
+                   you are working with before you can make any further
+                   advances or publish that book.
+
+                   You had better make sure that your internet anonymity
+                   is absolutely uncompromiseable. Better get a Nymserver
+                   account from the Lycaeum instead of your current
+                   hotmail account, and invest in a subscription to a TCP
+                   anonymizer while you are at it. You need to assume
+                   that these people have the resources to buy phone taps
+                   and traces, pay hackers to sniff packets everywhere
+                   looking for the string "Drone 342" and to break into
+                   any systems that they need to to acquire this
+                   information. They could bribe or threaten the managers
+                   of Wolfe.net (The Lycaeum's upstream internet service
+                   provider) to allow them to sniff every packet that
+                   enters or leaves the Lycaeum. They could do the same
+                   to Hotmail, which logs all TCP connections.
+
+                   These people will not be worried about their evidence
+                   being admissible in court, they will not have to
+                   operate within the law to get their information, and
+                   they have enough money to buy God. They won't want to
+                   arrest and prosecute you, they will want to kill you.
+                   And right now you are the single biggest threat to
+                   their money and power.
+
+                   If the speculators about the CIA's drug running are
+                   correct, this will also put a severe crimp in *their*
+                   cash flow, and if you don't want to piss of the drug
+                   cartels, you REALLY don't want to piss of the spooks.
+                   The spooks can find anyone, anytime, anywhere and take
+                   them out with surgical precision. That is their job.
+                   And they work hand-in-glove with the NSA, who analyze
+                   every single packet that flows over the internet.
+                   Worldwide. They are almost certainly going to read
+                   this. Hi, guys!
+
+                   No, I am not posting this in the middle of a meth
+                   psychosis. I am completely sober. If you aren't scared
+                   yet, you are a fool. I am pretty fucking scared
+                   myself. If you continue to work on making syntheses of
+                   cocaine and heroin analogues easier, I suggest you cut
+                   all societal contacts and move to somewhere very
+                   remote to continue your work. You MIGHT be safe enough
+                   if you use the Nymserver and a TCP anonymizer, but I
+                   can't guarantee that those resources haven't been
+                   co-opted by the spooks as well.
+
+                   Good luck in whatever you choose to do, Drone. You'll
+                   need it.
+
+                   First off, thank you for the kind words. I've given
+                   this action a lot of thought, and I felt it very
+                   necessary to the right thing by letting the world
+                   know.
+
+                   You said:
+
+                   "Fentanyl chemists/dealers will certainly not win any
+                   official humanitarian awards, but if they can convince
+                   hardcore addicts to switch from AIDS-spreading needles
+                   to harmless blotter tabs, I think a great good will
+                   have been done. As well, if tens of millions of doses
+                   of fentanyl can be cooked up without LSD-level
+                   difficulty, the overall street price should come WAY
+                   down due to dealer competition and maybe more addicts
+                   will be able to afford their fixes without having to
+                   make a living as thieves, dealers or prostitutes. I
+                   think those are quite noble goals, as is the goal of
+                   taking the production of opiates (and hopefully
+                   cocaine too, someday) away from third world countries
+                   who cannot hope for political stability as long as the
+                   incredibly lucrative drug trade poses such a pervasive
+                   corrupting influence."
+
+                   You also said:
+
+                   "These hyperpotent synthetic analogues of heroin and
+                   cocaine have the potential to change the world to such
+                   an extent that I am finding it difficult to grasp the
+                   sheer scale of it. Realignment of the foundations of
+                   the Heroin and Cocaine trade will topple governments
+                   and criminal empires."
+
+                   ...And that is exactly why I had to let this
+                   information out. I couldn't have said it better.
+
+                   Yes, I am concerned a bit for my own annonymity,
+                   privacy, and freedom. However, I've ALWAYS posted from
+                   public terminals annonymously. While the
+                   Powers-That-Be could certainly find me out if they
+                   REALLY tried, I'll just take my chances. If this
+                   spreads, it was worth it. If not, then I'm safe.
+
+                   Anyways, back to nuts-and-bolts. Originally, I was
+                   skeptical of the blotter packaging idea, but now I see
+                   its advantages. While I'll stand by powder for
+                   personal snortin' reasons, blotter is the way to go
+                   for "The Masses". For safety, eating the shit is best,
+                   but eating it will pretty much eliminate The Rush --
+                   the whole point to smack in the first place! It also
+                   means feeling A LOT sicker. The reason people snort
+                   and shoot smack is because the reward is immediate and
+                   overpowering. With eating, you have to wait a bit, and
+                   why wait? However, by soaking the blotter tab in 0.5
+                   mL of H2O, you have your fentanyl in shootable form
+                   (or a sort of nasal spray.) This means that this form
+                   would be neatly dosed -- far moreso than conventional
+                   H, and guarunteed uncut. Such a form would have its
+                   own sort of mark of quality, and would ensure a
+                   greater degree of safety for the user.
+
+                   -drone #342
+
+   ketone          [Image] posted 07-30-98 10:36 PM
+   Member
+                   [Click Here to See the Profile for ketone]
+                   -------------------------------------------------------
+                   Drone: the birth of a new designer drug ;-)
+
+                   Excellent work...thanks for sharing and I commend you
+                   for your guys and hard work!
+
+                   -ketone
+
+   Osiris          [Image] posted 07-30-98 11:51 PM
+   Junior Member
+                   [Click Here to See the Profile for Osiris]
+                   -------------------------------------------------------
+                   Drone, you are a man of conviction. Such are rare in
+                   today's world, especially among drug chemists (not to
+                   suggest that you are one of those, just a random point
+                   y'know). I admire your courage.
+
+                   Good to see that you are taking your internet security
+                   seriously. I guess I went a little bit overboard with
+                   the paranoia in my previous post, but I thought about
+                   it a bit and came to the following conclusion: drug
+                   lords probably won't have the technical acumen to be
+                   able to track you down if you take precautions (and it
+                   sounds like you are), and if the spooks wanted you
+                   you'd already be dead. Besides, like you said, all
+                   that fentanyl stuff is already out there in the
+                   literature, right? Whacking you wouldn't solve
+                   anything. But it will be very interesting to see what
+                   the cartels will do when fentanyl starts hitting the
+                   streets. Will they cut their prices? Will they give
+                   up? Will they start producing fentanyl themselves?
+                   Interesting times a-comin.
+
+                   I like your idea about treating the blotter tabs as a
+                   universal dose "package". The nasal spray idea is
+                   killer! People could "shoot up" in public and no one
+                   would know! You could maintain a habit and still have
+                   a normal life - just tell everyone that you have
+                   chronic sinus problems |->. I have heard of people
+                   doing this trick with cocaine in saline solution - one
+                   puff up each nostril and you have the equivalent buzz
+                   of a couple cups of coffee, without the jitteriness of
+                   caffeine and without a gutful of bitter liquid. Less
+                   addictive than snorting lines or smoking base, too -
+                   efficient doasge titration is a major key to avoiding
+                   tolerance and addiction.
+
+                   Now, the blotters will need to be printed with a
+                   distinctive logo to eliminate any possibility of
+                   confusion with LSD tabs. I suggest a little needle -
+                   that should get the point across |->. The logo should
+                   be sized to fit on one tab so if the tabs are broken
+                   up and somehow mixed up with LSD tabs, they can still
+                   be readily identified. That is probably pretty
+                   unlikely, but better safe than sorry. The blotter
+                   pattern could be customized on a per-batch basis by
+                   varying the color and/or color pattern of the
+                   background and/or the logo.
+
+                   Junkies have historically looked down on psychedelic
+                   drugs and LSD in particular. Given this, it'll be
+                   funny as hell to see fentanyl users saying things like
+                   "man, those aqua tabs were the BEST! They were soooo
+                   clean..." or calling certain batches "triple-dipped"
+                   |->.
+
+   Rhodium         [Image] posted 07-31-98 08:31 AM
+   Administrator
+                   [Click Here to See the Profile for Rhodium]
+                   -------------------------------------------------------
+                   When will we get a step-by-step "recipe" for the
+                   production of OTC fentanyl analogs here? Such a text
+                   would get a special place on my chemistry page. It is
+                   always fun to change the world as we know it ;)
+
+   Bright Star     [Image] posted 07-31-98 09:08 AM
+   Member
+                   [Click Here to See the Profile for Bright Star]
+                   -------------------------------------------------------
+                   Thank you drone for not being scared off. Osiris put
+                   the 'willies' in me for a while... but after all, the
+                   information should be available. But then again, I'm
+                   the paranoid type.
+
+                   And even if these analogs become available... It
+                   definatly would be a liquid, with the fentanyl
+                   dissolved in it. A little shacking and everyone is
+                   assured of a common dosage.
+
+                   Bright Star
+
+   Lump            [Image] posted 07-31-98 04:38 PM
+                   [Click Here to See the Profile for Lump]
+                   -------------------------------------------------------
+                   Hope you guys make this a reality. Well do I remember
+                   the last big batch of fentanyl analogues to hit the
+                   East Coast. It was around 1992/93, and I believe the
+                   material was 3-methyl-fentanyl. It was MUCH better
+                   than plain vanilla fentanyl -- lasted every bit as
+                   long as heroin and felt identical from rush to nod to
+                   dopesickness. The stuff was all over the streets for
+                   awhile and killed a couple of friends of mine. IT
+                   CANNOT BE CUT IN THE USUAL WAYS WITH POWDER. I was
+                   very happy to see the above suggestion of blotter, as
+                   I'd been thinking of that since those noddy days.
+
+                   By the way, does anyone know anything about George
+                   Marquart (sp??). I know he's rotting away for
+                   producing much of the super-fent this country has
+                   seen, but never learned much about him.
+
+   Osiris          [Image] posted 07-31-98 11:49 PM
+   Junior Member
+                   [Click Here to See the Profile for Osiris]
+                   -------------------------------------------------------
+                   I read about Marquat in Newsweek when he was busted.
+                   They said he was supplying the entire east coast with
+                   fentanyl, was a reclusive super-genius chemist, and
+                   acted alone. Wierd guy - when the judge asked him what
+                   type of chemist he was, he said "clandestine" |->. I'm
+                   sure that didn't reduce his sentence any...
+
+   Cyclops         [Image] posted 08-03-98 09:51 AM
+   Member
+                   [Click Here to See the Profile for Cyclops]
+                   -------------------------------------------------------
+                   Funny you should mention Marquart. He was on an
+                   episode of "The Justice Files" just last weekend. Very
+                   unapolgetic too, he was. The producers of the show
+                   called him a mass murderer...such audacity! He was
+                   givin' the people what they wanted. Another featured
+                   on the same show was J. Dahmer, one who gave nothing
+                   to anyone, while taking all. Shameless non-sequitur.
+
+   drone 342       [Image] posted 08-03-98 10:27 PM
+   Member
+                   [Click Here to See the Profile for drone 342]
+                   -------------------------------------------------------
+                   Rh,
+
+                   A fentanyl synth with all its gory details is
+                   underway. Puttin together something as involved as a
+                   fentanyl "recipe" is hard work, and takes a lot of
+                   time -- especially now that I don't have OCR
+                   capabilities anymore! Originally, this was something I
+                   was hoping to have published, and I'm still thinking
+                   about it.
+
+                   I've managed to compile information that has eluded
+                   almost everyone, and it does feel a little wierd just
+                   *giving* it away. Still, my beliefs drive me to do
+                   something liek this. This whole writing process may
+                   take a while.
+
+                   -drone #342
+
+   Shaft           [Image] posted 08-06-98 01:55 AM
+   Junior Member
+                   [Click Here to See the Profile for Shaft]
+                   -------------------------------------------------------
+                   Drone 342:
+                   I feel that it may not be my place to say, but giving
+                   this recipe away is a very
+                   generous act. Alot of people harbor the
+                   idea that there is a marked line between
+                   opiates and other drugs due to their
+                   strength, and possibility of withdrawls
+                   or whatever.
+                   So a bold act could be to publish
+                   this book on "hard" drugs, and
+                   distribute recipes freely on the fentanyl analogues.
+                   It's definately not my place to say, but I say go for
+                   it. I, for one,
+                   think maybe a little segment could
+                   be set aside for synthesis of these
+                   compounds; with troubleshooting tips, recipes, and
+                   further.
+
+   saint_nicholaus [Image] posted 08-10-98 11:37 AM
+                   [Click Here to See the Profile for saint_nicholaus]
+
+                   -------------------------------------------------------
+                   what up gang? short reply on blotter paper issue. if
+                   fentanyl is water soluble you could drop blotter in a
+                   rig and go to it i have seen it done with LSD and
+                   DH2O. onset was instintaneous or about 3 seconds,
+                   duration of peak was diminished to about 4 hours from
+                   8, affect still hung out for about 24 hours such as
+                   dialated pupils and general tweeked pespective. chris.
+
+   Kaff            [Image] posted 08-20-98 03:36 AM
+   Member
+                   [Click Here to See the Profile for Kaff]
+                   -------------------------------------------------------
+                   I know absolutely nothing about fentanyl anoalogs in
+                   fact I never even heard of them before, but they sound
+                   really incredible. I never knew that there are
+                   synthetic drugs stronger than heroin and cocaine. Yes,
+                   definitely a great idea to get recipes for this. I
+                   think also we should work on the microwave chemistry
+                   aspect, as mentioned on Rhodium's page. Microwaves
+                   seem to have the potential to increase yields and save
+                   time. How about a bunch of chemists collaborating on a
+                   really thick book- the drug version of "The Joy of
+                   Cooking". A book the size of a big real cookbook.
+
+   drone 342       [Image] posted 08-22-98 05:28 PM
+   Member
+                   [Click Here to See the Profile for drone 342]
+                   -------------------------------------------------------
+                   Progress report:
+
+                   This synthetic description is taking way too much
+                   time. However, progress is being made, and new
+                   chemical insights are being discovered.
+
+                   Yes, fentanylsare pretty amazing. However, these still
+                   aren't the strongest recreational drugs of all; in my
+                   studies I've seen a few things active at the
+                   sub-nanomolar level that may or may not be worth
+                   investigating. Can't remember much about these
+                   chemicals, but I'll dig through my notes on it.
+
+                   -drone #342
+
+   Kaff            [Image] posted 08-22-98 11:04 PM
+   Member
+                   [Click Here to See the Profile for Kaff]
+                   -------------------------------------------------------
+                   Imagine using genetic engineering to add the
+                   drug-components from marijuana or opium poppies to
+                   other plants like apple trees or tomatoes so we'd have
+                   fruits and vegetables containing THC and opium.
+
+   Piglet          [Image] posted 09-02-98 05:45 AM
+   Member
+                   [Click Here to See the Profile for Piglet]
+                   -------------------------------------------------------
+                   D342 & Shaft: Direct yourselves to US patent 3,905,981
+                   which describes the cleavage of tertiary amines and a
+                   route to replace the N-Methyl with other substituents
+                   at 75% yield. -OH groups need to be protected.
+                   As I see it.
+
+                   1. Convert codeine to hydrocodone a la rhodium method.
+
+                   2. Replace N-Methyl with N-phenyl ethyl using methyl
+                   chloroformate (DIY from ethylene glycol and phosgene
+                   (careful!!).
+                   3. Remove methyl ester with HBr in CH3COOH.
+
+                   This should yield about 30%. Your product is about 100
+                   times stronger than morphine. As strong as 3-methyl
+                   and somewhat simpler to do (I guess).
+
+                   Criticism please,
+                   Piglet :)
+
+   Piglet          [Image] posted 09-02-98 08:45 AM
+   Member
+                   [Click Here to See the Profile for Piglet]
+                   -------------------------------------------------------
+                   Actually, I think that there are n-substituents that
+                   are stronger than PE. Rhodium's page has links to some
+                   of the research centers for these things.
+                   Also, I think replacing that 6 =O group with other
+                   funky things has quite an impact on the agonist
+                   strength. =CH2 is 80 times stronger than -OH but a
+                   bitch to get in. I seem to remember than amino groups
+                   appear in some of these things. Check the RBI...
+
+                   Piglet :)
+
+   drone 342       [Image] posted 09-02-98 07:49 PM
+   Member
+                   [Click Here to See the Profile for drone 342]
+                   -------------------------------------------------------
+                   Piglet,
+
+                   Thanks for the tip on the tertiary amines
+                   substitution; I'll give that a thorough investigation.
+                   Right now I'm looking into just that issue, since when
+                   Tropinone does what I said it would do, there is a
+                   place in the mechanism where it does violate Brett's
+                   rule -- though there are examples of tropinone
+                   methyliodate succesfully getting away with doing such
+                   a thing. More research needs to be done here.
+
+                   -drone #342
+
+   Kaff            [Image] posted 09-03-98 04:20 PM
+   Member
+                   [Click Here to See the Profile for Kaff]
+                   -------------------------------------------------------
+                   Strike says the war is over on the back cover of Total
+                   Synthesis. The war isn't ever over but it would be
+                   nice to have a book on the more advanced drugs such as
+                   China White. Just out of curiosity, what are the main
+                   precursors of this dessert? Sounds better than Russell
+                   Stover-Fanny Farmer- Whitman-Laura Secord-Tobler Swiss
+                   milk chocolate!!!
+
+   Piglet          [Image] posted 09-05-98 08:40 AM
+   Member
+                   [Click Here to See the Profile for Piglet]
+                   -------------------------------------------------------
+                   Could I also suggest some bits?
+
+                   1. Naloxozine 'potent u1 receptor antagonist'. I won't
+                   bore you with the full name but imagine 2 Oxymorphone
+                   molecules with an N-allyl group (antagonist) on each N
+                   and the two are bonded by a hydrazide at the 6
+                   positions. I wonder how srtong an agonist this would
+                   make? Not impossible to make...
+
+                   2. Endomorphin 1/2 . these are 6 peptides long with an
+                   amino at one end. How the fuck do you build these
+                   things?
+                   Also, TAPP is another strong agonist of a similar
+                   makeup.
+
+   Piglet          [Image] posted 09-06-98 08:00 AM
+   Member
+                   [Click Here to See the Profile for Piglet]
+                   -------------------------------------------------------
+                   D342:
+                   You know anything about Clonitazine and Etonitazine
+                   'potent u opioid receptor anonist; narcotic analgesic'
+                   Merck12th edition No3929.
+                   I can't find anything about this unique class of opiod
+                   analgesic.
+
+                   Ideas:
+
+                   1. Ever checked out the structure of diphenhydramine,
+                   common antihistamine.
+                   If you cleave the ether, you end up with to very good
+                   building blocks for methadone type analgesics, I
+                   should think.
+
+                   2. Ever checked out Loperamides structure. It's got
+                   the meperidine skeleton right inside and I think the
+                   amide is fine (similar to the one in dextromoramide)
+                   and although it lacks a methyl side-chain, other
+                   powerful drugs are the same (piritamide, diphenoxyl
+                   butyrate,benzitramide) and although it has a bulky
+                   group of the benzyl group (like piritimide and
+                   benzitrimide again, as well as difenoxin) it SHOULD
+                   still have quite some activity. I guess that the
+                   alcohol prevents it crossing the blood-brain barrier
+                   and the Cl makes it bind to k receptors more (just
+                   like haloperidol).
+                   a. Make ether from alcohol (protection).
+                   b. Grignard off the Cl. The amide SHOULD stay put, if
+                   you remember our discussion of some months ago...
+
+                   3. Cocaine analogues. I notice in the RBI lots of
+                   4-halo cocaine derivitives which although not
+                   scheduled, are marked as 'NO telephone orders taken
+                   for this compound, NOT for sale in europe'.
+
+                   a. Make para-halo benzoic acid via sandmayer procedure
+                   (swap the Cl by adding KI or KBr) or the Gatterman
+                   synthesis using butyl nitrate and CuX2 which MIGHT be
+                   better.
+
+                   b. DIY some acetic anhydride and make the substituted
+                   benzoic anhydride from it.
+
+                   c. Buy some coke, clean and degrade to ecgonine.
+
+                   d. Make coke analogue with i) bubble HCl gas through
+                   methanol solution of ecgonine.
+                   ii) Add benzoic anhydride.
+
+                   See BER 89,679(1956) or simpler still, PC by MVS Page
+                   142.
+
+                   Of course, you need sodium flouroborate or HF to make
+                   the flouro-. I'm not too keen on messing with them!
+
+                   All the best,
+                   Piglet :)
+
+   Piglet          [Image] posted 09-06-98 08:05 AM
+   Member
+                   [Click Here to See the Profile for Piglet]
+                   -------------------------------------------------------
+                   PS the PABA (Para Amino Benzoic Acid) is another diet
+                   supplement which at my hippy shop is 2 shelves below
+                   the B1 ;)
+
+                   I'm gonna drive you crazy with mad precursor ideas! I
+                   reckon if I throw enough at you, something will stick!
+                   Mostly it's vitamins right now.
+
+   A N Onymous     [Image] posted 09-14-98 04:11 AM
+   Junior Member
+                   [Click Here to See the Profile for A N Onymous]
+                   -------------------------------------------------------
+                   Drone342 I noticed that you and Piglet discussing the
+                   Benzimidazoles & wondered if a little bit of
+                   information might help you both. I have seen on the
+                   shelves of a US photographic supply outlet the sale of
+                   '5-Nitro Benzimidazole Nitrate' which I wondered if it
+                   might useful for you to know.
+                   It cost $95 for 100g which seems pretty cheap if you
+                   asked me.
+
+                   If/When I get more information I will post. I use my
+                   friend's computer so it takes me time to reply.
+
+   Piglet          [Image] posted 09-14-98 04:33 AM
+   Member
+                   [Click Here to See the Profile for Piglet]
+                   -------------------------------------------------------
+                   D342: Direct yourself to US Patent 5,262,428 which is
+                   a pretty cool thing about the coke analogues.
+                   I found this whilst hunting for the term 'Mazindol'
+                   which is a diet drug. I still can't find any details
+                   except for it affects the dopamine pathway in a
+                   similar manner...
+
+                   Piglet [Image]
+
+                   PS: AN: Got any synth references. I can't find out if
+                   it's useful until I know how the stuff is made!
+
+   guesswork       [Image] posted 11-23-98 06:29 PM
+   Member
+                   [Click Here to See the Profile for guesswork]
+                   -------------------------------------------------------
+                   Hey kids. Nobody has posted here in a while, but I
+                   used to know lots about fentanyl derivatives, so I
+                   figured I'd shout in. 3-methyl-fentanyl and
+                   alpha-methyl-fentanyl are the most powerful and are
+                   relatively equally powerful. In terms of dose
+                   equivalents, they are much more soluable than heroin
+                   at room temperature.
+
+                   But to those of you who haven't heard of fentanyl
+                   derivatives before, don't think drone discovered
+                   something new. They've been around since the early
+                   80's. When they first came out people were OD'ing but
+                   no forensic lab in the nation could detect the
+                   fantastically low doses of these fentanyls it takes to
+                   kill you. There was only 1 lab in the world then that
+                   was high tech enough to sniff out 3-methyl-fentanyl
+                   overdose levels. Some Dow(?) chemist was arrested in
+                   85(?) for trying to sell one ounce of the better
+                   n-methyl-fentanyl. His asking price was 1/2 million.
+                   At the time that much heroin equivalent was worth $13
+                   million.
+
+                   But I seriously wouldn't even dream about making a
+                   drug whose overdose rate is 1/2 a grain of sand.
+                   Careful now.
+
+   beagle_boy      [Image] posted 11-23-98 08:27 PM
+   Member
+                   [Click Here to See the Profile for beagle_boy]
+                   -------------------------------------------------------
+                   I'm a little late getting in on this conversation, but
+                   in rereading this excellent thread I have a few
+                   comments.
+
+                   Regarding the talk of succindialdehyde, it would be
+                   best to avoid it altogether and use the
+                   succindialdehyde equivalent
+                   2,5-dimethoxytetrahydrofuran, which is avail. OTC from
+                   photo supply places BTW. Or even better go through the
+                   nitrone route to cocaine. Are you aware of this route?
+
+                   Piglet: I'm not sure what turned up on your search for
+                   Mazindol info, but I'm pretty sure that it doesn't
+                   have any fun potential. It is interesting that this
+                   cpd that is a decent dopamine uptake inhibitor and
+                   still isn't worthwhile.
+
+                   I've always been amazed that fentanyl doesn't turn up
+                   more on the street considering how phenominally easy
+                   these analogs are to make. Maybe its the complications
+                   with dilution.
+
+   Piglet          [Image] posted 11-24-98 04:06 AM
+   Member
+                   [Click Here to See the Profile for Piglet]
+                   -------------------------------------------------------
+                   guesswork: Firstly, they are NOT the most powerful
+                   fentanyl derivitives by a factor of about 30.
+                   Carfentanil, Lofentanyl, remifentanyl and a HOST of
+                   others. 3-methyl is 125x morphine, carfentanil is
+                   4000x morphine. Get the picture? One oz of 3-methyl
+                   equates to 1.1Kg smack. Even at street prices thats
+                   only about £90000. Bulk, it's about £45000.
+                   Drone never say's it's a new drug,although it IS an
+                   analoguge. The point is a more OTC synthesis. We can
+                   ALL read the patents. Doesn't mean we can actually
+                   make it?
+                   By the way, what is N-methyl fentanyl supposed to be?
+                   If either of the 2 nitrogen's has a methyl group, it
+                   isn't a fentanyl. Unless I'm missing something?
+
+                   Beagle_boy: well, Mazindol IS controlled and it's
+                   structure IS a rigid-body-PEA? That Cl might be
+                   removed to make something good?
+
+                   Piglet [Image]
+
+   beagle_boy      [Image] posted 11-24-98 08:41 AM
+   Member
+                   [Click Here to See the Profile for beagle_boy]
+                   -------------------------------------------------------
+                   I don't see Mazindol as being worthwhile in and of
+                   itself or as a starting material. It is curious that
+                   it is a CS. I've seen a study where monkeys were
+                   trained to shoot up speed and when the speed was
+                   replaced w/ mazindol the monkeys got really pissed off
+                   and said that mazindol has no abuse potential and is
+                   no fun at all (OK, so I'm paraphrasing what the
+                   monkeys said).
+
+                   I guess that the DEA wants any appetite supressant to
+                   be a CS whether it has abuse potential or not. Witness
+                   the recent classification of "Meridea", another diet
+                   aid that supposedly has little to no abuse potential.
+                   But are you saying that Mazindol is a CS in UK? I
+                   wonder if independant studies of abuse potential were
+                   done.
+
+   Piglet          [Image] posted 11-24-98 09:12 AM
+   Member
+                   [Click Here to See the Profile for Piglet]
+                   -------------------------------------------------------
+                   Yes, it is controlled, and as I said, that chlorine
+                   group needs lopping off in my opinion. Without that I
+                   reckon it would be pretty active. How to make it,
+                   though?
+
+   beagle_boy      [Image] posted 11-24-98 10:47 AM
+   Member
+                   [Click Here to See the Profile for beagle_boy]
+                   -------------------------------------------------------
+                   Why do you reckon that it would be any more active w/o
+                   the Cl? This cpd acts in a different manner than
+                   amphet. Attempts to extrapolate SAR info from 1 class
+                   to the other are useless IMHO.
+
+   Piglet          [Image] posted 11-24-98 10:52 AM
+   Member
+                   [Click Here to See the Profile for Piglet]
+                   -------------------------------------------------------
+                   Different manner of action? Pray tell?
+
+   beagle_boy      [Image] posted 11-24-98 11:12 AM
+   Member
+                   [Click Here to See the Profile for beagle_boy]
+                   -------------------------------------------------------
+                   Mazindol interacts with the dopamine transporter
+                   receptor at a site different from cocaine or BTCP,
+                   blocking reuptake. Amphetamine also inhibits the
+                   reuptake of amphetamine by interaction at another
+                   dopamine receptor site but probably more importantly
+                   it acts as an indirect DA agonist by stimulating the
+                   release of dopamine.
+
+   beagle_boy      [Image] posted 11-24-98 11:13 AM
+   Member
+                   [Click Here to See the Profile for beagle_boy]
+                   -------------------------------------------------------
+                   Whoops, typo. That should be "Amphetamine also
+                   inhibits the reuptake of dopamine...."
+
+   drone 342       [Image] posted 11-24-98 05:26 PM
+   Member
+                   [Click Here to See the Profile for drone 342]
+                   -------------------------------------------------------
+                   I got bad news. The reason you haven't seen a FAQ yet
+                   on tropinone-derived fentanyls is that the reaction
+                   with tropinone doesn't yield well (bad, bad yeilds
+                   (5-10%), but a product none-the-less.) Still, by using
+                   commercially available methylpiperidone instead, this
+                   method works well. Sadly, its not 100% OTC.
+
+                   -drone #342
+
+   Kaff            [Image] posted 11-30-98 12:44 AM
+   Member
+                   [Click Here to See the Profile for Kaff]
+                   -------------------------------------------------------
+                   What's wrong with a yield of 5-10% on a product that's
+                   at least 100 times stronger than heroin? An FAQ would
+                   still be good just for the interesting read.
+
+   Kaff            [Image] posted 11-30-98 03:43 AM
+   Member
+                   [Click Here to See the Profile for Kaff]
+                   -------------------------------------------------------
+                   TEST after I put on a post on this thread and returned
+                   to the Chem Discourse board and clicked on this topic
+                   (a gift from drone to dea) only the first 10 posts of
+                   it showed up. I kept clicking back and forth but
+                   didn't get the whole thread, but when I clicked on
+                   "post reply" I did get the whole thread.
+
+   Free Radical    [Image] posted 03-28-99 07:49 PM
+   Member
+                   [Click Here to See the Profile for Free Radical]
+                   -------------------------------------------------------
+                   I guess you can still post here.
+                   If anybee can find this thread within a thread.
+
+   Slappy          [Image] posted 04-04-99 06:32 AM
+   Member
+                   [Click Here to See the Profile for Slappy]
+                   -------------------------------------------------------
+                   Drone-
+
+                   What is the status of that paper? Are you still
+                   working on it, or have you given up all together?
+
+                   -S
+
+                   PS- Take a look at the photosynthesis thread on the
+                   novel forum.
+
+   niteflier       [Image] posted 04-04-99 03:42 PM
+   Member
+                   [Click Here to See the Profile for niteflier]
+                   -------------------------------------------------------
+                   Drone...how is this going??? While not personally
+                   interested in these compounds I share your conviction
+                   that this info should be very public. Publishing is an
+                   exellent idea... I would help in the publishing part
+                   any way I could...It would change the world as we know
+                   it...
+
+
+- - - - - 
+
+Drone, you are a hero to any hard-core opioid aficionado!
+Hey, everybody!
+
+DopaMan here. Sorry for just suddenly contributing here out of the blue, but I
+know a lot about fentanyls, and have had personal experience.
+I must disagree with the potencies listed before.
+
+Remifentanil, which is new on the market as an anesthetic/analgesic, like
+alfentanil, is only about half, to one-fourth, as potent as fentanyl, depending
+on the patient and the circumstances of use. It is approximately equivalent in
+potency to alfentanil. This information was furnished from the 1998 PDR, as well
+as other sources.
+
+Next, fentanyl is approximately 100 to 150 times as potent as morphine, some say
+80, some say 200. I say 100-150 times as potent. I, personally, have had
+fentanyl five times, for a total of 10 injections. I have never been so high as
+the first time they gave me fentanyl. Indeed, it produces the most euphoria of
+any opioid, or drug, for that matter, that I have ever had. Much more so than
+morphine, and the rush, though it takes longer by about twenty seconds, to hit
+you than morphine, is sublime. Hence, Sublimaze! II never had any breathing
+trouble, and I was given nearly anesthetic doses on a few occaisions (one time
+as high as 0.2 mg, as the normal dose is about 0.025-0.05 mg. I did pass out
+when they gave me propofol on top of that and the Versed (midazolam HCl), but
+only because of that damn propofol! I think that breathing trouble must have
+been a unique, idiosyncratic reaction, as it's called. Something unusual, and
+unique to IceKat, or to a small group of the population. Also, nausea is unusual
+for fentanyl, although itching is a constant for all opioids. I had a bit of a
+problem with that when I first had fentanyl. I don't think the therapeutic ratio
+of fentanyl is actually that much higher than H, but I could be wrong. They can
+use it as an anesthetic by itself, with oxygen, which they sometimes do for
+delicate triple bypass, and other open heart procedures, which they certainly
+couldn't do with heroin, but they dosage is crucial, with higher concentrations,
+and naloxone must be onhand.
+
+By the way, there are no bad effects from being administered naloxone by itself.
+Check the PDR. One can be given nearly 1000 times the normal dose with only a
+sense of malaise resulting. It would, of course, make it awful for someone in
+pain, as they would need their endorphins to work, which it would block
+effectively, but, otherwise, it's pretty-well-tolerated shit, unless you happen
+to be opioid-dependant, in which case you would spontaneously withdraw. I'm not
+sure where a person would get the idea it is somehow a nasty substance, aside
+from the fact that it'll ruin your high.
+
+Next, sufentanil--
+I've never had sufentanil, but I know, once again from a PDR (1994), that it's
+7-10x more potent than fentanyl (so, about 1000 x morphine, give or take).
+I happen to know that TMF, or 3-methylfentanyl, used as either the hydrochloride
+or isothiocyanate, is about 5,500 x as potent as morphine, compared to the
+2000-3000 times morphine potency of AMF, or alpha-methylfentanyl hydrochloride.
+It is not only 150 times as potent as morphine--that's fentanyl's potency. The
+reason people make TMF, or did so much in the eighties, is it affords much, much
+greater potency over original fentanyl. I have read experimental anesthesiology
+books, and have this on good authority.
+
+Lofentanil is about 4000-8000 times as powerful as morphine, second only to its
+predecessor, carfentanil, the ultimate opioid. This seems strange to me, as it
+is the 3-methyl, levorotatory analogue of carfentanil, so it seems like it
+should be more potent. I guess these rules are sometimes wacked.
+
+Carfentanil is one of the two most potent drugs ever conceived. I checked this
+one out in a vet's reference, as it is used now in place of etorphine HCl, in a
+liquid for darts called Wildinil. According to the reference, and a few other
+books I've looked in, it has a clinical potency of 10,000 times that of
+morphine; yes, seriously. I have it on good authority that this is the case.
+Check it out. It's true. It may actually be the most potent drug on the planet.
+It is considered to be an exceptionally powerful, euphoric, mu agonist opioid of
+the morphine/fentanyl type, but it is so potent that it kills at smaller doses
+than anything else in the known world. For example, it is more lethal to spill
+the solution on you're skin, or inhale it,  than VX, for fuck's sake! It, or
+this one other opioid with a long numeric name starting with the letters and
+numbers Ro-18...something, I can't remember which, was listed in the Guinness
+Book of World Records, about ten years back, when they actually had a more
+extensive range, and a drug/chemical extremes section, as the most lethal
+substance on earth, due to its extreme potency. It and carfentanil are one in
+the same, I understand. They are both at least 10,000 times morphine potency. A
+shoe box full of the stuff would supply the entire double continent of
+North/South America with narcotizing doses of an opioid every day for months!
+Imagine making a key-low (aka kilo) of the stuff. You would be set for 10
+lifetimes, as long as you had good distributors, and as long as you weren't
+propositioning African-American employee's, like at DuPont, where that one
+entrepreneuring chemist who made all that TMF, tried propositioning the janitor,
+because of ridiculous stereotype beliefs that black guys are automatically
+hooked up. I would personally love to here more about the making of fentanyl
+analogues from phenylpropanolamine, and what the chemical designation of that
+one from tropane would be.
+
+Lastly, that 5'-nitrobenzimidazole is something to definitely take a look at!
+It could be used to make either etonitazene or clonitazene! Both are about 1500
+times as potent as morphine! Etonitazene mesylate is chemically identified as
+1-(beta-diethylaminoethyl)-2-para-ethoxybenzyl-5'-nitrobenzimidazole methane
+sulphonate. Clonitazene is the 2-para-chlorobenzyl- analogue. They are extremely
+potent. The most so of any open-chain opioids, to my knowledge. I will post
+again after I research these compounds a bit more, or even before then,
+as I have a few developing synthesis ideas myself. Take it easy everybody!
+
+The high-binding-affinity superhero you know as DopaMan : ) !
+
+

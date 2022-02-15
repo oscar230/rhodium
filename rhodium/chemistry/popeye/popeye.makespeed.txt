@@ -1,0 +1,137 @@
+Subject: Re: How do I make Speed
+
+in message-id <4v4uv6$1oc$2@mhafn.production.compuserve.com>.,Jon Whale
+<106075.121@CompuServe.COM> transcends simple ignorance and enters the
+elite realm of absolute cluelessness by offering the following
+speculations:
+
+>Well that's a pretty good job too because the only speed recipe
+>they have there is bloody_bull_shit!
+
+and we offer the following example so that you may, in the future, be able
+recognize SPAM on a WebSite
+
+>It describes extraction of
+>d-methamphetamine from vicks inhalers.
+
+please reveal your source of Vicks Inhalers, that way all this SPAM about
+MethSynth will become 'academic' if you'll pardon the expression
+
+>Fistly, they don't even use
+>d-meth, they use phenylephrine, secondly, d-meth is inactive,
+
+So please mail all your d-meth to ME !
+
+>l-meth is what you want,
+
+I'll trade ya gram for gram
+
+>and that d isn't gonna magically convert
+>to l.
+
+thank GOD for small favors
+
+> Now AFOAF tells me that meth is easily made by direct
+>hydrogenation of (pseudo)ephedrine over raney nickel or
+>palladium/charcoal in the presence of a little H2SO4.
+
+YFOAF is mistaken
+
+> This is a
+>very simple and efficient process
+
+which yields about 10% of mutant ephedrine salt that'll give you a special
+sort of speed Buzz you wish would go away
+
+>which can be done in your
+>kitchen provided you have a Parr hydrogenation flask
+
+well actually a Parr Hydrogenation Flask is a simple matter, it's the
+fuckin' apparatus that'll set you back 3 Grand
+
+> or some kind
+>of improvisation,
+
+make that 'careful improvisation'
+
+>and a canister of hydrogen (not to mention
+>getting the ephedrine in the first place...).
+
+None of these will make a difference, nor can you PETITION the Lord with
+PRAYER!!
+
+
+>
+>Hope this helps, Jon Whale
+
+It was somewhat entertaining, and you're a good guesser, you just happened
+to get every fucking detail WRONG this time.... but hang in there.
+
+All you guys that've been hangin' around here for years,  once more, PLEASE
+excuse the redundancy of the repetitious redundancy again, once more,
+again.  There HAS to be someone who hangs out here that has a job.... how
+about a small WebSite donation for a FAQ or an Archive or somethin'...
+
+  neither Raney Nickel or Pd/C will  work
+  correct catalyst is Pd on BaSO4
+  Perchloric acid, not Sulfuric acid
+  hydrogenation temperature is 80-90C,
+  either the l-eph HCl or the p-fed HCl may be used
+
+
+
+ In a pressure vessel, dissolve 100g ephedrine in 1 L glacial acetic acid,
+then add:
+        5 g of Pd on BaSO4 premoistened with the solvent
+        40mL of 70% perchloric acid
+
+Seal the vessel, flush with H2, heat blanket and shake at 80-90 C until H2
+is no longer taken up (10-30min).
+
+Filter off the catalyst, precipitate the perchloric acid as the potassium
+salt with KOH soln.
+
+Evaporate the acetic acid under vaccuum.
+
+Take up the residue in water, make basic (~pH 11-12) with either KOH or
+NaOH soln,
+extract with ether (3x 100 mL), dry over MgSO4, bubble dry HCl through the
+dried ether and collect the precipitate. Yields 80-90% where modern
+hydrogenation practices are applied.
+
+
+Who says so?
+
+According to Hartung and Simonoff in chapter 5 of  "Organic Reactions"
+the article is entitled "Hydrogenolysis of Benzyl Groups Attached to
+Oxygen, Nitrogen, or Sulfur", pp 263-326; "Hydrogenolysis of Benzyl
+Groups"],
+  "The hydrochlorides of arylalpha-aminoalkyl ketones are reduced only to
+the amino alcohol when paladium catalyst is employed; however, if the amino
+ketone or the amino alcohol is hydrogenated in acetic acid at 80-90 C with
+palladium on barium sulfate in the presence of perchloric acid, excellent
+yields of the desoxy compound are obtained. It is suggested that in the
+presence of perchloric acid the reduction proceeds through the acetic acid
+ester of the amino alcohol." They reference Rosenmund and Karg, Ber.,
+(Berichte Chemische), v 75, p 1850, 1942.
+
+the right hand Man sez:
+
+Presumably the reduction past the alcohol stage using the Pd/C method is
+hindered due to steric effects and/or activity of the catalyst. It is my
+guess that the reaction actually proceeds through an (-OH2)+ intermediate
+formed by protonation via the perchloric acid, which is then displaced on
+the catalyst surface by a hydrogen radical.
+
+Anyway, yields of 80% of the desoxyephedrine at 80-90 C using the
+Pd/BaSO4 in CH3COOH with HClO4 under 1 atm H2 is complete in about 30-45
+minutes, with yields of the desired isomer of 75-85%. Higher yields
+are achieved starting with ephedrine, but the pseudo still yields typically
+75-80% d-meth.
+                                -the Secular Cheminist
+
+-POPeye reports the Methamphetamine News at ADC
+
+
+
+

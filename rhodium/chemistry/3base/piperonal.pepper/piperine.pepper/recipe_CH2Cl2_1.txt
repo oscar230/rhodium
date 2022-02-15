@@ -1,0 +1,47 @@
+isolierung von piperin aus schwarzem pfeffer
+============================================
+
+chemikalien
+-----------
+20g schwarzer Pfeffer 
+400ml Dichlormethan 
+50ml Essigester     100ml Cyclohexan 
+10% KOH (G/V) in 50% Ethanol (v/v)  Na2SO4 wasserfrei 
+Reagenzien: Anisaldehyd/Schwefelsäure 
+0,5ml Anisaldehyd werden mit 10ml Eisessig, 85ml Methanol und 
+5ml H2SO4 conc. in der angegebenen Reihenfolge gemischt.
+
+isolierung
+----------
+20g gepulverter schwarzer Pfeffer werden in einer Soxhlet-Extraktionsapparatur mit 
+200ml Dichlormethan 6h extrahiert. Der Extrakt wird am Rotationsverdampfer
+vollständig eingeengt und mit 15ml einer 10%igen ethanolisch-wässrigen (1:1)
+Kaliumhydroxidlösung versetzt. Die Mischung wird filtriert. Aus dem Filtrat scheiden
+sich beim Stehenlassen bei 0-4°C gelbe Kristalle von Piperin aus, von denen die
+Mutterlauge vorsichtig abpipettiert wird und die mit wenig Wasser (1-2ml) gewaschen
+werden. Liegt noch kein DC-einheitliches Produkt vor, muß das Piperin umkristallisiert
+werden. Dazu wird das Rohprodukt in möglichst wenig Dichlormethan (ca. 2ml) unter
+Erhitzen auf dem Wasserbad gelöst. Nach vollständigem Lösen wird über wasserfreiem
+Na2SO4 getrocknet. Dem Filtrat setzt man gerade soviel Hexan (3-4ml) zu, bis eine
+leichte Trübung eingetreten ist und kocht im Wasserbad kurz auf, bis die Lösung wieder
+klar ist. Beim Abkühlen und Stehenlassen im Kühlschrank fällt Piperin kristallin aus.
+Ausbeute: 0,5g
+
+auswertung
+----------
+Dünnschichtchromatographie: 
+Fließmittel: Dichlormethan/Essigester (75:25) 
+Nachweis: UV254:  Fluoreszensmindernde  Zonen  markieren (mittlerer Rf Bereich) 
+UV366: Piperin zeigt blaue Eigenfluoreszenz. Besprühen mit Anisaldehyd/H2SO4
+und 5-10min auf 110°C erhitzen (bei Zimmertemperatur wird Piperin gelb, beim
+Erhitzen braun). 
+
+Literatur: E. Stahl und W. Schild; Isolierung und Charakterisieung von Naturstoffen,
+Gustav Fischer Verlag, 1981, Seite 143-145. 
+
+
+[http://www.uni-bayreuth.de/departments/oc1/teaching/phbcan99.rtf
+"isolierung von piperin aus schwarzem pfeffer und abbau zur piperinsaeure"
+ANALYTISCHES PRAKTIKUM für Biochemiker (Stand: September 1999), page 16-18]
+
+

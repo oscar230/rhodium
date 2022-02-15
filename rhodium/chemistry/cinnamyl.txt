@@ -1,0 +1,154 @@
+-------------------------------------------------------------------------------
+        Synthesis of Allylbenzene/Propenylbenzene from Cinnamyl alcohol
+-------------------------------------------------------------------------------
+Rev drone:
+
+Cinnamyl alcohol is 3-phenyl-2-propen-1-ol. Available by the metric ton, its a
+cornerstone of the perfume and flavor industry. Its also a geometric isomer of
+phenylacetone's enols, 1-phenyl-1-propen-2-ol and 3-phenyl-1-propen-2-ol. Enols
+equilibriate with their ketones, and in the case of P-2-P, where the ketone is
+favored in the equilibrium greatly over the enol, the end result is everybody's
+second favorite ketone.
+
+So, how to do it? Using whatever transition metal organometallic catalytic black
+magic, or whatever else might do the job, how would one isomerize cinnamyl
+alcohol to the ketone, or one of its derivatives? 10 points for one-pot-shot
+methods, 7-9 points for mutlipe-step isomerizations, 4-6 points for reactions
+that do it cheaply and quickly with other methods. 1-3 for elaboray byzantine,
+impractical method that at least would get it done.
+
+-------------------------------------------------------------------------------
+Rhodium:
+   
+
+Ok, I'll go for the byzantine route first:
+
+1) Oxidize cinnamyl alcohol to benzoic acid with KMnO4 in acid solution.
+2) Reduce the benzoic acid to benzyl alcohol with LAH.
+3) Oxidize the alcohol to benzaldehyde with pyridine chlorochromate.
+4) Condense benzaldehyde with nitroethane to give phenyl-2-nitropropene.
+5) The above is reduced with Fe/HCl to give P2P.
+
+There is NO doubt this would work. There was no 'minimum yield' clause, right?
+
+-------------------------------------------------------------------------------
+Acme:
+
+IMHO the one-pot one-shot is a fantasy in this case.
+
+Here is a way, hopefully for some runner-up points.
+
+Cinnamyl--> Allyl benzene
+
+6M HCl, 1M NaI 70C electrochemical redn Acta Chem Scand Ser B 38, 5, 1984, p387
+
+Allyl benzene-->ketone
+
+Benzo-wacker
+
+-------------------------------------------------------------------------------
+Rhodium:
+
+Couldn't the double bond be catalytically hydrogenated to form
+phenyl-3-propanol, which in turn is dehydrated to allylbenzene with
+KHSO4, if one favors hydrogenations over electrolytic reductions?
+
+-------------------------------------------------------------------------------
+Psychokitty:
+
+(This appears optional. According to the review, commercial zinc dust worked
+just fine when used in proceedure A.)
+
+Commercial zinc dust (16 g., 325 mesh) was activated by stirring for 3-4 minutes
+with 100 ml of 2% hydrochloric acid. The zinc was immediately filtered under
+suction, washed to neutrality with water, and then washed with 50 ml of ethanol,
+100 ml of acetone, and diethyl ether. The resulting powder was dried at 90 deg C
+under vacuum (10 minutes) and was used within 10 hours of preparation.
+
+Procedure A:
+
+Cinnamyl alcohol (1.30 mm) was dissolved in 75 ml of dry ether saturated with
+hydrogen chloride at 0 deg C. Activated zinc dust (5.0 g; 0.076 mol) was slowly
+added to the cooled mixture with vigorous stirring at a rate such that the
+temperature maintained below 5 deg C. The reaction was exothermic and
+considerable hydrogen evolution occurred. The reaction mixture was stirred for
+1 hour at 0 deg C and then filtered. The filtrate was shaken with 500 ml of ice
+water and then washed to neutrality with aqueous sodium carbonate. The aqueous
+washings were dried over sodium sulfate and evaporated under vacuum.
+Chromotography of the residual oil over silica gel (Mallinckrodt, 100 mesh,
+25 g) using benzene as eluant afforded 60% yield of allybenzene (4 parts) and
+propenylbenzene (1 part).
+
+The above ratios seems a little steep for the average bee with the volume of
+solvent too great. A more practical method that is on a preparative scale can be
+found in Tetrahedron 27, 5081 (1971).
+
+-------------------------------------------------------------------------------
+Rev drone:
+
+I know nobody likes it, but how about going from cinnamyl alcohol to allyl
+benzene using LAH? Yeah, its overkill, and yeah its water sensitivity is a
+pain-in-the-ass, but you KNOW it'll get the job done. The work-up should be
+particularily easy, as far as LAH reduction work-ups go around here. A little
+esterification with mesyl chloride wouldn't hurt things either (but isn't
+necessary unless you're really worried about maximizing your yield.)
+
+Ref's:
+*Indian J.Chem.Sect.B 23; 4; 1984; 303-306
+*Carbohydr.Res. 141; 1985; 49-56
+*Liebigs Ann.Chem. 12; 1990; 1249-1255;
+*Liebigs Ann.Chem. 1; 1992; 87-94;
+*JOC 60; 4; 1995; 872-882;
+
+Also, you could go this route:
+
+cinnamyl alcohol + HI/RP -> propenyl benzene
+
+( "" -> phenylacetone)
+
+Ref = Ref. 1 Chem.Ber.; 11; 1878; 671;
+
+Just to add onto Rhodium's idea of cinnamyl alcohol -> 3-phenyl-1-pronanol ->
+allyl benzene:
+
+aryl propenyl alcohol + H2 + (Cat.) -> 3-aryl-1-propanol
+
+(Cat.) = Pd/SrCO3
+Ref = J.Chem.Soc.; 1953; 618, 619
+
+(Cat.) = Pd
+Ref = Justus Liebigs Ann. Chem.; 401; 1913; 151 Anm.
+Ref = JOC 24; 1959; 736, 740
+Ref = Phytochemistry 20; 6; 1981; 1543-1546
+
+(Cat.) = nickel
+Ref = Chem.Zentralbl.; GE; 95; I; 1924; 1878;
+Ref = Zh.Obshch.Khim.; 20; 1950; 1199, 1206
+Ref = Acta Chem.Scand. 15; 1961; 357-369
+
+(Cat.) = Ni2B (nickel boride -- a personal favorite! I like this one)
+Ref = Chem.Pharm.Bull.; EN; 38; 6; 1990; 1720-1723;
+
+There are actually dozens more ref's on this, but I'm getting tired of listing
+them, so I think you get the eneral idea... Anyways, the next question is: what
+about the ref's for the dehydration? The "cinnamyl alcohol + -> allyl benzene"
+step? Well,
+
+phenyl proanol + (REAGENT) -> allyl benzene
+
+REAGENT = SOCl2
+Ref = C.R.Hebd.Seances Acad.Sci. 188; 1929; 638;
+
+REAGENT = Ac2O
+Ref = JACS 78; 1956; 584, 589;
+Ref = Helv.Chim.Acta; 62; 1979; 135-139
+
+
+REAGENT = Phosphoric acid
+Ref = JACS 57; 1935; 151, 155
+
+REAGENT = molecular sieves
+Ref = J.Chem.Soc.Faraday Trans.1 78; 1982; 2017-2022
+
+-------------------------------------------------------------------------------
+

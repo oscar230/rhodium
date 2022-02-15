@@ -1,0 +1,459 @@
+A strange, possible, amphetamine synthesis (by Chem Guy)
+
+Okay this synthesis involves the decarboxylation and methylation of
+phenylalanine in one step. The basic equation is:
+
+C6H5-CH2-CHNH3-COOH + CH3COONa --{electroysis @ Pt anode}--> C6H5-CH2-CHNH2-CH3 + H2 + CO2
+
+The problem that I find with this is the solublity of phenylalanine...
+What does phenylalanine, or it's salt dissolve in? Where could I find that...
+
+________
+
+From "Synthetic Organic Electrochemistry", by Albert J. Fry, yr 1972
+Library of Congress # QD273.F78, page 273
+
+"8 OXIDATION PROCESS
+
+...
+
+8.1 CARBOXYLIC ACIDS
+
+It has been known for conciderably more than a century that
+electrochemical oxidation of salts of carboxylic acids results in
+dimeric products [6]:
+
+2 RCO2(-) --{O}--> 2 CO2 + RR
+
+This reaction is known as the Kolbe reaction after the early
+investator who, though not it's discoverer, studied it in sufficent
+detail to outline its scope. Perhaps no other organic reaction has
+been studied as intensively as has the Kolbe reactioon; indeed,
+investigation into its sublter aspects have continued right up to the
+present day. While some mechanistics details still remain unclear,
+the preparative methodology and mechanism are sufficently well
+established that synthetic applications are straight forward. ...
+
+8.1.1 The Kolbe and Related Reactions
+
+Mechanism
+
+Weedon has discussed optimal experimental procedures for the Kolbe
+reaction [1]. ... Apparently, a film of absorbed intermeditates
+inhibits oxidation of the solvent and permits a potential to be
+attained where the Kolbe reaction can then occur. This feature is of
+interest synthetically because it results in considerable experimental
+simplifications. Since anodic potential control (to avoid oxidation
+of the solvent) is rendered unnecessary by this absorption process,
+one may use constant-current, rather than controlled-potential,
+electrolysis. As Weedon has pointed out, the experimental apparatus
+for the Kolbe reaction can be quite simple, merely a beaker
+containing both the solution and a pair of platinium electrodes
+connected to a source of direct current (see Chapter 9) [1].
+
+...
+
+Synthetic Scope and Limitations
+
+Kolbe dimers are formed in 50-90% yeild when the intermeditate radical
+is either primary [1] or is substituted by electron-withdrawing groups
+[15], that is,
+
+RC*H2 or RC*HX or RC*X2_____________(X = COO2R', CONR2', etc.)
+
+When the [alpha] position of the acid containsa substituent capable of
+stablizing a carbonium ion (X = alkyl, alkoxyl, halogen, aryl, etc.),
+yields of the Kolbe dimer are very low ( 0-10% ). In such cases, the
+intitially formed radical is oxidized further to a carbonium ion:
+
+RCO2(-) - e(-) --{ -CO2}--> R* --{ - e(-)}--> R(+) --> products
+
+... There are a few other other cases where the Kolbe yields are low.
+Aryl [16] and [alpha], [beta]-unsaturated acids [17] afford little or
+no dimer, for example. The isolation of benzene from the oxidation of
+benzonic acid [16], ...
+
+Other than these, there are really very few restrictions on the nature
+of the R group in a carboxylic acid (RCO2H) that is to be submitted to
+the Kolbe reaction. ...
+
+...
+
+A valuble extension of the Kolbe reaction was first reported by Wurtz
+[23]. He found that oxidation of a mixture of two different
+carboxylic acids results in a mixture of three possible coupling
+products:
+
+RCO2H + R'CO2H --{ -e(-)/ -CO2}--> RR + RR' + R'R'
+
+The fact that the three are formed in more or less statistical ratio
+need not be a detterent, for the proper choice of the molecular size
+of R and R' the products can be made to differ substantially in
+physical properties, thus making separation easy, and use of a large
+excess of the cheaper acid increases the relative yield of the desired
+mixed product RR'. ...
+
+(One common application of this crossed Kolbe coupling is the oxidation
+of a carboxylic acid in the presense of a large excess of acetate ion,
+thus resulting in efficent conversion of the acid RCO2H to the alkane
+RCH3 in one step [10-12]. This reaction would be useful for the
+introduction of a labeled methyl group.)
+
+The crossed Kolbe coupling reaction has the dual advantage of being
+able to accommodate a wide variety of functional groups and of
+enabling quick assembly of molecular subunits whose coupling by other
+routes might be lengthy. ..."
+
+[1] B. C. L. Weedon, Advan. Org. Chem., 1, 1 (1960)
+
+[6] H. Kolbe, Ann., 69, 257, (1849)
+
+[10] W. J. Koehl, Jr., J. Org. Chem. 32, 614 (19670.
+
+[11] W. A. Bonner and F. D. Mango, J. Org. Chem., 29, 430 (1964).
+
+[12] H. Breederveld and E.C. Kooyman, Rec. Trav. Chim., 76, 297 (1957).
+
+[13] G. W. Kenner, M.A. Murray, and C. M. B. Tylor, Tetraherdon, 1,
+259 (1957)
+
+[15] L. Eberson, Acta Chem. Scand., 17, 1196 (1963); L. Eberson and
+B. Sandberg, Acta Chem. Scand., 20, 739 (1966); but see L. Eberson
+and S. Nilsson, Acta Chem. Scand., 22, 2453 (1968).
+
+[16] F. Ficher and R. E. Myer, Helv. Chim. Acta, 17, 535 (1934); F.
+Ficher and H. Stenzl, Helv. Chim. Acta, 22, 970 (1939).
+
+[17] J. Petersen, Z. EleKtrochem., 18, 710 (1912); P. Karrer and M.
+Stoll, Helv. Chim. Acta, 14, 1189 (1931).
+
+[23] A. Wurtz, Ann. Chim. et Phys., 44, 291 (1855); A. Wurtz,
+Jahresberichte, 575 (1855).
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+From "The Journal of Organic Chemistry", Vol. 29, yr 1964, page 430
+Title "Kolbe Electrolyses of 3-Phenyl- and 3,3-Diphenylpropanonic
+Acids"
+
+"EXPERIMENTAL
+
+...
+
+... The electrode unit consisted of two platinium foil electrodes
+(1.25 X 1.25 cm.) spaced approximately 2 mm. apart and joined to
+wires sealed into a tapered glass head (...) equipped with a gas exit
+tube. The cell compartment (30 mL), fitted to recieve the electrode
+unit, was equuipped with a water jacket for thermosating. The
+electrolysis appartus was energized by a 12-V Heathkit battery
+eliminator.
+
+...
+
+Electrolysis of 3-Phenylpropanonic Acid in Acetic Acid.- A solution of
+3-phenylpropanonic acid (2.89 gr.) [0.01927 mol], and sodium acetate
+(1.43 g.) [0.0174 mol], in acetic acid (25 mL) [assume Glacial acetic
+acid- .425 mol @ 17 mol/L] was electrolyzed as above for 21 hr. (0.2
+amp., 8 f./mol). ... The observed retention times showed that
+n-propylbenzene and 2-phenylethyl acetate were present..."
+
+============================================================
+
+Osmium:
+
+Solubility of phenylalanine in water is 10-50mg/ml, but this
+figure should be much higher in acidic or basic solutions.
+
+------------------------------------------------------------
+
+From "Topics in Currnet Chemistry" Volume 152, Electrochemistry IV,
+edited by E. Stekhan, LoC# QD1. F58 v.152
+
+page 93
+"The yield and selectivity of the Kolbe electrolysis is determined by
+the reaction conditions and structure of the carboxylate. ...
+Experimental factors that influence the the outcome of the Kolbe
+electrolysis are the current density, the temperature, the pH,
+additives, the solvent, and the electrode material.
+
+High current densities and high carboxylate concentrations favor the
+formation of dimers. This is due to a high radical concentration at
+the elctrode surface that promotes dimerization. Furthemore, at high
+current densities the so called critical potential of about 2.4
+(vs NHE) is reached [28] above which the Kolbe dimerization proceeds
+smoothly. ... There is, however, no need for potential control in
+Kolbe electrolysis as the critical potential is already exceeded at 1
+to 10 mA/cm^2. This is much below the usually applied current density,
+which should be as high as possible, normally equal to or greater than
+250 mA/cm^2. ...
+
+...
+
+A nuetral, or even better a weakly acidic medium seems to be
+prefferable for the Kolbe reaction. This is achieved by nuetralizing
+the carboxylic acid to an extent of 2 to 5%, in some cases up to 30%,
+by an alkali metal hydroxide or alkoxide. ... The endpoint of the
+electrolysis is indicated by a change of the electrolyte to an alkaine
+pH. ...
+
+In aqueous solution an elevated pressure favors the Kolbe-coupling
+against non-Kolbe products [37]. ...
+
+Temperature has some effect on Kolbe electrolysis. Higher temperatures
+seem to support disproportionation against the coupling reaction and
+intramolecular additions to double bonds against a competing inter-
+molecular coupling (Chap. 6). ...
+
+Additives can strongly influence the Kolbe-reaction. Foreign anions
+should be definitively excluded, because they seem to disturb the
+formation of the necessary carboxylate layer at the anode. Their
+negative effect increases with the charge of the anion. ...
+
+Foreign cations can increasingly lower the yield in the order of
+Fe(+2), Co(+2) < Ca(+2) < Mn(+2) < Pb(+2) [22]. Alkali and alkaline
+earth metal ions, alkylammonium ions and also zinc or nickel cations do
+not effect the Kolbe reaction [40] and are therefore counter ions of
+choice in preparative applications. Methanol is the best sutied
+solvent for Kolbe electrolysis [7, 43]. ... The following
+electrolytes with methanol as a solvent have been used: MeOH-sodium
+carboxylate [44], MeOH-MeONa [45, 46], MeOH-NaOH [47],
+MeOH-Et3N-pyridine [48]. The yield of the Kolbe dimer decreases in
+media that contains more than 4% water.
+
+In aqueous solutions especially, the current yield is distinctly lower;
+furthermore, solublity problems can occur when the salt-deficit method
+is used. In aqueous solution, alpha-amino- or alpha-phenyl subsituted
+carboxylates lead mainly to decomposition products, whilst in dry
+methanol or methanol-pyridine, coupling products were obtained with
+alpha-phenyl- and alpha-acetylaminocarboxylates [49].
+
+...
+
+As anode material, smooth platinum in the form of a foil or net seems
+to be most univerisally applicable [32, 33]. ...
+
+...
+
+The nature of the cathode material is not critical in the Kolbe
+reaction. ...
+
+...
+
+In summary the following general experimental conditions should be
+applied for a sucussful dimerization of carboxylic acids: An undivided
+beaker type cell can be used equipped with a smooth platinum anode and
+a platinum, steel or nickel cathode in close ditance; a current
+density of 0.25 A/cm^2 or higher should be provided by regulated power
+supply, a slightly acidic or nuetral electrolyte, prefferable methanol
+as solvent and a cooling device to maintain temperatures between 10 to
+45 C should be employed. With this simple procedure and equipment
+yields of coupling product as high as 90% can be obtained, provided
+the intermediate radical is not easily further oxidized (see Chap. 7)."
+
+============================================================
+Phenylalanine Properties:
+
+Phenylalanine, dl- CAS# 150-0-1
+Phenylalanine, l- CAS# 63-91-2
+
+From- http://ntp-server.niehs.nih.gov/htdocs/CHEM_H&S/NTP_Chem6/
+Radian63-91-2.html
+[for l-phenylalanine]
+*SOLUBILITIES:
+WATER : 10-50 mg/mL @ 25 C (RAD)
+
+DMSO : <1 mg/mL @ 25 C (RAD)
+
+95% ETHANOL : <1 mg/mL @ 25 C (RAD)
+
+METHANOL : Very slightly soluble [031,295]
+
+ACETONE : <1 mg/mL @ 25 C (RAD)
+
+TOLUENE : Not available
+
+OTHER SOLVENTS:
+Ether: Very slightly soluble [043]
+Alcohol: Very slightly soluble [043,295]
+Dilute mineral acids: Very slightly soluble [295]
+(But in solutions of pH less than 2, very soluble)
+
+From- www.chemfinder.com
+
+[for L-phenylalanine]
+
+water solutblity: 1-5 g/100 mL at 25 C
+
+@ http://esc.syrres.com/interkow/webprop.exe?CAS=63-91-2
+[for L-Phenylalanine]
+
+Water Solubility:
+Value : 2.69E+004 mg/L
+Temp : 25 deg C
+Type : EXP
+Ref : YALKOWSKY,SH & DANNENFELSER,RM (1992)
+
+End of Properties-
+
+============================================================
+
+Here is a wonderful article that i just found that sheds new prespective
+on the particulars of the crossed Kolbe coupling scheme.
+
+Here is the text, i only included the bulk of the article, not the experimental section
+_______________________________________________________
+Journal of the Chemical Soceity, 2854 (1951)
+Linstead, Shephard and Weedon:
+
+634.    Anodic Syntheses.    Part V.*   Electrolysis of N-Acylamino-acids.
+A Novel Alkoxylation Reaction
+.
+By R. P. LINSTEAD, B. R. SKEPHMID, and B. C. L. WEEDON.
+
+
+Electrolysis  of N-acyl-glycines and -DL-[alpha]-alanines in  methanol gives
+ N-methoxymethyl- and N-l'-methoxyethyl -amides respectively in good yields.
+Analogous reactions occur in both ethanol and isopropanol.
+
+Under similar conditions N-acyl derivatives of 6-aminohexanoic acid, [gamma]-
+aminobutyric acid, and [beta]-alanine undergo the normal Kolbe reaction giving
+ the corresponding derivatives of polymethylenediamines in ca. 20— 40% yields.
+
+
+THE Kolbe synthesis of compounds of the type R*R by electrolysis of the acids
+ R-CO,H is known to be accompanied by side reactions, a number of which were
+described by Kolbe himself (Annaltn. 1849, 69, 257).    The extent to which
+by-products are formed is governed both by the experimental conditions and to
+ a marked degree, by the structure of the acid, to a electrolysed. A survey
+of the literature reveals that presence of substituents [alpha] to the carboxyl
+group has the most pronounced influence, as would be expected, and may result
+in the Kolbe coupling reaction being largely or completely suppressed. Thus
+although normal coupling occurs with alkyl hydrogen malonates (Brown and
+Walker, ibid., 1891, 261, 107; Hickling and Westwood, /., 1938, 1039) and, to
+a smaller extent, with [alpha]-phenyl- (Fichter and Stenzl, Helv. Chim. Ada,
+1939, 22, 970) and [alpha]-aryloxy-acetic acids (idem, loc. cit.; Fichter and
+ Kesten-holz, ibid., 1942, 25, 785), and a few [alpha]-alkyl-acids, little or
+ no coupling has been reported for [alpha]-aklyl acids, for [alpha]-methoxy-,
+ [alpha]-hydroxy-, [alpha]-halogen-, a-keto, a-cyano-, and [alpha]-amino- acids
+ most (for a review see Brockman, " Electro-Organ c Chemistry," New York, 1926)
+ or for di-or tri-phenylacetic acid (van der Hoek and Nauta, Rec. Trav. Mm.,
+1942, 61, 845; Riccoboni, Gazzetta, 1940, 70, 748). However as the experimental
+ conditions employed in much of the early work in this field cannot now be
+regarded as the most suitable for coupling, further study seemed desirable.
+Moreover an investigation of the competing reactions might well reveal new and
+ valuable synthetic processes. With these considerations in mind an exploratory
+ investigation of the electrolysis of a number of substituted acids has been
+put in hand. The results with N-acylamino-acids are reported in the present
+communication.
+
+Fichter and Schmidt (Helv. Chim. Acta, 1920, 3, 704) demonstrated that
+electrolysis, in aqueous solutions, of [alpha]-amino-acids or their N-acyl or
+N-sulphonyl derivatives led to complete disruption of the molecule and not to
+coupling of the Kolbe type. In the application of the Kolbe reaction to fatty
+acids the use of methanolic either than aqueous solutions has frequently been
+found advantageous, and the present work hits been confined to non-aqueous
+solutions. These have yielded results quite different from those reported by
+ Fichter.
+
+Electrolysis of N-benzoylglycine in methanol furnished in good yield (61%) a
+neutral product which, on the basis of the analytical results and the
+formation of bisbenzamidomethane (II) and formaldehyde on treatment with
+mineral acid, is formulated as N-methoxymethyl-benzamide (I; R = Ph). This
+structure was confirmed by treatment of N-hydroxymethyl-benzamide with
+methanolic hydrogen chloride (cf. UiS.P. 2,364,737; B.P. 557,932), which gave
+ in 30% yield a product identical with that prepared anodically.
+
+(I)     R-CO-NH-CH2-CO2H  --> R-CO-NH-CH2OMe
+
+(III)   R-CO-NH-CHMe-CO2H  -->  R-CONH-CHMe-OMe
+
+(II)    (Ph-CO-NH)2CH2
+
+Anodic  methoxylation also took place readily with N-acetyl- and
+N-carbobenzyloxygylcine, giving N-methoxymethylacetamide (I;  R = Me) and
+-benzylurethane (I; R = PhCH2O) in 78 and 74% yield respectively.  Similarly
+  N-acetyl-  and  N-benzoyl-DL-[alpha]-alanine gave the N-l'-methoxyethyl-
+amides (III;  R = Me and Ph) in 85   and 91%   yield respectively.
+
+The use of solvents other than methanol was also briefly investigated, and
+by electrolysis of N-benzoylglycine in ethanol and isopropanol, and of N-
+benzoyl-DL-[alpha]-alanine in ethanol, the corresponding ethoxy- and
+isoopropoxy-alkylamides were obtained (56—70%).
+
+
+[Page 2855]
+
+These reactions can be generalised as follows :
+X-NH-CHR-CO2H +  R'-OH   ——>    X-NH-CHR-OR' + CO2
+where X is acyl, R hydrogen or methyl, and R' alkyl.    The alkoxyalkyl-amides
+ (acylaminoethers) so produced are of a rare type hard to prepare in other ways.
+   The yields are high aid the products easily obtained as crystalline solids
+ or colourless distillable liquids.
+
+Electrolysis of N-phenylacetylglycine in acetic acid solution yielded N-
+(acetoxymethyl) phenylacetamide (IV) (38%), previously prepared by the action
+ of lead tetra-acetate on phenylacetylglycine (Sus, Annvlen, 1949, 564, 137).
+
+From a few of the electrolyses in alcohols described above, small amounts
+(<15%) [alpha]-diamine derivatives, the products of normal coupling, were also
+ isolated.
+
+Ph-CH2-CONH-CH2-OAc
+(IV)
+
+Ph-CO-NH-CH2-N(CO)2(C6H4)
+(V)
+
+When N-methoxymethylbenzamide (I; R = Ph) and the corresponding ethoxy- and
+isopropoxy-compounds were heated with phthalimide, N-phthalimidomethylbenzamide
+ was obtained. A number of the other l-alkoxyalkyl derivatives described above
+ were also shown to react similarly with phthalimide and were conveniently
+characterised in this way.
+
+The only previous well-authenticated example of anodic alkoxylation was reported
+ by van der Hoek and Nauta (loc. cit.) who isolated methoxydiphenylmethane
+(36% yield) from the products formed by electrolysis of diphenylacetic acid in a
+ mixture of methanol and pyridine. Anodic alkoxylations, in general, are
+reminiscent of the formation of alcohols on electrolysis of fatty acids in
+aqueous solution (Hofer and Moest, Annalen, 1902, 828, 284). The Hofer-Moest
+reaction is promoted by various inorganic anions and can involve attack at
+positions both [alpha] and [beta] to the eliminated carboxyl group (Kruis and
+ Schanzer, Z. physikal. Chem., 1942, 191, A, 301). In the present work, however,
+ no evidence was obtained of [beta]-attack on derivatives of DL-[alpha]-alanine.
+
+Several plausible mechanisms could be put forward to account for these anodic
+alkoxylations is but it is not proposed to speculate on these at present.
+Experiments designed to provide information on this aspect are in hand. It is
+hoped to determine also the structural features which favour alkoxylation and
+related reactions.
+
+After the study of derivatives of [alpha]-amino-acids, attention was directed to
+ acids with the amino- and carboxyl groups separated from one another. Fichter
+and Schmidt (loc. cit.) were unable to detect the normal Kolbe reaction on
+electrolysis of [beta]-alanine or its N-benzo rl derivative in aqueous solution,
+ but, more recently, Ofie (Z. Naturforsch, 1947, 2b, 182, 18 5) has stated that
+electrolysis in methanol of N-acyl or N-alkylsulphonyl derivatives of amino-acids
+ other than those of the [alpha]-series leads to the corresponding derivatives of
+ diamines by normal coupling. This conclusion was based on the results of
+electrolysing [gamma]-phthalimido- butyric acid and derivatives of 6-
+aminohexanoic acid but yields were given in one case only. We find that normal
+ Kolbe coupling occurs in the electrolysis in methanol of a considerable range
+of acylamino-acids other than those of the [alpha]-series. The reaction
+
+X-NH[CH2]n-CO2H   ——>    X-NH-[CH2]2n-NHX
+
+proceeds in about 30% yield where n is 2, 4, or 6. Thus 6-acetamido-,
+6-benzamido-, and 6-carbobenzyloxyamino-hexanoic acids yielded the corresponding
+ derivatives of 1 : 10-diamino-decane (31, 23, and 38% respectively). 1 :6-Bis-
+carbobenzyloxyaminohexane was similarly prepared (35%) from [gamma]-carbobenzyl-
+oxyaminobutyric acid. Electrolysis of N-benzoyl- and N-carbobenzyloxy-[beta]-
+alanine furnished the derivatives of 1 : 4-diaminobutane in 20 and 33 % yield.
+From N-benzoyl-[beta]-alanine a small amount of 2-phenyloxazoline was isolated
+ (in the form of its picrate) as by-product. In general, however, the nature of
+ the side products these reactions remains to be determined.
+
+EXPERIMENTAL.
+
+... [truncated for brevity]
+
+============================================================

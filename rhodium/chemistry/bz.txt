@@ -1,0 +1,187 @@
+Newsgroups: alt.drugs
+From: yshan@bcarh697.bnr.ca (Yogi Shan)
+Subject: Re: Research information
+Message-ID: <1994Jun8.211107.26019@bcarh54a.bnr.ca>
+Date: Wed, 8 Jun 1994 21:11:07 GMT
+
+Lamont Granquist (lamont@hyperreal.com) wrote:
+: synner@cyberspace.com (Ben Lincoln) writes:
+: >Hello. I'm doing a research project on various psychedelics and I was 
+: >wondering if anyone here has information on any of the following substances:
+: >	BZ, STP, and MK-801
+: BZ comes up frequently on alt.drugs, but all i ever bother to remember is
+: that its nasty...
+
+BZ = 3-quinuclidinyl benzillate
+
+Developed in the '50s; stockpiled as a non-lethal
+chemical warfare agent by U.S. DoD until the early '80s.
+
+Related to the JB-series (eg. Ditran) of benzillate
+ester hallucinogens.
+
+Synthesis is simple, if I recall correctly:  esterify
+3-quinuclidinol with benzillic acid.  I believe it
+made a very brief appearance on the streets as either
+"TWA" or "DMZ" during the '60s, according to published
+sources.  I believe the effects are of the deliriant-
+type, similar to datura/belladonna/atropine.
+
+[ correction added 5/97: "Correct statement is that BZ has never been
+  available.  TWA & DMZ were benactyzine & Ditran, but I'm not sure which
+  is which." -- yshan@nortel.ca ]
+
+Further info, including tox data may be found in 
+the "Merck Index", available in the Reference section
+of any decent library.
+
+
+Yogi
+
+=============================================================================
+
+Newsgroups: alt.drugs
+Message-ID: <5QQYd2N3zI@bion101.bionic.zer.de>
+From: M.LIEBERMANN@BIONIC.zer.de (Martin Liebermann)
+Subject: Re: Research information
+Date: Tue, 07 Jun 1994 21:16:00 +0200
+
+[text deleted -cak]
+
+About BZ i found the following news in my archive:
+---------------------snip------------------------------------------------------
+
+Nachricht von    : bwhite@oucsace.cs.ohiou.edu (William E. White )
+Betrifft         : Re: Your worst nightmare
+Erstellungsdatum : 06.02.1994 14:19:29 W+0:00
+
+In article <lonewolfCKqK9q.B9u@netcom.com>,
+Joseph E. Gladstone <lonewolf@netcom.com> wrote:
+>: Sounds like BZ to me. I guess it's closely related to nerve gas. The feature
+>: film "Jacob's Ladder" portrayed BZ experiments in Vietnam during the war.
+>: Jody
+
+>No way - BZ lasts for quite a while depending on doseage, 8 - 72 hours.
+>Cholinergics produce wierd effects, but not predictably nightmarish.
+
+Actually, BZ (quinuclidinol benzilate, or QNB) is an anticholinergic,
+acting specifically on muscarinic receptors.  It is extremely potent (and
+is, in fact, used in research for its antimuscarinic properties).  It
+also seems to have a greater LD50/ED50 ratio than other antimuscarinics
+(such as atropine, scopolamine, etc).  But I wouldn't try it, it's still
+not particularly safe.  Incidentally, it has been reported to tend to
+induce nightmarish hallucinations/delusions (I could never find out why).
+In any case, I can imagine that in a combat situation, one could easily
+find onesself in a bad trip.
+
+
+(Bad ASCII drawing to follow):
+
+
+ASCII drawing of QNB (sorry, not too great.  The two rings on the top
+and bottom are phenyl groups).
+
+
+                          / \\
+            N            ||  |
+          / \ \      O    \ //
+         |   | |     ||    |
+         |   | |__O--C-----C--O--H
+          \ / /            |
+                          / \\
+                         ||  |
+                          \ //
+
+
+
+
+--
+|  Bill White   +1-614-594-3434     | bwhite@oucsace.cs.ohiou.edu             |
+|  31 Curran Dr., Athens OH  45701  | bwhite@bigbird.cs.ohiou.edu (alternate) |
+|  SCA: Erasmus Marwick, Dernehealde Pursuivant, Dernehealde, Middle Kingdom  |
+
+---------------snap-----------------------------------------------------------
+
+
+MK-801 I've never heard of.
+
+Greetings
+
+Martin Liebermann
+
+M.Liebermann@bionic.zer.de  * PGP-key available *   fon/fax +49 +521 446729
+## CrossPoint v3.02 R ##
+
+=============================================================================
+
+Subject: Re: Research information
+Newsgroups: alt.drugs
+Date: Tue, 7 Jun 94 18:52:05 EDT
+
+BZ is the benzoicc acid ester of 3-Quinuclidinol.  I believe it was
+explored as a chemical warfare incapicitating agent by the CIA.
+I know Dr. James Moore who used to be a prof at the U of DE and 
+made compounds for the CIA.  He tells some amazing tales.
+
+Case in point:  He made BZ for the CIA and got some on his
+hands.  He felt very disoriented.  "I felt like the whole world turned 
+sideways on me." This effect lasted for days and so he asked the  big 
+boys at the CIA how to get back.  They told him to take some THA 
+(tetrahydroacridine) that is now used as an experimental Alzheimers 
+treatment.   He claims it straightened him right out.
+
+MK-801 is a sigma opiate receptor agonist (I think) not sure about that one.
+
+Thanks.
+
+--keith
+ 
+
+=============================================================================
+
+Os, this is terrible compound - long-lasting atropine-like 
+hallucinations. Don't do it at home :)) Antidote - tetrahydroacridine.
+
+Synth. - Sternbach, Kaiser, JACS, 74, 2215 (1952) - 
+from 3-quinuclidinol (synth. by Sternbach & Kaiser 
+from methyl isonicotinate and ehyl bromoacetate -> 
+cyclisation this quat. salt with metal potassium - 
+sorry, lost this reference...)
+and chlorodiphenylacetylchloride (synth. - JACS, 
+v.65, 769 (1943))
+
+another QNB-like compd - 
+
+N-ethyl-3-piperidol benzilate, ED near 5 mg on 70 
+kg man, duration 5-6 hours)
+
+Ditran aka N-ethyl-3-piperidol phenyl-cyclopentyl-glycolate,
+ED 5-15 mg, duration 8-12 hours. 
+
+=============================================================================
+
+Synthesis is very simple.  This is from Chemical Abstracts, 1959, vol 53,
+#1385h, under the heading "Esters of diaryl hydroxyacetic acids."  It
+references US Patent # 2,843,593.
+
+"Thus, 15 grams anhydrous methyl benzilate in 50 cc dry toluene is added
+with stirring to 1.2 gram of sodium metal dispersed in 50 cc toluene, the
+mixture kept below 30 degrees (C) by external cooling during hydrogen
+evolution.  (1 hour).  Whereupon 5.2 grams anhydrous 3-quinuclidinol in
+toluene is added, the mixture refluxed 30 minutes (turns reddish), cooled
+to -20 degrees C, (turns pale yellow) extracted 3 times with cold 1-normal
+HCl, made alkaline with 35 cc 15% NaOH, extracted 3 times with chloroform,
+dried over sodium sulfate, evaporated till crystallization begins, 50 cc of
+acetone added, allowed to stand 24 hours in a refrigerator (not further
+defined), and the precipitate filtered off and washed with acetone to give
+84.2% benzilic acid ester of 3 quinuclidinol, melting point 160-161.  "
+
+Also:
+
+Journal of the American Chemical Society, May 5, 1952, page 2215-2219+ 
+
+Also, from the Merck Index, a reference to a WHO (World Health
+Organization) publication, under heading 3-Quinuclidinol.      "Health
+Aspects of Chemical and Biological Weapons (WHO, Geneva, 1970, pp 49-51)
+
+=============================================================================

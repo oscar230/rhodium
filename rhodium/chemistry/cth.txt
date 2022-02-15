@@ -1,0 +1,145 @@
+Cherrie Baby:
+
+CTH - Catalytic Transfer Hydrogenation
+
+This looks like a very promising road to explore for reseach. The chemicals
+involved are just 5% or 10% Pd/C and ammonium formate. How would polymer
+supported Pd work? The reaction conditions are mild [reflux at 100 C.] The
+ammonium formate acts as a hydrogen donor (sodium formate works too). This
+interests me cos' my hardware shop sells ammonium formate solution as
+kettle descaler. It could interest other bees in the UK.
+
+Eg. Ketones were reduced to alkanes [sounds a lot better than
+Wolff-Kischner or Clemmensen for this.]
+
+Alkens are reduced to alkanes.
+
+See J. Chem. Education 74(4), p430 (1997) or Tetr. Lett. 1988, 29, 3741.
+
+--------------------------------------------------------------------------
+Cherrie Baby:
+
+Azides and nitroalkanes to amines and of carbonyl groups to alkanes.
+
+CTH is an easy reduction method to use. It required easy to obtain reagents
+and mild reaction conditions. The only problem is obtaining the catalyst -
+but remember that the catalyst can be reused - almost forever - so that the
+initial investment pays dividends in the long term.
+
+General procedure for the reduction of Azides to Amines [from Ref 2.]
+
+A mixture of 1 mole of azide, 4 moles of anhydrous ammonium formate and 5%
+Pd-C (6-15% of the azide by weight) in 100 mL of methanol is stirred for
+3-4 hours at ambient temperature. The catalyst is removed by filtration and
+the product is isolated by standard procedures. Yield 74-93%.
+
+General procedure for the reduction of nitro-alkanes. [from Ref 1.]
+
+To a stirred suspension of an appropriate nitro compound (5 mmol) and 10%
+Pd-C (0.2 - 0.3 g) [see Note 1] in dry methanol (10 mL), anhydrous ammonium
+formate was added (23 mmol) in a single portion. The resulting reaction
+mixture (slightly exothermic and effervescent) was stirred at room
+temperature for 3-40 min under argon[see Note 2], the catalyst was removed
+by filtration through a celite pad and washed with dry methanol (10 mL).
+The filtrate was evaporated either under reduced or at normal pressure. The
+resulting residue was triturated with water (10 mL - 25 mL), product was
+extracted with an organic solvent (i.e. ether, DCM or chloroform) and dried
+over Na2SO4. The organic layer on evaporation gave the desired amino
+derivative. Some products were directly converted into the HCl-salt with
+ethereal-HCl without evaporation of ether layer.
+
+In most cases the reaction is over within 15-30 min with nitro-alkanes.
+These results demonstrate a rapid versatile and selective reducing system
+for wide variety of nitro-compounds in the presence of other functional
+groups for e.g. -CN. > C=O, etc. Ammonium formate also has the advantages
+of being readily available, inexpensive, stable and nontoxic and can be
+used in conjunction with either Pd-C or Raney-Nickel catalysts. Moreover,
+it may be added to the reaction in a single portion and products can be
+easily separated from the reaction mixture. This procedure will therefore
+be of general use for the preparation of amines specifically in cases where
+rapid mild reduction is required.
+
+A typical procedure for reduction of aldehydes and ketones. [ref. 4]
+
+To a stirred suspension of an appropriate aldehyde or ketone (7.5 mmole)
+and 10% Pd-C (0.350 g) in glacial acetic acid (10 ml), the anhydrous
+ammonium formate (38 mmole) was added in a single portion under argon. The
+resulting reaction mixture was stirred at 110°C +/- 5°C for 10-30 min. The
+progress of reaction was monitored by TLC and GC. After completion of the
+reaction, 50 ml of CHCl3 was added, and the catalyst was removed by
+filtration through a celite pad and washed with CHCl3 (20 ml). The combined
+organic filtrate was washed with water (20 ml x 2), then with saturated
+sodium bicarbonate solution (20 ml x 2), and dried over anhydrous Na2SO4.
+The organic filtrate on evaporation, either under reduced pressure or at
+normal pressure, afforded the desired product, which was further purified
+by column chromatography over silica gel using an ethyl acetate:hexane
+mixture as the mobile phase. The phenolic derivatives were obtained by
+direct evaporation of filtrate after removal of the catalyst.
+
+Yields from a variety of methoxy ring-substituted benzaldehydes to the
+corresponding methoxy-ring substituted toluene varied from 57-70% but
+benzaldehyde required a longer reduction time and gave only 10% yield of
+toluene.
+
+The reduction of acetophenone was sluggish. After a 30 min reaction time
+interval, the product/substrate ratio in the reaction mixture was 1/5
+observed by GC analysis (as described above, except initial temperature
+hold time 3 min). However, upon adding an additional amount of HCO2NH4 and
+increasing the reaction time up to 4 hr. the product/substrate ratio
+changed to 55/44.
+
+In the case of benzaldehyde, 1.5% toluene, 34% benzyl alcohol (retention
+time 4.9 min) and 60% high boiling by-product (retention time 8.9 min) were
+observed in the reaction mixture after 20 min at 85°C. Prolonging the
+reaction time slowly increases the concentration of toluene (Table 1) with
+reduction of benzyl alcohol. This important observation provides evidence
+that reduction of aldehydes and ketones to hydrocarbons proceeds via the
+alcohol intermediate, which is further confirmed by our finding that
+diphenylmethanol is rapidly converted to diphenylmethane under the
+experimental conditions reported here. The poor yield of toluene may be due
+to its low boiling point.
+
+These results demonstrate a rapid, mild and selective reduction of a wide
+variety of aromatic aldehydes and ketones to methylene derivatives under
+moderate reaction conditions and can be an attractive alternative for
+Wolff-Kishner or Clemmensen reduction, provided other functionalities such
+as nitro or halo substituents are not present in the substrate, since these
+groups are readily reduced or displaced. We have found, however, this
+procedure is not applicable for reduction of conjugated olefinic carbonyl
+groups, as the C-C double bond is preferentially reduced.
+
+Other Applications of CTH with Amm. Formate are: dehalogenation of aromatic
+chlorocarbons, deprotection of peptides and reduction of hydrazones and
+azides to hydrazines.
+
+Note 1 - Other catalysts can be used. Polymer supported Pd catalyst should
+         work. Raney Ni often works and Urushibara Ni should work as well
+         [but these are untested].
+
+Note 2 - Argon atmosphere is not required. This is only used by research
+         scientists to create reproducible reaction conditions.
+
+Note 3 - yields varied between 31% to 98%. Lower yields were obtained with
+         low boiling point compounds such as n-propylamine (31%) and
+         n-butylamine (49).
+
+
+References:
+-----------
+1. S Ram & R E Ehrenkaufer. A General Procedure for Mild Rapid Reduction of
+   Aliphatic and Aromatic Nitro Compounds Using Ammonium Formate as a
+   Catalytic Hydrogen Transfer Agent. Tetrahedron Letters 25(32), 3415-3418
+   (1984).
+
+2. S Ram & R E Ehrenkaufer. Ammonium Formate in Organic Synthesis: A
+   Versatile Agent in Catalytic Hydrogen Transfer Reductions. Synthesis,
+   1988, 91-95.
+
+3. A Barrett & C Spilling. Transfer Hydrogenation: A Stereospecific method
+   for the Conversion of Nitro Alkanes to Amines. Tetrahedron Letters
+   29(45), 5733-4 (1988).
+
+4. S Ram & L Spicer. Reduction of Aldehydes and Ketones to Methylene
+   Derivatives using Ammonium Formate as a Catalytic Hydrogen Transfer
+   Agent. Tetrahedron Letters 29(31), 3741-4 (1988).
+

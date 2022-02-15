@@ -1,0 +1,108 @@
+-------------------------------------------------------------------------------
+             Halogenation of methoxybenzenes with N-halosuccinimide
+-------------------------------------------------------------------------------
+
+Procedure for using NIS for iodonating a methoxy benzene:
+
+Dissolve the benzene in DMF at a concentration of 0.1M. cool to 4C on ice bath.
+Add DROPWISE 1.2-2 molar equiv. of NIS disolved in a bit of DRY acetone (GP
+usually used 20ml/gram NIS) over 30 minutes or so. Remove Ice bath and allow to
+react for some time. literature states that the reaction will be over after the
+addition, but experience has proved that to be BULLSHIT. If you have TLC
+analysis capabilities let the RXN go until it is complete. 24 hours and not much
+else will happen for sure. WORKUP: dilute the reaction mix with 2X volume
+NaCl/H2O (conc brine) and extract with Ethyl acetate (or ether). Wash the
+extract 2-3 times with dil. HCl to remove the DMF, then wash with NaHCO3 and
+finally with Na2SO3 (that's sulFITE, not sulFATE) in order to remove the I+ via
+oxidation. Dry and evap to get the crude product. Isolation can be tricky.. GP
+usually runs the shit through a flash silica column, but GP'd bet you don't have
+that kinda equip, sooo distillation would be the easiest method.. under vacuum
+of course.
+
+Also, if you can't get ahold of any sulfite, it can be omitted, but there WILL
+be some I+ in your mix. It can also be removed by repeatedly distilling hexane
+off of your product (I+ is soluable in nonpolar solvents and will distill off
+with the solvent). That will work just fine, hell if you're distilling for final
+purification it might not even matter.
+
+This reaction works will for Methoxy and other electron rich rings. The more
+activation on the ring, the better. Also, it likes the para but will go ortho if
+blocked..
+
+
+
+The use of NXS (N-Halosucccinimid) are OK for making DOX ore 2-CX from DMA/2-CH.
+And you don’t need to use CCl4. It can been done in hexane ore P.ether.
+The yield is around 80-95% See J.Org.Chem. 1993,58,3072-3075
+
+
+
+First of all, GP would like to clairify the DMF/Acetone @ 4C. The reference is:
+J. CHEM. SOC. Perkin Trans I, 1985 p2521
+
+Now at first this seems like an odd reference as it's title has nothing to do
+with what we want, but upon further investigation we find that they needed an
+Iodo derivative of their multiple ringed compound, catechin. They did work with
+both OH and OMe substituted catechin, using NIS to Iodinate their intermediate.
+This procedure was applied to various phenols in GP's research group, with
+varied success. It would seem as though the more electron rich the ring, the
+easier iodination occurs. Attempts with methoxy derivatives were not attempted
+by GP, so he don't know for sure on those. It DOES work for phenols, some better
+than others.
+
+Another procedure:
+Tetrahedron Lett. Vol. 37, No. 23, pp. 4081-4084, 1996
+This paper is titled: "Mild and Regiospecific Nuclear Iodination of
+Methoxybenzenes and Naphthalenes with N-Iodosuccinimide in Acetonitrile"
+
+They apply NIS in MeCN to a good number of Methoxy derivatives, all giving high
+yields (85+) of the iodinated products. GP has not seen success with phenols,
+but that's not what we are concerned with here now is it..dumb GP.
+
+Next..Tetrahedron Lett., Vol 33, No 20, pp. 2883-2886, 1992
+
+This one is a bit 'out there' but this statement caught GP's eye: "Halogenated
+salicylic acid derivatives were prepared by direct halogenation of salicylic
+acids in DMF at ambient temp. using NBS or NIS" They are sticking that Iodine on
+the ring, so it couldn't hurt investigation.
+
+One more NIS ref:
+J. Am. Chem. Soc. Vol 105, No. 9, 1983
+This one is strange. They use NIS and NBS on coumarin, which is another big
+molecule. This one uses glacial acetic acid as the solvent.
+
+-------------------------------------------------------------------------------
+Halogenation of Arenes, Alkenes and Alkynes with HX/H2O2 (or TBHP)
+Tetrahedron 55(36), 11127-11142 (1999)
+-------------------------------------------------------------------------------
+
+Standard Procedure for aromatic halogenation:
+
+A solution of TBHP(tertbutylhydroperoxide)(70% aqueaous, 0.15mL, 1.17 mmol)
+was added to a cooled mixture of HBr (48% aqueaous, 0.2 mL, 1.17 mmol) in
+methanol (5 mL) and the mixture stirred for 5 min.  To this cold solution
+1.17 mmol of the aromatic is added, stirred for 30 min. and then refluxed
+for 6 hours.  Extract with DCM and they purify by column chromatography.
+
+Anisole to 4-BromoAnisole 76%
+1,4-dimethoxybenzene to 2-Br-1,4-dimethoxybenzene  89%
+4-methylphenol to 2-Bromo-4-methylphenol  74%
+
+The following was done with 4 equivalents of TBHP and 4 Eq. HBr
+1,4-dimethoxybenzene to 2,5-diBr-1,4-dimethoxybenzene  98%
+
+With 4 equivalents of H2O2 and 4 Eq. HBr
+1,4-dimethoxybenzene to 2,5-diBr-1,4-dimethoxybenzene  99%
+
+With 4 equivalents of H2O2 and 4 Eq. HCl
+1,4-dimethoxybenzene to 2,5-diCl-1,4-dimethoxybenzene  73%
+
+With 4 equivalents of TBHP and 4 Eq. HCl
+1,4-dimethoxybenzene to 2Cl-1,4-dimethoxybenzene  71%
+This had no detectable dichloro impurity
+
+Its too bad they didn't run more reactions with H2O2
+
+-------------------------------------------------------------------------------
+Synthesis 676 (1977) - Aromatic halogenation with H2O2, HX, 1 eq CaX2 and a PTC
+-------------------------------------------------------------------------------

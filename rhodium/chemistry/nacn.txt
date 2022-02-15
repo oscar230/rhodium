@@ -1,0 +1,83 @@
+-------------------------------------------------------------------------------
+                          Synthesis of Sodium Cyanide
+-------------------------------------------------------------------------------
+
+WARNING! SODIUM CYANIDE IS HIGHLY TOXIC! 
+
+Do not attempt this synthesis without adequate ventilation!
+
+Put 420 g of K4[Fe(CN)6]3 (potassium ferrocyanide(II) trihydrate, FW 422) in 
+a 2 l RB flask. In 1 l chemical glass pour 600 ml of cold water and _carefully_ 
+add 200 ml of conc H2SO4. Pour this hot soln to ferrocyanide, join to the neck 
+of flask 40 cm glass tube (1-1.5 cm diameter) as deflegmator & condenser, attach 
+silicon rubber hose and place the end (of hose, of course) in 181 ml 45% NaOH 
+soln. After 10-min heating at boiling water bath, a strong gas evolution begins; 
+be careful, do it only under good fume hood. From time to time stir NaOH soln 
+in receiver flask (this soln may heated up to 80°C, this is doesn't matter - 
+don't cool). After 1-1:10 reaction complete, no more gas evolution observed. 
+Voila, you get near 260-280 ml 40% NaCN soln. 
+
+PS. Don't poll blue-green residue in sewer system; you sewer pipes will be 
+covered with this viscous mixture, sure. Carefully pour it (under hood!!!) in 
+1-liter glass jar and bury it. In uninhabited place, please.
+
+-------------------------------------------------------------------------------
+Catastrophe:
+     
+Easy Cyanide Synth
+
+In any General Chem book they always some example in the synth of a cyanide.
+Here's what mine says...
+
+BaO + 3C + N2 ----> Ba(CN)2 + CO
+      HEAT
+
+Cyanides can be made by the action of carbon and nitrogen on metallic oxides.
+The mixture is heated to a red heat and is usually done in a stream of N2. But
+this reaction really doesn't help us much, because we want Sodium/Potassium
+Cyanide, but we don't have the proper oxides, right? Well, what's another
+metallic oxide? Hmmmmmm maybe Iron Oxide? That's right good old RUST! Here's
+what you should do...
+
+First, here's some stuff you'll need:
+
+Iron Oxide (rust)
+Carbon (ummmmm, Charcoal!)
+Sodium/Potassium Carbonate (Pool neutralizer)
+Nitrogen (well the Earth's atmosphere is 70% N2, so that should be fine)
+Crucible (you should get one of these, but I guess you can use a tin can)
+Bunsen burner (propane blowtorch)
+
+Here's how it works:
+1. First we convert the carbonate to the ferrocyanide.
+2. Then we convert the ferrocyanide into the cyanide.
+
+Ferrocyanide:
+Take 5 parts(by weight) of rust and 10 parts(by weight) of charcoal and 10
+parts(by weight) of Sodium Carbonate (make sure they're powdered up real nice)
+and mix them together good. Fire up a crucible to red heat, then pour the mix
+in. Now everything should kinda fuse together and redden, and every once in
+awhile you'll see purplish flames shoot up from the mixture. Stir with a fork
+until the flaming stops. Turn everything off and let cool. Chip the mixture into
+a large amount of HOT water and stir vigorously. Filter off the unreacted carbon
+and mostly unabsorbed iron. Evaporate water to leave the powdered ferrocyanide.
+
+Cyanide:
+The ferrocyanide is converted to the cyanide by mixing 8 parts of the
+ferrocyanide with 3 parts of the carbonate. Pour the mixture into the red hot
+crucible. The powder will melt and bubble and there will be a solid portion and
+a liquid portion. When the bubbling stops, pour the liquid portion onto a hard
+surface (marble countertop). It will solidfy on the surface and should be broken
+up and stored in a container. This will be your cyanide, and should be
+relatively pure. There are other ways of making the cyanide from the ferro, look
+at rhodiums page. It is a real good idea to have a supply of sodium thiosulphate
+or amyl/butyl nitrite handy as cyanide poisoning can occur easily. Oh and do it
+OUTDOORS!!! I don't think I need to tell you the fumes are toxic!
+
+The synth does have some complications. For me, sometimes I get it and sometimes
+I just don't. I really don't know why, any ideas?
+
+Refs:
+General Chemistry; Linus Pauling, 1970
+
+-------------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+Piperidin
+
+(Hexahydropyridin, Pentamethylenimin).
+
+ 
+F, T
+C5H11N, MR 85,14. Farblose, leicht brennbare, fischig bis Ammoniak-artig 
+riechende Flüssigkeit, D. 0,8622, Schmp. -13 °C, Sdp. 106 °C, FP. 16 °C mit 
+Wasser mischbar, lösl. in Alkohol, Ether, Benzol, Chloroform; WGK 2 
+(Selbsteinst.). P. ist bas., bildet Komplexe mit Schwermetall-Salzen u. 
+reduziert ammoniakal. Silbernitrat-Lösung. Die Dämpfe reizen u. schädigen 
+stark die Augen, die Atemwege sowie die Lunge u. verätzen außerdem die Haut; 
+Lungenödem möglich. Kontakt mit der Flüssigkeit bewirkt sehr starke Reizung 
+der Augen sowie der Haut; P. wird auch über die Haut aufgenommen. Das 
+P.-Grundgerüst ist Baustein einer Reihe wichtiger Alkaloide 
+(Piperidin-Alkaloide) wie z. B. Anabasin, Arecolin, Pelletierin, Piperin, 
+Coniin, Lobinalin, im weiteren Sinne auch Cocain u. der Tropan-Alkaloide.
+
+Herst.: Durch elektrochem. Red. von Pyridin.
+
+Verw.: Lsm., Zwischenprodukt bei Synth. von Pharmazeutika, 
+Pflanzenschutzmitteln u. Riechstoffen, als Härter für Epoxidharze,
+Katalysator für Kondensationsreaktionen, Kautschukhilfsmittel u. als
+Reagenz auf Aldehyde, Au, Ce, Mg, Zr.
+
+Lit.: Beilstein E V 20/2, 3-21 # Hommel, Nr. 718 # Kirk-Othmer (4.) 20, 648 #
+Merck-Index (12.), Nr. 7621 # Ullmann (4.) 7, 383; (5.) A 1, 359362.
+
+
+E piperidine
+F pipéridine
+I = S piperidina
+Z 2933 32
+CAS 110-89-4
+G 3
+
+
+Quelle: Römpp Lexikon Chemie  Version 2.0, Stuttgart/New York: Georg Thieme Verlag 1999

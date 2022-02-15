@@ -1,0 +1,39 @@
+Isolierung von Piperin aus schwarzem Pfeffer
+============================================
+
+15 g gepulverter schwarzer Pfeffer wurden in einer Soxhlet-Apparatur (Hülse mit Watte
+verschließen) mit 200 ml Dichlormethan 6h lang extrahiert. Das Extrakt wird am
+Rotationsverdampfer vollständig eingeengt und mit 15 ml einer 10 %igen ethanolisch-
+wäßrigen (1+1) Kaliumhydroxidlösung versetzt. Nach der Filtration durch ein Faltenfilter
+bewahrte man das Filtrat bei 0-4 °C auf. Die ausgefallenen gelben Kristalle (evtl. auch im
+Faltenfilter!) wurden über eine Glasfritte abgesogen und man wusch mit wenig Wasser nach.
+Man erhielt 500 mg Piperin in Form gelblicher Kristalle.
+
+Anmerkungen zum Versuch:
+------------------------
+1. Soxhlet-Hülse wiederverwenden.
+2. Soxhlet-Hülse mit Watte abdecken, sonst spritzt Pfeffer heraus.
+3. Dichlormethan wiederverwenden.
+4. Filtration muß mittels Faltenfilter erfolgen.
+5. Ein Großteil des Produkts kristallisiert häufig bereits im Faltenfilter.
+Schmelzpunkt: 128-129°C.-
+
+IR
+--
+(KBr): v~ = 3480 cm -1 , 2940, 2854, 1634, 1612, 1583, 1492, 1448, 1365, 1253, 1194,
+1134, 1113, 1032, 997, 929, 847, 831, 804, 718.-
+
+1 H-NMR
+-------
+(CDCl3): delta = 1.62 (m, 6H), 3.60 (m, 4H), 5.97 (s, 2), 6.44 (d, 1H), 6.77 (m, 3H),
+6.91 (dd, 1H), 7.00 (d, 1H), 7.42 (ddd, 1H).-
+
+Literatur:
+----------
+E. Stahl, W. Schild, Isolierung und Charakterisierung von Naturstoffen,
+Gustav Fischer Verlag, Stuttgart, 1986.
+
+
+[http://www.chemie.uni-bremen.de/montforts/Basisoperationen.pdf]
+
+

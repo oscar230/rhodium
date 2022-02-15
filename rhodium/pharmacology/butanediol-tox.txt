@@ -1,0 +1,62 @@
+--------------------------------------------------------------------------------
+                                   TOX-54
+
+     NTP Summary Report on the Metabolism, Disposition and Toxicity of
+                     1,4-Butanediol (CAS No. 110-63-4)
+                         Chemical Formula: C4H10O2
+--------------------------------------------------------------------------------
+
+1,4-Butanediol is an industrial chemical used in the manufacture of other 
+organic chemicals. It was nominated by the National Cancer Institute and
+selected for evaluation by the NTP because of high production volume, the
+potential for worker exposure, the lack of adequate toxicological
+characterization, and the lack of evaluation for carcinogenic potential.
+
+As documented in the scientific literature, 1,4-butanediol is rapidly 
+absorbed and metabolized to gamma-hydroxybutyric acid in animals and humans. 
+A metabolism and disposition study conducted in F344/N rats by the NTP
+confirmed the rapid and extensive conversion of 1-[14C]-1,4-butanediol to
+14CO2. Because of this rapid and extensive conversion, the toxicological
+profile of 1,4-butanediol reflects that of gamma-hydroxybutyric acid. Gamma-
+hydroxybutyric acid is a naturally occurring chemical found in the brain and 
+peripheral tissues which is converted to succinate and processed through the 
+tricarboxylic acid cycle. Although the function of gamma-hydroxybutyric acid 
+in peripheral tissues is unknown, in the brain and neuronal tissue it is 
+thought to function as a neuromodulator. gamma-hydroxybutyric acid readily 
+crosses the blood-brain barrier, and oral, intraperitoneal, or intravenous 
+administration elicits characteristic neuropharmacologic responses. These 
+same responses are observed after administration of 1,4-butanediol.
+
+The lactone of gamma-hydroxybutyric acid, gamma-butyrolactone, is also 
+rapidly converted to gamma-hydroxybutyric acid by enzymes in the blood and 
+liver of animals and humans. gamma-butyrolactone was previously evaluated 
+by the NTP in 14-day and 13-week toxicology studies and 2-year toxicology 
+and carcinogenesis studies in F344/N rats and B6C3F1 mice. No organ-specific
+toxicity occurred in the toxicology studies. In the carcinogenesis studies,
+an equivocal response occurred in male mice, based on a marginal increase
+in the incidence of pheochromocytomas of the renal medulla. Because of the
+rapid and extensive conversion of gamma-butyrolactone to gamma-hydroxybutyric 
+acid, the evaluation of gamma-butyrolactone was in fact an evaluation of 
+gamma-hydroxybutyric acid.
+
+This summary report presents a review of the current literature which documents 
+that both 1,4-butanediol and gamma-butyrolactone are rapidly metabolized to 
+gamma-hydroxybutyric acid, and the pharmacologic and toxicologic responses to 
+these chemicals are due to their metabolic conversion to gamma-hydroxybutyric 
+acid. Because the toxicity and carcinogenicity of gamma-hydroxybutyric acid was 
+fully evaluated in the NTP studies of gamma-butyrolactone, and a lack of organ-
+specific toxicity or carcinogenic potential was demonstrated, it is concluded 
+that there is a high likelihood that 1,4-butanediol would be negative in a 
+similar set of studies. For these reasons, it is the opinion of the NTP that 
+1,4-butanediol should be considered not carcinogenic in animals and no further 
+evaluation of 1,4-butanediol is needed at this time.
+
+Synonyms: Butanediol, butane-1,4-diol, 1,4-butylene glycol, 1,4-dihydroxybutane, 
+1,4-tetramethylene glycol, butylene glycol, tetramethylene 1,4-diol
+
+Report Date: May 1996
+
+--------------------------------------------------------------------------------
+
+
+

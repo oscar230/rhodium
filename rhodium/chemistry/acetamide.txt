@@ -1,0 +1,213 @@
+ChemHack:
+
+I've had pretty shitty yields trying to make Acetamide at home. The amounts
+used in the reaction below were experimentally derived so your milage may
+very with the quality of starting materials. RatHead provided the
+motivation for this experiment and I desparately seek his or anyone's
+advice on how to improve it.
+
+Materials:
+Aqua Ammonium (low grade? $8/gallon)
+Kodak Glacial Acetic Acid
+Large pot of cool water (10 quart or larger is good)
+Glass graduated cylinder
+Distilling apparatus
+2 glass mayonaise jars
+Long stem funnel (improvised via short funnel w/tubing)
+
+
+Step One: Ammonia Acetate
+
+Measure 42ml Ammonium and pour into jar #1. Put the jar in the freezer to
+chill. Measure 30ml Glacial Acetic Acid, submurge entire glass graduated
+cylinder in large pot of cool water. For better stability, make sure no air
+bubbles are trapped under the base of the cylinder.
+
+Place funnel into graduated cylinder so that the end extends well below the
+level of the Acetic Acid. Pour Aqua Ammonium into funnel, the first few
+drops will react very vigorously and may spit Ammonium back out of the
+funnel so slow at first or wear goggles. Execpt for the first little bit,
+the Ammonia can be added very quickly this way. Considerable heat is
+evolved but the water bath effectivly cools the cylinder. Bubbles are
+formed but are mostly absorbed by the liquid as they rise, this is the
+reason for the long funnel.
+
+Once all of the Ammonium has been added (should take less than 1 minute) a
+sweet candy smell may be present in addition to the lingering smell of
+Ammonia. Don't put your nose over it just in case. Pour the solution into
+Jar #2 and repeat the process two more times. The time from start to
+clean-up is 30 minutes or less.
+
+
+Step Two: Acetamide
+
+Ammonium Acetate degrades into Acetamide at 88C. I don't really know how
+long it takes to happen so I guessed one hour. This is only a guess with no
+experiment to back it up. Anyway, pour the contents of Jar #2 into a
+boiling flask. Boil some tap water in the large pot that you used for a
+cool water bath in step #1. Heat the boiling flask containing the combined
+liquid from the three iterations of step #1 in the boiling water for an
+hour. Don't let the water get into the flask, also don't let all the water
+boil out of the pot. If there is any excess free Ammonia it will boil out
+now so be prepared for a stink. Rigging up an odor control device now will
+also benifit you in the next step but it is not necessasary.
+
+
+Step Three: Recovery/Purification
+
+Set up your rig for fractional distillation with a water cooled condenser.
+The temperature will rise as you heat the solution, it will begin boiling
+in the neighborhood of 108C but the temperature will quickly rise under
+strong heating until it gets to 118C. It will stick at 118C for a while as
+Acetic Acid comes over. Soon, the temperature begins to rise again and the
+smell, which until this point was getting better, will begin to get worse.
+Clear watery distillate will come over all the way up to 200C. I don't know
+what it is but it smells pretty nasty. Third party noses have described it
+as the smell of "rotting ammonia" and "rotting food with ammonia." I think
+it smells like my urine after a night in the coffee house drinking java
+after java and smoking cigarettes.
+
+Replace the collection flask when it gets to 200C and collect everything
+between 200 and 225. It is still a clear liquid and there is no doubt that
+there is some of that smelly stuff in there with it. Stopper the flask and
+set it aside to cool down. When it cools down somewhere below 80C it will
+form white crystals.
+
+If you just heat it to 200C and keep everything that is left it will still
+crystalize but it seems to melt at a lower temperature and never be quite
+dry. Actually, you can usually stop heating at 150C and it will crystalize
+at room temperature but it will melt in your hand. The MSDS for Acetamide
+says that it melts at 81C.
+
+--------------------------------------------------------------------------
+				 Org Syn Coll Vol 1, p3-4
+                                 ACETAMIDE
+                        CH3CO2NH4 => CH3CONH2 + H2O
+               Submitted by G. H. COLEMAN and A. M. ALVARADO.
+                 Checked by H. T. CLARKE and E. R. TAYLOR.
+--------------------------------------------------------------------------
+
+                                1. Procedure
+
+    In a 5-l. flask is placed 3 kg. (2860 cc., 50.0 moles) of glacial
+acetic acid and to this is added a weight of ammonium carbonate
+corresponding to 400g. (23.5 moles) of ammonia (Note 1). The flask is
+fitted with a one-hole stopper holding an efficient fractionating column
+90 cm. long with condenser and receiver. An air condenser 150-200 cm. long
+may be employed. The mixture in the flask is heated to gentle boiling and
+the flame so regulated that the rate of distillation does not exceed 180
+cc. per hour. The distillation is continued in this way for eight to ten
+hours, until the temperature at the head of the column reaches 110ø. The
+distillate, which is a mixture of water and acetic acid, amounts to
+1400-1500 cc. The receiver is changed, the flame under the flask is
+gradually increased, and the distillation is continued at about the same
+rate until the temperature at the head of the column rises to 140ø. The
+distillate, which amounts to 500-700 cc., is largely acetic acid and may be
+used in the next run.
+
+    The contents of the flask are transferred to a 2-l. flask for
+fractional distillation, having a column 40 50 cm. long, and distilled
+under atmospheric pressure, using an air condenser. The fraction boiling
+below 210ø, amounting to 250-300 cc., is collected separately. The material
+remaining in the flask is nearly pure acetamide and may all be distilled,
+1150-1200 g. passing over at 210-216ø. By redistilling the fraction boiling
+below 210ø, the yield may be increased to 1200-1250 g. (87-90 per cent of
+the theoretical amount). The acetamide thus obtained is pure enough for
+most purposes, but if a purer product is desired it may be recrystallized
+from a mixture of benzene and ethyl acetate; 1 1. of benzene and 300 cc. of
+ethyl acetate are used for 1 kg of acetamide (Note 2). Colorless needles
+melting at 81ø are thus obtained (Note 3). The solvent and the acetamide it
+contains may be recovered by distillation.
+
+                                  2. Notes
+
+    1. Ammonium carbonate of commerce is often extremely impure, and care
+must be taken to obtain a representative sample for the determination of
+the ammonia content by titration with standard acid. The ammonium carbonate
+used in this preparation contained 27.2 per cent of ammonia, and 1470 g.
+was used in each run.
+
+    2. Crystallization of acetamide, by solution in hot methyl alcohol (0.8
+cc. per g.) and dilution with ether (8-10 cc. per g.), has been recommended
+as the best method of purification(1).
+
+    3. As acetamide is somewhat hygroscopic, it cannot be exposed to the
+air unless precautions are taken to have the air dry.
+
+
+                         3. Methods of Preparation
+
+    Acetamide can be prepared by the rapid distillation of ammonium acetate
+(2) by heating ammonium acetate in a sealed tube and distilling the product
+(3) by treating acetic anhydride with ammonia (4) by heating a mixture of
+ammonium chloride and sodium acetate to 240ø (5) by the action of cold
+aqueous ammonia on ethyl acetate (6) by boiling a mixture of glacial acetic
+acid and ammonium thiocyanate for four days (7) by saturating glacial
+acetic acid with dry ammonia and then refluxing (3) by distillation of
+ammonium acetate through a reflux condenser filled first with glacial
+acetic acid and then with aniline until the temperature of the mixture
+reaches 220ø (9) by passing a stream of ammonia through heated acetic acid
+(10) and from formamide and hydrogen at 200-500ø (11).
+
+    The procedure described is based on the method of Noyes and Goebel (12)
+in which equimolecular proportions of ammonium acetate and acetic acid are
+heated together, the acetic acid having been shown to accelerate both the
+dehydration of ammonium acetate and the hydrolysis of acetamide.
+
+    1  Wagner, J. Chem. Education 7, 1135 (1930).
+    2  Kundig, Ann. 105, 277 (1858).
+    3  Hofmann, Ber. 15, 977 (1882).
+    4  Gerhardt, Ann. chim. phys. (3) 37, 327 (1853).
+    5  Dunlop, J. Am. Chem. Soc. 24, 762 (1902).
+    6  Phelps and Phelps, Am. J. Sei. (4) 24, 429 (1907)
+    7  Sehulze, J. prakt. Chem. (2) 27, 514 (1883).
+    8  Grant and James, J. Am. Chem. Soc. 39, 933 (1917).
+    9  Franeois, J. pharm. ehim. (6) 23, 230 (1906) [Chem. Zentr. I, 1089
+       (1906)].
+    10 Mitchell and Reid, J. Am. Chem. Soc. 53, 1879 (1931).
+    11 Soc. franchise de catalyse g‚n‚ralis‚e, Fr. pat. 708,084 [C. A. 26,
+       995 (1932)].
+    12 Noyes and Goebel J. Am. Chem. Soc. 44, 2286 (1922); Rosanoff,
+       Guliek, and Larkin, ibid. 33, 97i (1911): Hitch and Gilbert. ibid.
+       35. 1780 (1913).
+    
+--------------------------------------------------------------------------
+
+Posted to the Hive 12-07-98 by Drone #342
+
+Acetamide is a useful compound. When reacted with bleach, it makes
+methylamine gas. So you may say to yourself: "Damb! How do I get me some of
+that?". Aside from purchasing it, its incredibly easy to make! Here's how:
+
+44.055 g (0.5 moles) of ethyl acetate is combined at room temperature with
+59 grams of concentrated aqueous ammonia (1 mole; conc.=approx 29%) in an
+Erlenmeyer flask. A stirbar is added, and the flask is stoppered. The flask
+is stirred at room temperature for three days. At this point the contents
+of the flask is distilled. At standard pressure, aceamide will distill over
+between 200-220°C. If a vacuum is used (highly recomended), pure acetamide
+distills at 158°C (100 torr), 136°C (40 torr), 120°C (20 torr), 105°C 
+(10 torr), or 92°C (5 torr).
+
+Acetamide is a white, crystalline substance substance that readily disolves
+in water. It has a melting point of 81°C.
+
+-------------------------------------------------------------------------------
+
+Practical Organic Chemistry, Sudborough and James, 1931, p179-180, Exp. #131
+
+20g dry acetamide is mixed with 54g Bromine in a 500ml flask. A solution of 20g 
+KOH in 200ml H2O is added dropwise with the flask resting in an ice bath. (Look 
+for a red-brown->yellow color change) Disolve 60g KOH in 100ml water, cool, and 
+add to a 1l RBF. Add the acetbromide dropwise to the flask w. a thermometer 
+checking that the temp doesn't exceed 75C. Once addition is complete, and when 
+the rxn mix begins cooling, maintain a temperature of 65C on a water bath for 30 
+minutes. Set the flask up for distillation, in the receiving flask place 100ml 
+of dilute HCL (probably; calc. 2x mol's needed to form salt of a 60/40 MeAm/NH3 
+mix). Distill the MeAm+NH4 out of the flask and stop when the distillate coming 
+over is no longer alkaline (how to test that?). Evaporate the H2O out of the 
+HCl+distillate on a water bath (75C). Dissolve the colorless residue in hot 100% 
+EtOH (It MUST be 200proof) NH4Cl will be insoluble. Filter off what should only 
+be a few grams of NH4Cl. Pour the EtOH into a beaker and cool. Later filter out 
+the Methylamine and dry it in a dessicator.
+
+-------------------------------------------------------------------------------

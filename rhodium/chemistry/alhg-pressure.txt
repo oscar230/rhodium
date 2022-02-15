@@ -1,0 +1,217 @@
+-------------------------------------------------------------------------------
+                    Al/Hg Reductive amination under pressure
+-------------------------------------------------------------------------------
+Psychokitty:
+
+The following submission is one which strange indeed. It is a synthesis of
+methamphetamine via the standard Al-Hg reduction of P2P and methylamine, but
+with a twist: it does so under 3 atm of H2 pressure. The information is limited
+in the abstract and obviously, to get more information, those interested in the
+method with have to refer to what looks like a French patent. Fr. patent
+#844,228. The CA abstract is vol. 34, 7544 sec 7. Interestingly, in the reaction
+is used less solvent (considerably less!)and would you believe it? The reaction
+uses much much less activated Al!!! Stirring would thus be a cinch, as would
+final work-up! My guess is that the hydrogen necessary to effect the increased
+pressure would be generated in situ from the hydrolysis of the Al. My guess is
+that a modification of this reaction could be accomplished using the your SRV,
+spiceboy. All you would need is to constantly monitor the amount of H2
+generation in the vessel and its pressure. Agitation would be necessary, but the
+length of the reaction may be short due to the small amount of Al being used in
+the reaction. Anyway, here are the experimental details:
+
+Phenylacetone 14 parts, ethylether 50 parts, 15 parts of alcohol containing 20%
+methylamine, 5 parts of H2O, and 2 parts activated Al are reacted together under
+3 Ibs of H2 pressure. Work-up is standard.
+
+-------------------------------------------------------------------------------
+
+Chemhack:
+
+The best thing about this is that you could vastly reduce the amount of
+methyalmine that escapes into the atmosphere. The ketone would be reacting under
+a blank of H2 and Methlamine gas and you could just shake or swirl the damned
+vessel!
+
+-------------------------------------------------------------------------------
+Psychokitty:
+
+Now that I have more time, I can elaborate a little more about the ways which
+this reaction might successfully be carried out. First of all, the ether used in
+the reaction might be unnessary and actually dangerous for the initial trial
+run. I personally would substitute everclear in its place and omit the 5 parts
+water that is needed in the reaction. Secondly, the interior of the SRV is going
+to initially contain atmospheric gas (nitrogen, oxygen, etc.), so to limit its
+presence to a minimal degree, I would squeeze the bottle as much as possible so
+that when the hydrogen is formed, there will be room for it to expand. One
+problem I forsee with this reaction is in regard to the alcoholic 20%MeNH2. The
+amount of water used in this reaction is very specific, so I figure the
+alcoholic amine solution will have to be made from scratch. Luckily, this can
+easily be accomplished by dripping an aqueous solution of MeNH2 onto solid KOH
+and then pumping the evolved gas into a container holding a suitable amount of
+alcohol. Details to this proceedure can be found somewhere in the first three
+volumes of ORGANIC SYNTHESES. Look under "methylamine" in the index of each
+volume. Find the relavant pages, and there will be somewhere in one of them,
+experimental details to the sythesis of the alcoholic methylamine solution
+mentioned above. Another solution to this problem would be to use the more
+common MeNH2-HCl and neutralize it ala Shulgin. Unfortunately, that method of
+neutralization probably won't work because of the volume of water that would
+necessarily accompany the 25%NaOH base solution. A much better alternative would
+be to use the more up-to-date neutralizing agent used in similar reductive
+amination reactions, triethylamine. It is a stronger base than methylamine, so
+it should work well. It's also miscible with water and alcohol, and boils in the
+>80degC range, making it even more ideal. On the downside, its presence may take
+up valuable solubility space in the already minimized alcohol volume, and thus
+might account for significant methylamine losses from the reaction mixture.
+Perhaps an increase in solvent volume might help to avoid this predictable
+complication. As for the standard SRV set-up, depending on the length of the
+reaction, I think the empty 2 liter coke bottle will do just fine. However, if
+the reaction time-frame exceeds 2 hours, then another reaction vessel will have
+to be suitably fashioned out of some other common container -- one that will
+have to allow magnetic stirring of the solution. As for the classic use of a
+tire valve, I suppose it could be made to work, but continuous monitoring of the
+H2 pressure build-up would be absolutely mandatory. Therefore, it may be best to
+build a modification of Fester's hydrogenation device using a pressure gauge,
+along with the necessary adapters used to connect all the external gas control
+devices to the SRV-bottle's cap (epoxy-glued, if necessary) which can then be
+efficiently connected to the SRV by screwing on the cap. The side fitting to the
+adapter will be connected on each side by two swag-lock air valves. The cost of
+making these few changes to the original SRV design (which I christen the AA-SRV
+[Activated-Aluminum-Spiceboy-Reaction-Vessel; or,
+Amalgamated-Aluminum-Spiceboy-Reaction-Vessel -- whichever one is fine with me,
+take your pick]) based on prices listed in the industrial catalogue sitting
+before me, is somewhere in the neighborhood of 25 dollars. Maybe less if you can
+find the stuff locally. I've seen many of the parts at various hardware stores
+in my city. For illustrations of the general way an AA-SRV can be arranged,
+refer to Fester's SOMM under the chapter describing reductive amination using
+the bomb. Beware of Fester's classic recommendation of using a champagne bottle
+as a suitable hydrogenation reaction vessel. Not only is there not even the
+smallest instruction on how to attach the pressure gauge and valves securely to
+the top of the bottle, but, because the bottom of the bottle is curved, magnetic
+stirring is next to impossible to do. This is because the curvature impedes the
+stir-bar's ability to rotate, thus prohibiting the creation of a satisfactory
+vortex. With the new AA-SRV design, H2 pressure should be easy to monitor. As it
+builds beyond 3 atm (30 Ibs, I think), excess gas pressure can be released by
+turning open slightly one of the swag-lock valves. Once the pressure is back
+down to 3 atm, the valve can be shut. If pressure builds up again, the same
+proceedure can be repeated. Eventually the reaction will die down, but as far as
+how long it is supposed to continue is a question best answered by a careful
+examination of the original French patent. Luckily, anyone who can read Spanish
+can probably make at least a rough translation. French chemistry articles are in
+my experience pretty easy to decipher, as all of the important shit (weights,
+yields, etc. etc.) are pretty much written in the same fashion as chemistry
+papers printed in English. So someone with access to foriegn patents -- please,
+get ahold of the French patent in question!
+
+One other perplexing issue: What can one reasonably expect the reaction
+temperature of this new method to be? Does the initial point of the reaction
+consist of a brief but dramatic rise in temperature, or does an initial
+temperature of about 25degC remain constant throughout the course of the
+reaction? And if there is an initial rise in temperature, how long does it last?
+Ten minutes? One hour? Regardless, would it be vigorous enough to warrant
+keeping an ice bath nearby? And if significantly high enough, would this
+increase in temperature complicate the concommitant maintenance of the gas
+pressure at 3 atm? Well, I'm just dying to know. But unfortunately, I don't have
+anywhere near the resources necessary to even try to attempt this new Al-Hg
+reduction method. Those of you presently working with Al-Hg as a means to
+reducing your precious MD-P2P to the ever-desirable MDMA, you should consider
+taking seriously the information contained in this post.
+
+-------------------------------------------------------------------------------
+ChemHack:
+
+From my limited experience with Al/Hg I'd say that the pressure would build up
+almost immediatly upon adding the NaOH solution to the amalgam/h20/MeAm.HCl
+mixture. The initial burst of pressure would be methylamine gas. Dumping a mole
+of NaOH onto a mole of MeAm.HCl is gonna release a freakin' mole of gas in very
+short order. That gas that won't just stay in the alcohol/h20.
+
+-------------------------------------------------------------------------------
+Labrat:
+
+The procedure in this patent is almost the same as the one used by bikers to
+make Ice. They just dumped some P2P, methylamine solution, alcohol and activated
+aluminum in a big steel barrel and sealed it. Then they rolled the barrel into a
+river. Sometimes the barrel exploded, especially when the bikers didn't roll it
+fast enough into the river. I really like this procedure, thanks!
+
+-------------------------------------------------------------------------------
+Psychokitty:
+
+Just wanted to post another possibly useful variation to the pressurized Al-Hg
+method. Since agitation of the AA-SRV might be a bit difficult and hard on the
+arms, I thought it might be useful to lower reaction time and increase the
+yields by applying ultasound to the sceme of the reaction. Ultrasonic bath
+cleaners are readily obtainable for about 300 to 400 dollars. Some, maybe
+cheaper. I know this is a big start-up expense, and the money issue is going to
+turn alot of you all off right away, but there is alot of information to support
+the idea that using an ultrasonic bath cleaner as a way of applying ultrasound
+to chemical reactions, markedly makes a positive difference. All you would have
+to do is immerse the AA-SRV during the reaction phase into the ultrasonic bath
+cleaner's water solution and allow the reaction to continue as usual. The
+ultrasound will cause cavitation, and possibly optimize the reaction conditions.
+No stirring or agitaion will be required. Don't believe in the potential? Refer
+to the following citations if you don't:
+
+Journal of Chemical Education Vol. 63, No.5, pp.427-429, May 1986. "Sythesis
+with Ultrasonic Waves"
+
+And the review "Sonochemistry -- The Use of Ultrasonic Waves in Sythetic Organic
+Chemistry" published in SYNTHESIS 1989, pp.787-813.
+
+The first reference is particularly relevant as it exemplifies the application
+of ultrasound to a hydrogenation experiment whereby the reduction was achieved
+WITHOUT any pressure at room temperature. The catalyst was Pt/C.
+
+-------------------------------------------------------------------------------                         
+Labrat:
+
+Since the pigs already know about the Al/Hg reduction method according to this
+French patent, it's only fair we share this with everybody, right?
+
+And it is a real good method, the ketone, methylamine and aluminum are used in
+equivalent amounts and the yield of meth is good. Since the SRV everybody knows
+pressure reactions, creating the 3 atm hydrogen pressure shouldn't be a big
+problem. Here it is. Enjoy!
+
+French patent no. 844,228: "PROCESS FOR THE PREPARATION OF AMINES"
+
+It's already known that reducing hydroxyketones or polycarbonylic compounds
+with activated aluminum and ammmonia derivates leads to formation of the
+corresponding aminoalcohols. This reaction is favored because of the fact that
+hydroxyketones and polycarbonyls are apt to form relatively stable imines.
+
+The present invention is about preparing amines by reduction of ketones in the
+presence of ammonia (derivates) with the aid of activated aluminum and water.
+
+Because ketones don't form stable imines with ammonia (derivates), one should
+not attend to this, but use a relatively moderate reductive procedure, so the
+ketones can be transformed in the corresponding amines. The resulting products
+of this procedure are important pharmaceuticals. The preparation is
+representative for other pharmaceuticals.
+
+Example 1: To 14 g phenylacetone dissolved in 50 g ether is added 15 g 20%
+           alcoholic methylamine solution, another 50g ether, 5g water and 2g
+           activated aluminum. The mixture is put under a hydrogen pressure of
+           3 atm. The reaction is done when all the aluminum has been consumed.
+           The aluminum hydroxide is removed by filtration and the filtrate is
+           extracted with hydrochloric acid. By neutralising with alkalic
+           solution 14 g of crude base is obtained. Distillation gives the pure
+           phenylisopropylmethylamine.
+
+Example 2: [irrelevant}
+
+Example 3: To 20 g phenylacetone dissolved in 150 g ether, a solution of 10 g
+           allylamine in 50 g ether and 7 g activated aluminum is added. In
+           three portions is added 15 g water. At the same time one stirs
+           vigorously under reflux. After the reaction is done, the aluminum
+           hydroxide is filtered off. The residue is distilled to give
+           phenylisopropylallylamine.
+
+Example 4: To 28 g phenylacetone in 100 g ether is added a solution of 20 g
+           benzylamine in 25 g ether, then 5 g of activated aluminum and 10 g
+           water. The mixture is stirred and secured under a pressure of 3 atm.
+           hydrogen. After completion of the reaction, the aluminum hydroxide
+           is filtered off and the residue distilled under reduced pressure to
+           give phenylisopropylbenzylamine.
+                          
+-------------------------------------------------------------------------------   

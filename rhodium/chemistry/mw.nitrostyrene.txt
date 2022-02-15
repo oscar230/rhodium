@@ -1,0 +1,274 @@
+--------------------------------------------------------------------------------
+
+		Selective Nitration of Styrenes with Clayfen and Clayan:
+			A Solvent-free Synthesis of b-Nitrostyrenes
+
+			  Tetrahedron Letters 39, 3977-3980 (1998)
+
+		 Rajender S. Varma, Kannan P. Naicker and Per J. Liesen
+
+
+Abstract: A facile solvent-free synthesis of b-nitrostyrenes is described
+from styrene and its substituted derivatives using inexpensive 'doped' clay
+reagents, Clayfen and Clayan.
+
+beta-Nitrostyrene and its derivatives are vital starting materials for the
+synthesis of a variety of useful building blocks and valuable precursors
+such as nitroalkanes, amines, ketoximes, hydroxylamines and aldoximes [1].
+The title compounds are generally prepared by direct nitration of styrenes
+or by the condensation of appropriate aldehydes with nitroethane [2].
+However, it is quite challenging to achieve direct transformation of
+styrenes to beta-nitrostyrenes due to the highly sensitive nature of the
+vinylic side chain. The literature to date embodies only a few scattered
+reports, which include the treatment of styrene with sodium or potassium
+nitrate in polyphosphoric acid,[3] nitrohalogenation with nitryl halides
+(NO2X) followed by dehydrohalogenation with triethylamine,[4] the reaction
+of styrene with tetranitromethane (TNM) in the presence of pyridine[5] and
+nitration of a deactivated styrene with nitric acid (98%) in concentrated
+sulfuric acid [6]. Nitration reagents such as HgCl2-NaNO2[7] lead to varying
+degrees of ring nitration as well as the desired reaction at the olefinic
+bond. The photochemical charge transfer activation of the electron
+donor-acceptor (EDA) complex, derived from TNM and styrenes in
+acetonitrile, has been reported to give different products depending on the
+nature of styrenes, e.g. b-nitrostyrene from p-methoxy-styrene,
+isoxazolidines from styrene and p-methylstyrene and an a-nitroacetophenone
+from p-chlorostyrene[8] Other reagents employed for nitration of styrenes
+include AgNO2/PhSeBr/HgCl2,[9] AgNO2/I2/ethylene glycol[10] and an
+ultrasound promoted reaction in a sealed tube with
+NaNO2-Ce(NH4)2(NO3)6-AcOH.[11] A relatively clean reaction of styrene has
+been reported recently using nitrogen monoxide in 1,2-dichloroethane
+followed by treatment with activated acidic alumina;[12] the protocol,
+however, calls for the requirement of 4 equivalents of nitrogen monoxide
+for the introduction of each nitro group.
+
+In continuation of our ongoing research program on solvent-free organic
+transformations,[13] we decided to explore the direct conversion of
+styrenes to b-nitrostyrenes using clay doped with nitrate salts. The
+heterogeneous reaction with Clayfen (iron(III) nitrate on clay)[14] in
+various solvents failed to generate b-nitrostyrenes but the solid state
+neat reactions readily provided the desired side chain nitrated styrenes.
+Herein, we report the details of this simple and inexpensive nitration
+method using Clayfen[14] and Clayan (ammonium nitrate on clay)[15] that
+proceeds under solvent-free conditions. Clayfen has been shown to be an
+efficient ring nitrating agent for a wide variety of phenols and nitrogen
+heterocyclic compounds[14] but no side chain nitration has been
+demonstrated. Additionally, we found that the related Clayan[15] is equally
+useful for nitration of styrene and its p-substituted derivatives.
+
+In a typical example, the neat styrene and Clayfen or Clayan are mixed well
+in a glass container and then heated in an oil bath (~100-110°C, 15 min) or
+irradiated in a microwave oven (~100-110°C, 3 min) in solid state (Eqn. 1).
+In the case of Clayfen, the reaction mixture is irradiated continuously for
+3 min whereas for Clayan intermittent warming is recommended with 30 second
+intervals (temperature should not exceed ~60-70°C).
+
+	p-R-C6H4-CH=CH2 ==> p-R-C6H4-CH=CH-NO2 + p-R-C6H4-CHO	(Eqn. 1)
+
+Where R = H, Cl, Me, OMe. 
+Reaction is carried out on Clayfen or Clayan in an oil bath or with MW.
+
+Yields:
+
+52-68% :        p-R-C6H4-CH=CH-NO2
+ 9-21% :        p-X-C6H4-CHO
+
+Table 1: Product distribution in solventless nitration of styrenes [a]
+--------------------------------------------------------------------------------
+Entry   Substrate      beta-Nitrostyrene[b]   Aldehyde[b]     Polymer/others
+--------------------------------------------------------------------------------
+Using Clayfen
+--------------------------------------------------------------------------------
+1       Styrene 			68(56)  		21(35)  		11(09)
+2       p-Chlorostyrene 	52(41)  		10(22)  		38(37)
+3       p-Methylstyrene 	52(41)  		11(24)  		37(35)
+4       p-Methoxystyrene      14(14)  		09(15)  		77(71)
+--------------------------------------------------------------------------------
+Using Clayan
+--------------------------------------------------------------------------------
+5       Styrene 			59(47)  		20(35)  		21(18)
+6       p-Chlorostyrene 	49(37)  		11(23)  		40(40)
+7       p-Methylstyrene 	44(35)  		15(26)  		41(39)
+8       p-Methoxystyrene      13(12) 		12(15)  		75(73)
+--------------------------------------------------------------------------------
+
+[a] Reaction conditions for Clayfen. either in oil bath (15 min) or in
+    microwave. MW. (3 min) at 100-110°C and for Clayan, either in oil bath
+    (15 min) or in MW (3 min) at 60-70°C
+[b] The relative amounts of product formation are determined by GC-MS
+    analysis and the results in the parentheses refer to the corresponding
+    yields obtained using MW irradiation; the products are identified by
+    comparison of their m.p. and NMR spectra with those reported for the
+    known compounds in the literature.
+
+Our results for styrene and its various p-substituted derivatives such as 
+p-chloro-, p-methyl- and p-methoxy-styrene using both the nitrating agents,
+Clayfen and Clayan, are depicted in Table 1. In the case of styrene, p-chloro- 
+and p-methyl-styrene, respectable yields (52-68%) of corresponding b-nitro-
+styrenes are obtainable. In contrast, the electron rich p-methoxystyrene 
+resulted in the major formation of polymeric and other unidentified products 
+with only 14% of p-methoxy-b-nitrostyrene (entries 4 and 8, Table). In all the 
+cases, considerable amount of the corresponding aldehyde (9-21%) formation is 
+observed along with some nitrite (2-3%) from GC-MS analysis. At room temp, the 
+reaction is found to be very slow and also leads to the major formation of 
+polymeric products. Of the two nitrating reagents, Clayfen delivered relatively
+better results (Table).
+
+A recent report details the side chain nitration of styrenes with nitrogen
+dioxide and ozone in slightly lower yields[16], in halogenated solvents,
+wherein the reaction proceeds via the formation of nitro-nitrate intermediates 
+(cpds 1 and 2 - Scheme) which, in turn, are converted to the required p-nitro-
+styrenes using alumina or a base. Our solventless method, however, does not 
+reveal the formation of such nitro-nitrate intermediates, cpds 1 and 2, 
+according to GC-MS analysis.
+
+Equation Scheme for nitration with NO2-O3 [16], where R = NO2, CF3, H, Cl, Me:
+
+p-R-C6H4-CH=CH2  ==> 
+		p-R-C6H4-CH(NO2)-CH-ONO2  +  p-R-C6H4-CH(ONO2)-CH-NO2    
+									==>  p-R-C6H4-CH=CH-NO2
+
+The investigation of the same reaction under the identical conditions 
+using clay that is impregnated with NaNO3, KNO3 and NaNO2 does not produce
+b-nitrostyrene; instead substantial amounts of polymeric products are
+observed as discerned by GC-MS analysis. In order to improve the formation
+of nitrated product, we explored the use of m-chloroperbenzoic acid which
+suppresses the formation of polymeric products but results in the formation
+of nitro-nitrates, cpds 1 and 2 (scheme) as the major product; only minor
+amounts (~10-15%) of side chain nitrated product were obtained. Changes in 
+other reaction parameters such as conducting the reaction for a longer duration 
+of time or the additional use of a strong base (NaNH2) does not transform the 
+nitro-nitrate intermediates, cpds 1 and 2 as reported earlier [16].
+
+The reaction with Clayfen is investigated under heterogeneous conditions in
+a variety of solvents. In contrast, we observed the following results; (a)
+in ether at room temperature (16 h), 1% of b-nitrostyrene, 15% aldehyde and
+11% starting material; (b) in dichloromethane under refluxing condition (5 h), 
+1-2% of b-nitrostyrene, 2-3% of aldehydes; (c) upon ultrasound irradiation 
+in dichloromethane at room temperature (2 h), 26% of b-nitrostyrene, 31% of 
+aldehyde. The remaining material in all cases is the polymeric products.
+
+In conclusion, the solid state reaction of styrene and its p-substituted
+derivatives with Clayfen and Clayan is a very facile method to produce
+b-nitrostyrenes. The operational simplicity, the use of inexpensive reagents, 
+and a rapid reaction that avoids the undesirable polymerization of styrene 
+(typical heterogeneous reactions in solvents), makes this a useful procedure 
+and attractive alternative to the currently available methods.
+
+General. A Sears Kenmore microwave (MW) oven operating at 2450 MHz (900 W) 
+was used for all the experiments. Styrenes were purchased from Acros Organics 
+and were used as received. (1)H NMR spectra were recorded in CDCl3 on Jeol 
+300 MHz spectrometers using TMS as an internal standard. Clayfen (0.75g 
+Fe(NO3)3.9H2O/1g clay) and Clayan (1g NH4NO3/1g clay) were prepared according 
+to the published procedures. [14,15]
+
+CAUTION: Although we did not encounter any accident during these studies, we
+recommend extreme caution for reactions conducted an larger scales because
+of the possible higher localized temperatures attained in the microwave (MW) 
+oven, especially for Clayan that should not be heated beyond 70 C in oil bath 
+or MW oven.
+
+General procedure for the conversion of styrene to b-nitrostyrene: In a typical 
+experiment, styrene (180 mg, 1.74 mmol) was admixed with Clayfen or Clayan 
+(300 mg) in a glass tube. The reaction mixture was placed in an oil bath for 
+15 min or irradiated for 3 min in an alumina bath [17] inside an unmodified 
+household microwave oven (900 watt) at its medium power. On completion of the 
+reaction, followed by TLC examination (hexane:EtOAc, 4:1, v/v), the product was 
+extracted into dichloromethane (45 mL), the combined organic extract dried with 
+anhydrous sodium sulfate and solvent removed under reduced pressure. 
+The relative amounts of product distribution (Table) were calculated from GC-MS 
+analysis (Hewlett-Packard model 5890 GC/MS). Alternatively, the crude material
+was chromatographed on a silica gel column and eluted with hexane:EtOAc (4:1, 
+v/v) to afford the pure product (147 mg, 57%).
+
+ACKNOWLEDGEMENT
+
+We are grateful for financial support to the Texas Advanced Research Program 
+(ARP) in chemistry (Grant # 003606-023) and Texas Research Institute for 
+Environmental Studies (TRIES) and thank Dr. Dahiya for the preparation of 
+'doped' clay materials, Clayfen and Clayan.
+
+REFERENCES AND NOTES
+
+Per J. Liesen is an undergraduate student participant in chemistry program at 
+Sam Houston State University.
+
+1. (a) Perekalin, V.V.; Lipina, E.S.; Berestovitskaya, V.M.; Efremov, D.A.
+   Nitroalkenes, Conjugated Nitro Compounds; John Wiley, Chichester, 1994;
+   Chapter 2, pp 53-168; (b) Ono, N. In Organic Nitro  Chemistry Series, Nitro
+   Compounds, Recent Advances in Synthesis and Chemistry; Feuer, H.; Nielsen,
+   A.T.; Eds.; VCH, N.Y., 1990; Chap. 1, pp 1-135; (c) Barrett, A.G.M. Chem.
+   Soc. Rev. 1991, 20, 95; (d) Kabalka, G.W.; Guindi, L.H.M.; Varma, R.S.
+   Tetrahedron 1990, 46, 7443; (e) Kabalka, G.W.; Varma, R.S. Org. Prep. Proc.
+   Int. 1987, 19, 283.
+
+2.  Shulgin, A.T. J. Med. Chem. 1966, 9, 45.
+
+3.  Grebenyuk, A.D.; Ismailova, R.A.; Tokbolatov, R.B.; Ovadova, T. Zh.
+    Org. Khim. 1990, 26. 680.
+
+4.  Sy, W.W.; By, A.W. Tetrahedron Lett. 1985, 26, 1193.
+
+5.  (a) Masnovi, J.M.; Kochi, J.K. Recl. Trav. Chim. Pays-gas 1986,105, 286;
+    (b) Penczek, S.; Jagur Grodzinski, J.; Szwarc, M. J. Am. Chem. Soc.
+    1968, 90, 2174; (c) Schmidt, E.; Fischer, H. Chem. Ber. 1920, 53, 1529.
+
+6.  Tinsley, S.W. J. Org. Chem. 1961, 26, 4723.
+
+7.  Corey, E.J.; Estreicher, H. J. Am. Chem. Soc. 1978, 100, 6294.
+
+8.  Mathew, L.; Varghese, B.; Sankararaman, S. J. Chem. Soc., Perkin Trans.
+    2 1993, 2399.
+
+9.  Hayama, T.; Tomoda, S.; Takeuchi, Y.; Normura, Y. Tetrahedron Lett.
+    1982, 23, 4733.
+
+10.  Jew, S.-S.; Kim, H.-D.; Cho, Y.-S.; Cook, C.-H. Chem. Lett. 1986, 1747.
+
+11.  Hwu, J.R.; Chen, K.-L.; Ananthan, S. J. Chem. Soc., Chem. Commun.
+     1994, 1425.
+
+12.  (a) Hata, E.; Yamada, T.; Mukaiyama, T. Bull. Chem. Soc. Jpn. 1995,
+     68, 3626;  (b) Mukaiyama, T.; Hata, E.; Yamada, T. Chem. Lett. 1995, 505.
+
+13.  For cleavage-deprotection reactions see: (a) Varma, R.S.; Meshram,
+     H.M. Tetrahedron Lett. 1997, 38, 5427; (b) Varma, R.S.; Saini, R.K.
+     Tetrahedron Lett. 1997, 38, 2623; (c) Varma. R.S.; Varma, M.;
+     Chatterjee, A.K. J. Chem. Soc., Perkin. Trans. 1, 1993, 999; (d) Varma,
+     R.S.; Chatterjee, A.K.; Varma, M. Tetrahedron Lett. 1993, 34, 3207; (e)
+     Varma, R.S.; Lamture, J.B.; Varma, M. Tetrahedron Lett. 1993, 34,
+     3029; (f) Varma, R.S.; Chatterjee, A.K.; Varma, M. Tetrahedron Lett.
+     1993, 34, 4603; (g) Varma, R.S.; Dahiya, R.; Saini, R.K. Tetrahedron
+     Lett. 1997, 38, 8819; (h) Varma, R.S.; Meshram, H.M. Tetrahedron Lett.
+     1997, 38, 7973. For condensation-cyclization reactions see: (i) Varma,
+     R.S.; Dahiya, R.; Kumar, S. Tetrahedron Lett. 1997, 38, 5131; (j) Varma,
+     R.S.; Saini, R.K. Synlett. 1997, 857; (k) Varma, R.S.; Dahiya, R.
+     Synlett, 1997, 1245; (l) Varma, R.S.; Dahiya, R.; Kumar. S. Tetrahedron
+     Lett. 1997, 38, 2039. For oxidation reactions see: (m) Varma, R.S.;
+     Dahiya, R. Tetrahedron Lett. 1997,38. 2043; (n) Varma, R.S.; Saini, R.K.;
+     Meshram, H.M. Tetrahedron Lett. 1997,38, 6525; (o) Varma, R.S.; Dahiya,
+     R.; Saini, R.K. Tetrahedron Lett. 1997, 38, 7029; (p) Varma, R.S.; Saini,
+     R.K.; Dahiya, R. Tetrahedron Lett. 1997, 38, 7823; (q) Varma, R.S.; Dahiya,
+     R.; Kumar, D. Molecules Online 1998, 2, 82; (r) Varma, R.S.; Dahiya, R.
+     Tetrahedron Lett. 1998, 39, 1307; (s) Varma, R.S.; Saini, R.K.
+     Tetrahedron Lett. 1998, 39, 1481; (t) Varma, R.S.; Saini, R.K.;
+     Dahiya, R. J. Chem. Res. (S) 1998, in press;  For reduction reactions
+     see: (u) Varma, R.S.; Saini, R.K. Tetrahedron Lett. 1997, 38, 4337;
+     (v) Varma, R.S.; Naicker, K.P. Molecules Online 1998, 2, 94.
+
+14.  (a) Cornelis, A.; Laszlo, P.; Pennetreau, P. J. Org. Chem. 1983, 48, 4771;
+     (b) Cornelis, A.; Laszlo, P.;  Pennetreau, P. Bull. Soc. Chim. Belg. 1984,
+     93, 961; (c) Balogh, M.; Pennetreau, P.; Hermecz, 1.; Gerstmans, A.
+     J. Org. Chem. 1990, 55, 6198.
+
+15.  Meshram, H.M.; Reddy, G.S. Yadav, J.S. Tetrahedron Lett. 1997, 38, 8891.
+
+16.  Suzuki, H.; Mori, T. J. Org. Chem. 1997, 62, 6498.
+
+17.  Alumina bath (neutral alumina: 125 g, mesh ~150, Aldrich; bath: 5.7 cm
+     diameter) has three functions:  (i) serves as a heat sink in the MW
+     chamber; (ii) houses the small reaction vessels, and (iii) allows the easy
+     measurement of the bulk temperature after completion of the reaction.
+
+--------------------------------------------------------------------------------
+
+

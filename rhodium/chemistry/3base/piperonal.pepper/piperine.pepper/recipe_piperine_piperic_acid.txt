@@ -1,0 +1,31 @@
+(1) Place 30g of finely ground black pepper in a porous thimble 
+in the central chamber of a soxhlet extractor and 175ml of 95% 
+ethanol in a RB flask. Gently heat solvent under reflux for
+6 hours. Concentrate the solution to a volume of 20-30ml on a 
+rotary evaporator and add 30ml of warm 2M ethanolic potassium 
+hydroxide (this is ESSENTIAL to keep all the acidic components in 
+solution). After shaking the warm mixture well, filter the solution 
+and remove any insoluble materials (quite a bit). While keeping the 
+solution warm over a water bath, and water until no more yellow 
+solid forms. Allow the resulting solution to stand overnight and 
+then isolate yellow precipitate that has formed by filtration. 
+Recrystalise the crude product in hot 3:2 acteone/hexane, cooling 
+in ice bath if necessary to promote recyrstallisation. The resulting 
+product (Piperine) is in the form of spectacular yellow needles, a 
+yield of around 2g (in my case) was obtained.
+
+(2) Hydrolysis of Piperine to Piperic Acid: (These intructions are 
+in the small scale, obviously they can be increased) Heat mixture of 
+0.1g piperine and 10ml of 2M ethanolic potassium hydroxide under 
+reflux for 1.5h. Evaporate the ethanolic solution to dryness under 
+vacuum. Suspen the solid potassium piperate that remains in the flask 
+in about 5ml of hot water and carefully acidify the suspension with 
+6M HCL. Collect the precipitate, wash with cold water, recyrystalise 
+from COLD ethanol. The mp of the product should be around 206C (a 
+little less than the literature values due to the slight Chavacine 
+impurification (Chavacine is the Z,Z isomer of piperic acid (E,E))
+
+
+[http://www.rhodium.ws/chemistry/piperine.txt]
+
+

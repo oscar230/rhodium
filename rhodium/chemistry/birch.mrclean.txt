@@ -1,0 +1,1662 @@
+<html>
+
+<title>The Complete Birch Archive</title>
+
+
+<pre>
+Mister_Clean 
+(smartass) 
+10-03-00 21:27
+          The COMPLETE birch    Reply    
+  
+This post is intended as a final answer to all those nagging birch questions that keep
+popping up. Before I begin, I would like to make one thing perfectly clear.
+
+THE BIRCH IS A DANGEROUS REACTION AND SHOULD NOT BE ATTEMPTED BY AMATEURS. I mean
+no disrespect to anyone by this statement, I just dont think it has been emphasized
+enough how dangerous this reaction can be.
+
+An OVERVIEW:
+
+Technically, the birch reaction refers to reduction by sodium dissolved in ammonia.
+Lithium/NH3 reduction is not actually a "birch" but for simplicities sake I will refer to
+it in this manner.
+
+When lithium is dissolved in ammonia it releases an electron, referred to as a "solvated
+electron" . The solvated electron produces a "royal blue" color in the ammonia, which,
+depending upon concentration, can appear almost black.
+
+Two electrons are required to reduce a molecule of ephedrine into methamphetamine.
+Therefore the proper molar ratio for reactants is 2Li to 1 pseudo. The amount of ammonia
+present is not important, as long as it is sufficient to dissolve all the Li present.
+
+This 2-1 ratio is EXTREMELY important. Too little Li and not all the pseudo will be
+reduced. Too much and your pseudo willl be OVERreduced. This is the main reason 
+contaminants (including water) must be avoided.
+They will use up some of the electrons, leaving you to "guess" how much Li you need.
+Your guess will most likely be wrong.
+
+The 2-1 ratio is based on FREEBASE stock. If you use pseudo HCL, then the amount of Li
+required will be higher.
+
+
+CLEANING PSEUDO PROPERLY:
+
+Placebo's lesser cure, followed by an a/b extraction, is sufficient. Those of you using
+equate suphedrine will have to change your source, as they have been reformulated with so
+much povidone they will literally turn to jello upon basifying.
+
+Obtaining Li:
+eveready AA size batteries contain .94g of Li each. it is found in a flat metal strip
+inside the battery which is light grey. There is another strip inside these batteries 
+which appears shiny. The shiny strip is trash.
+All other Li batteries should be avoided. The AA's are out there. Look for them.
+
+Obtaining anhydrous ammonia:
+
+The ammonia used must be "anhydrous". It is impossible to use any form of aqueous ammonia
+directly. Anhydrous ammonia is a gas at room temperature, and typically requires around 
+100psi to become liquid at room temp. It is also liquid at -33c at standard pressure.
+
+Ammonia is a weak base, it is typically found as a salt in OTC fertilizers. Adding a
+strong base, such as NaOH (sodium hyroxide or Red Devil) will replace the ammonia in the
+ammonia salt, freeing it to form a gas. This gas can then be condensed in another 
+container which is chilled below -33c.
+
+Aqueous ammonia can be used only by turning it into a salt, then boiling off the excess
+water.A 1-1 molar ratio is required for this, and as a mole of HCL weighs about twice 
+what a mole of NH3 does , about twice as much hcl by weight is required.
+
+
+End of Part One. 
+
+THE REACTION:
+
+There are several different opinions as to how the reaction should be done. Some people
+add the Li to the NH3 first, in order to ensure blueness.
+Some add the pseudo and Li alternately, and some just chuck the whole mess in together.
+I dont really know WHAT the RIGHT way is, all I know is what seems right to me.
+
+Dissolve the pseudo in anhydrous isopropanol . I recommend about 6ml per gram. Place it
+in a container as close to the volume you have as possible. Try to
+avoid air space as it will encourage condensation. This amount of iso will not completely
+dissolve it, but will make kind of a slush. Place this in the freezer a few
+hours before your reaction is to start.
+
+If you already have an. ammonia, then peel your batteries. This can be easily done by
+cutting just through the metal casing in a spiral pattern, grabbing the end of the metal
+with needlenose pliers, and unwrapping. This leaves you with a paper wrapped cylinder. 
+You now need 2 containers filled with naptha. The first container should be wide and flat 
+enough that you can get both hands in (your not actually going to PUT your hands in there,
+Tasty). the second is your Li storage container. For the second container it is helpful 
+to have something to keep the Li below the surface (it floats). a smaller plastic lid will
+work, but be sure to test it in the naptha before using to make sure it won't melt.
+
+Take the paper cylinder and submerge it in the large container of naptha. Now take an
+exacto knife and CAREFULLY slit the paper open. Try not to go past the paper layer with
+the blade as it will short the Li strip. Once the paper is slit, peel it off.
+This will expose the inner strips and carbon. Now unroll the whole mess quickly under
+the naptha. Once this part is saturated with naptha it can no longer short out. Take the
+grey Li strip, being careful not to rip it, and put it into the second container. Leave 
+the carbon crap in the first container till you are done. Prepare as many batteries as
+necessary at this time.
+
+IF YOU ARE CONDENSING YOUR AMMONIA, do not unwrap the paper until you have finished
+condensing, just strip the metal casing.
+
+Now for the fun part....
+If you have a tank, place it in a container of ice. after the tank is chilled, add rock
+salt to the ice. This will drop it another few degrees.
+place your reaction vessel in ice and add an equal volume of cacl2 to the ice (this can
+be purchased by the gallon as concrete accellerant) the ice will start to melt quite
+rapidly, but this will give you the low temp necessary to hold the ammonia. fill the 
+reaction vessel with 250 ml of ammonia, plus another 100 ml for each ounce of pseudo.
+
+Now add the pseudo to the ammonia. leave it in the ice and stir vigorously.
+
+WARNING: THE ADDED HEAT FROM THE PSEUDO / IPA WILL CAUSE THE AMMONIA TO BOIL, ADD SLOWLY.
+
+once the pseudo is in, and the temp has equalized (ammonia not boiling off) take your
+first Li strip, rip off about 1/5th of the strip and quickly pat it dry on a paper towel. 
+tear it into 2 or 3 pieces (small) and toss into the reaction vessel. mix well.
+
+WARNING: ONCE THE LI IS EXPOSED TO AIR IT WILL BEGIN TO REACT. THE PIECES WILL HEAT UP
+SLOWLY AT FIRST, BUT AT AN EXPONENTIAL RATE. THEY CAN BECOME HOT ENOUGH TO IGNITE YOU,
+YOUR FURNITURE, OR ANY AVAILABLE WATER DROPLETS. 
+
+When the pieces are almost completely dissolved (15-20 seconds) repeat the process. As
+you near the end of your Li, the pieces will take longer to dissolve, but keep adding at 
+a steady rate of 1 piece every 30-45 seconds.
+
+When all the Li has been added, and the temp has equalized, remove the reaction vessel
+from the ice bath. Place a lid on it with a tube going to the bottom of a five gallon 
+bucket with about 1 1/2-2 gallons of water inside. to this water add 1/5th gallon of 
+muriatic acid.
+
+do not submerge the hose until the vessel is OUT of the ice. If you do, the cooling from
+the ice may cause the acid water to suck back. This will initiate a rather unpleasant
+sequence of events.
+
+keep mixing the container for the next 15-20 minutes. then you may place a heater in
+front of it to drive off the ammonia.
+Do not heat TOO rapidly,  for reasons which should be obvious.
+
+If and when your water bucket starts to smell of ammonia, add hcl till the smell goes
+away, then add more. You cant have TOO much HCL.
+
+When most of the ammonia is gone (30-45 minutes) then carefully remove the top of the rxn
+vessel. Dont be a dumbass at this point and "sniff" the container. If there is still 
+excess ammonia, it will be no secret.
+
+pour in 100ml water per ounce of product, then your favorite NP. Toluene is fine here.
+Ether is not recommended.
+
+now add NaOH in 1/4 teaspoon increments, mixing well each addition, until no more bubbles
+evolve. the bubbles are from NH3 evolving from the water layer. 
+
+separate the NP and rinse with 2 small volumes of NaOH solution (PH 13), then with a
+small volume of distilled water.
+
+dry the NP with baked epsoms, let the epsoms settle, then decant into a clean container.
+filter the bottom portion of the NP to catch any stray salt.
+
+Gas, filter, recrystalize, and enjoy.
+
+CONDENSING AMMONIA FROM FERTILIZER (OR ANY AMMONIA SALT):
+
+[IMAGE]
+
+A plastic gas can is used here as the generator. This is used because the soft sides
+allow you an idea of the system pressure. There are many other containers which may be
+used, but I cant think of any which are as forgiving.
+
+While generating, the system pressure will fluctuate. If your system cannot take 20 PSI,
+then you should redesign it.
+
+During normal operation it should run 5-7 psi.
+
+
+
+The principle of this operation is that " the stronger base liberates the weaker base
+from it's salt." If your salt is ammonium chloride, then you would add sodium hydroxide
+to it to liberate the ammonia. the reaction goes : NH4CL+NaOH = heat + NaCl + H20 +NH3.
+The reaction requires a small amount of water to initiate, but once it starts it produces
+it's own water (as well as salt).
+Notice that the reaction  produces heat (exothermic) as this is gonna be important later.
+
+To produce a liter of ammonia you will need about 2 kilos of ammonia salt, as well as 2
+kilos of NaOH. This is a theoretical minimum.
+
+When buying fertilizer, look for "ammoniacal nitrogen". Forget "total nitrogen" or "urea".
+If your fert is 20% ammoniacal  nitrogen, then you will need 10 kilos minimum to produce
+a liter. If you shoot for a liter, you will likely make 1/2 that much.
+
+The amount of water required to initiate the reaction is quite small. If you live in a
+humid climate, you wont have to add any.
+
+As water is produced, it absorbs NH3. wherever you have water in the system you will have
+lots of nh3. This includes in your drying tube. That is why your salt and NaOH should be
+added dry.
+
+Now, your ammonia generator is for the most part a closed system. The NH3 is going to
+expand from the generator, and shrink as it cools on the way to the condenser.
+So your generator is humming along, producing heat, gas, and water, until it reaches a
+point at which there is so much water being created that it stops pushing ammonia. 
+The water then begins to cool, and as it cools, becomes capable of holding even MORE
+ammonia. Suddenly, your reaction that was pushing ammonia is now PULLING 
+ammonia. This is "suckback".
+
+When your system starts to suck, you should, quick as a bunny, open your generator. If
+you do not, then the ammonia from the condenser will be sucked back into your drying
+tube, and you will wish to god you had just scraped the damn matchbooks. This is a good 
+time to recharge the generator.
+
+WARNING ABOUT AMMONIA:
+
+Ammonia will seek out and bond with any nearby water. This means your eyes and airway. 
+You should always have a few gallons of water handy to dowse yourself with, as it may
+save your life.
+One breath of concentrated ammonia vapor is enough to burn your trachea and make it
+impossible to breathe.
+
+High concentrations of ammonia (above 15%) are explosive. Keep this in mind when its
+time for your mid reaction toke.
+
+gas law says that 1 mole of any gas will occupy 22.4 liters of volume at standard temp
+and pressure. a mole of ammonia is 17 grams. In short, it takes very little ammonia to
+fill up a room.
+
+anhydrous ammonia is liquid at standard pressure only below -33c (-28f). This temperature
+is quite sufficient to freeze various body parts. 
+
+Do not drop money into your ammonia. It will shrink (thank you slydog for this contribution).
+
+Be sure your connections are airtight BEFORE making/using ammonia. A seemingly minor
+leak smaller than a pinhole will evacuate a room.
+
+If there is a problem with ammonia, dump water on it and GET AWAY. Hold your breath till
+you are sure your clear.
+
+END OF PART 2
+
+DISSECTING THE AMMONIA GENERATOR
+
+GENERATOR: (the "gas can"). This is where the ammonia is liberated from the salt. It is
+important to realize that this part of the unit requires CONSTANT attention. The
+preffered method is to start off with 20 ml or so of water (you may also use aqua
+ammonia for a little extra kick). pour a layer of DRY ammonia salt on top, then add the
+NaOH and quickly seal the unit.the salt and lye are added dry so that they do not react
+too rapidly. once the unit is sealed, begin shaking to mix the fert/lye. within a minute
+you will see the generator beginning to pressure up. Shake intermittently to maintain a
+constant, moderate pressure. The best way to determine the right pressure is to pay
+attention to the condensor pressure relief valve. When ammonia fumes begin to emit
+strongly, back off the pressure till there is only a very faint amonia odor from the
+relief.
+
+Be sure to layer your fert/lye in the proper ratio, with a slight excess of NaOH. So for
+a 20% fertilizer, you would add about 1/4 lb of NaOH for each LB of fert.
+
+Small layers work best. You will be recharging every 15-30 minutes on average.
+
+This process takes time. Expect to wait an hour for your first ML of ammonia. Mr Cleans
+first attempt required about 8 hours to generate 500 ml. It also took almost 30lbs of
+fert and 7 lbs of NaOH, as well as 25lbs of dry ice. It gets easier, though.
+
+The generator will get hot. expect temps around 140-150f.
+
+The generator must be watched constantly. It can go from positive to negative pressure in
+less than 1 minute. If you have to take a leak, don't dally.
+
+After you have been running it for a while, condensation will form in the hose coming
+from the generator. (it should form a U shape before going to the precooler) You can
+watch the water droplets to get an idea of the flow rate. 
+
+PRECOOLER: when your ammonia exits the generator, it will be around 140f. to condense
+ammonia, you will need to cool this below -28f, in other words, its gotta drop almost
+170 degrees. You will be there an extra day or two if you expect your condenser to do
+ALL the work.
+
+When the hot ammonia is generated, it carries a substantial amount of moisture as well.
+The precooler will capture a good portion of this, ensuing that your drying tube does
+not get overloaded.
+
+The precooler cools in two ways. Firstly by heat transfer to the ice bath, and secondly
+by expansion of the gas.
+
+As water condenses here, it will trap ammonia with it. Due to the low water temp, this
+will be about 70-80% AQUA AMMONIA (NH4OH). Towards the end of ammonia generation you may
+either 
+1. remove the precooler from the ice bath, liberating ammonia as it warms up or
+
+2. neutralize with HCL, making nh4cl.
+
+Whatever you do, be sure that the tube end from the generator never becomes submerged.
+It will suck the water into the generator and kill the reaction.
+
+Drying tube: This is elevated above the other components, mainly to condense and drain
+back water before it reaches this point. There are also other reasons for the elevation
+that I would prefer not to discuss right now (bad memories).The drying tube should be
+thought of not as a primary way of drying your gas, but as a last stand barrier in case
+some slips through.
+
+Do NOT attempt to cool your drying tube. It will cause excess nh3 to be collected there,
+and will seriously fuck up your cacl2. 
+
+CONDENSER: this is submerged in a dry ice/solvent bath. An inner tube which reaches the
+bottom will substantially improve nh3 condensation. Putting your PFED/ISO solution here
+first, and causing the nh3 to bubble through it, will greatly speed condensation, as the
+alc will act as a heat sink.
+
+The condenser should have a large surface area, and rapid thermal transfer characteristics. 
+do not skimp here. Stainless steel and borosilicate glass work best. Avoid thick glass or plastic.
+
+A while back, some bees were recommending using antifreeze as a dry ice solvent. This
+WILL NOT WORK WELL. antifreeze does not transfer heat worth a damn. I did find, however,
+that adding a few ounces to the bath will increase the lifespan of your ice considerably.
+
+how do you keep the condenser from bobbing in the icebath? try adding a small amount of
+water to the bath. It will freeze at the bottom, sticking the container there.
+
+When the ammonia is condensing, there will be lots of vapor, and determining the ammonia
+level can be quite difficult. Give some thought as to how you will do this.  
+
+TUBING: I prefer 1/4" vinyl tubing. It seems to work best.
+
+END OF PART 3 
+ 
+FAQ:
+
+This is a list of questions from the board. Some were included here to elaborate on 
+various parts of the reaction, while others were included just because they were so 
+damn stupid/funny I couldn't resist. Also included are a couple of answers by me which
+are incorrect. The correct answers follow the "OOPS".
+
+What are the correct  ratios of  reactants for a birch? And how much Li is in those 
+batteries? 
+
+Energizer AA Li batteries contain exactly .94g of Li per serving.
+(this info from an engineer for eveready)
+
+PS: ephedrine/psuedoephedrine freebase = 165.24 g/mole
+Li=6.94 g/mole
+10 g Li soluble in 100g NH3
+
+nh3~5lb/gallon .68g /ml (according to msn encarta)
+therefore:
+
+for a 28.8 g birch using PURE psuedo freebase you would need:
+2.41 g li or approx 2.57 aa strips 
+39 ml anhydrous nh3
+a really good fume hood.
+
+The 2450's are .47G of Li. theyre good for about 5.5g each.
+
+the nh3 amount is an EXTREME minimum. You will always lose a little when you add your Li
+and your psuedo/IPA.
+Personally I have never imagined trying less than 300 ml for 28.8g. extra nh3 never hurt
+anyones birch.But from what I have read the THEORETICAL minimum is MUCH less.
+PS: due to losses in liberating the Li strips, if one did not have a reallly good scale,
+I would recommend using ~ 2 3/4 strips. I imagined this worked PERFECTLY where refrigerant
+grade ammonia was used, with 28.8g of psuedo freebase yielding 26.9g of glasslike needles.
+Unfortunately, My last dream about ammonia from fert was done before I had the correct
+weight. I Do know that 3 1/4 strips proved to be slightly excessive.
+
+
+. Is there any way to test the purity of the recovered NH3 ?
+In other words, is there a way to test liquid NH3 to determine if there is a small H2O
+contamination ?
+
+as the condenser is chilled in the neighborhood of -70c there is an easy indicator of
+h20. Its called ICE. there has been no ice.
+
+OOPS: turns out, the freezing point of NH4OH (aqua-ammonia) is 1 degree higher than the
+freezing point of anhydrous ammonia.
+
+A better answer would be that, if your drying tube is set up like I diagrammed it, then
+there is no way a significant quantity of water will come through.
+
+
+Umm.... can silica gel be used as the drying agent? Probably not I'm guessing, but no one
+around here seems to have ever heard of Damp Rid or Dry Rite. It's a very warm, dry state
+
+I live in the desert, and I can find it. Look at a contractor suppy house for concrete
+accelerrant. Do not use epsom salt in your DRYING TUBE. the magnesium will hurt your
+reaction.
+.I use a paper towel at the tube opening and in the top of the jar to prevent tube
+gumming and keep the drying agent from getting into the tubing. NaOH may also be used.
+It is not as efficient volumetrically as CaCl2, but you WILL know when its used up.
+
+hows the bio assay of birch product compared to rp/i?
+
+If you have done both correctly, then the bioassay should be exactly the same. The meth
+is the same molecule, so the only possible difference would be impurities. I believe it
+more likely that you would have unreacted pphed in a birch.
+
+If the battery shorts it's gone for good... right?
+
+Depends on what you mean by "shorted". If the Li becomes oxidized, then that oxidized
+portion is worthless. If the surface of the Li is covered with oxidation, that can be 
+removed.If it is light oxidation, it will come off when you blot it on the towel before
+tossing it into the reaction.
+
+Here's a question for the chemically inclined out there. It seems to me that adding a
+few chunks of dry ice to the INSIDE of a homemade ammonia condensor would greatly 
+increase the rate of ammonia condensation. 
+
+This will create byproducts. It is not necessary if your condenser has enough surface
+area.
+
+swim opened a "AA"energizer lithium battery,  and when swim pulled out the rolled up
+contence swim found a little piece of metal that was folded over the roll, swim unrolled
+it and  found what you said would be there, a long shiney strip and another strip that 
+was a little (dull) and not as shiney as the other strip, and then the (dull) not so 
+shiney strip started turning dark in colour, so why did it do that, and is it still 
+alright to  use. Swim also said that  there was fumes and a awfull fucking smell when he
+opened it.
+
+When you open a battery in the air, two things will happen. First, the Li will start
+reacting with the air, and second the battery will start reacting with the other
+components of the battery. the "rotten egg" smell is from the electrolyte.
+
+If there is a problem with ammonia, dump water on it and GET AWAY. Hold your
+breath till you are sure your clear." Wouldnt an acid be better?
+
+That is a reasonable assumption. HCL would neutralize it well, however in the reason I
+suggest water is 
+1. I already said to have a bucket of water standing by.
+2. If you have a problem, you wont have time to be careful, and dumping 3 gallons of acid
+may cause other problems.
+3. If the ammonia douses you, which would you rather pour on yourself?
+Otherwise, good idea.
+
+the addition of the IPA+pfed generates gas.  How much?  Lets say theres 350 ml anhydous
+sitting there?  How much will boil off in terms of ml's and fume wise?  
+
+The amount of gas that will boil of is variable. If your ammonia is stabilized in a cold
+bath, and the pfed / iso is added carefully, you wont lose more than a couple ml.
+The amount of nh3 you lose is going to depend upon your technique, your equipment, and
+ambient conditions. 
+I dont measure the quantity of ammonia as I am performing the reaction. so the best
+answer I can give is "not much".
+
+If your somewhat effiecent with the process of peeling the caseing of the LI
+batteries,there isnt a need to open them under your solvent of choice.
+
+Actually, it is fairly important to saturate the battery innards. When you cut the
+plastic open, you will find that the interior components are all quite soft. 
+it is nearly impossible to open the wrapper without penetrating the lower layers. 
+If the thing is saturated in NP solvent, then it wont short. If it is not, it almost 
+certainly will. You may not lose all the Li by opening in this manner, but you WILL lose 
+some. By opening in the manner I have described, your Li will be almost completely
+unoxidized.
+
+Do you have to ice down the ammonia tank before discharging?
+
+Icing the tank is necessary here, if yours is already at 0c, I wouldnt think it
+necessary. The reason I recommend icing the tank is simple. It drops the pressure from
+100psi to (what was  that damn gas law again?) about 30psi. the valves on nh3 tanks are
+designed for on-off operation, and they arent very good at regulating the flow, so you
+want to have every advantage possible when decanting.
+
+Do I NEED dry ice?
+
+I recommend a dry ice bath if you are GENERATING ammonia, but if you have a tank, just
+use equal (weight) amounts of ice and CaCl2. Equal amounts of ice and H2SO4 will work 
+as well, but can be rather hazardous.
+
+""!! My $8 battey is an energizer for cameras in a blue package with a black top. Is this
+the "AA"  you are refering to?  (I've only seen these and the 2450's)""
+
+Wrong battery. You want the $2 aa batt. it looks like a regular aa batt, (different
+color) no black top. Sighted recently at home depot and wally world.
+They are made by energizer and come in two varieties. a red topped battery and a silver
+battery. Just like what you would put in your walkman.
+
+We all know that the pills have been messed with big time lately, and that one of the
+advantages of the birch is that it works with ground up messed up pills.
+I've been reading about lithium carryover into product, and it driving the consumers to
+the end of their ropes. I have a question. When dealing with a messed up
+pill, how after the birch, is purification carried out? Are the ingredients just as
+troublesome? A water wash would remove the lithium salts, but if the pills retain
+their troublesome reaction to water, the problem is only delayed. Could someone comment?
+
+You could just grind up the pills and toss them in, and you WOULD end up with meth. However 
+you would have to know EXACTLY what else in the pills is going to be reduced, how much Li that
+will require, and what the byproducts will be.
+Lithium carryover is bullshit. Lithium will not carry over into your NP unless you REALLY
+screwed up, and a water wash would remove it quite easily.
+I think it more likely that ammonia is carried over. As for purification, the methods
+used for RP/I work nicely.
+
+
+I have come to utilize these measures during said reaction. First, addition of minimal
+amount of mineral spirits to dissolve freebase and filter through a thick medium paper
+filter (if one is using coffee filters use the cone type; do not use basket type) add 50%
+more ms solvent to filtered ms then add minimal amt. of MEK or DMK (preferably MEK as it is
+less hygroscopic), one could also add some ether as a third solvent. Multiple solvent is then
+gassed to obtain go-go hcl. Go-go obtained has consistency like styrofoam is really light and
+ clean; in my neck of the woods has become to be known as "Divinity". 
+
+Well, in my neck of the woods we call it ammonium chloride. Divinity does have a nice
+ring to it, though. you have certainly elevated screwing up to an art form. Using three 
+different solvents will make sure you get the most impurities possible.
+
+What, lithium? That shits supposed to make you happy, not sick. But, if you feel that 
+its tainting your product and making people sick, why not switch to another viable metal,
+such as sodium.
+
+Actually, sodium is a BETTER metal to use, due to it's lower electronegativity, it is
+less likely to overreduce product. As far as making you happy, I assure you that LiOH
+will NOT make you happy when you snort it.
+The main reason sodium is not used is because it is difficult to obtain. It is used for
+a variety of O-chem processes and is only a little less watched than RP. It can be made
+by electrolysis of NaOH, but the process is a little too scary for me to attempt.
+
+The EDA thingy is still a viable route for honey production right? I am about to dream a
+dream with EDA so I hope so.
+
+So far I have seen no credible reference to a succesful separation of the product from
+the EDA. I don't know the secret, but I am pretty sure it will involve low temps, long
+reaction times, inert atmosphere, and a complex separation.
+
+I understand where you are comming from arent you expecting a little much from us hive
+members? Do we really need to how and why the reaction works? It just does, doesnt it?
+That how and why could only be answered AFTER a few years in school. 
+
+If you screw up this one, assuming you live through it, the most likely result will be
+ten years of uninterrupted study time at the nearest federal education facility.
+The reaction is basic and can be learned and fully understood by anyone with at most 2
+months of study. Knowledge is a part of who you are, and it is one of the
+few things that cannot be taken from you. I have an 8th grade education, yet I learned 
+everything I know about the birch reduction in three weeks. I never even had
+to go to the library.
+
+Too bad there isn't some kind of semi-permeable membrane which allows the ammonia to pass
+through, but not the water vapor. Or is there?
+
+unfortunately, ammonia forms a compound with water, rather than a mixture. So it is not
+possible to separate from water by mechanical means.
+
+Why can't I just use aqua ammonia? Li will reduce pseudo in the presence of H20.
+
+(answer provided by Osmium)
+Li + H2O -------> LiOH + 0.5 H2
+Li [6g/mol]
+H2O [18g/mol]
+For every gram of H2O present you need at least 0.33g Li.
+So what if I used 1l of 30% NH3? Cool, only about 250g of Li needed to dry it! And don't
+forget the liquid N2 to cool this bomb...
+
+do u use liquid ferterlizer or soild?
+
+I recommend adding the NAOH DRY,DRY,DRY,DRY.(emphasis intended) adding in liquid form, or
+to a liquid is not a good idea because:
+1. water quenches this reaction by absorbing mucho ammonia
+2. a large amount of liquid will cause the ammonia you DO produce to be released very
+fast, like before you can get the lid back on. I made the mistake of adding naoh to nh4cl
+in liquid form (from 1/4 gallon of aqua ammonia) my friend who lived 3 BLOCKS AWAY
+mentioned an ammonia stink at HIS house. wanna guess how fun that was? Or you could 
+just try it... lol. But seriously, the little h20 I do add to kick the reaction off is under
+a layer of fertilizer. the DRY NAOH is poured on top, and gentle shaking starts the
+reaction AFTER the lid is on.
+
+hey what brand is used for a solid ferterlizer???
+
+Fertilizer availability varies depending upon your climate. Where I live fertilizer
+blended specifically for cactus, citrus trees, and date palms is prevalent in stores. So
+it would be useless for me to specify a brand or type because it will likely not even
+exist in your area. Look for the highest ammount of "ammoniacal nitrogen". alternately,
+it is not difficult to source or synthesize straight ammonium chloride, which makes for a
+MUCH more efficient reaction.
+
+Can't I just use a canning jar for my generator?
+
+Do not try to use a glass ammonia generator, you will have nothing in the system to
+absorb excess pressure, and can easily have a blowout, or lose your ammonia through suck
+back. canning jars are designed to withstand great NEGATIVE 
+pressure, not positive. Besides, if you are using fertilizer with 20% ammoniacal content,
+you will need around 20 Lbs of the stuff, and its hard to find a canning jar that size.
+
+Why do you use the 2-1 ammonia salt to fertilizer ratio?
+
+the correct ratio for naoh-nh3 from salt is about 1-1.8. I use a little higher ratio to
+account for impurities in the fertilizer. It seems to work better for me.
+
+can't you just pipe the gas from the generator straight into your garden after running
+through a dryer?
+
+Actually, I was forced to do this once due to a system failure which resulted in
+insufficient ammonia. It worked quite well as 50g of product was produced from less than
+200ml of ammonia, but I am not sure if the ammonia piping in made a difference.
+The 200ml may have been entirely sufficient by itself.
+
+I would use a large erlenmeyer flask for the condenser, or a large round bottom flask.
+Also I would curl the input hose of the condenser around the bottom of the flask so that
+the NH3 gas HAS TO stay in the flask longer and with hopefully condense quicker. 
+
+Actually, I believe I mentioned that. Vessel 4 has a LOOP around the bottom. The large
+ehrlenmeyer is a good idea though. Perhaps If they have one at home depot I will get one.
+
+What kind of fittings do you use?
+
+I use fittings which are L shaped with threading on 1 end. I use NO epoxy or glue. The
+fittings are right next to the vinyl tubing at some major hardware store. I drill a hole,
+tap it(not necessary, but I gotta use this damn tap and die set sometime), and screw the
+fitting in with LOTS of teflon tape. The tubing goes on the outside of 1 end on the L and 
+inside the other. The press fit seal is excellent by itself, and yes, it's not 
+technically " quick release", but it is quick.
+
+could you take the hose that leaves the damp-rid jar and put a couple of rolls in the
+hose and then place in a cooler of dry ice and anti-freeze.the same hose then goes to a
+2nd cooler of dry ice and is hooked into the jar that is to catch your gas that becomes
+nh3. is this possible are is there anybody that can tell me why this won't work?
+
+it will work, however you run three risks here.
+1. your tubing will become brittle from the extreme cold, and may break.
+2.your tubing may be attacked by the chemical you choose for your bath (depends on type
+of tubing and type of bath. You will have to check.)
+3. You may go broke from all the dry ice you must purchase.
+My pre cooler will remove a similar amount of heat,(perhaps more), more safely, and with
+only about 1.25 worth of chemicals. (more cheaply if you make your own ice... see the faq
+on crytalline h2o production if you are unsure how to do this).
+But you ARE thinking along the right lines... how about this:
+1.reduce the diameter of your tubing. less volume = less heat
+2. increase the length of your tubing.
+or 
+3. coil this excess tubing of yours in an icewater/salt bath.
+you will obtain more benefits from pre-cooling if your efforts are concentrated BEFORE
+the dryer IMHO.
+
+There's a whole lot of cheap gizmos used for drip irrigation that might be REAL cool for
+this application: including anti siphon valves that would dis allow "suck back".
+
+I like vinyl tubing. I have not had problems with clogging, I am just paranoid about
+clogs in the drying tube. Perhaps this paranoia is WHY I haven't had any probs. As for
+the tubing size, I do not speak from experience on that, only common sense. A smaller
+diameter tubing has a thinner wall thickness (less insulation) and gives the hot gas 
+more surface area to dispel heat through. I guess you have to actually try this reaction
+to appreciate the amount of heat produced, and heat is not our friend here.
+
+OOPS: The 1/4 inch tubing is best all around. Smaller diameters push more water droplets
+further through the system. 1/4" is OPTIMAL.
+
+1  How do you tell how much NH3 is in there?Does it matter how much Li is needed if
+theres "too much" NH3 compared to E?
+
+I take a flashlight, pop the top, and look. This is probly the hardest part, guessing the
+amount collected. picking up the container and swirling it will also give you a pretty 
+good idea. but, as I've posted, the amount of ammonia required is actually quite small,
+and an excess wont really hurt. the ammonia's just a solvent for the Li, and doesnt take
+part in the reaction.
+
+How long are your tubing?
+
+Long as possible. there is a total of 22 feet in my setup.
+
+Whats the best containers for the pre-chill (a gallon plastic milk jug?), the drying tube
+and gas generator?
+
+for the pre chill, any will do, I used a SS kitchen canister for my last dream, a quart
+canning jar would work fine. I'd stay away from a milk jug unless you know how to make a
+strong tight seal there. My drying tube is a quart mason jar filled 3/4 of the way with 
+cacl2. 
+
+6  When you poked holes in your thermos, did the glass shatter inside?  Could i use 
+something else since the thermos obviously isnt one anymore now that the vacuum is gone?
+
+a thermos w/ a glass liner will not work. mine has a SS liner. stanley and alladin make
+them in large sizes. you can use an alternate condenser made of glass or stainless steel
+(stainless prefferred) . bear in mind the effectivness is governed by the surface area
+for condensation, and the heat transfer characteristics of the material used. thats why
+SS works so well here.
+NOTE: after working with the thermos for a while, I switched to a large (3.5L) SS
+cylinder with about 6 1/2" diameter. That was the final generation of the condenser
+for me.
+
+How long does 5lbs dry ice last?
+
+not long enough.
+
+Could you tell me more of what you mean by "heat transfer"?  
+
+Heat transfer is very simple. Some materials transfer heat faster than others. that's it.
+
+aluminum, copper, and stainless have the best heat transfer capability. Borosilicate
+glass is usually made pretty thin, so its not bad either. Plastics seem to be the worst.
+If you have any questions, put the container on a warm burner, put your hand inside, and
+time how long it takes to burn you.
+
+Can I use CaOH instead of or in addition to NaOH? (question repeated 23 times in various
+forms)
+
+DAMNIT, FORGET THE FUCKING CAOH. USE SODIUM FUCKING HYDROXIDE. THIS BULLSHIT KEEPS COMING
+UP AND I AM FUCKING TIRED OF IT. FUCK CAOH. JUST FUCKING FORGET ABOUT IT. If you want to
+use some weak ass shit use fucking baking soda and cook the shit out of it. fuck.
+
+Ok, lets try this one:  how much dry ice and sludge can YOUR little cooler hold?  
+
+I dont know, I've only put methanol, acetone and polyethylene glycol in mine.
+Never tried sludge.
+Seriously, it's a six pack cooler, a lunch cooler, whatever, it doesn't matter how big it
+is.
+
+is it possible to time the reaction precisely so that one knows when blowback will occur? 
+
+Yes. it is also possible to launch a satellite from earth and use the gravity of various
+planets to sling it across the solar system. The math involved is similar in complexity.
+
+Also, are you L-tubings fatter on one end, so that it looks like a plastic marijuana
+pipe?  If so does the fat end go in or outta the gasoline can and bell jar? 
+
+the fittings look like little pot pipes, yes.
+the L goes to the outside. You COULD put them to the inside, but out is easiest.
+Please don't be smokin dope outa the fittings.
+
+I'm looking for a one way valve (thanx dwarfer), so far only a 3/4" metal has shown up,
+probably insuffcient.  Just what is a auto stop pvc valve? 
+
+It's a car part. just go to auto zone and ask for a pcv valve. It recycles fumes from the
+exhaust through the carbureator or something like that.
+
+I'm thinking of using a large pressure cooker lined with plastic instead of a gas can.
+Then when pressure drops I'll know, and I can snip the lines a put them in the HCl.
+Surly I'd be staring at that gauge for a long damn time huh?  Does anyone know if the 
+NH3 fumes will destroy my guage?
+
+Depends on the type of gauge used. They DO make gauges for anhydrous ammonia, which start
+at about $250. I looked at some oxygen gauges, but they are nickel plated brass, which
+would not work well at all.
+As for the gas can, perhaps you are missing the point. the expansion and contraction does
+not only GAUGE the pressure, it also helps regulate it. With a soft sided generator, the
+transition from positive to negative pressure is MUCH slower, taking 2-3 times as long.
+This gives you more time to react to it.
+
+I'd like to experiemnt, but that would be a HUGE loss.   Because of the cruel laws of
+the universe, merely heating fertilzier produces NO NH3, uhhhh, wouldn't that be so damn
+easy?     Is there anything you can heat without water that will produce NH3?
+
+You could heat fertilizer and NaOH. This would produce MORE ammonia, but then you have
+the extra heat to deal with. Heat is NOT your friend here.
+
+Or, I'm also thinking of manual release valves:  one comes out the pressure release
+mechanism of the gas can, so I can turn the knob open into HCl, and another at the
+condensor side, the final exit, rather than peeling tape off every now and then and
+stinking up the dump. 
+So far though, only seen copper or brass ones for water (faucet section) and that may be
+no good at the gas can end, or wouldnt it matter?
+
+First, you DO NOT want a tube from the generator to an hcl bucket. Especially when your
+pressure goes negative.
+secondly, a one way valve will not entirely solve the back pressure problem.
+Third, a pressure release valve at the generator would be redundant. you need to open it
+anyway to recharge it. What better time than right before it starts to suck?
+fourth, releasing pressure from the condenser will not release a lot of fumes unless you
+are overpressuring or the condenser is insufficient. During normal operation you should
+not detect these fumes unless your nose is within 2-3 feet of the outlet. If you do, then
+back off on the pressure.
+
+
+End of PART FOUR
+FINAL CHAPTER:
+This is the "catchall" section for this Birch FAQ. 
+
+The ammonia generator has gone through a series of changes since built. 
+
+These are notes for using a thermos as the receiver. This had the advantage of being very
+efficient with the dry ice, but it was quite difficult to drain the coolant and to
+determine the level of the ammonia inside
+
+[IMAGE]
+
+important notes on this:
+
+1. maybe you can drill through the cap without breaking it, but I couldnt. the current
+cap is a rubber 1 hole stopper with 1/8 ID vinyl tubing running through and (separate
+piece) continuing to the bottom of the thermos.
+
+2. there is a thumbtack size hole (not shown) through the top of the thermos, covered
+with duct tape.
+
+3.The thermos was placed in a vise, and a 7/8" hole drilled with a drill press (have fun
+trying this with a handheld drill, it was not easy)
+
+4. a funnel was used to insert finely crushed dry ice, it was found necessesary to use a
+screwdriver to force the ice through the funnel.
+
+5.Thermos is alladin brand, 1/2 gallon capacity.
+
+6.insulated lunchbox was lined with pieces of broken styrofoam cooler, then filled with
+low-expansion polyeurethane foam. The remaining part of the thermos, sticking up above
+the cooler, was also covered with this foam.
+
+7. after using this condenser, I have decided I need a drain hole with a plug, as shown,
+to empty coolant. currently I must clamp input tube and invert to drain.
+
+8. after reaching temp, the unit is very efficient, and ammonia was generated with less
+than 5lbs of dry ice.
+
+
+And here is an idea for an alternate style condenser (courtesy Dwarfer) that I really
+liked, but never had the opportunity to try. 
+I believe it has promise.
+
+NH3 CONDENSER
+
+This condenser section is a smaller PVC bucket inside another 5
+gallon bucket, the intervening space is foamed in....
+
+A 50"+  piece of 1/4 " vinyl hose is installed spiraling downward
+exiting at the bottom and attaches directly to the collector. 
+
+
+And one other dwarfer concept. This one could use a little tweaking, but it's good.
+
+
+The change requires another small pressure sprayer to be used for
+injection of base into the reaction chamber.  The reaction chamber
+can be any sealable large port container.  I still concur with Mr Clean 
+that it is  extremely cool to have the reaction chamber be a large sprayer.
+
+Should a mishap occur while pushing air, the hazard is minimal: particularly
+when compared to a plunger volume filled with hydroxide saturated
+liquid.
+
+GHETTO ANNIE: a response to using aqua ammonia in all the wrong ways
+
+
+1. freeze the water out:
+Bullshit. It is IMPOSSIBLE to separate ammonia from H2o by freezing. Here are the 
+properties of NH3(anhydrous)-----------------------------------------------------
+
+Formula: NH3
+
+Molecular Weight: 17.030
+
+Melting Point: -77.73 C
+
+Boiling Point: -33.34
+
+Specific Gravity: 0.77
+
+Vapor Density: 0.597
+
+Solubility: 89.9 mg/ 100 mL @ 0 C
+
+### Well, Look at that... Nh3 is soluble in ice up to an 89.9% solution... Hmmm, didnt
+we start out with a 3% solution?####
+
+..... do you think that the water left in the jug is MAGIC ROOM TEMPERATURE LIQUID 
+AMMONIA? Who knows, Perhaps it is. I just know the aqua ammonia they carry around here,
+even the 26 baume, has no such magical fluid in it. Then again I am only around std pressure
+here. Perhaps some posters to this site live in denser atmospheres where ammonia IS liquid
+above -33c..###
+
+2. add NAOH in a bug sprayer and allow the water to escape through the pressure release valve:
+
+Dangerous Bullshit. Pour NAOH into a solution of aqua ammonia and you will get a violent
+reaction as the NAOH displaces the Nh3, and you will get a vapor that sprays out through 
+the pressure valve. Now do you think that the vapor is the water that magically became lighter
+than nh3? I guess that the nh3 (gas) released through this process somehow returns to a liquid
+which is so dense it displaces NAOH saturated water.Once again it's the magical ROOM TEMP 
+AMMONIA.
+"Wait", you cry.. the ammonia is UNDER PRESSURE in the bug sprayer. It CAN be liquid at 
+room temp!!!! 
+
+Well then! you must have 1 hell of a bug sprayer to obtain that kind of pressure, guess these
+farmers are pretty stupid buying 300+psi stainless steel tanks when they could just use a bug
+sprayer. And if I was a bug in your neighborhood, guess I'd be crappin' my drawers about now.
+
+3. Reactions with this "ghetto annie" report sparks, flames, small fires, etc:
+
+Well then, lets do an experiment. Take a little household ammonia, Saturate it with naoh, 
+and toss in some lithium. Get sparks, flames, etc? Gee, I guess all the freezer, bug sprayer,
+wait 72 hour crap was unnecessary.
+
+Now read all the literature on Li birch reactions you can find (from chem abstracts, not some
+guy posting his backyard birch). What reaction did the scientists with reagent grade anh. 
+ammonia and Li report? Just "a blue color". No sparks, no flames... perhaps they did it wrong.
+
+To Summarize: if the people advocating this method really believe it works, then study this 
+post, message me, whatever. If you know it doesnt work and you post it anyway, keep in mind
+that someone who tries this crap could end up hurt or very possibly dead, and thats always 
+good for a laugh, right?.(if they are stupid enough to try ghetto annie, then how careful 
+do you think they will be?)
+
+Hopefully this will put a lid on this stupid crap.
+
+Teflon tape is your friend. Your CLOSE friend. use it everywhere you can think of.
+
+I'm looking for a one way valve (thanx dwarfer), so far only a 3/4" metal has shown up, 
+probably insuffcient.  Just what is a auto stop pvc valve? 
+It's a car part. just go to auto zone and ask for a pcv valve. It recycles fumes from 
+the exhaust through the carbureator or something like that.
+
+I'm thinking of using a large pressure cooker lined with plastic instead of a gas can.  
+Then when pressure drops I'll know, and I can snip the lines a put them in the HCl.
+ Surly I'd be staring at that gauge for a long damn time huh?  Does anyone know if 
+the NH3 fumes will destroy my guage?
+
+Depends on the type of gauge used. They DO make gauges for anhydrous ammonia, which start
+at about $250. I looked at some oxygen gauges, but they are nickel plated brass, which would
+not work well at all.
+
+I'd like to experiemnt, but that would be a HUGE loss.   Because of the cruel laws of the
+universe, merely heating fertilzier produces NO NH3, uhhhh, wouldn't that be so damn easy?
+     Is there anything you can heat without water that will produce NH3?
+You could heat fertilizer and NaOH. This would produce MORE ammonia, but then you have the 
+extra heat to deal with. Heat is NOT your friend here.
+
+Or, I'm also thinking of manual release valves:  one comes out the pressure release mechanism
+ of the gas can, so I can turn the knob open into HCl, and another at the condensor side, 
+the final exit, rather than peeling tape off every now and then and stinking up the dump. 
+ So far though, only seen copper or brass ones for water (faucet section) and that may be 
+no good at the gas can end, or wouldnt it matter?
+
+First, you DO NOT want a tube from the generator to an hcl bucket. Especially when your 
+pressure goes negative.
+secondly, a one way valve will not entirely solve the back pressure problem.
+Third, a pressure release valve at the generator would be redundant. you need to open it
+anyway to recharge it. What better time than right before it starts to suck?
+fourth, releasing pressure from the condenser will not release a lot of fumes unless you
+are overpressuring or the condenser is insufficient. During normal operation you should not
+detect these fumes unless your nose is within 2-3 feet of the outlet. If you do, then back 
+off on the pressure.
+
+
+FOR THOSE NEW TO CHEMISTRY:
+
+Here are a few important links to read:
+
+About molar weights:
+http://hive.lycaeum.org/wwwthreads/perl/showflat.pl?Cat=&Board=crystal&Number=57798&page=0&view=collapsed&sb=5
+
+About acids and bases:
+http://hive.lycaeum.org/wwwthreads/perl/showflat.pl?Cat=&Board=crystal&Number=53123&page=2&view=collapsed&sb=5
+
+about recrystallization (for the most outrageously pure product possible)
+http://hive.lycaeum.org/wwwthreads/perl/showflat.pl?Cat=&Board=crystal&Number=45545&page=2&view=collapsed&sb=5
+
+AND THAT"S ALL I KNOW ABOUT THE BIRCH.
+
+
+Footnote: If you have any questions left in you (and I don't know how that'd be possible) then
+I am afraid you will have to find someone else to answer them.
+
+This is my final posting to the Hive. I will no longer post or visit here. My e-mail address 
+which I registered under has been closed, and I leave no forwarding address. I would like to 
+thank Strike, Rhodium, and the others who made this site possible. Something is being DONE here, 
+and those responsible for this place should be proud.
+
+As for me, I really don't know much about chemistry. I hope I have contributed somewhat, but 
+circumstances in my life have changed, and this is no longer the place for me to be.
+
+Goodbye. 
+
+Clean.
+
+--------------------------------------------------------------------------------
+ p2e3r4f5e6c7t8 
+(Hive Bee) 
+10-04-00 07:32
+         Re: Everything about the birch PT1    Reply    
+  
+Ok then mr_clean, swim opened a "AA"energizer lithium battery,  and when swim pulled 
+out the rolled up contence swim found a little piece of metal that was folded over the 
+roll, swim unrolled it and  found what you said would be there, a long shiney strip and
+another strip that was a little (dull) and not as shiney as the other strip, and then the
+(dull) not so shiney strip started turning dark in colour, so why did it do that, and is
+it still alright to  use. Swim also said that  there was fumes and a awfull fucking smell
+when he opened it. Swim would like to know what happend and should he open the "AA" a 
+different way  or is  it supposed to do all that is mentioned.
+Thank's in advance. 
+--------------------------------------------------------------------------------
+Ask no question's, and i will tell no lies.  
+
+--------------------------------------------------------------------------------
+FarQ 
+(Hive Bee) 
+10-04-00 08:15
+          Re: Everything about the birch PT1    Reply    
+  
+Perfect, you should know better, it has all been written 20 times before!
+You should be doing it in a bucket of kero or something.
+When the Li is exposed to air it begins oxidising instantly.
+The one that turned black! 
+--------------------------------------------------------------------------------
+Stonium is a bitch, and yes, I love her.  
+
+--------------------------------------------------------------------------------
+Gen_Washington 
+(Hive Bee) 
+10-04-00 14:00
+         Re: Everything about the birch PT1    Reply    
+  
+p2 . . .  please dont try a birch for a long, long time.  If you havent read all
+the posts and you dont know the Li is a metal that oxidizes to nothing quick and
+explodes in water (or catches fire) then all you know is how to get you and others
+blinded, killed, and have a hole put in your throat.  
+--------------------------------------------------------------------------------
+The Flesh of Your Mother Sticks In My Teeth ~ Old Easter Island Saying    
+   
+--------------------------------------------------------------------------------
+ Labkey 
+(Hive Bee) 
+10-04-00 14:24
+          Re: Everything about the birch PT1    Reply    
+  
+The birch dope I've seen tends to be non-shiny tan-white rocks that can be crushed
+into a fine powder or compressed back into rocks. It can be torched like a crack rock
+giving an F-16 afterburner vapor trail and still run back and forth not going away. 
+Characteristic smell and taste.
+
+It seems the birch is very forgiving as even sloppy crankster gangsters can pull it off
+well only after half a dozen times.
+
+About this being dangerous... You bet. I've seen to-the-meat burns and countless scars. 
+And dangerous in another sense. NH3 has a alerting smell that can carry and linger. 
+I'd say dangerous in another, more subtle sence... Someone with no chemistry knowledge 
+and no ethics learns the 'recipe' from another 'cook', becomes the top dog overnight and 
+goes insane with luciferian-power. Dangerous to say the least.
+
+I remember a cook's assistant saying he told them "I told them to throw another battery
+in, it gives it leg". Well it seems they tweaked their process by 'add a little more 
+of this or that.'
+
+Thinking back to those days, there were alot of people doing under/over-ed crank. 
+I doubt any of them even bothered to weigh a Li strip with their digi's let alone 
+calculate molar ratios or even begin to research what they were doing. Their main 
+business seemed to be ganking tanks.
+
+Thank you Mister_Clean. I can imagine it exactly. 
+--------------------------------------------------------------------------------
+processing molecular algorithms  
+
+
+--------------------------------------------------------------------------------
+ Mister_Clean 
+(smartass) 
+10-04-00 19:00
+          Re: Everything about the birch PT1    Reply    
+  
+
+In reply to:
+
+The birch dope I've seen tends to be non-shiny tan-white rocks that can be crushed
+into a fine powder or compressed back into rocks.
+--------------------------------------------------------------------------------
+
+
+That is interesting. It sounds to me like you've been getting a little nh4cl and 
+ephedrine with your stuff.
+
+The only birch product I have ever seen had a very clean burn, and a very slight 
+ephedrine taste. One interesting difference, when gassed it evolved after an unusually 
+long time and appeared as long thin needles rather than the typical "applesauce". 
+Right from the filter the crystals appeared to be spun glass.
+
+I wonder if this was perhaps due to isopropyl impurities in the NP.
+
+Clean.
+--------------------------------------------------------------------------------
+Dont ask the question if you don't want the answer....  
+
+
+--------------------------------------------------------------------------------
+Gen_Washington 
+(Hive Bee) 
+10-05-00 14:49
+         Re: Everything about the birch PT1    Reply    
+  
+Ok just a few questions.
+I am hoping you will reply to that thread of STUPID questions in newbee, I have 
+important questions there not addressed here.
+Also:
+"If there is a problem with ammonia, dump water on it and GET AWAY. Hold your
+                       breath till you are sure your clear."
+Wouldnt an acid be better?
+
+More importantly, the addition of the IPA+pfed generates gas.  How much?  
+Lets say theres 350 ml anhydrous sitting there?  How much will boil off in terms
+of ml's and fume wise?  
+
+AND, can you, just put the pfed+IPA in the flask in the first place?
+Imagine that, and then with a one way valve (EDIT--dwarfers idea btw) to a bucket
+of HCL from the condensor!  You could recharge all day and who would care?  A few
+bucks and some time, but no danger, assuming a way valve is available OTC that will
+preent gasses from coming in, but let them out. 
+Barring that, the IPA+pfed in the flask in the first place might prevent some 
+hassle, or not?
+
+I sincerely hope this gets published out there some how, in simple plain language
+at the most nominal cost possible!  This is a major leap in the Drug War, 
+preventing enforcement of their stupid fascist laws and controlling behavior 
+nearly impossible.  Fuck Them!  As Janey Sue used to say "Let,s Do it"  !!!
+
+--------------------------------------------------------------------------------
+The Flesh of Your Mother Sticks In My Teeth ~ Old Easter Island Saying
+ 
+
+--------------------------------------------------------------------------------
+Mister_Clean 
+(smartass) 
+10-05-00 16:24
+          Re: Everything about the birch PT1    Reply    
+  
+Gen Washington,
+
+
+In reply to:
+--------------------------------------------------------------------------------
+
+If there is a problem with ammonia, dump water on it and GET AWAY. Hold your 
+breath till you are sure your clear."
+Wouldnt an acid be better?
+--------------------------------------------------------------------------------
+
+
+That is a reasonable assumption. HCL would neutralize it well, however in the reason
+I suggest water is 
+
+1. I already said to have a bucket of water standing by.
+
+2. If you have a problem, you wont have time to be careful, and dumping 3 gallons 
+of acid may cause other problems.
+
+3. If the ammonia douses you, which would you rather pour on yourself?
+
+Otherwise, good idea.
+
+The amount of gas that will boil of is variable. If your ammonia is stabilized in a 
+cold bath, and the pfed / iso is added carefully, you wont lose more than a couple ml.
+
+And you CAN add the pfed/alcohol to the condenser first.In fact, this may help condense
+ the ammonia by providing a heat sink. I was going to discuss that later in the thread.
+
+The one way valve is a good idea. An auto pcv valve would probly do the trick. I doubt
+ it would eliminate suckback in the system, but it would likely help a bit. Good thinking.
+
+Initially I was intrigued with the birch because of the ease of obtaining everything OTC.
+ Some recent events caused me to focus more on the safety issues involved, however.
+
+The reaction is easy to explain, and easy to perform. The safety issues involved are 
+complex. Frankly, the idea of certain people performing this reaction scares the hell 
+out of me.
+
+That is the reason for this post. I am attempting to put everything into one place, 
+so that people will know what they are getting into. 
+
+Clean 
+--------------------------------------------------------------------------------
+Dont ask the question if you don't want the answer....  
+
+
+--------------------------------------------------------------------------------
+Gen_Washington 
+(Hive Bee) 
+10-05-00 17:14
+         Re: Everything about the birch PT1    Reply    
+  
+I'm still reeling form the fact that you always worked under a fume hood.  How much 
+much NH3 do you lose every time you add one of your Li strips (thats cut into 12 pieces)? 
+Personally, if I ever did this I simply couldnt imagione finding an outdoor place 
+I would feel safe doing this~especially since dry ice has a limited shelf life and 
+this would have to be done after your ice source closed at night.  I also think some
+people would try it inside ayways, just because some people are reckless.  I also 
+remember AQ talking how she worked on it inside her apartment and said it wasnt much
+of a big deal. 
+--------------------------------------------------------------------------------
+The Flesh of Your Mother Sticks In My Teeth ~ Old Easter Island Saying  
+
+
+--------------------------------------------------------------------------------
+  Mister_Clean 
+(smartass) 
+10-05-00 18:54
+          Re: Everything about the birch PT1    Reply    
+  
+The amount of nh3 you lose is going to depend upon your technique, your equipment, 
+and ambient conditions. 
+
+I dont measure the quantity of ammonia as I am performing the reaction. so the 
+best answer I can give is "not much".
+
+AQ has my respect. She was always doing crazy stuff.
+
+As far as doing it outside, I wouldn't... but it seems like a much better 
+idea than doing it in an apartment.
+
+Now I dont mind answering your questions, as there is obviously a brain behind
+them, but please give me the opportunity to complete my post and THEN ask. 
+
+Thanks.
+Clean. 
+--------------------------------------------------------------------------------
+Dont ask the question if you don't want the answer....  
+
+
+--------------------------------------------------------------------------------
+wayupnorth 
+(Hive Bee) 
+10-05-00 19:08
+         Re: Everything about the birch PT2    Reply    
+  
+Clean:  Good thought, and editting and content.  *DANGEROUS*  I haven't suck breath 
+so much since the days of working ER's during and after Nam.  Only got one first degree 
+with a little second degrees tissue freezing from the very first time I cracked to NH3 
+valve and did not have the hose from the tank to the flask secure, sprays real cold 
+(real fast).  The damage is done immediately !  *Apologies for my dumping on some aspects 
+of previous writeups.*  All my erlenmeyer flasks are ground glass with narrower  throats 
+than most (smaller than standard 24/40's) which made it nearly impossible to contain my 
+Birch in a 500-ml  flask like yours which probably has a standard neck and mouth size.   
+Got my extractions back in line for the pills available W_U_N.  Using the shortened cure 
+(go to whoa) by Placebo, but had to add a Whatman #54 filtering after the alcohol decants 
+due to a huge amount of what I think is probably micro cyrstalline coming through that was 
+not visible (still some red color hiding stuff) during or after my decants .  My extractions 
+are now running 95-100% without A/B and 87-93% with A/B.   Do not seed any significant 
+difference in yield between reaction with or without A/B, but it does seem more appropriate 
+to not have som much red tint as in no A/B.  I'm glad to see a more specific amount on the 
+alcohol cosolvent as I thought I was going crazy with the amounts needed for 15-25 gram 
+reaction.   Almost wish I could use huge amounts more with an addition funnel to drip it 
+in while doin the Li unrolling and cutting.  Only thing I do not like about the Birch is 
+the spray that comes from the thermal burps blowing  at any fluid I might be pouring in 
+whether its the  cosolvent (with E) to water quenching, well the toulene pour is mild.   
+I do not understand why you seem to be saying put your NH3 tank on ice.  I know its 
+warmer almost everywhere in comparison to W_U_N , but icing the tank ?!?!   I have no 
+problem condensing the A-NH3 (its from a 150 pound tank), so is it your temperate or 
+warm climate ?   At this moment my Birch's are getting done outside as the evening temp 
+is below 0 centigrade, therefore I just need to contain my reaction vessel within a foam 
+box. I am still stuck on my 3 neck roundbottom 3-liter as it gives me good handles to 
+hold onto, no spill over as can more readily happen in smaller vessels, and the round 
+bottom seems to keep the reaction churning well without using an external stirrer.   
+I do have a tendancy to add my Li quicker, with a little more over reduction due to not 
+being able to see the solvation color or reaction strength with the foam box, but the 
+ice routine is a bother.  I possibly could decrease the amount of over and under reacted
+E with the stirrer, but until I move the whole operation back in doors I do not want to 
+be dragging much out side as I live in what up here passes for a downtown area.   
+I haven't been letting the rxn's run much more than 15-20 minutes after adding the last 
+of Li figured at something like 0.089 grams Li per gram E +  0.1 gram additional of Li 
+per 100-ml of alcohol cosolvent ( which might explain some additional reason for 
+overreduced E amount).   That is a top of the head guess based on number calculated 
+by previous molar calculations you posted. *I don't think it veries from one part of 
+country to another, but you do get that extra heavy, non Li, strip of metal attached 
+to the end of your Li strip don'f you.  (Hey, I'm really not suffering from sleep 
+deprivation.  There really is a trash peace of metal at one end of Li strip which is 
+longer than the Li strip is wide and a heavier gage thickness that the Li or aluminum 
+strip.*   I then bring the vessel in as soon as I have added 100-ml DH2O, where I 
+finish evap and cleanup up in fume hood.  I add another 100-ml or more DH2O if there 
+seems to be any Li remaining, followed by NP (toulene) to bring up to approx 800-ml 
+in sep funnel. I gave up on trying to base until -all- evolution of NH3 bubbles stopped.
+  I base until no more granular NaOH will dissolve with medium shaking and swirling, add 
+non iodized table salt (at about 0.5 teaspoon per each 7-8 grams base).  After shaking, 
+swirling and separating I do 3 or 4 additional 100-ml DH20 washs, (I keep a electronic 
+pH meter in use and the pH has not dropped under about 12.6 or higher with the additional 
+DH2O washs).  I then  filter with Whatman #54 and gas in my vacuum flask.  Found out it 
+does not take near the HCl gas as I have been using with other reaction's  products.  
+Only about 1 tsp of salt per 5 grams of base used, along with HCl till all salt damp, 
+then 1-2 ml of H2SO4 per every 5 grams of base used in reaction.   Swirling precip can 
+be seem very easily while finish up with just this amount of HCl gassing.   Freezer for
+3 to 6 hours produces well enough to make filtering sloooooow, but with beautifuly 
+glimmering bed of small crystals that recrystallize to long narrow flake like crystals 
+with at least half the crystals almost as thich as they are wide.  I am not as careful 
+with my Li in as I throw the yet unwrapped, but metal casing removed batterys in Naptha, 
+and when I have the required number I take one at a time out slice the plastic and quickly 
+unroll and seperated and throw the Li strip back into the same Naptha.   Get stuck with some 
+smell from the remains peeled from the Li, but have no room mate or woman around to complain, 
+and it gives me adequate reason to empty thrash after Birch is done and I think its break 
+time.   Will have to try the HCl in water for piped off NH3 fumes as it would save alot of
+wear on my squirrel cage fan used for fume hood.  **Found out quickly (so thought I might 
+write down) that product % was highly dependant on drying --before-- gassing (ephson salts 
+in flask that separatory toulene is drained into with decanting into buchner for vacuum 
+filtration into flask I gas product in).  It is amazing the amount of atmospheric water 
+the NH3 must be drawing into the reaction. The only indicator of water in NP is in scrud 
+of under and over reduced E which sits at bottom of NP.  It is some really airy scrud with 
+hardly any mass.  I have not yet tried additional heat to speed up evolution of gas after 
+reaction, but I do use air pumped in from aquarium pump.  The air just blows across top of 
+reaction fluids, but has cut down evap time by at least 40 to 50%.  When it hits 30 below 
+around the middle of December to the end of january I will have to check out the NH3 
+production, shit I even gave up on making CO2 snow (there are not dip tubes in the CO2 
+tanks up here) and I hate salting down ice as all that I can readily get up here is large 
+cubed ice, no small cubes or crushed.  Dry ice is only available w_U_N during the summer 
+at super inflated tourist fishing prices.   After all this non-necessary babbling I want 
+to once more say great write up, now if Rho will post it on his site so it is easier to 
+obtain when the Hive is crowed or temp off line.  Still have not made it to that 95% mark 
+yet (Birched E to Meth).  Unless I wanted to cheat by leaved in the over and underreacted 
+scrud, nay.  Thanks again for your tolerance of us many inquirers.   NH3 loss due to slow 
+additions of alcohol E mix and Li (if you have adequate expansion area for ammonia gas in 
+rapidly formed bubbles) seemed negligible (to the point where you would have to be 
+exceeding anal or work is very small micro scale to even consider measuring it) as it 
+appears that there really isn't a hell of an increase of gas leaving reaction vessel 
+just large but less in number bubbles of ammonia gas in reaction solution just after 
+additions.  Other than the increases from thermal changes the gas evolution and 
+evaporation seems pretty linear (consistent with out leaps and bounds up or down) 
+in its ouput.  The output seems to be mostly thermally dependent ie; temperature 
+surrounding flask, temp of added materials to reaction (like he said frig or freezer 
+before adding).  Seemingly, the thermal changes within  the reaction due to Li breaking
+down to anion and cation, or the cleavage of OH and such seem to have little noticeable 
+inpact on ammonia gas evolution --in comparison to-- teemperature diffference between 
+condensed NH3 within reaction vessel and air surrounding the reaction vessel.  None of 
+which is a problem as long as you start out with adequate or better yet (but not to 
+extremes) excess NH3, especially if you are one of those you work slowly always checking 
+written directions as your following them instead of having learned adequately enough 
+to work at a consistent rate when needed (like after the NH3, alcohol, and E are already 
+in reaction flask in not the time to be reading up on how much Li and how big should the 
+Li pieces should be).  Course with the rate of evaporation being temp/time dependant if 
+you are working in somewhat hospital temps it really isn't that big of a problem.  Go 
+to fast with Li additions and ending the reaction to early is a bigger problem for me 
+than the evap problem during reaction (and thats at surronding air temps from 30 to 50 
+degrees F using starting NH3 at 30% to double minimum that is theoretically required.  
+Basically I have a lot of NH3 and typically use probably 25% more that Clean or other 
+moderators types would be using.  
+--------------------------------------------------------------------------------
+Phed up!!!!!!!!!! or as T would say: phed down or sped up, or speeds gets it up.  ????  
+
+
+
+-------------------------------------------------------------------------------- 
+ p2e3r4f5e6c7t8 
+(Hive Bee) 
+10-06-00 00:33
+         Re: Everything about the birch PT1    Reply    
+  
+Ok then farq, if swim dose open another "AA" lithium in a bucket of colmen's, or 
+white spirts, or kero or what ever, when adding the lithium to the reaction, 
+should  swim clean it first or do some thing to if first so it dose not contamnate 
+the reaction, with a non polar.
+
+Gen washington, have you been told today,GO FUCK YOUR SELF 
+--------------------------------------------------------------------------------
+Ask no question's, and i will tell no lies.    
+   
+
+--------------------------------------------------------------------------------
+SlyDog 
+(Hive Bee) 
+10-06-00 01:10
+         Re: Everything about the birch PT1    Reply    
+  
+
+If your somewhat effiecent with the process of peeling the caseing of the LI batteries,
+there isnt a need to open them under your solvent of choice.Once the metal case is peeled
+(this takes maybe 2 minutes)SWIM leaves them still wrapped in the plastic/white paper.
+Once the metal case is removed the LI battery is immeadiatley submerge in mineral spirits
+(yes still surrounded by plastic/white paper cover).When its time to use them SWIM picks 
+one up and gets that little thick metal strip that W.U.N was talking about and bends it 
+downward(this tears off easily and isnt put in rxn jar),then if you look real close at 
+the plastic,about 1/4 back from were that metal peice was at you will/should notice that 
+is where the plastic/white paper begin!By rolling your thumbs or index fingers at this 
+spot shold seperate the two,enough to where you can easily unroll the damn thing in 2 
+seconds.SWIM doesnt tear the strips much more then 2-4 peices and seldom waits much then 
+30 seconds before depositing next LI strip.This works fine for SWIM but he knows "technically"
+this isnt proper procedure.Pay attention to M.C. and ya might learn something!!And damnit,
+doesnt FarQ seem to act like he's been here awhile?Who does he think he is? 
+             SlyDog
+                 
+
+
+-------------------------------------------------------------------------------- 
+Mister_Clean 
+(smartass) 
+10-06-00 08:09
+          Re: Everything about the birch PT2    Reply    
+  
+W_U_N,
+
+Judging by the length of your post, I'd say your gogo method seems to be working...
+
+Icing the tank is necessary here, if yours is already at 0c, I wouldnt think it necessary. 
+The reason I recommend icing the tank is simple. It drops the pressure from 100psi to 
+(what was  that damn gas law again?) about 30psi. the valves on nh3 tanks are designed 
+for on-off operation, and they arent very good at regulating the flow, so you want to 
+have every advantage possible when decanting.
+
+As far as the problems you have with boil over, the answer to that is simple. I recommend 
+a dry ice bath if you are GENERATING ammonia, but if you have a tank, just use equal 
+amounts of ice and CaCl2. Where you live, I am sure they use tons of it in the cement.
+
+Even if you ARE at 0C, you still should have the ice bath for your flask. Otherwise, 
+all the thermal increases are taken up by the ammonia. It has a high specific heat, but 
+look up the amount of Kj given off when the Li dissolves, and figure the amount of energy 
+in your PPhed /ipa that you are asking the ammonia to take. You can tell exactly how 
+much ammonia should boil off. Because I use an ice bath, I lose almost none.
+
+Another thing about the birch, it seems to work better in a flatter container. The best 
+results I have obtained were from using a stainless steel cylinder about 6 1/2" in 
+diameter. It did a better job with the reduction than using the exact same quantities 
+in a stainless steel thermos. If I were you (living in the tundra) I would try using 
+either a 2l ehrlen or something along those lines. I was using about 500ml nh3 in the 
+cylinder, but the cylinder volume was almost a gallon (3.5L). If you looked inside the 
+500ml flask you are using, you will most likely see stratification in the solution 
+(layering). Also the extra surface area of a larger container makes cooling much easier.
+
+As far as basing goes, you are continuing to evolve bubbles even when the naoh will no 
+longer dissolve? that being the case I would say you need to add more water and warm the 
+solution. Although I guess it is possible that you had too much Li and quenched, in which 
+case you have LiOH which may be reacting with the NaOH. LiOH is a pretty damn strong base.
+
+As for stirring, if you used a bigger flask then swirling the mixture would be possible.
+I have used a big glass marble in the solution to keep the pphed from settling out.
+
+Clean. 
+
+washing with water is good, but a wash with nearly saturated naoh solution will help also. 
+--------------------------------------------------------------------------------
+Dont ask the question if you don't want the answer....  
+
+
+--------------------------------------------------------------------------------
+Gen_Washington 
+(Hive Bee) 
+10-06-00 15:28
+         Re: Everything about the birch PT2    Reply    
+  
+Fair enough, MC, I'll hold off on any basic questions since this is such an excellent write 
+up (as usual). but I will get into a few ideas on making this fume proof, sorta a mini 
+"novel synth"  I am not, nor ever will be a big time operator for reasons I cant divulge, 
+my interests are almost all theoretical.  Any dreams I may have will be small and infrequent, 
+and yes, inside a small apartment. 
+
+I'm looking for a one way valve (thanx dwarfer), so far only a 3/4" metal has shown up, 
+probably insuffcient.  Just what is a auto stop pvc valve?   If any one can think of 
+how someone can obtain a plastic , I believe they may be  called "check valves" or "check 
+release valves" from some other type of equipment or machinery, please DO TELL.    
+
+I'm thinking of using a large pressure cooker lined with plastic instead of a gas can.  
+Then when pressure drops I'll know, and I can snip the lines a put them in the HCl.  
+Surly I'd be staring at that gauge for a long damn time huh?  Does anyone know if the 
+NH3 fumes will destroy my guage?  I'd like to experiemnt, but that would be a HUGE loss.
+   Because of the cruel laws of the universe, merely heating fertilzier produces NO NH3,
+uhhhh, wouldn't that be so damn easy?     
+Is there anything you can heat without water that will produce NH3?
+
+Or, I'm also thinking of manual release valves:  one comes out the pressure release 
+mechanism of the gas can, so I can turn the knob open into HCl, and another at the 
+condensor side, the final exit, rather than peeling tape off every now and then and 
+stinking up the dump.  So far though, only seen copper or brass ones for water 
+(faucet section) and that may be no good at the gas can end, or wouldnt it matter?  
+Of course, theres no guarantee whats good for water is good for poisonous, stinky, 
+incarceration-asking-for-it gasses.  
+
+Perhaps dwarfer will return here too  
+--------------------------------------------------------------------------------
+The Flesh of Your Mother Sticks In My Teeth ~ Old Easter Island Saying    
+   
+
+--------------------------------------------------------------------------------
+ Mister_Clean 
+(smartass) 
+10-06-00 15:43
+          Re: Everything about the birch PT2    Reply    
+  
+I will incorporate your questions into the faq section.
+
+as for dwarfer and pressure release valves, dwarfer mentioned irrigation equipment, 
+which I dont know about. Any pressure guage you find will have metal inside, 
+typically brass or copper. 
+
+I am pretty sure dwarfer will be back in a couple weeks. Word on the street is 
+he's terrorizing the natives along with uncle Ho Monga.
+
+Clean. 
+--------------------------------------------------------------------------------
+Dont ask the question if you don't want the answer....    
+   
+
+--------------------------------------------------------------------------------
+ SlyDog 
+(Hive Bee) 
+10-06-00 22:34
+         Re: Everything about the birch PT2    Reply    
+  
+M.C.,in your last post(part 4)I noticed as part of your FAQ you used some info 
+I had posted about the importance of opening LI batteries under a solvent.Maybe 
+I worded it wrong.What I was talking about was opening them from the metal case,
+not the plastic.Come to think of it,I feel stupid,of course you wouldnt open the 
+case under a solvent.The confusion was my part!Sorry
+        SlyDog 
+
+
+--------------------------------------------------------------------------------   
+  Mister_Clean 
+(smartass) 
+10-07-00 00:43
+          Re: Everything about the birch PT2    Reply    
+  
+Slydog,
+
+You know WHAT works, and it's obvious you are trying to understand WHY it works. 
+Too many people stop at the what.
+
+As you mentioned battery dissection, I would like to introduce a concept I have 
+yet to see discussed here.
+
+We all know (if we have opened a battery before) that batteries will spark.
+
+We also know that the Li goes into a NP.
+
+So before opening any more batteries, let's think about this: how flammable is 
+our storage solvent??
+
+Naptha is pretty stable. A naptha saturated battery will not spark.
+
+Boy, this is good stuff, maybe I'll put this in the post too.
+
+As for sly, I left it unsaid, but I noticed that you soak the innards before 
+opening them.
+
+And if I were you I'd lay off the brake fluid for a while. I believe you are 
+stepping on fman's territory. If you are not careful he may "show you the darkness 
+which you seek".
+
+Kinda gives ya the chills, don't it....
+
+Clean. 
+--------------------------------------------------------------------------------
+Dont ask the question if you don't want the answer....    
+    
+
+--------------------------------------------------------------------------------  
+SlyDog 
+(Hive Bee) 
+10-07-00 02:09
+         Re: Everything about the birch PT1    Reply    
+  
+
+After the innards are seperated from the metal 
+case,I dont see how a spark could concern anyone 
+anymore then they should be already.Ive yet to 
+witness a spark "post-seperation",during  the 
+period when the metal case was being peeled  is 
+the only time Ive witnessed a spark of any type.Im fairly sure 
+of the cause of this,therefore,while 
+seperating LI strip from the rest of the 
+innard-crap isnt a concern.Also,in Labkeys reply 
+on Birch dope charateristics{lotsa vapor,runs 
+back and forth,etc..}you said it sounds like   
+nh4cl.When dwarfer spoke of some   
+"fools-Birchdope"(from his posted thread-"looks good but isnt")
+that didnt melt and had very little fumes.It was concluded 
+this was nh4cl.I dont know about you but to me 
+these two "end products" sound completely 
+opposite yet both are refered to as nh4cl.Could 
+you clue me in on that Mr.BirchGod.
+        SlyDog
+    p.s.I would be honored to 
+see anything FMAN would show me!
+Chills???not hardly
+ 
+
+
+--------------------------------------------------------------------------------
+ Mister_Clean 
+(smartass) 
+10-07-00 09:33
+          Re: Everything about the birch PT1    Reply    
+  
+Characteristics of NH4CL:
+
+SUBLIMATION: this means it has NO liquid phase (like dry ice). when melted it goes
+ from solid directly to gas. It therefore leaves absolutely NO residue on foil. 
+
+To read about nh4cl, it separates into Nh3 and HCl upon heating. You would think 
+the shit would be quite caustic when smoked, yet in reality it is not. 
+
+The confusion you see is this: In one case I was speaking of PURE NH4Cl, a 
+sublimating solid, not dope, but somewhat bioactive (placebo effect perhaps?) 
+Not unpleasant to smoke.
+
+When you gas, the meth and NH4CL come out in two distinct phases, one forms crystals, 
+the other forms white powder resembling gypsum.
+
+In the other case I was referring to a COMBINATION of meth and NH4CL. This burns clean, 
+runs forever on foil, and leaves a clean fairly clear oil, and cracks back very clear.
+
+You have access to ammonia, so the best way to learn about the stuff is to make some 
+and examine it. take a small amount of ammonia and bubble HCl gas through it.. 
+(or you can easily set it up so both combine in gas phase, use the product gas from a birch.)
+once you have a sample of the stuff, play with it. Taste it, burn it, etc., This way you 
+will be able to recognize it.
+
+The first time I saw it, I assumed it was overreduced product. However, when I did some 
+further research (I was trying to figure out WHAT it reduced to, as it had no similarity 
+to aziridines or P-2-P) I discovered that it had more similarity to nh4cl than anything. 
+Then I obtained a sample I knew to be nh4cl. Bingo. That was the stuff.
+
+Clean.
+
+--------------------------------------------------------------------------------
+Dont ask the question if you don't want the answer....    
+   
+
+--------------------------------------------------------------------------------
+ Gen_Washington 
+(Hive Bee) 
+10-07-00 13:39
+         Re: Everything about the birch PT1    Reply    
+  
+____________________________________________________________________________________
+So before opening any more batteries, let's think about this: how flammable is our 
+storage solvent??
+____________________________________________________________________________________
+
+Pretty fucking flammable if its in a small container with .94 gr of Li and is suddenly 
+tossed in your toilet! 
+--------------------------------------------------------------------------------
+Patiently Awaiting The Video    
+   
+
+--------------------------------------------------------------------------------
+Mister_Clean 
+(smartass) 
+10-07-00 17:04
+          Re: Everything about the birch PT1    Reply    
+  
+Actually, my experience with Li is that it's not much of a problem with an excess 
+of water. The water absorbs alot of heat. The problem seems to be with water DROPLETS. 
+
+As far as sparking goes, you run that risk whenever you pierce the "skin" wrapping. 
+if you break through past the first layer, it will spark. 
+--------------------------------------------------------------------------------
+Dont ask the question if you don't want the answer....  
+
+
+--------------------------------------------------------------------------------
+Mister_Clean 
+(smartass) 
+10-07-00 22:07
+          Re: Everything about the birch PT1    Reply    
+  
+. 
+--------------------------------------------------------------------------------
+Bye Bye Bee's.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+ 

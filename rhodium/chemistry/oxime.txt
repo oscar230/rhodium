@@ -1,0 +1,85 @@
+--------------------------------------------------------------------------------
+                     Miscellaneous reductions of oximes to amines
+--------------------------------------------------------------------------------
+
+Chem. Ber. 117, 856-858 (1984)
+
+Isobornylamine
+
+1.67g (10 mmol) camphor oxime and 5.7g (20 mmol) NiCl2*6H2O was dissolved in 
+100ml methanol and cooled to -30°C, and during 30 minutes 3.8g (10 mmol) NaBH4 
+was added in portions. The mixture was stirred for another 30 minutes and then 
+the cooling bath was removed and the reaction mixture worked up as usual. 
+Yield after sublimation at 100°C/14 mmHg 1.40g (92%).
+
+4-tert-butyl-cyclohexylamine
+
+1.69g (10 mmol) 4-tertbutylcyclohexanone oxime and 2.0g (13.8 mmol) MoO3 was 
+dissolved in 100ml methanol with cooling in an ice-bath, and 3.8g (0.1 mol)
+NaBH4 was added in portions. After the exothermic reaction had subsided (1h)
+the reaction mixture was worked up the usual way. After kugelrohr distillation, 
+the yield was 1.35 g (87%), and consisted of 75% cis and 25% trans isomers. 
+
+--------------------------------------------------------------------------------
+JACS 111, 6228 (1989)
+
+To a solution of the oxime (24.6 mg, 0.521 mmol) in 10% H2O-THF (30ml) were added 
+aluminum amalgam, which was prepared from 0.25g of granular aluminum and 2% HgCl2
+(0.1ml) in 10% H2O-THF (0.5ml). The reaction mixture was stirred for 3h at room 
+temperature. 3ml conc NaHCO3 was added, and the reaction mixture was filtered and 
+the filter cake washed with ethyl acetate. The filtrate was diluted with water and 
+extracted with ethyl acetate. The extracts was washed with brine, dried over MgSO4
+and concentrated in vacuo to give 20.34 mg (85%) of the desired amine as an oil.
+
+[Rh: The oxime they reduce here is a large indole derivative. Use less solvent 
+with smaller molecules at a larger scale]
+
+--------------------------------------------------------------------------------
+
+JOC 56(15), 4706 (1991)
+
+A solution of the oxime (11g, 19 mmol) in 250ml dry THF was treated with aluminum 
+foil (5g, 190 mmol) that had been cut into small pieces and immersed successively 
+in 2% aqueous HgCl2, distilled H2O and THF. The dark gray suspension was stirred 
+for 12h at room temperature, at which time TLC revealed the absence of starting
+material. The suspension was filtrered and concentrated to yield 7.8g (75%) of 
+the product amine as a light yellow oil.
+
+[Rh: The oxime they reduce here is a large indole derivative. Use less solvent 
+with smaller molecules at a larger scale]
+
+--------------------------------------------------------------------------------
+
+JACS 115, 10042 (1993)
+
+NaBH4 (0.112 mol, 4.1g, 8 equiv,) and titanium(IV)tetrachloride (0.056 mol, 6ml, 
+4 equiv) were combined in a 1000ml RB flask (fitted with a rubber septum and purged 
+with nitrogen) and the flask was cooled in an ice-bath. Freshly distilled 
+dimethoxyethane (100ml) was added slowly while the flask was vented with a large 
+bore needle. The dioxime (0.014 mol, 4g) was added as a powder over 5 minutes. The 
+reaction mixture changed color over half an hour, from bright green to green-brown. 
+The solution was allowed to return to room temperature and was stirred for 24 hours. 
+The mixture waas cooled on ice, and water (200ml) was added slowly to quench the 
+reaction. The solution was basified with concentrated aqueous ammonia to pH 13, at 
+which point it became gelatinous and turned dark blue. The aqueos layer was 
+extracted several times with methylene chloride (total 1000ml). The organic layer 
+was dried over sodium sulfate, filtered and the solvent evaporated under vacuum to 
+give 1.7g (60%) of diamine. 
+
+[Rh: Use only 4 equivs of NaBH4 and 2 equivs of TiCl4 if your molecule only has 
+one oxime group to be reduced. The yields will also be higher with only one oxime]
+
+--------------------------------------------------------------------------------
+
+JOC 57, 6324 (1992)
+
+At room temperature with stirring, Zinc dust (74 mg) was added to a solution of
+the oxime (44mg, 0.185 mmol) in 2 ml glacial acetic acid. Stirring was continued
+for another 15 minutes. The reaction mixture was then filtered through a sintered
+glass funnel with suction. The filtrate was concentrated under vacuum to afford 
+the amine as an oil (37mg, 0.166 mmol, 90% yield). 
+
+--------------------------------------------------------------------------------
+
+
+

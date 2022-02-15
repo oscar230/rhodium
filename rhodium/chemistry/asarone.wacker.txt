@@ -1,0 +1,160 @@
+--------------------------------------------------------------------------
+    TMA-2 from Calamus oil: Oxidation of asarone via Wacker Oxidation 
+--------------------------------------------------------------------------
+
+This is a repeat of what I wrote under "TMA-2 from Calamus Oil", an idea
+that no one responded to.
+
+Asarone can probably be used in the Wacker oxidation just as isosafrole
+can. The expected yield of the P2P is about 66%, with the P1P derivitive
+being the only contaminant in abut 18% yield -- with their being no
+internal alkene anywhere! How do I know this? Well, in the article by Jiro
+Tsuji, et. al., entitled "A Palladium Catalyzed Conversion Of Halohydrins
+To Ketones" pulished in Tetrahedron Letters, vol. 23, no. 30, pp 3085-3088,
+1982 is a new synthesis of various 1-ketones using palladium acetate and
+another exotic catalyst to effect what I guess is the rearrangement of a
+1,2-halohydrin to form the ketone product. On the last page of the article
+is an interesting diagram with information which illustrates several
+reactions schemes. The first is the quantitative formation of the
+1,2-halohydrin from isosafrole -- yes, they fucking used ISOSAFROLE as
+their example -- which is then rearranged to the 1-ketone in 75% yield. The
+second illustration is the one of particular interest, because it uses the
+standard Wacker oxidation to try and achieve the same goal falling short of
+expectation yielding 18% of MD-P1P and 66% of MD-P2P. (Awe! How absolutely
+fucking terrible for the researchers -- but not for us bees!) The third and
+last reaction is an oxidation of isosafrole using m-chloro perbenzoic acid
+to form the intermediate epoxide, which is then rearranged to the final
+MD-P2P via some boron triflouride reagent I'm not familiar with to yield
+MD-P2P in 69% yield. Well, it seems to me that if isosafrole can be
+oxidized to MD-P2P efficiently using the Wacker reaction, I see no reason
+why asarone cannot be made to do the same to produce its respective P2P.
+This may indeed be the boon for those wiching to synthesize TMA-2. After
+making the P2P, aminating it via sodium cyanoborohydride/ammonium acetate
+should be a snap! And remember, TMA-2 is about 3 times more potent than
+MDA, yielding in a sense, more product for less precursor! Furthermore, I
+don't believe that Calamus Oil has at this point the same scrutiny that
+Sassafras oil does. Those of you bees reading this, start to stock up and
+lets get some dreams posted!
+
+--------------------------------------------------------------------------
+
+I happened to have two significant references to the above post:
+
+1. "One-Pot Two-Steps Synthesis Of 1,2-Diol" - Syn. Comm., 19, 1939 (1989).
+
+The authors used propenyl benzene as one of their examples:
+
+To a stirred dispersion of propenylbenzene (3.0.10-3 mole) in distilled
+water (20 ml) the powdered m-chloroperbenzoic acid (3.3.10-3 mole) was
+added in small portions over a period of 5-10 min. At 0degC the mixture was
+stirred at 20degC for 1hr.
+
+If so desired, epoxide could be rearranged with the BF3 reagent as
+indicated in the first post, or, the reaction above could be continued by
+adding 10% H2SO4 (0.5 ml) and allowing the mixture to stand (stir?) for 4
+hr. at 100degC. Solid NaOH is then added until the solution becomes limpid.
+The aqueous solution is saturated with NaCl and then extracted three times
+with ethylacetate. The extracts are dried and the solvent removed under
+reduced pressure. The crude diol is crystallized by ethylacetate or by 1:1
+mixture of ethyl ether - n-pentane.
+
+The diol can then be dehydrated by any number of methods, the typical one
+being reflux for 2-3 hrs with 15-20% H2SO4.
+
+A few other references to effect the same transformation are more obscure
+but included here anyway:
+
+J Pharm Soc Jpn.  74, 975 (1954)
+J Assoc Off Anal Chem. 61, 951 (1978)
+
+An example of the reaction delineated in the two above references is provided
+in the experimental details of J.O.C 1984, 49, 1830-1832 "Electrochemical
+Proceedure for a Practical Preparation of Piperonal From Isosafrole" in
+which they prepare the 1,2-diol and the 1,2-halohydrin through an electro-
+chemical process. Anyway, here's there method of dehydrating the diol:
+
+A solution of the 1,2-diol (from isosafrole; 100mg, 0.5mmol) and p-TsOH
+(200mg) dissolved in a distilled benzene (20ml) was refluxed for 20 min.
+The usual workup gave MD-P2P (75mg, 84%).
+
+The same article presents two other references to effect the same reaction:
+
+The first is the Tetrahedron Letters article mentioned in the initial post.
+
+The second is Tetrahedron Letters, vol. 24, no. 28, pp 2857-2860, 1983.
+"Electrogenerated Acid As A Powerful Catalyst For The Transformation Of Epoxides
+To Ketones And Acetonides". Isosafrole-epoxide forms MD-P2P in 82% yield.
+
+The 1,2-halohydrins of isosafrole mentioned in the first post are formed
+quantitatively from N-bromosuccinimide, dimethylsulfoxide, water and
+isosafrole. The references are JACS, 90, 5948, (1968) and... Shit! I'm
+here staring at the Organic Syntheses article and there is no information
+on it that indicates where it can be found! I know that it isn't in the
+first three collective volumes. The article, however, is titled
+"Bromohydrins From Alkenes And N-Bromosuccinimide In Dimethylsulfoxide:
+erythro-2-Bromo-1,2-Diphenylethanol" and uses propenylbenzene as one of its
+examples. The final yield of bromohydrin was 92-95% Following is the
+experimental details:
+
+A 500ml, round-bottom flask equipped with a magnetic stirring bar and a
+thermometer is charged with 18g (100mmol) of (E)-stilbene (Note 1), 5ml
+(28mmol) of water, and 300ml (4.23 mole) of dimethylsulfoxide (DMSO) (Note 2). 
+The resulting suspension is stirred for five minutes at room temperature 
+(20-25degC)(Note 3). Stirring is continued as 35.6 g (200mmol) of N-Bromo-
+succinimide (NBS) (Note 4) is added in small portions over calculated 10 min. 
+A yellow color appears when the first portion of NBS is added, and by the 
+time the addition is complete, the solution is bright orange. During the 
+addition the temperature of the mixture rises to 50-55°C, and all of 
+(E)-stilbene dissolves. The contents of the flask are stirred for antoher 
+fifteen minutes and poured into 1L of ice water; the product separates 
+immediately as a white solid (Note 5). The aqueous slurry is transferred to 
+a separatory funnel with the aid of 50ml portions of water and diethyl ether, 
+and extracted with four 200ml portions of ether. The combined ethereal 
+extracts are washed with 250ml of water and 250ml of sodium chloride solution, 
+dried over anhydrous magnesium sulfate, and evaporated with a rotary evaporator 
+at a water bath temperature of calculated 30°C. The pale yellow, crystalline 
+residue is dissolved, to the extent possible, in 600ml of hot hexane, and the 
+resulting suspension is filtered while hot, removing a small amount of insoluble 
+impurity. Cooling the filtrate provides colorless fibers of analytically pure
+erythro-2-bromo-1,2-diphenylethanol, m.p. 83-84°C (Note 6); a second crop
+of crystals is obtained by concetrating the mother liquor to 200ml (Note 7). 
+The combined yield is 22-24.9g (80-90% of theoretical)
+
+Keep in mind that to get the 1,2-bromohydrin of isosafrole, one has to use
+isosafrole in place of (E)-stilbene in the above experiment.
+
+NOTES:
+
+1. Not applicable. Information is about where one can purchase (E)-stilbene.
+
+2. Reagent Grade dimethylsulfoxide was used without purification. The
+amount of dimethylsulfoxide can be varied. A large excess is employed in
+this case to facilitate dissolution of the stilbene. This may or may not be
+applicable to isosafrole. Reagent grade DMSO may also not be required in
+this reaction. Technical grade can easily be obtained in pint amounts at
+feed stores that cater to those who raise horses and cattle. It is used
+medicinally as a topical agent for introducing drugs more easily through
+skin absorption. Cost is about $10.00 or less. It is there available on the
+shelf as DMSO.
+
+Note 3. The suspension may be warmed to dissolve the alkene more rapidly.
+        If the suspension is warmed, it MUST be cooled below 30øC before
+        proceeding further to prevent a vigorous reaction when the NBS is
+        added. The submitters recommend that the warm suspension be cooled
+        under an atmosphere of nitrogen.
+
+Note 4. Recommendations are given on purifying the NBS. Recrystallize from
+        10 times its weight in water. Probably not necessary though.
+        Solutions of NBS in DMSO cannot be stored, since the solvent is
+        oxidized by the brominating reagent.
+
+Note 5. The product does not appear to deteriorate if allowed to stand at
+        this point.
+
+Note 6. The submitters recrystallized the product from 600ml of petroleum ether.
+
+Note 7. The submitters found that the residue (2.8g) obtained upon
+        evaporation of the mother liquor was largely the end product
+        contaminated with a small amount of succinimide.
+
+--------------------------------------------------------------------------

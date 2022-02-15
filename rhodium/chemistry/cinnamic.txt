@@ -1,0 +1,71 @@
+Subj: Cinnamic acid & beta-bromo-styrene FAQ
+From: ncoffey@teleport.com (Nick Coffey)
+
+
+Cinnamic Acid (The Perkin Reaction)
+-----------------------------------
+In a dry 500 ml flask place 12g of freshly fused and pulverized potassium 
+acetate.  This is prepared by melting ordinary potassium acetate in a 
+porcelain dish and heating gently, with occasional stirring, until no 
+more water vapor is evolved and the salt is completely fluid.  After 
+cooling, the solid mass is ground quickly in a mortar and transferred to 
+a tightly corked bottle until needed.  To the potassium acetate add 30 g. 
+(28 ml.) of acetic anhydride and 21 g. (20 ml.) of freshly distilled 
+benzaldehyde (obtained from extraction of bear claws or oxidation of 
+toluene).  Mix the materials thoroughly and provide the flask with an 
+air-cooled reflux condenser about 60 cm. in length and 10 mm. in 
+diameter.  Heat the reaction mixture in an oil bath at 155-160 degrees 
+for one hour and then increase the temperature of the bath to 160-170 
+degrees for three to three and one-half hours.
+
+If the heating is interrupted the reaction mixture should be protected 
+from atmospheric moisture by means of a calcium chloride tube.
+
+While the reaction mixture is still hot, pour the contents of the flask 
+into a 5L round-bottom flask and rinse the reaction flask with two 
+200-ml. portions of boiling water.  Add 600-700 ml of water and steam 
+distill the mixture until all the unchanged benzaldehyde has been 
+removed.  The distillate may be discarded.
+
+Add enough water to the contents of the flask to bring the volume to 
+about 1.2 L and heat to boiling.  Cool slightly, add 4 g. of decolorizing 
+charcoal (Norit), and boil the solution gently for five to ten minutes.  
+Filter the hot solution rapidly through a fluted filter.   Heat the 
+filtrate to the boiling point, add 12-14 ml. of concentrated hydrochloric 
+acid and cool the solution with stirring.  After the cinnamic acid has 
+crystallized completely, filter with suction and wash the crystals with 
+several small portions of cold water.  Allow the acid to dry completely 
+before taking the melting-point. If the cinnamic acid is not sufficiently 
+pure it should be recrystallized from hot water.  The yield is 12-15 g.
+
+Beta-Bromostyrene
+-----------------
+Dissolve 30 g. of dry cinnamic acid in 200 ml of hot carbon tetrachloride 
+in a 1 L round-bottom flask and cool rapidly to obtain a fine suspension 
+of crystals.  Provide the flask with a calcium chloride tube and a small 
+separatory funnel (with a good stopcock).  In the separatory funnel place 
+a solution of 38 g. (12 ml) of bromine  in 50 ml. of carbon tetrachloride 
+and allow this to drop in slowly, at room temperature, while flask is 
+being vigorously shaken.  It is advisable to carry out the addition of 
+bromine in the presence of sunlight, or in the vicinity of a powerful 
+electric light.  After all the bromine has been added, allow the mixture 
+to stand for fifteen minutes.  Cool in an ice bath and filter the 
+phenyl-a,b-dibromopropionic acid with suction.  Wash the precipitate with 
+50-60 ml. of cold carbon tetrachloride.  This crude product, weighing 
+50-60 g., is used directly for the next step.
+
+Place the crude dibromo acid in a 2 L round-bottom flask and add 240 ml. 
+of 95% ethanol (Everclear will do nicely) and a solution of 60 g of 
+potassium acetate in 150 ml. of water.  Shake the mixture thoroughly, 
+adjust a reflux condenser, and heat to gentle boiling (preferably on a 
+steam bath).  Shake the mixture occasionally, and continue to reflux 
+gently for four hours.  The product, bromostyrene, separates as a heavy 
+oil upon cooling.  Dilute with water to about 1 L total volume, separate 
+the heavy oil, and extract the upper aqueous liquid with two 50-ml. 
+portions of carbon tetrachloride.  Combine the oily layer and the carbon 
+tetrachloride extracts and wash with saturated sodium bicarbonate 
+solution until all acid has been removed.  Wash once with water, dry over 
+8-9 g. of anhydrous calcium chloride, and distill off the carbon 
+tetrachloride.  Distill the residual bromostyrene under reduced pressure, 
+bp 108°C at 20 mmHg, 116-117°C at 35 mmHg. The yield is 22-24 g.
+

@@ -1,0 +1,153 @@
+================================================================================
+                      Preparation of Copper Chlorides
+================================================================================
+
+In a 100-mL. round-bottom flask, prepare a solution of 6 g (0.002 mole) of
+powdered copper sulfate crystal (5-hydrate) and 1.8 g. of sodium chloride in
+20 mL. of hot water. in a beaker prepare a solution of 1.4 g. of sodium bisulfite
+and 0.9 g of solid sodium hydroxide in about 1.4 mL. of water, and add this
+solution to with swirling to the hot copper sulfate solution over a period of
+5-10 min. Cool the mixture to room temperature, allow the cuprous chloride to
+settle, and decant off the liquid. Wash the precipitated cuprous chloride 2 or 3
+times with water by decantation. The cuprous chloride is obtained as a white
+powder that darkens on exposure to air. Dissolve the cuprous chloride solution
+by adding 7 mL. of concentrated hydrochloric acid and 2.5 mL. of water. Cork the
+flask to minimize oxidation and place in an ice bath.
+
+An alternative procedure is to dissolve 2.0 g. of commercial cuprous chloride in
+7 mL. of concentrated HCl and 2.5 mL. of water.
+
+--------------------------------------------------------------------------------
+
+I prepared cuprous chloride by mixing copper wire, CuCO3 and a excess of
+commercial 20 % HCl and warming it near boiling point until all copper was
+dissolved. It was the deposition of a white powder (cuprous chloride). This
+product can't be dried because it oxydizes quickly, it was washed with water.
+Normal reaction is with copper wire or powder, CuCl2 and HCl, but I had then CuCO3.
+
+Also cupric chloride was prepared by reacting a solution of CuCO3 with an
+slightly excess of HCl, then evaporating water and finally, when product starts
+to turn brown, air dried to give a hydrate form.
+
+--------------------------------------------------------------------------------
+
+Heres a procedure for producing CuCl and CuCl2 from copper metal, nitric acid
+being the only non-OTC ingredient: http://chemistry.rutgers.edu/genchem/CuCl.html
+
+--------------------------------------------------------------------------------
+
+Simplest synth for CuCl2 came from Osmium and is simply adding copper sulfate
+solution to calcium chloride soln' while stirring, until no more cloudy ppt.
+forms, then evaporating the water and dehydrating the very deliquesent green salt
+until it's brownish white.
+
+--------------------------------------------------------------------------------
+
+CuCl2 Synth from CuCO3 & CuO, v1.0 - by Hellman
+
+So your an OTC man/woman who needs some CuCl2, to complete the first part
+of your dream, and the last thing you want to do is order from the chem
+supply store, as paranoia always rears it's ugly head.
+
+Well here's the answers, if you have not worked it out for your self.
+
+Intro.
+
+This is a relativly easy synth, firstly you need either some CuCO3 or some
+CuO, both can usually be found metres from each other in your local POTTERY
+supply store. You will find one locally, unless you live in a 3rd world
+country, and I Sincerly sympathise with you, although if you are then you
+will find your way,.
+
+These store's house an amazement of luxurious inorganic Carbonates and
+oxides, ranging from the simplest metallic rusts to mind altering Lithium
+Carbonate, Good price 2.5 kg $70.00.
+
+You will enjoy you walk through THESE stores.
+
+Pickup a 100g or smaller of CaCO3 or CaO for around $3.00 US and take it
+home, with a small botlle of HCL.
+
+Proceedure,
+
+These methods I describe are actual events based on non uniform measuring
+teqniques, showing you that it doesn't really matter that much.
+
+In a ceramic Soup bowl I poured roughly 30g of this lime green CuCO3 into it.
+
+So far so good,
+
+Then I simply just poured regular muriatic acid (30% HCl) into this soup
+bowl until all the frothing stops, About 70ml, Could of even been 100ml.
+
+After the yellowy rigourus bubbles died down, and further addition of acid
+did nothing,my job was basically done.
+
+Then I placed this bowl on my BBQ on low heat and started my1 hour evap.
+fun. Not very fun at all, I have no PATIENCE. Slowly but surely, it did,
+and once I got it to the dry sludge stage, I lowered the heat and placed it
+in an Unused oven, with the door open.
+
+Actually that's a lie, I left it overnight, which did fuck all, except
+reabsorb more moisture,. It's true, this stuff, left in cold conditions,
+will go back into solution.
+
+Spiceboy states it goes brown when heated too much, he is right, BUT, it
+goes back to its green crystal colour once it's moisture seranades
+it.(Absorbs into it again)
+
+Moral of Story,
+
+Heat in oven on low until most of the moisture has gone, then bottle. It is
+feasable to roast the whole lot, on a stove top, to you get your brown
+anhydrous form, then bottle it with the lid open, until it resumes it
+slight lime green crystally appearance.
+
+It looks good, It's easy,It's done, I'm Happy
+
+-------------------------------------------------------------------------------
+
+Copper(I)-bromide (CuBr, mp 492°C, bp 1345°C)
+
+CuBr forms when copper is dissolved in etherical HBr, at first the dietherate
+of a bromo acid HCuBr2 is built (yellow oil). when decomposed with water, CuBr
+results as a colorless crystalline powder. solubility product of CuBr = 4.2x10^-8
+
+page 1329 (section "copper")
+"lehrbuch der anorganischen chemie"; hollemann-wieberg
+101. verbesserte und stark erweiterte auflage
+berlin - new york : de gryter, 1995
+ISBN 3-11-012641-9
+
+-------------------------------------------------------------------------------
+Preparation of Copper(I)Chloride
+
+Copper(I) chloride is also produced hydrometallurgically by the reduction of
+copper(II) in the presence of chloride ions [71]
+
+2 CuCl2 + Na2SO3 + H2O ---> 2 CuCl + Na2SO4 + 2 HCl :
+
+Other reducing agents can be used, such as metallic copper, sulfurous acid,
+hydroxylamine, hydrazine, or phosphorous acid. The copper(I) chloride solution is
+produced, for example, by mixing a copper(II) chloride solution with metallic copper
+in the presence of hydrochloric acid or sodium chloride. The colorless to brown
+solution is stable only in the absence of air. Continuous preparations of copper(I)
+chloride solutions have been developed [72] , [73]. When they are diluted with
+water, a white crystalline material precipitates which can be vacuum dried or
+washed with sulfurous acid, then with alcohol and ether, and carefully dried. Zinc
+has also been used as a reducing agent in a more recent process [74].
+
+Production of copper(I) chloride by treatment of ores with iron(III) chloride
+solutions [75] , [76] and recovery of the product through chlorination in pit
+furnaces above 800 °C [77] have also been attempted.
+
+[71]  R. Keller, H. Wycoff, Inorg. Synth. 2 (1946) 1–4.
+[72]  Schering, DE 1 080 088, 1958 (H. Niemann, K. Herrmann).
+[73]  Harshaw, US 2 367 153, 1945 (C. Swinehart).
+[74]  Goldschmidt, DE 3 305 545, 1983 (E. Mack, L. Witzke).
+[75]  Cyprus Metallurg., DE 2 607 299, 1976 (D. Goens, P. Kruesi).
+[76]  Cyprus Metallurg., US 3 972 711, 1976 (D. Goens, P. Kruesi).
+[77]  Metallgesellschaft, DE 1 174 996, 1963 (K. Meyer, H. Ransch, H. Pietsch);
+        DE 1 180 946, 1963; DE 1 160 622, 1963.
+
+-------------------------------------------------------------------------------

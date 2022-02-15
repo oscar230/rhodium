@@ -1,0 +1,52 @@
+Worlock
+Member   posted 05-24-99 11:54 PM           
+--------------------------------------------------------------------------------
+Recyling the I2 
+is a dream come true with this device.
+
+In the dual push/pull cans you will have trapped the HI gas by dissolving HI into the water.
+
+This occurs throughout most of the reaction.
+
+When complete the dual gas/pressure regulator containes a reddish liquid strongly acidic full of HI.
+
+Transfer the Reddish solution to a separate glass container.
+
+By the slow addition with mild stirring of 50ml to 100 ml of 10% Sodium Hypochlorite(liquid swimming pool chlorine-2 gallons for $4.50)
+Muriatic acid will not work.
+the HI will initially turn brownish then violet, then the I2 will instantly precipitate leaving I2 on the bottom and a clear liquid on top.
+
+It is an awesome site that occurs in an instant with the addition of the last few drops of chlorine. 
+
+At this point the I2 can be filtered out of the solution, using 3-6 coffee filters.
+The clear fluid contains an exceptionaly strong solution of tainted HCl acid, and should be discarded, unless you are prepared to distill it.
+
+Wash the I2 while still in the filters with distilled water several times, this will clean out any remaining Chlorine.
+
+The I2 is almost totally insoluble in water.
+so very little is dissolved away by the wash.
+
+Wearing gloves and saftey glasses, wring out the excess fluid from the filters then open the filters, break up the I2 ball, and allow the I2 to dry for a few minutes. 
+
+Store the recycled Iodine in a glass or plastic sealed container safe from metal surfaces.
+
+A very large amount of the iodine is recovered in this way. In fact almost all of it is returned for re-use 
+
+This works because the Chlorine oxidizes the iodide to iodine while the chlorine becomes chloride.
+
+2 half reactions
+Cl2 + 2e- --> 2 Cl- 
+2I- --> 2e- + I2 
+
+can also be written as
+Cl2 + 2HI --> 2HCl + I2 
+
+The reason muriatic won't work, should be obvious, HCl is already in reduced.
+
+A very impressive reaction at the end point, when the I2 forms in the brown-violet muck, and the solution clears with the I2 precipate on the bottom.
+
+
+------------------
+Worlock
+villageidiot.webjump.com/index2.html 
+http://www.lycaeum.org/~rhodium

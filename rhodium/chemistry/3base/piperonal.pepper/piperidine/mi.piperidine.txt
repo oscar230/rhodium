@@ -1,0 +1,72 @@
+THE MERCK INDEX on CD-ROM / Version 12:3 / 1999
+===============================================
+
+Monograph number:  7621.
+
+Title: Piperidine .
+
+CAS Registry number: [110-89-4]
+Additional name(s): Hexahydropyridine.
+Molecular formula: C5H11N;
+Molecular weight: 85.15.
+Percent Composition: C 70.53%, H 13.02%, N 16.45%.
+Literature references: Found in small quantities in Piper nigrum L., 
+   Piperaceae (black pepper). May be obtained from piperine by heating with 
+   alcoholic KOH, or from 1,5-diaminopentane hydrochloride by cycli zation. 
+   Usually prepd by electrolytic reduction of pyridine. Forms complexes with 
+   salts of heavy metals. Because of its reactivity, piperidine is useful in 
+   the prepn of cryst deriva tives of aromatic nitro compds contg nuclear 
+   halogen atoms: Seikel, J. Am. Chem. Soc. 62, 750 (1940). Toxicity study: H. 
+   F. Smyth et al., Am. Ind. Hyg. Assoc. J. 23, 95 (1962). Review of physical 
+   constants of piperidine and N- alkyl piperidines: Magnusson, Schierz, Univ. 
+   Wyoming Pub. 7, 1 (1940).
+Properties:  Liquid. Characteristic odor. Soapy feel. Solidifies -13° to -17°; 
+   mp -7° ; bp(760) 106° ; bp(20) 18° ; d(4;20) 0.8622 ; n(D;20) 1.4534.
+   Infrared absorption spectrum: Freymann, Compt. Rend. 205, 852 (1937); Ann. 
+   Chim. 11, 11 (1939). Ultravio let and Raman spectra: Lecomte, Compt. Rend. 
+   207, 395 (1938). Strong base: pK (25°): 2.80. Misc with water. Sol in 
+   alcohol, benzene, chloroform. LD50 orally in rats: 0.52 ml/kg (Smyth) .
+Density: d(4;20) 0.8622
+Boiling point: bp(760) 106°; bp(20) 18°
+Melting Point: -7°
+Refraction index: n(D;20) 1.4534
+
+Derivative:  Hydrochloride,
+Molecular Formula: C5H11N.HCl,
+Properties: orthorhombic prisms from alcohol, mp 247° .
+   Freely sol in water, alcohol
+Melting Point: 247°
+
+Derivative:  Nitrate,
+Molecular Formula: C5H11N.HNO3 ,
+Properties: hygroscopic plates, sublimes 75° (10 mm), mp 110° .
+   Freely sol in water, alcohol, ether.
+   Absorption spectrum: Harper, Macbech, J. Chem. Soc. 107, 91 (1915)
+Melting Point: 110°
+
+Derivative:  Bitartrate,
+Molecular Formula: C5H11N.C4H6O6 ,
+Properties: crystals, freely sol in water.
+
+Derivative:  Aurichloride,
+Molecular Formula: C5H11N.HAuCl4 ,
+Properties: yellow crystals, mp 219°
+Melting Point: 219°
+
+Derivative:  Platinichloride,
+Molecular Formula: 2C5H11N.H2PtCl6 ,
+Properties: yellow monoclinic prisms from water, mp 202° .
+   Freely sol in water, slightly in alcohol
+Melting Point: 202°
+
+Derivative:  N- Benzoylpiperidine,
+Properties: long needles, mp 44-48° .
+   Ref: Org. Syn. coll. vol. I (2nd ed., 1941) p 99
+Melting Point: 44-48°
+
+Derivative:  Phosphate,
+CAS Registry: [767-21-5]
+Literature references: prepn from piperidine + phosphoric acid:
+   Abood, U.S. pat. 3,035,977 (1962).
+Properties: Crystals, mp 204-206°
+Melting Point: 204-206°

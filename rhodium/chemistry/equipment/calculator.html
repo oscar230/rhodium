@@ -1,0 +1,1070 @@
+<HTML>
+<HEAD>
+<meta name="Sperowider-ArchiveRoot" content="../../../../../../">
+<meta name="Sperowider-DocRoot" content="../../../../">
+<meta name="Sperowider-OriginalURL" content="http://www.erowid.org/archive/rhodium/chemistry/equipment/calculator.html">
+<TITLE>Scientific calculator for chemists with notebook</TITLE>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<meta NAME="description" CONTENT="Scientific calculator for chemists with notebook is a fully functioning JavaScript calculator. This calculator can be used as common scientific calculator (sin, cos, log, power, root, memory), but it also includes a molecular weight calculator and the tables with various physical and chemical constants. The calculator contains a list with task history, storing all the recent inputs and results. Scientific calculator displays the numbers rounded to a user-specified number of decimal places.">
+<meta NAME="keywords" CONTENT="javascript program scientific calculator mathematic chemistry molecular weight physical constants calculator sine cosine tangent power root logarithm percent memory round numbers">
+<meta NAME="author" CONTENT="Eni Generalic (Department of Analitical Chemistry, Faculty of Chemical Technology, 21000 Split, Teslina 10, Croatia)">
+<meta HTTP-EQUIV="reply-to" CONTENT="eni@ktf-split.hr">
+<script language="javascript">
+
+
+<!--
+// Scientific Calculator written by Eni Generalic - http://www.ktf-split.hr/~eni/
+// If you use a variant of this in your page, then please email me (eni@ktf-split.hr)
+
+var broj = "0"
+var tocka = 0
+var eksp = 0
+var eksponent = 3
+var rjesenje = 0
+var zastavica = 0
+var decimala = 0
+var enter = ""
+var ConstOpen = 0
+var ConstWin = ""
+var MenuOpen = 0
+var MenuWin = ""
+var CalcOpen = 0
+var CalcWin = ""
+var MainWin = ""
+var element = ""
+var abc = "";
+
+
+function start(){
+	enter = document.racunalo.notes.value;
+	if (enter.length > 2) {enter = enter.charAt(enter.length-1)};
+	document.racunalo.notes.value = "";
+	document.racunalo.zadatak.focus()
+}
+
+
+function remote(stranica){
+	ConstOpen = 1;
+	if (ConstWin.open) {
+		ConstWin.document.konstante.naslov.focus()
+	}
+	else {
+		ConstWin=window.open(stranica, "", "width=300,height=500,scrollbars=yes");
+		ConstWin.creator=self
+	}
+}
+
+
+function Zatvoreno() {
+	if (ConstOpen == 1) {ConstWin.ConstOpen = 1; ConstWin.close()}
+	if (CalcOpen == 1) {CalcWin.close()}
+	if (MenuOpen == 1) {MenuWin.close()}
+}
+
+
+function memory(operator) {
+
+	document.racunalo.zadatak.focus();
+
+	if (operator == 1) {		// MS
+		document.racunalo.memorija.value = document.racunalo.rezultat.value
+	}
+	else if (operator == 2)	{	// MR
+		var memorija = document.racunalo.memorija.value;
+		if (memorija==0 || slovo(memorija.charAt(0))) {memorija = ""};
+		document.racunalo.zadatak.value += memorija
+	}
+	else if (operator == 3) {	// CLS
+		if (document.racunalo.zadatak.value == "") {
+			document.racunalo.rezultat.value = ""
+		}
+		else {
+			document.racunalo.zadatak.value = ""
+		}
+	}
+	else if (operator == 4) {	// Reset
+		document.racunalo.notes.value = "";
+		document.racunalo.zadatak.focus()
+	}
+}
+
+
+function display(noviznak) {
+	if (noviznak=="")
+		{document.racunalo.zadatak.focus()}
+	else
+		{document.racunalo.rezultat.select()}
+}
+
+
+function dodajBroj(noviznak) {
+	document.racunalo.zadatak.focus();
+	document.racunalo.zadatak.value += noviznak
+}
+
+
+function izracunaj(zarez) {
+	var pitanje = "";
+	var mem = 0;
+
+	if (zarez >= 1) {
+		if (document.racunalo.zadatak.value == "") {
+			broj = document.racunalo.rezultat.value
+		}
+		else {
+	    	broj = document.racunalo.zadatak.value;
+			if (ubacirezultat(broj.charAt(0))) {
+				broj = document.racunalo.rezultat.value + broj
+			}
+		}
+	}
+
+	for (var i=0; i<broj.length; i++) {
+		if (slovo(broj.charAt(i))) {var kem = 1};
+		if (broj.charAt(i) == ",") {pitanje += "."}
+		else if (broj.charAt(i) == " ") {}
+		else {pitanje += broj.charAt(i)}
+	}
+
+	if (operator(broj.charAt(broj.length-1))) {return false};
+
+	if (zarez == 1) {
+		document.racunalo.notes.value += pitanje + enter;
+		if (kem == 1) {
+			var atom = "+" + pitanje;
+			pitanje = masa(atom)
+		}
+		else {
+			pitanje = eval("1*" + pitanje)
+		}
+	}
+	else if (zarez > 1) {
+		pitanje = eval("1*" + pitanje);
+		pitanje = matematika(zarez, pitanje)
+	}
+
+	document.racunalo.oldrezultat.value = pitanje;
+
+	zaokruzi(pitanje);
+
+	document.racunalo.zadatak.value = "";
+ 	document.racunalo.zadatak.focus()
+}
+
+
+function matematika(zarez, rjesenje) {
+ with (Math)
+  {
+	if (zarez == 2) {
+		document.racunalo.notes.value += rjesenje + "^2" + enter;
+		rjesenje = pow(rjesenje, 2)
+	}
+	else if (zarez == 3) {
+		document.racunalo.notes.value += rjesenje + "^(1/2)" + enter;
+		rjesenje = sqrt(rjesenje)
+	}
+	else if (zarez == 4) {
+		document.racunalo.notes.value += rjesenje + "*(-1)" + enter;
+		rjesenje = -rjesenje
+	}
+	else if (zarez == 5) {
+		document.racunalo.notes.value += "ln(" + rjesenje + ")" + enter;
+		rjesenje = log(rjesenje)
+	}
+	else if (zarez == 6) {
+		document.racunalo.notes.value += "e^" + rjesenje + enter;
+		rjesenje = pow(E, rjesenje)
+	}
+	else if (zarez == 7) {
+		document.racunalo.notes.value += "1/" + rjesenje + enter;
+		rjesenje = 1/rjesenje
+	}
+	else if (zarez == 8) {
+		document.racunalo.notes.value += "log(" + rjesenje + ")" + enter;
+		rjesenje = log(rjesenje)/LN10
+	}
+	else if (zarez == 9) {
+		document.racunalo.notes.value += "10^" + rjesenje + enter;
+		rjesenje = pow(10, rjesenje)
+	}
+	else if (zarez >= 10 && zarez <= 12) {
+		if (zarez == 10) {
+			document.racunalo.notes.value += "atan(" + rjesenje + ")" + enter;
+			rjesenje = atan(rjesenje)
+		}
+		else if (zarez == 11) {
+			document.racunalo.notes.value += "acos(" + rjesenje + ")" + enter;
+			rjesenje = acos(rjesenje)
+		}
+		else if (zarez == 12) {
+			document.racunalo.notes.value += "asin(" + rjesenje + ")" + enter;
+			rjesenje = asin(rjesenje)
+		}
+
+		if (document.racunalo.stupnjevi[1].checked) {rjesenje = (rjesenje * 180) / PI}
+	}
+	else if (zarez >= 14 && zarez <= 16) {
+		if (document.racunalo.stupnjevi[1].checked)
+			{radijani = (rjesenje / 180) * PI}
+		else
+			{radijani = rjesenje};
+
+		if (zarez == 14) {
+			document.racunalo.notes.value += "tan(" + rjesenje + ")" + enter;
+			rjesenje = tan(radijani)
+		}
+		else if (zarez == 15) {
+			document.racunalo.notes.value += "cos(" + rjesenje + ")" + enter;
+			rjesenje = cos(radijani)
+		}
+		else if (zarez == 16) {
+			document.racunalo.notes.value += "sin(" + rjesenje + ")" + enter;
+			rjesenje = sin(radijani)
+		}
+	}
+	else if (zarez == 17) {
+		document.racunalo.notes.value += rjesenje + "%" + enter;
+		rjesenje = rjesenje/100
+	}
+	else if (zarez == 18) {
+		document.racunalo.notes.value += rjesenje + "ppm" + enter;
+		rjesenje = rjesenje/1000000
+	}
+	else if (zarez == 20) {
+		document.racunalo.notes.value += rjesenje + "!" + enter;
+		rjesenje = factorial(rjesenje)
+	}
+	else if (zarez == 21) {
+		eksponent = prompt("Unesite eksponent / Please enter exponent", 3);
+		document.racunalo.notes.value += rjesenje + "^" + eksponent + enter;
+		rjesenje = pow(rjesenje, eksponent)
+	}
+	else if (zarez == 22) {
+		eksponent = prompt("Unesite korijen / Please enter root", 3);
+		document.racunalo.notes.value += rjesenje + "^(1/" + eksponent + ")" + enter;
+		rjesenje = pow(rjesenje, (1/eksponent))
+	}
+	return rjesenje
+ }
+}
+
+
+function zaokruzi(ebroj) {
+
+decimala=parseFloat(document.racunalo.izaZareza.options[document.racunalo.izaZareza.selectedIndex].value);
+	var strbroj = ebroj + " ";
+	if (strbroj.charAt(0) == ".") {strbroj = "0" + strbroj};
+	var intbroj = strbroj.length - 1;
+	deczarez(strbroj);
+
+	if (intbroj > 16 && eksp == -1) {
+		if (decimala == -1) {decimala = 14};
+		strbroj = izazareza(strbroj.substring(0,intbroj)) + " ";
+		intbroj = strbroj.length - 1;
+		deczarez(strbroj)
+	}
+
+	if (decimala >= 0 && decimala != 14) {
+		if (tocka > 0) {
+			var odgovor = izazareza(strbroj.substring(0,intbroj))
+		}
+		else {
+			ebroj = strbroj.substring(0,intbroj);
+			if (decimala > 0) {
+				ebroj += ".";
+				for (var n = 0; n < decimala; n++) {
+					ebroj += "0"
+				}
+			}
+			var odgovor = ebroj
+		}
+	}
+	else {
+		decimala = 14;
+		var odgovor = izazareza(strbroj)
+	}
+
+	if (odgovor.charAt(0) == ".") {odgovor = "0" + odgovor};
+
+	document.racunalo.rezultat.value = odgovor;
+	document.racunalo.notes.value += " = " + odgovor + enter;
+}
+
+
+function deczarez(novibroj) {
+	tocka = 0;
+	eksp = 0;
+
+	tocka = novibroj.indexOf(".");
+	eksp = novibroj.indexOf("e")
+}
+
+
+function izazareza(novibroj) {
+ with (Math) {
+
+	if (eksp == -1) {
+		var duzina = tocka;
+		if (duzina == -1) {duzina = novibroj.length};
+		var desni = "";
+
+		if (duzina > 16) {
+			var privremeni = round(novibroj*pow(10, 18)) + " ";
+			var novie = privremeni.indexOf("e");
+			var lijevi = (privremeni.substring(0,novie));
+
+			lijevi = round(lijevi*pow(10, 15))/pow(10, 15) + " ";
+			desni = (privremeni.substring(novie+2,privremeni.length-1));
+			desni = "e+" + (desni-18)
+		}
+		else {
+			var lijevi = round(novibroj*pow(10, decimala))/pow(10, decimala) + " "
+		}
+	}
+	else {
+		var lijevi = novibroj.substring(0,eksp);
+		var desni = novibroj.substring(eksp,novibroj.length);
+
+		lijevi = round(lijevi*pow(10, decimala))/pow(10, decimala) + " "
+	}
+
+	lijevi = lijevi.substring(0,lijevi.length - 1);
+
+	if (lijevi.charAt(0) == ".") {lijevi = "0" + lijevi};
+
+	if (decimala < 14) {
+		if (lijevi.indexOf(".") == -1 && decimala != 0) {lijevi += "."};
+		var nula = (tocka + decimala) - (lijevi.length - 1);
+		if (nula > 0 && decimala > 0) {
+			for (var n = 0; n < nula; n++) {
+				lijevi += "0"
+			}
+		}
+	}
+
+	return (lijevi + " " + desni)
+ }
+}
+
+
+function factorial(n) {
+	if ((n == 0) || (n == 1)) {
+		return 1
+	}
+	else {
+		var odgovor = (n * factorial(n-1));
+		return odgovor
+	}
+}
+
+
+function masa(atom) {
+ with (Math) {
+ 	var atominfo = false
+	var mm=""
+	var mmdn=""
+	var mmup=""
+	var znak=""
+	var izraz=""
+	var H=1.00794
+	var He=4.002602
+	var Li=6.941
+	var Be=9.012182
+	var B=10.811
+	var C=12.0107
+	var N=14.0067
+	var O=15.9994
+	var F=18.9984032
+	var Ne=20.1797
+	var Na=22.98977
+	var Mg=24.305
+	var Al=26.981538
+	var Si=28.0855
+	var P=30.973761
+	var S=32.065
+	var Cl=35.453
+	var Ar=39.948
+	var K=39.0983
+	var Ca=40.078
+	var Sc=44.95591
+	var Ti=47.867
+	var V=50.9415
+	var Cr=51.9961
+	var Mn=54.938049
+	var Fe=55.845
+	var Co=58.9332
+	var Ni=58.6934
+	var Cu=63.546
+	var Zn=65.39
+	var Ga=69.723
+	var Ge=72.64
+	var As=74.9216
+	var Se=78.96
+	var Br=79.904
+	var Kr=83.8
+	var Rb=85.4678
+	var Sr=87.62
+	var Y=88.90585
+	var Zr=91.224
+	var Nb=92.90638
+	var Mo=95.94
+	var Tc=98
+	var Ru=101.07
+	var Rh=102.9055
+	var Pd=106.42
+	var Ag=107.8682
+	var Cd=112.411
+	var In=114.818
+	var Sn=118.71
+	var Sb=121.76
+	var Te=127.6
+	var I=126.90447
+	var Xe=131.293
+	var Cs=132.90545
+	var Ba=137.327
+	var La=138.9055
+	var Ce=140.116
+	var Pr=140.90765
+	var Nd=144.24
+	var Pm=145
+	var Sm=150.36
+	var Eu=151.964
+	var Gd=157.25
+	var Tb=158.92534
+	var Dy=162.5
+	var Ho=164.93032
+	var Er=167.259
+	var Tm=168.93421
+	var Yb=173.04
+	var Lu=174.967
+	var Hf=178.49
+	var Ta=180.9479
+	var W=183.84
+	var Re=186.207
+	var Os=190.23
+	var Ir=192.217
+	var Pt=195.078
+	var Au=196.96655
+	var Hg=200.59
+	var Tl=204.3833
+	var Pb=207.2
+	var Bi=208.98038
+	var Po=209
+	var At=210
+	var Rn=222
+	var Fr=223
+	var Ra=226
+	var Ac=227
+	var Th=232.0381
+	var Pa=231.03588
+	var U=238.02891
+	var Np=237
+	var Pu=244
+	var Am=243
+	var Cm=247
+	var Bk=247
+	var Cf=251
+	var Es=252
+	var Fm=257
+	var Md=258
+	var No=259
+	var Lr=262
+	var Pi=3.141592653589793;
+
+	for (var i=0; i<atom.length; i++) {
+		mm = atom.charAt(i)
+		mmup = atom.charAt(i+1)
+		bigup=mm.toUpperCase()
+		mmdn = atom.charAt(i-1);
+
+		if (mm == "[") {mm = "("}
+		else if (mm == "]") {mm = ")"}
+		else if (mm == ",") {mm = "."}
+
+		if (slovo(mm)) {atominfo = true};
+		if (matoperator(mm)) {atominfo = false; znak=""};
+		if (atominfo) {
+			if (matoperator(mmup)) {znak=")"}
+			if (matoperator(mmdn)) {izraz += "(" + mm + znak}
+			else if (mmdn=="(") {izraz += mm + znak}
+			else if (mmdn=="[") {izraz += mm + znak}
+			else if (slovo(mm)) {izraz += "+" + mm + znak}
+			else if (BrojAtoma(mmdn)) {izraz += mm + znak}
+			else if (BrojAtoma(mm)) {izraz += "*" + mm + znak}
+			else {izraz += mm + znak}
+		}
+		else {izraz += mm}
+	}
+	odgovor = eval(izraz);
+	return odgovor
+ }
+}
+
+
+function slovo(znak) {
+	var slovo="(ABCDEFGHIKLMNOPRSTUVWXYZ";
+	for (var i=0; i<slovo.length; i++)
+		if (znak == slovo.charAt(i)) {return true} {return false}
+}
+
+
+function matoperator(znak) {
+	var matoperator="*/+-";
+	for (var i=0; i<matoperator.length; i++)
+		if (znak == matoperator.charAt(i)) {return true}
+		if (znak == "") {return true}
+		if (znak == null) {return true}
+	return false
+}
+
+function operator(znak) {
+	var matoperator="*/+-";
+	for (var i=0; i<matoperator.length; i++)
+		if (znak == matoperator.charAt(i)) {return true}
+	return false
+}
+
+function ubacirezultat(znak) {
+	var ubacirezultat="*/+";
+	for (var i=0; i<ubacirezultat.length; i++)
+		if (znak == ubacirezultat.charAt(i)) {return true}
+	return false
+}
+
+function BrojAtoma(znak)
+{	var atom = "1234567890";
+	for (var i=0; i<atom.length; i++)
+		if (znak == atom.charAt(i)) {return true} {return false}
+}
+
+
+function Slika(adresa) {
+	window.opener.location=adresa
+}
+
+
+function MenuBotun(adresa) {
+	if (MenuWin.open) {
+		MenuWin.document.daljinski.elementi.focus()
+	}
+	else {
+		MenuWin = window.open(abc + adresa, "_blank", "width=110,height=270,toolbar=0,directories=0,resizable=1,scrollbars=0");
+		MenuWin.creator = self;
+		MenuOpen = 1
+	}
+}
+
+
+function CalcBotun(adresa) {
+	if (CalcWin.open) {
+		CalcWin.document.racunalo.zadatak.focus()
+	}
+	else {
+		CalcWin = window.open(abc + adresa, "_blank", "width=308,height=425,toolbar=0,directories=0,resizable=1,scrollbars=0");
+		CalcWin.creator = self;
+		CalcOpen = 1
+	}
+}
+
+
+function NoviElement(noviznak) {
+	var greska = 0;
+	noviznak = noviznak.toLowerCase()
+
+if (noviznak == "h" || noviznak == "hydrogen" || noviznak == "1") {element="h"}
+else if (noviznak == "he" || noviznak == "helium" || noviznak == "2") {element="he"}
+else if (noviznak == "li" || noviznak == "lithium" || noviznak == "3") {element="li"}
+else if (noviznak == "be" || noviznak == "beryllium" || noviznak == "4") {element="be"}
+else if (noviznak == "b" || noviznak == "boron" || noviznak == "5") {element="b"}
+else if (noviznak == "c" || noviznak == "carbon" || noviznak == "6") {element="c"}
+else if (noviznak == "n" || noviznak == "nitrogen" || noviznak == "7") {element="n"}
+else if (noviznak == "o" || noviznak == "oxygen" || noviznak == "8") {element="o"}
+else if (noviznak == "f" || noviznak == "fluorine" || noviznak == "9") {element="f"}
+else if (noviznak == "ne" || noviznak == "neon" || noviznak == "10") {element="ne"}
+else if (noviznak == "na" || noviznak == "sodium" || noviznak == "11") {element="na"}
+else if (noviznak == "mg" || noviznak == "magnesium" || noviznak == "12") {element="mg"}
+else if (noviznak == "al" || noviznak == "aluminium" || noviznak == "13") {element="al"}
+else if (noviznak == "si" || noviznak == "silicon" || noviznak == "14") {element="si"}
+else if (noviznak == "p" || noviznak == "phosphorus" || noviznak == "15") {element="p"}
+else if (noviznak == "s" || noviznak == "sulfur" || noviznak == "16") {element="s"}
+else if (noviznak == "cl" || noviznak == "chlorine" || noviznak == "17") {element="cl"}
+else if (noviznak == "ar" || noviznak == "argon" || noviznak == "18") {element="ar"}
+else if (noviznak == "k" || noviznak == "potassium" || noviznak == "19") {element="k"}
+else if (noviznak == "ca" || noviznak == "calcium" || noviznak == "20") {element="ca"}
+else if (noviznak == "sc" || noviznak == "scandium" || noviznak == "21") {element="sc"}
+else if (noviznak == "ti" || noviznak == "titanium" || noviznak == "22") {element="ti"}
+else if (noviznak == "v" || noviznak == "vanadium" || noviznak == "23") {element="v"}
+else if (noviznak == "cr" || noviznak == "chromium" || noviznak == "24") {element="cr"}
+else if (noviznak == "mn" || noviznak == "manganese" || noviznak == "25") {element="mn"}
+else if (noviznak == "fe" || noviznak == "iron" || noviznak == "26") {element="fe"}
+else if (noviznak == "co" || noviznak == "cobalt" || noviznak == "27") {element="co"}
+else if (noviznak == "ni" || noviznak == "nickel" || noviznak == "28") {element="ni"}
+else if (noviznak == "cu" || noviznak == "copper" || noviznak == "29") {element="cu"}
+else if (noviznak == "zn" || noviznak == "zinc" || noviznak == "30") {element="zn"}
+else if (noviznak == "ga" || noviznak == "gallium" || noviznak == "31") {element="ga"}
+else if (noviznak == "ge" || noviznak == "germanium" || noviznak == "32") {element="ge"}
+else if (noviznak == "as" || noviznak == "arsenic" || noviznak == "33") {element="as"}
+else if (noviznak == "se" || noviznak == "selenium" || noviznak == "34") {element="se"}
+else if (noviznak == "br" || noviznak == "bromine" || noviznak == "35") {element="br"}
+else if (noviznak == "kr" || noviznak == "krypton" || noviznak == "36") {element="kr"}
+else if (noviznak == "rb" || noviznak == "rubidium" || noviznak == "37") {element="rb"}
+else if (noviznak == "sr" || noviznak == "strontium" || noviznak == "38") {element="sr"}
+else if (noviznak == "y" || noviznak == "yttrium" || noviznak == "39") {element="y"}
+else if (noviznak == "zr" || noviznak == "zirconium" || noviznak == "40") {element="zr"}
+else if (noviznak == "nb" || noviznak == "niobium" || noviznak == "41") {element="nb"}
+else if (noviznak == "mo" || noviznak == "molybdenum" || noviznak == "42") {element="mo"}
+else if (noviznak == "tc" || noviznak == "technetium" || noviznak == "43") {element="tc"}
+else if (noviznak == "ru" || noviznak == "ruthenium" || noviznak == "44") {element="ru"}
+else if (noviznak == "rh" || noviznak == "rhodium" || noviznak == "45") {element="rh"}
+else if (noviznak == "pd" || noviznak == "palladium" || noviznak == "46") {element="pd"}
+else if (noviznak == "ag" || noviznak == "silver" || noviznak == "47") {element="ag"}
+else if (noviznak == "cd" || noviznak == "cadmium" || noviznak == "48") {element="cd"}
+else if (noviznak == "in" || noviznak == "indium" || noviznak == "49") {element="in"}
+else if (noviznak == "sn" || noviznak == "tin" || noviznak == "50") {element="sn"}
+else if (noviznak == "sb" || noviznak == "antimony" || noviznak == "51") {element="sb"}
+else if (noviznak == "te" || noviznak == "tellurium" || noviznak == "52") {element="te"}
+else if (noviznak == "i" || noviznak == "iodine" || noviznak == "53") {element="i"}
+else if (noviznak == "xe" || noviznak == "xenon" || noviznak == "54") {element="xe"}
+else if (noviznak == "cs" || noviznak == "cesium" || noviznak == "55") {element="cs"}
+else if (noviznak == "ba" || noviznak == "barium" || noviznak == "56") {element="ba"}
+else if (noviznak == "la" || noviznak == "lanthanum" || noviznak == "57") {element="la"}
+else if (noviznak == "ce" || noviznak == "cerium" || noviznak == "58") {element="ce"}
+else if (noviznak == "pr" || noviznak == "praseodymium" || noviznak == "59") {element="pr"}
+else if (noviznak == "nd" || noviznak == "neodymium" || noviznak == "60") {element="nd"}
+else if (noviznak == "pm" || noviznak == "promethium" || noviznak == "61") {element="pm"}
+else if (noviznak == "sm" || noviznak == "samarium" || noviznak == "62") {element="sm"}
+else if (noviznak == "eu" || noviznak == "europium" || noviznak == "63") {element="eu"}
+else if (noviznak == "gd" || noviznak == "gadolinium" || noviznak == "64") {element="gd"}
+else if (noviznak == "tb" || noviznak == "terbium" || noviznak == "65") {element="tb"}
+else if (noviznak == "dy" || noviznak == "dysprosium" || noviznak == "66") {element="dy"}
+else if (noviznak == "ho" || noviznak == "holmium" || noviznak == "67") {element="ho"}
+else if (noviznak == "er" || noviznak == "erbium" || noviznak == "68") {element="er"}
+else if (noviznak == "tm" || noviznak == "thulium" || noviznak == "69") {element="tm"}
+else if (noviznak == "yb" || noviznak == "ytterbium" || noviznak == "70") {element="yb"}
+else if (noviznak == "lu" || noviznak == "lutetium" || noviznak == "71") {element="lu"}
+else if (noviznak == "hf" || noviznak == "hafnium" || noviznak == "72") {element="hf"}
+else if (noviznak == "ta" || noviznak == "tantalum" || noviznak == "73") {element="ta"}
+else if (noviznak == "w" || noviznak == "tungsten" || noviznak == "74") {element="w"}
+else if (noviznak == "re" || noviznak == "rhenium" || noviznak == "75") {element="re"}
+else if (noviznak == "os" || noviznak == "osmium" || noviznak == "76") {element="os"}
+else if (noviznak == "ir" || noviznak == "iridium" || noviznak == "77") {element="ir"}
+else if (noviznak == "pt" || noviznak == "platinum" || noviznak == "78") {element="pt"}
+else if (noviznak == "au" || noviznak == "gold" || noviznak == "79") {element="au"}
+else if (noviznak == "hg" || noviznak == "mercury" || noviznak == "80") {element="hg"}
+else if (noviznak == "tl" || noviznak == "thallium" || noviznak == "81") {element="tl"}
+else if (noviznak == "pb" || noviznak == "lead" || noviznak == "82") {element="pb"}
+else if (noviznak == "bi" || noviznak == "bismuth" || noviznak == "83") {element="bi"}
+else if (noviznak == "po" || noviznak == "polonium" || noviznak == "84") {element="po"}
+else if (noviznak == "at" || noviznak == "astatine" || noviznak == "85") {element="at"}
+else if (noviznak == "rn" || noviznak == "radon" || noviznak == "86") {element="rn"}
+else if (noviznak == "fr" || noviznak == "francium" || noviznak == "87") {element="fr"}
+else if (noviznak == "ra" || noviznak == "radium" || noviznak == "88") {element="ra"}
+else if (noviznak == "ac" || noviznak == "actinium" || noviznak == "89") {element="ac"}
+else if (noviznak == "th" || noviznak == "thorium" || noviznak == "90") {element="th"}
+else if (noviznak == "pa" || noviznak == "protactinium" || noviznak == "91") {element="pa"}
+else if (noviznak == "u" || noviznak == "uranium" || noviznak == "92") {element="u"}
+else if (noviznak == "np" || noviznak == "neptunium" || noviznak == "93") {element="np"}
+else if (noviznak == "pu" || noviznak == "plutonium" || noviznak == "94") {element="pu"}
+else if (noviznak == "am" || noviznak == "americium" || noviznak == "95") {element="am"}
+else if (noviznak == "cm" || noviznak == "curium" || noviznak == "96") {element="cm"}
+else if (noviznak == "bk" || noviznak == "berkelium" || noviznak == "97") {element="bk"}
+else if (noviznak == "cf" || noviznak == "californium" || noviznak == "98") {element="cf"}
+else if (noviznak == "es" || noviznak == "einsteinium" || noviznak == "99") {element="es"}
+else if (noviznak == "fm" || noviznak == "fermium" || noviznak == "100") {element="fm"}
+else if (noviznak == "md" || noviznak == "mendelevium" || noviznak == "101") {element="md"}
+else if (noviznak == "no" || noviznak == "nobelium" || noviznak == "102") {element="no"}
+else if (noviznak == "lr" || noviznak == "lawrencium" || noviznak == "103") {element="lr"}
+else if (noviznak == "rf" || noviznak == "rutherfordium" || noviznak == "104") {element="rf"}
+else if (noviznak == "db" || noviznak == "dubnium" || noviznak == "105") {element="db"}
+else if (noviznak == "sg" || noviznak == "seaborgium" || noviznak == "106") {element="sg"}
+else if (noviznak == "bh" || noviznak == "bohrium" || noviznak == "107") {element="bh"}
+else if (noviznak == "hs" || noviznak == "hassium" || noviznak == "108") {element="hs"}
+else if (noviznak == "mt" || noviznak == "meitnerium" || noviznak == "109") {element="mt"}
+else if (noviznak == "uun" || noviznak == "ununnilium" || noviznak == "110") {element="uun"}
+else if (noviznak == "uuu" || noviznak == "unununium" || noviznak == "111") {element="uuu"}
+else if (noviznak == "uub" || noviznak == "ununbium" || noviznak == "112") {element="uub"}
+else if (noviznak == "uuq" || noviznak == "ununquadium" || noviznak == "114") {element="uuq"}
+else if (noviznak == "") {greska=1}
+else {
+	window.alert("Input ELEMENT SYMBOL, ATOMIC NUMBER or NAMES OF ELEMENTS!");
+	greska = 1
+}
+
+	if (greska == 0) {MainWin = window.open(abc + element + ".html", "_self")}
+}
+
+
+//Eni Generalic, Split, Create: 1999/10/14; Update: 2001/12/11
+//Atomic Weights of the Elements 1999, Pure & Appl. Chem., Vol. 73, No. 4, 667-683 (2001)
+
+-->
+
+
+</script>
+
+
+</HEAD>
+<BODY TEXT="#123456" LINK="#0000FF" VLINK="#0000FF" ALINK="#FF0000" onLoad="start()" onUnload="Zatvoreno()">
+
+
+<FORM NAME="racunalo">
+<INPUT TYPE="hidden" NAME="oldrezultat" VALUE="">
+<INPUT TYPE="hidden" NAME="memorija" VALUE="">
+
+<TABLE BORDER="0" ALIGN="center">
+
+<TR>
+<TD ALIGN="RIGHT" VALIGN="TOP" ROWSPAN="2">
+
+<TABLE BORDER="4" CELLSPACING="0" CELLPADDING="1" ALIGN="CENTER" BGCOLOR="#EFEFEF" WIDTH="280">
+
+<TR>
+<TD ALIGN="center" VALIGN="middle">
+
+<TABLE BORDER="2" WIDTH="100%" CELLSPACING="3" CELLPADDING="1" BGCOLOR="#CCCCCC">
+
+<TR>
+<TD ALIGN="CENTER" VALIGN="MIDDLE" WIDTH="100%" BGCOLOR="#EFEFEF">
+<INPUT TYPE="text" SIZE="14" NAME="rezultat" VALUE="" onFocus="display(document.racunalo.rezultat.value)" STYLE="BACKGROUND: #EFEFEF; FONT-SIZE: 14pt; HEIGHT: 30px; WIDTH: 260px">
+</TD>
+</TR>
+
+</TABLE>
+<TABLE BORDER="2" CELLSPACING="3" CELLPADDING="0" BGCOLOR="#EFEFEF">
+
+<TR>
+<TD COLSPAN="4" ALIGN="CENTER" VALIGN="middle"><NOBR>
+<SELECT NAME="izaZareza" SIZE="1" onChange="if (document.racunalo.oldrezultat.value != '') {zaokruzi(document.racunalo.oldrezultat.value)}; document.racunalo.zadatak.focus()">
+<OPTION VALUE="-1" SELECTED>decimal</OPTION>
+<OPTION VALUE="0"> 0 </OPTION>
+<OPTION VALUE="1"> 1 </OPTION>
+<OPTION VALUE="2"> 2 </OPTION>
+<OPTION VALUE="3"> 3 </OPTION>
+<OPTION VALUE="4"> 4 </OPTION>
+<OPTION VALUE="5"> 5 </OPTION>
+<OPTION VALUE="6"> 6 </OPTION>
+<OPTION VALUE="7"> 7 </OPTION>
+<OPTION VALUE="8"> 8 </OPTION>
+<OPTION VALUE="9"> 9 </OPTION>
+<OPTION VALUE="10"> 10 </OPTION>
+<OPTION VALUE="11"> 11 </OPTION>
+<OPTION VALUE="12"> 12 </OPTION>
+<OPTION VALUE="13"> 13 </OPTION>
+<OPTION VALUE="14"> 14 </OPTION>
+<OPTION VALUE="15"> 15 </OPTION>
+</SELECT>
+<FONT SIZE="2" FACE="Arial" COLOR="#226622"><INPUT TYPE="radio" NAME="stupnjevi" CHECKED TITLE="Radians" onClick="document.racunalo.zadatak.focus()"><A HREF="javascript:document.racunalo.stupnjevi[0].click()" onMouseOver="self.status='Radians'; return true">Rad</A><INPUT TYPE="radio" NAME="stupnjevi" TITLE="Stupnjevi" onClick="document.racunalo.zadatak.focus()"><A HREF="javascript:document.racunalo.stupnjevi[1].click()" onMouseOver="self.status='Degrees'; return true">Deg</A></FONT></NOBR></TD>
+<TD ALIGN="CENTER"><A TITLE=" Eni Generalic " HREF="http://www.ktf-split.hr/~eni/" TARGET="myHome"><FONT FACE="Times" SIZE="2"><I><B>EniG.</B></I></FONT></A></TD>
+<TD>
+<INPUT HEIGHT="24" WIDTH="38" TYPE="button" NAME="Cls" VALUE="Cls" TITLE="Clear screen" onClick="memory(3)" STYLE="BACKGROUND: #EEEEEE; FONT-SIZE: 10pt; HEIGHT: 24px; WIDTH: 38px">
+</TD>
+</TR>
+
+<TR>
+
+<TD COLSPAN="6"></TD>
+</TR>
+
+<TR BGCOLOR="#EFEFEF">
+<TD ALIGN="CENTER" VALIGN="MIDDLE" WIDTH="100%" COLSPAN="6"><FONT COLOR="#0000FF" SIZE="3">
+<INPUT TYPE="text" SIZE="17" NAME="zadatak" VALUE="" onChange="enter.click()" onKeyDown="if (event.keyCode==13) {enter.click()}" STYLE="FONT-SIZE: 10pt; FONT-WEIGHT: bold; HEIGHT: 25px; WIDTH: 260px">
+</FONT></TD>
+</TR>
+
+<TR>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="sqrt" VALUE="sqrt" TITLE="Square root" onClick="izracunaj(3)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="root" VALUE="root" TITLE="Root" onClick="izracunaj(22)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="ln" VALUE="ln" TITLE="Natural logarithm" onClick="izracunaj(5)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="log" VALUE="log" TITLE="Common logarithm" onClick="izracunaj(8)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="tan" VALUE="tan" TITLE="Tangent" onClick="izracunaj(14)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="atan" VALUE="atan" TITLE="Arc tangent" onClick="izracunaj(10)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+</TR>
+
+<TR>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="kvadrat" VALUE="x^2" TITLE="Square" onClick="izracunaj(2)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="potencija" VALUE="x^y" TITLE="Power" onClick="izracunaj(21)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="aln" VALUE="e^x" TITLE="Natural antilogarithm" onClick="izracunaj(6)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="alog" VALUE="10^x" TITLE="Common antilogarithm" onClick="izracunaj(9)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="cos" VALUE="cos" TITLE="Cosine" onClick="izracunaj(15)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="acos" VALUE="acos" TITLE="Arc cosine" onClick="izracunaj(11)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 9pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+</TR>
+
+<TR>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="sign" VALUE="+/-" TITLE="Change sign" onClick="izracunaj(4)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="1/x" VALUE="1/x" onClick="izracunaj(7)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="fact" VALUE="x!" TITLE="Factorial" onClick="izracunaj(20)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="postotak" VALUE="%" TITLE="Percent" onClick="izracunaj(17)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="sin" VALUE="sin" TITLE="Sine" onClick="izracunaj(16)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="28" WIDTH="38" TYPE="button" NAME="asin" VALUE="asin" TITLE="Arc sine" onClick="izracunaj(12)" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 28px; WIDTH: 38px">
+</TD>
+</TR>
+
+<TR>
+<TD COLSPAN="6"></TD>
+</TR>
+
+<TR>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="7" VALUE="7" onClick="dodajBroj(7)" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="8" VALUE="8" onClick="dodajBroj(8)" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="9" VALUE="9" onClick="dodajBroj(9)" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="djeljeno" VALUE="/" onClick="dodajBroj('/')" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="MR" VALUE="MR" TITLE="Memory recall" onClick="memory(2)" STYLE="BACKGROUND: #EEEEEE; FONT-SIZE: 10pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="MS" VALUE="MS" TITLE="Memory store" onClick="memory(1); return false;" STYLE="BACKGROUND: #EEEEEE; FONT-SIZE: 10pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+</TR>
+
+<TR>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="4" VALUE="4" onClick="dodajBroj(4)" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="5" VALUE="5" onClick="dodajBroj(5)" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="6" VALUE="6" onClick="dodajBroj(6)" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="puta" VALUE="*" onClick="dodajBroj('*')" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD COLSPAN="2">
+<INPUT HEIGHT="32" WIDTH="82" TYPE="button" NAME="con" VALUE="Constant" TITLE="Physical Constants" onClick="remote('http://www.erowid.org/archive/rhodium/chemistry/equipment/constant.html')" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 32px; WIDTH: 83px">
+</TD>
+</TR>
+
+<TR>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="1" VALUE="1" onClick="dodajBroj(1)" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="2" VALUE="2" onClick="dodajBroj(2)" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="3" VALUE="3" onClick="dodajBroj(3)" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="minus" VALUE="-" onClick="dodajBroj('-')" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="lijevo" VALUE="(" onClick="dodajBroj('(')" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="desno" VALUE=")" onClick="dodajBroj(')')" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 10pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+</TR>
+
+<TR>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="0" VALUE="0" onClick="dodajBroj(0)" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="." VALUE="." onClick="dodajBroj('.')" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="exp" VALUE="E" onClick="dodajBroj('e')" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 10pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD>
+<INPUT HEIGHT="32" WIDTH="38" TYPE="button" NAME="plus" VALUE="+" onClick="dodajBroj('+')" STYLE="BACKGROUND: #DEDEDE; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 38px">
+</TD>
+<TD COLSPAN="2">
+<INPUT HEIGHT="32" WIDTH="82" TYPE="button" NAME="enter" onClick="izracunaj(1)" VALUE="=" STYLE="BACKGROUND: #CDCDCD; FONT-SIZE: 12pt; HEIGHT: 32px; WIDTH: 83px">
+</TD>
+</TR>
+
+</TABLE>
+</TD>
+</TR>
+
+</TABLE>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP" COLSPAN="5">
+
+<TABLE WIDTH="75%" BORDER="3">
+
+<TR>
+<TD COLSPAN="3"><FONT COLOR="#0000FF" SIZE="3">
+<TEXTAREA COLS="20" ROWS="19" NAME="notes" STYLE="FONT-SIZE: 10pt; FONT-WEIGHT: normal; HEIGHT: 337px; WIDTH: 240px">
+
+</TEXTAREA>
+</FONT></TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">
+<INPUT HEIGHT="24" WIDTH="72" TYPE="BUTTON" NAME="clear" VALUE="Clear" TITLE="Clear Form" onClick="memory(4)" STYLE="BACKGROUND: #EEEEEE; FONT-SIZE: 10pt; HEIGHT: 24px; WIDTH: 75px">
+</TD>
+<TD ALIGN="center">
+<INPUT HEIGHT="24" WIDTH="72" TYPE="BUTTON" NAME="select" VALUE="Select All" TITLE="Select All" onClick="document.racunalo.notes.focus(); document.racunalo.notes.select()" STYLE="BACKGROUND: #EEEEEE; FONT-SIZE: 10pt; HEIGHT: 24px; WIDTH: 75px">
+</TD>
+<TD ALIGN="CENTER">
+<INPUT HEIGHT="24" WIDTH="72" TYPE="RESET" NAME="reset" VALUE="Reset" TITLE="Reset Form" onClick="document.racunalo.zadatak.focus()" STYLE="BACKGROUND: #EEEEEE; FONT-SIZE: 10pt; HEIGHT: 24px; WIDTH: 75px">
+</TD>
+</TR>
+
+</TABLE>
+</TD>
+</TR>
+
+</TABLE>
+</FORM>
+<BR>
+<CENTER>
+<B><FONT SIZE="5">Scientific calculator for chemists with notebook</FONT></B>
+</CENTER>
+<BR>
+<BR>
+<P>
+
+Scientific calculator for chemists with notebook is a fully functioning JavaScript calculator. This calculator can be used as common scientific calculator (sin, cos, log, power, root, memory), but it also includes a molecular weight calculator and the tables with various physical and chemical constants. The calculator contains a list with task history, storing all the recent inputs and results. Scientific calculator displays the numbers rounded to a user-specified number of decimal places.
+<BR>
+<BR>
+<P>
+
+<B><FONT SIZE="4">Entering expression</FONT></B>
+<P>
+<BLOCKQUOTE>
+Type your expression directly onto the input line or copy and paste an expression from another programs. When you finish entering your expression, pres <B>ENTER</B> or click [<B>=</B>] button.
+</BLOCKQUOTE>
+<P>
+
+<B><FONT SIZE="4">Rules for typing expression</FONT></B>
+<P>
+<UL>
+<LI>Spaces are irrelevant, for example 54 +  3*2 is equal 54+3*2</LI>
+<LI>If you press a function button without argument, the last result becomes a function argument</LI>
+<LI>If the first character in the expression is a math operator (+, *, /) then the last result is put in before the math operator</LI>
+</UL>
+<P>
+<B><FONT SIZE="4">Angle measure</FONT></B>
+<P>
+<BLOCKQUOTE>
+In trigonometric calculations, angles are interpreted as radians (default) or degrees, depending on mode setting (Deg or Rad mode).
+</BLOCKQUOTE>
+<P>
+
+<B><FONT SIZE="4">Number formats</FONT></B>
+<P>
+<BLOCKQUOTE>
+Results can be rounded to a user-specified number of decimal places (max 15-digit). This calculator can round mantissa under scientific notation, also. For example, numbers rounded to a 4 digit like this: decimal number 3.5269, integer number 35269.0000 and scientific number 3.5269 e-31.
+</BLOCKQUOTE>
+<P>
+<B><FONT SIZE="4">Arithmetic operators</FONT></B>
+<P>
+
+<BLOCKQUOTE>
+To perform basic mathematical operations use the following arithmetic operators: addition (<B>+</B>), subtraction / minus sign (<B>-</B>), multiplication (<B>*</B>) and division (<B>/</B>)
+</BLOCKQUOTE>
+<P>
+<B><FONT SIZE="4">Positive numbers</FONT></B>
+<P>
+
+<BLOCKQUOTE>
+Enter a positive number by pressing the appropriate digit keys (or buttons) and, if necessary, the decimal point key [<B>.</B>]. Period and comas are equivalents as decimal separator in numbers (3,2 + 4.3 = 7.5).
+</BLOCKQUOTE>
+<P>
+<B><FONT SIZE="4">Negative numbers</FONT></B>
+<P>
+
+<BLOCKQUOTE>
+Negative numbers are obtained by simple putting the minus sign (<B>-</B>) before the number.
+</BLOCKQUOTE>
+<P>
+<B><FONT SIZE="4">Scientific notation</FONT></B>
+<P>
+
+<BLOCKQUOTE>
+Use standard calculator notation for scientific notation, for example 1e-5 is 0.00001; 1e+3 or 1e3 is 1000. Enter the mantissa as the positive or negative number, and then click [<B>E</B>] button or just type lower <B>e</B> and type exponent as the positive or negative number.
+</BLOCKQUOTE>
+<P>
+<B><FONT SIZE="4">Parentheses</FONT></B>
+<P>
+<BLOCKQUOTE>
+Operations with the same precedence are performed from left to right, with operations enclosed in parentheses performed first. If parentheses are nested, the operations enclosed in the innermost set of parentheses are performed first. All types of parentheses are correct, for example 25.3/(K3[Fe(CN)6]).
+</BLOCKQUOTE>
+<P>
+<B><FONT SIZE="4">Chemical formulae</FONT></B>
+<P>
+
+<UL>
+<LI>The element symbols in chemical formula must be properly capitalized.</LI>
+<LI>For indicating hydration you must use a <B>+</B> sign (CuSO4+5*H2O).</LI>
+<LI>It is correct to type the leading number before formula without parentheses: 3*CO2 is equal 3*(CO2)</LI>
+</UL>
+<P>
+<B><FONT SIZE="4">Physical constants</FONT></B>
+<P>
+
+<BLOCKQUOTE>
+Clicking the <B>Constants</B> button expand of Scientific calculator for chemists you get access physical constants table. Click the button near constant that you want to insert into expression.
+</BLOCKQUOTE>
+<BR>
+<P>
+<B><FONT SIZE="4">Examples:</FONT></B>
+<P>
+
+<BLOCKQUOTE>
+	2+5-3.25 = 10.25<BR>
+	8+7+(42-16)*3 = 90<BR>
+	8+7+[(42-16)-7]*3 = 72<BR>
+	5*-7 = -35<BR>
+	7e-6/3e-9 = 2333.3333333333<BR>
+	H2SO4 = H*2+S+O*4 = 1.00794*2+32.066+15.9994*4 = 98.079
+</BLOCKQUOTE>
+
+<DIV ALIGN="CENTER"><HR width="50%" ALIGN="CENTER">
+<SPAN class="info">Last modified:
+<!--   #BeginDate format:Ge1   -->
+
+17.12.2001<!--   #EndDate   -->
+
+
+<BR>
+Copyright &copy; 1998-2001 by <A HREF="mailto:eni@ktf-split.hr">Eni Generalic</A></SPAN>
+</DIV>
+</BODY>
+</HTML>

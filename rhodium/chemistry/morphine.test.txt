@@ -1,0 +1,69 @@
+Morphine - properties and testing 
+from THE NATIONAL FORMULARY, 8TH EDITION (1946)
+ 
+Description: Morphine HCl occurs as white, silky, glistening needles or
+ cubical masses, or as a white, crystaline powder. It is odorless, has a
+ bitter [MOST alkaloids have bitter tastes...], and is permanent in the
+ aid but is affected by light (???)
+ 
+Soluability: 1G of Morphine HCl dissolves in about 17.5cc of water and in
+ about 52cc of alcohol at 25c; also in about .5cc of boiling water or
+ 46cc of alcohol at 60c. It is soluable in glycerin, but insoluable in CHCl3
+ and ether.
+ 
+Identification:
+A: An aqeuous solution of Morphine HCl responds to the tests for chloride
+   ion [well, duh!?!?]
+B: Place about 5mg of Morphine HCl on a watch glass, add .5cc of diluted
+   sulfuric acid and heat on a water bath for about 5 minutes. Cool and
+   add 5cc of sulfuric acid, containing in each cc 5mg of selenous acid:
+   an intense blue color appears which slowly changes to green and finally
+   to brown.
+C: Morphine HCl with sulfuric acid, containing 5mg molybdic acid in each cc,
+   produces a purple color, changing to blue.
+D: Sulfuric acid, containing in each cc. 1 drop of formaldehyde T.S., yields
+   an intensely purple color with Morphine HCl.
+E: With nitric acid Morphine HCl produces an orange-red color fading to
+   yellow.
+F: The addition of a few drops of freshly prepared ferric chloride T.S. to
+   an aqueous solution of Morphine HCl (1 in 100) produces a blue color,
+   which is destroyed by acids, by alcohol, or by heating.
+G: Add potassium ferricyanide T.S. containing 1 drop of ferric chloride T.S.
+   in each cc., to an aqeuous solution of Morphine HCl (1 in 100): a deep
+   blue color is produced at once (***DIFFERENT FROM CODEINE!!!***)
+ 
+There should be no residue after ignition of Morphine HCl
+When a solution of Morphine HCl is warmed with NaOH, there should be no
+ evidence of the odor of ammonia.
+ 
+(tests for)
+Apomorphine: Add .1gm sodium bicarbonate and .1cc of iodine T.S. to an
+ aqeuous solution of Morphine HCl (1 in 50): when shaken with an equal
+ volume of ether, both layers should remain free from even a transient green
+ color.
+Meconate: Add a few drops of ferric chloride T.S. to 5cc of an aqueous
+ solution of Morphine HCl (1 in 30), previously mixed with 5cc of diluted
+ hydrochloric acid: no red color is produced.
+ 
+(removal)
+Foreign Alkaloids: Disolve 1 gram of Morphine HCl in 10cc of NaOH T.S. in a
+ seperator, and shake the solution with successive portions of 15cc, 10cc,
+ and 10cc of chloroform, passing the chloroform solutions through a small
+ filter previously moistened with chloroform. Shake the combined chloroform
+ solutions with 5cc of distilled water, seperate the chloroform, and 
+ evaporate it carefully to dryness on a water bath [uh, avoid the nasty
+ carcinogenic fumes which will also knock you out while your at it too]
+ Add to the RESIDUE thus obtained 10cc of .002 N sulfuric acid, heat gently
+ until disolved, cool, add 2 drops methyl red T.S., and titrate the excess
+ H2SO4 with .02 N NaOH: not less than 7.5cc of the latter should be required.
+ 
+
+
+--
+     ____   ______  ________ _____
+    /    \ |      \|   /\   |     \   jkenner@cello.gina.calstate.edu
+   /      \|   _   \   \/   |  _   \  
+  /___/\   \___|>   >       |__|>   > BORN TO BE WIRED... 
+ /         |       /   /\  |       /  All the sugar and twice the 
+ \_________|______/|___\/__|______/   caffeine of regular netusers!
+ finger me and make a pgp key come.

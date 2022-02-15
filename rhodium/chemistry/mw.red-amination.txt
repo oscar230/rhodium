@@ -1,0 +1,342 @@
+                      Sodium Borohydride on Wet Clay:
+  Solvent-free Reductive Amination of Carbonyl Compounds Using Microwaves
+
+                       Tetrahedron 54, 6293-8 (1998)
+
+                   Rajender S. Varma and Rajender Dahiya
+
+Abstract: A solvent-free reductive amination of carbonyl compounds by wet
+          montmorillonite K 10 clay supported sodium borohydride is
+          described; microwave irradiation facilitates the Procedure.
+
+The reductive amination of carbonyl compounds is one of the most useful
+reactions for the synthesis of amines and their derivatives[1] as these
+compounds are known to have herbicidal and fungicidal activities,[2] and
+constitute important precursors to a variety of agents that are of interest
+to pharmaceutical  and agricultural industries.[3] The Borch reduction
+using sodium cyanoborohydride [NaBH3CN] [4] reductive animation using
+sodium triacetoxyborohydride [NaBH(OAc)3] [5] are the two very popular
+methods to achieve this transformation. However, the first method has the
+risk of residual cyanide in the products or in the workup waste stream
+whereas the later involves the use of corrosive acetic acid. Recently, the
+N-alkylation of primary aromatic amines has also been reported using NaBH4
+that is conducted in sulfuric acid medium.[6] Consequently, there is a need
+for the development of a manipulatively easy and an environmentally
+friendly method for the reduction of in situ generated Schiff's bases.
+
+Heterogeneous reactions facilitated by supported reagents on various solid
+inorganic surfaces have received attention in recent years because of the
+greater selectivity and simple reaction work-up.[7] Microwave (MW) heating
+has been used for the rapid synthesis of a variety of organic
+compounds[8-11] both in solution phase as well as under solvent-free
+conditions.[10,11] The salient features of the microwave approach coupled
+with the use of mineral supported reagents or catalysts are the enhanced
+reaction rates, formation of pure products in high yields and the ease of
+manipulation. Further, the solventless microwave-assisted reactions[10,11]
+are now gaining popularity as they provide an opportunity to work with open
+vessels, thus avoiding the risk of high pressure development and with a
+possibility of upscaling the reactions on preparative scale.
+
+During the course of our ongoing program to develop environmentally benign
+solvent-free methods,[11] we have discovered methods for the rapid
+synthesis of imines and enamines via reactions that are catalyzed by
+clay[11i] and Envirocat reagent, EPZG,[11j]  wherein elimination of water
+is facilitated by exposure to microwaves. Herein, we report a facile method
+for the synthesis of secondary and tertiary amines using a solvent-free
+system, NaBH4-wet clay coupled with microwave activation.
+
+RESULTS AND DISCUSSION
+
+We investigated the reducing ability of NaBH4-wet clay for the reduction of
+in situ generated Schiff's bases. The solid state reductive amination of
+carbonyl compounds is explored on various inorganic solid supports such as
+alumina, clay, silica etc. and found that among these materials clay
+afforded the best results. Clay not only behaves as an acid but also
+provides water from its interlayers that is responsible for the
+acceleration of the reducing ability of NaBH4.[12] The important role of
+clay is apparent from the fact that only poor yield (~10%) was obtained
+without this support as exemplified for the product,
+N-phenyl-p-chlorobenzylamine (Table, entry 6), Although these reactions are
+very facile yet the efficiency may be further enhanced by conducting the
+reactions in partially sealed containers.
+
+The process in its entirety involves a simple mixing of in situ generated
+imines,[11i] with 10% NaBH4-wet clay and irradiating the reaction mixture
+in an unmodified household microwave oven for the time specified in the
+Table. The reagent is more effective when the Schiff s base is first mixed
+with NaBH4 and clay and then wetted with water. A simple extraction of the
+product from the solid support affords the corresponding amines in high
+yields. In some cases, the reduction of imines is completed immediately
+upon mixing with clay supported NaBH4 at room temperature. However, the
+reactions involving Schiff s bases generated from cyclohexanone and aniline
+(entry 12) and aliphatic aldehydes and amines (entry 14) require a
+relatively longer time for completion. The reduction of the substrates
+bearing electron withdrawing substituents (entries 5, 10) is relatively
+slow in comparison to those with electron donating groups (entries 8, 9).
+No side product formation is observed in any of the reactions investigated.
+Interestingly, the dehalogenation of the compounds (entries 6, 7 and 11) is
+not observed under these conditions.[13,14]  For low boiling reactants, the
+reaction mixtures are irradiated with intermittent heating [pulsed sequence
+with an interval of 1 min between two successive irradiations of 2 min each
+at low MW power (20%)]. This pulse protocol is required to maintain the
+bath temperature at ~65 C to avoid the loss of low boiling n-propylamine
+(entry 20, see details in experimental section).
+
+In the reactions of ketones with secondary amines (entries 23, 24), where
+enamine formation is expected, the intermediate carbinol amines dehydrates
+to generate iminium ions in the presence of acidic K 10 clay which, in
+turn, accept hydride ions from NaBH4 to afford tertiary amines (Eqn. 1).
+This acidity dependent generation of hydride species from NaBH4 on clay
+surface, which is responsible for the reduction of the Schiff bases, has
+not been fully exploited.[5,6]
+
+R1R2C(OH)-NR4R5  --> R1R2C=N+R4R5  -->  R1R2CH-NR4R5    [Eqn 1]
+
+That the effect may not be purely thermal is evident from the fact that for
+similar product yields a much longer time period is required for completion
+of the reaction (5h, entry 6) at the same temperature of 65 C using an
+alternate heating mode (oil bath).
+
+[Scheme]
+
+R1R2CO + H2N-R3  -->  R1R2C=NR3  -->  R1R2CH-NHR3
+
+In conclusion, we have developed a facile and practical method for the
+reductive amination of carbonyl compounds under solvent-free conditions
+using NaBH4-wet clay, that is accelerated by microwave irradiation.
+
+{Editing notes on table: Ariel font 10. Tab stops at: 0.4", 2.3", 3.6", 4.1", 4.6", 5.5"}
+
+Table. Reductive Amination of Carbonyl Compounds using NaBH4 Supported on K 10 Clay
+------------------------------------------------------------------------------------------------------------------------------------------
+Entry   Carbonyl Compounds      Amines  Time    Yield   m.p.(C) or b.p. (C)/torr
+                        (min)   %       Observed        Reported
+------------------------------------------------------------------------------------------------------------------------------------------
+1       Benzaldehyde    Aniline <5.00   97      37-38   35.5-37.8 [17]
+2       Benzaldehyde    n-Heptylamine   <5.00   94      167-169 [c]     166-170 [18]
+3       Benzaldehyde    Tyramine        1.50    90      141-142 143 [19]
+4       Salicylaldehyde Aniline <5.00   96      111-112 113 [20]
+5       Salicylaldehyde p-Nitroaniline  1.00    88      136-137 138 [21]
+6       p-Chlorobenzaldehyde    Aniline 0.50    90      209-211 [c]     210-211 [16]
+7       p-Chlorobenzaldehyde    o-Aminophenol   0.75    84      108-109 109 [21]
+8       p-Anisaldehyde  Aniline 0.25    93      46-48   48-49 [16]
+9       p-Anisaldehyde  p-Aminophenol   0.75    81      101-103 102-103 [23]
+10      p-Nitrobenzaldehyde     Aniline 1.25    78      67-69   67-68 [22]
+11      3,4-Dimethoxybenzaldehyde       p-Chloroaniline 0.50    91      122-123 123 [21]
+12      Isobutyraldehyde        Aniline 1.00    78      204-206 [c]     206 [24]
+13      2-Ethylbutyraldehyde    Aniline 0.75    87      113-115 [e]     114-115 [25]
+14      2-Ethylbutyraldehyde    n-Decylamine    1.50    86      66-69/8 f
+15      2-pyrrolyl-carbaldehyde homoveratrylamine       1.50    81      145-147 147 [21]
+16      Acetophenone    Aniline 1.50    92      121-124/3       122-124/3 [28]
+17      Acetophenone    Benzylamine     2.00    66      178-180[c]      179-181 [5]
+18      Cyclohexanone   Aniline 1.00    89      105-108/3       112-113/3 [26]
+19      4-Methylcyclohexanone   Benzylamine     2.00    85      98-99[e]        97-98 [27]
+20      Cycloheptanone  Propylamine     0.75    79      205-207[c]      207-208 [5]
+21      4746-97-8 [g]   Benzylamine     1.50    91      241-243[d]      245-246 [5]
+22      3-Pentanone     Aniline 1.00    83      83-86/8 56-67/3-4 [26]
+23      2-Heptanone     Morpholine      2.00    81      150-151[c]      151-153 [5]
+24      2-Heptanone     Piperidine      2.00    78      159-161[c]      160-161 [5]
+------------------------------------------------------------------------------------------------------------------------------------------
+[a]  Time for the reduction of in situ generated Schiff's bases in microwave oven. The time is in minutes. The time, <5.00 min. refers to the reductions at room temperature that are completed on simple mixing of the Schiff's base with NaBH4-wet clay.
+[b]  Unoptimized yields of purified bases that exhibited physical and spectral properties in accord with the assigned structures.
+[c]  Hydrochloride salt.
+[d]  Oxalate salt.
+[e]  p-Toluenesulfonyl derivative.
+[f]  See experimental section.
+[g]  CAS registry #: 1,4-cyclohexanedione mono-ethylene ketal
+
+EXPERIMENTAL SECTION
+
+General. All reagents were purchased from Aldrich Chemical Co. or Lancaster
+Synthesis Inc. and were used as received. Some aldehydes were distilled
+prior to use. A Sears Kenmore microwave oven (900 Watts) equipped with a
+turntable was used for microwave heating. An alumina bath (neutral alumina:
+125 g, mesh ~150, Aldrich; bath: 5.7 cm diameter) was used as a heat sink
+inside the MW oven to irradiate the reaction mixtures in all experiments.
+TLC was performed on silica gel plates obtained from Analtech, Inc. using
+Hexane:EtOAc (9:1, v/v) as the solvent system. Melting points were
+determined on a Mel-Temp II hot stage apparatus using Fluke 51 K/J digital
+thermometer and are uncorrected. IR spectra were recorded on a Perkin-Elmer
+1310 spectrophotometer. NMR spectra were recorded in CDCl3 on a Jeol
+Eclipse (300 MHz for (1)H NMR and 75 MHz for (13)C NMR) spectrometers using
+TMS as an internal standard. Mass spectra were recorded on a Hewlett
+Packard 5890 mass spectrometer (70 eV) using a GC/MS coupling or direct
+inlet system. The identity of the compounds were confirmed by comparison of
+their physical and spectral data with those reported in the literature
+including their derivatization into various salt forms. The reagent, 10%
+NaBH4-clay, is prepared by mixing NaBH4 (0.5 g) with montmorillonite K 10
+clay (4.5 g) in solid state using a pestle and mortar.
+
+CAUTION. Although we did not encounter any accident during these studies,
+we recommend extreme caution for reactions conducted on larger scales
+because of the possible higher localized temperatures attained in the
+microwave oven.
+
+Typical Procedure. The synthesis of N-phenyl-p-chlorobenzylamine is
+representative of the general procedure employed. A mixture of
+p-chlorobenzaldehyde (0.7 g, 5 mmol), aniline (0.455 g, 5 mmol) and
+montmorillonite K10 clay (0.1 g) contained in a 25 mL beaker was placed in
+an alumina bath inside the microwave oven and irradiated for 2 min. The in
+situ generated Schiff s base was mixed thoroughly with freshly prepared
+NaBH4-clay (5.0 mmol of NaBH4 on 1.72 g of reagent) and water (1 mL). The
+reaction mixture was again irradiated for 30 sec (65 (C). Upon completion
+of the reaction, monitored on TLC, the product was extracted into methylene
+chloride (3x 15 mL). The removal of solvent under reduced pressure provided
+pure N-phenyl-p-chlorobenzylamine in 90% yield. The identity of the product
+was confirmed by formation of the hydrochloride salt, m.p. 209-211 (C
+(EtOAc-MeOH) (lit. m.p. 210-211 (C).[16]
+
+N-(2-Ethylbutyl)-1-decylamine (entry 14). The same procedure described for
+the preparation of N-phenyl-p-chlorobenzylamine provided a free base in 86
+% yield, b.p. 66-69 (C/8 torr. [details omitted of analytical data for this
+cmpd. {Analytical details are omitted at this point}
+
+N-(Propyl)aminocycloheptane (entry 20): A mixture of cycloheptanone (0.56
+g, 5 mmol), n-propylamine (0.46 g, 7.5 mmol) and K 10 clay (0.1 g)
+contained in a small beaker was placed in an alumina bath (heat sink) and
+irradiated for 6 min in a MW oven at its 20% power using pulsed method (one
+min cooling between two successive irradiations of 2 min each). The in situ
+generated Schiff s base was mixed with sodium borohydride (0.19 g, 5 mmol)
+and K 10 clay (1.53 g) to which water (1 mL) was added and the reaction
+mixture was irradiated in MW oven for 45 sec at its full power. Upon
+completion of the reaction, as monitored on TLC, the product was extracted
+into methylene chloride (3x 15 mL). The removal of the solvent under
+reduced pressure gave the free base in 79 % yield. HCl salt (EtOAc-MeOH),
+m.p. 205-207 (C (lit. m.p. 207-208 C).[5]
+
+All the results reported in the Table refer to the reactions that are
+conducted on a 5 mmol scale. The reaction of p-anisaldehyde with aniline
+(entry 8), at a relatively larger scale (50 mmol), undergoes completion in
+30 sec to afford N-phenyl-p-methoxybenzylamine in 91% yield.
+
+REFERENCES AND NOTES
+
+Presented, in part, at the 215th American Chemical Society National Meeting
+(Abet. ORGN 232), Dallas, Texas, March 29-April 2. 1998.
+
+1. (a) Emerson, W. S. Organic Reactions, Wiley, New York, 1948, vol. 4,
+   chapter 3, pp 174. (b) Hutchins, R.  O.; Natale, N. Org Prep. Proced.
+   Int. 1979,11, 20. (c) Lane, C. F. Synthesis 1975, 135. (d) Hudlicky, M.
+   Reductions in Organic Chemistry, Second Ed., ACS Monograph 188, 1996, pp
+   187 and references cited therein. (e) Reductions in Organic Synthesis,
+   Abdel-Magid. A. F., Ed., ACS Symposium Series 641; American Chemical
+   Society, Washington DC, 1996. pp 201. (f) Ranu, B. C.; Sarkar, A.;
+   Majee, A. J. Org Chem. 1997, 62, 1841.
+
+2. Luthardt, H.; Fieseler, C.; Wind, M.; Biering, H.; Kochmann, W.; Kramer,
+   W.; Manmen, H.; Roethling, T.  Ger. Patent 237,250, 1976; Chem. Abstr.
+   1976,107, 35133a.
+
+3. Worbel, J. E.; Ganem, B. Tetrahedron Lett. 1981, 22, 3447 and
+   references cited therein.
+
+4. Borch, R. F.; Bernstein, M. D.; Durst, H. D. J. Am. Chem. Soc. 1971,
+   93, 2897.
+
+5. Abdel-Magid, A. F.; Carson, K. G.: Harris. B. D.; Maryanoff, C. A.;
+   Shah, R. D. J. Org. Chem. 1996, 61,  3849 and references cited therein.
+
+6. Giancarlo, V.; Giumanini, A. G.; Strazzolini. P.; Poiana, M. Synthesis
+   1993, 121.
+
+7. (a) Balogh, M.; Laszlo, P. Organic Chemistry Using Clays;
+   Springer-Verlag: Berlin, 1993. (b) Laszlo, P.  Preparative Chemistry
+   using Supported Reagents, Academic Press, San Diego, California, 1987.
+   (c) McKillop, A.; Young, D. W. Synthesis 1979, 401 and 481. (d) Posner,
+   G. H. Angew. Chem. 1978, 90, 527; Angew. Chem. Int. Ed Engl. 1978, 17,
+   487. (e) Kabalka, G. W.; Wadgaonkar, P. P.; Chatla, N. Synth. Commun.
+   1990, 20, 293. (f) Kabalka, G. W.; Pagni, R. M. Tetrahedron 1997, 53, 7999.
+
+8. For recent reviews on microwave assisted chemical reactions see (a)
+   Abramovich, R. A. Org Prep.  Proced. Int. 1991, 23, 683. (b) Whittaker,
+   A. G.; Mingos, D. M. P. J. Microwave Power Electromagn. Energy 1994, 29,
+   195. (c) Majetich, G.; Hicks, R. J. Microwave Power Electromagn. Energy
+   1995, 30, 27. (d) Caddick, S. Tetrahedron 1995, 51. 10403. (e) Varma, R.
+   S. "Microwave-Assisted Reactions under Solvent-Free 'Dry' Conditions "
+   in Microwaves. Theory and Application in Material Processing IV, Clark.
+   D. E.; Sutton, W. H.; Lewis, D. A., Eds., American Ceramic Society,
+   Ceramic Transactions 1997, 80, pp 375-365.
+
+9. (a) Gedye, R.; Smith, F.; Westaway, K.; Ali, H.; Baldisera, L.; Laberge,
+   L.; Rousell, J. Tetrahedron Lett.  1986, 27, 279. (b) Giguere, R. J.;
+   Namen, A. M.; Lopez, B. O.; Arepally, A.; Ramos, D. E.; Majetich, G.;
+   Defrauw, J. Tetrahedron Lett. 1987, 28, 6553. (c) Bose, A. K.; Banik, B.
+   K.; Lavlinskaia, N.; Jayaraman, M.; Manhas, M. S. Chemtech 1997, 27,18.
+
+10. (a) Oussaid, A.; Thach, L. N.; Loupy, A. Tetrahedron Lett. 1997, 38,
+    2451. (b) Villemin, D.; Alloum, A.  B. Synth. Commun. 1991, 21, 63.
+    (c) Lerestif. J. M.; Toupet, L.; Sinbandhit, S.; Tonnard, F.;
+    Bazureau, J. P.; Hamelin, J. Tetrahedron 1997, 53, 6351.
+
+11. For cleavage-deprotection reactions see: (a) Varma, R. S.; Chatterjee,
+    A. K.; Varma, M. Tetrahedron Lett. 1993, 34, 3207. (b) Varma, R. S.;
+    Chatterjee, A. K.; Varma, M. Tetrahedron Lett. 1993, 34, 4603. (c)
+    Varma, R. S.; Varma, M.; Chatterjee, A. K. ~ Chem. Soc., Perkin. Trans.
+    1 1993, 999. (d) Varma, R. S.; Lamture, J. B.; Varma, M. Tetrahedron
+    Lett. 1993, 34, 3029. (e) Varma, R. S.; Saini, R. K. Tetrahedron Lett.
+    1997, 38, 2623. (f) Varma, R. S.; Meshram, H. M. Tetrahedron Lett.
+    1997, 38, 5427. (g) Varma, R. S.; Meshram, H. M. Tetrahedron Lett.
+    1997, 38, 7973. (h) Varma, R. S.; Dahiya, R.; Saini, R. K. Tetrahedron
+    Lett. 1997, 38, 8819. For condensation-cyclization reactions see: (i)
+    Varma, R. S.; Dahiya, R.; Kumar, S. Tetrahedron Lett. 1997, 38, 2039.
+    (j) Varma, R. S.; Dahiya, R. Synlett 1997, 1245. (k) Varma, R. S.;
+    Dahiya, R.; Kumar, S. Tetrahedron Lett. 1997, 38, 5131. (1) Varma, R.
+    S.; Saini, R. K. .Synlett 1997, 857. For oxidation reactions see: (m)
+    Varma, R. S.; Dahiya, R. Tetrahedron Lett. 1997, 38, 2043. (n) Varma,
+    R. S.: Saini, R. K.; Meshram, H. M. Tetrahedron Lett. 1997, 38. 6525.
+    (o) Varma, R. S.; Dahiya, R.; Saini, R. K. Tetrahedron Lett. 1997, 38,
+    7029. (p) Varma, R. S.; Dahiya, R.; Saini, R. K. Tetrahedron Lett.
+    1997, 38, 7823. (q) Varma, R. S.; Dahiya, R. Tetrahedron Lett. 1998.
+    39, 1307. (r) Varma, R. S.; Dahiya, R.; Kumar, D. Molecules Online
+    1998, 2, 82. (s) Varma, R. S.; Saini, R. K. Tetrahedron Lett. 1998, 39,
+    1481. For reduction reactions see: (t) Varma, R. S.; Saini, R. K.
+    Tetrahedron Lett. 1997, 38, 4337. (u) Varma, R. S.; Naicker, K. P.
+    Molecules Online 1998, 2, 94.
+
+12.  Wade, R. C. J. Mol. Catal. 1983, 18, 273.
+
+13.  Pitman, C. U., Jr.; Massry, A. M. El., Amer, A. Synth. Commun. 1990,
+     20, 1091.
+
+14.  Tabaei, S.-M. H.; Pitman, C. U  Jr.; Mead, K. T. Tetrahedron Lett.
+     1991, 32, 2727.
+
+15. For a critical evaluation of activation process by microwaves see:
+    Raner. K. D.; Strauss, C. R.; Vyskoc, F.;  Mokbel, L. J. Org. Chem.
+    1993, 58, 950. The temperature of the reaction mixture inside the
+    alumina bath (heat sink) in a Sears Kenmore microwave oven equipped
+    with a turntable at full power (900 Watts) reached ~65 C after 30
+    seconds of irradiation as measured by insertion of a thermometer in the
+    alumina bath.
+
+16. Roe, A.; Montgomery, J. A. J. Am. Chem. Soc. 1953, 75, 910.
+
+17. Kawakami, T.; Sugimoto, T.; Shibata. I.; Baba, A.; Matsuda, H.; Sonoda,
+    N. J. Org. Chem. 1995, 60, 2677.
+
+18. (a) Ruckdeschel, G.; Stransky, D.; Schonenberger, H. Pharmazie 1976,
+    31, 374; (b) Chem. Abstr. 1976, 85, 137174j.
+
+19. Beilstein 13(1), 237.
+
+20. Heilbron, 1.; Cook. A. H.; Bunbury, H. M.; Hey, D. H., Ed., Dictionary
+    of Organic Compounds, Vol. III, OUP, NY, 1965, pp 1657.
+
+21. Walker, G. N.; Klett, M. A. J. Med. Chem. 1966, 9, 624.
+
+22. Billman. J. H.; Diesing, A. C. J. Org. Chem. 1957, 22, 1068.
+
+23. Beilstein 13, 607.
+
+24. Roberts, R. M.; Hussein. F. A. J. Am. Chem. Soc. 1960, 82, 1950.
+
+25. Graham. S. H.; Williams, A. J. S. Tetrahedron 1965, 21, 3263.
+
+26. Gasc, M. B.; Perie, J.; Lattes, A. Tetrahedron 1978, 34, 1943.
+
+27. Hutchins, R. O.; Su, W.-Y.; Sivakumar, R.; Cistone, F.; Stercho, Y. P.
+    J. Org Chem. 1983, 48, 3412.
+
+28. Kotsuki, H.; Yoshimura, N.; Kadota, I; Ushio, Y.; Ochi, M. Synthesis
+    1990, 401.
+

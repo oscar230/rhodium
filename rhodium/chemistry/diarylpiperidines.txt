@@ -1,0 +1,297 @@
+-------------------------------------------------------------------------------
+               N-alkyl-4,4-Diphenylpiperidines as CNS stimulants
+                                found by Fuchem
+-------------------------------------------------------------------------------
+
+I was just farting-around on the net, when I ran into something interesting:
+
+                                "4,4-Diarylpiperidines 
+                                       Abstract
+4,4-Diarylpiperidine compounds, preferably 4,4-diphenylpiperidine which are
+substituted or unsubstituted in the 1-position of the piperidine nucleus, such
+as 1-(lower alkyl)-4,4-diphenylpiperidines, 1-(lower alkyl)-4-phenyl-4-tolyl-
+piperidines, and their substantially non-toxic, pharmaceutically-acceptable acid
+addition salts, are highly effective central nervous system (CNS) stimulants
+which are superior to known amphetamine-type stimulants. A novel and highly
+advantageous process of making such 4,4-diarylpiperidine compounds comprises
+reacting a 4-aryl-4-hydroxypiperidine compound which may be substituted in its
+3-position by an aroyl group, with an aromatic hydrocarbon, in particular with
+benzene, in the presence of a Friedel-Crafts-type catalyst."
+
+Source --> http://water-cooler.com/WC/patentviewer/patent-4022786.html
+
+-------------------------------------------------------------------------------
+From same page:
+REACTION
+
+EXAMPLE 1
+
+1-Methyl-4,4-diphenylpiperidine
+
+20 g. of 1-methyl-4-hydroxy-4-phenylpiperidine are suspended in 150 ml. of
+anhydrous benzene. 61.5 g. of finely pulverized anhydrous aluminum chloride are
+added in portions thereto within 25 minutes while stirring. The reaction
+temperature increases on starting addition of aluminum chloride to about
+45.degree. C. After about 20 minutes the temperature is increased to and
+maintained at about 50.degree. to 55.degree. C. for about one hour. The
+resulting reaction solution is cooled to about 20.degree. C. and is poured into
+a mixture of ice and concentrated hydrochloric acid. After warming the mixture
+to room temperature, the hydrochloric acid layer together with the dark oil
+formed on decomposition is separated from the benzene layer and is washed with
+benzene. Water is added to said hydrochloric acid-oil phase, while stirring, in
+portions and in an amount sufficient to produce an almost clear solution. Said
+acid solution is rendered alkaline by the addition of 40% sodium hydroxide
+solution whereby the mixture is well cooled. The alkalized mixture is repeatedly
+extracted with ether. The combined ether extracts are dried over anhydrous
+potassium carbonate and are concentrated by evaporation of the ether. 24 g. of
+the crude base are obtained as residue in the form of yellowish oil. A water
+clear oil boiling at 98.degree. to 103.degree. C./0.01 mm. Hg is recovered by
+distillation of said crude oil in a high vacuum. The oil solidifies to crystals
+on standing for a short period of time. After recrystallization from aqueous
+dimethylformamide, the resulting 1-methyl-4,4-diphenylpiperidine has a melting
+point of 71.degree. to 73.degree. C.
+
+Its hydrochloride is produced by dissolving the base in acetic acid ethyl ester
+and adding an ethereal hydrochloric acid solution thereto. After
+recrystallization from acetic acid ethyl ester, the melting point of the
+hydrochloride is 220.degree. to 223.degree. C.
+
+EXAMPLE 2
+
+1-Methyl-4,4-diphenylpiperidine
+
+100 g. of 1-methyl-3-benzoyl-4-hydroxy-4-phenylpiperidine are suspended in 600
+ml. of anhydrous benzene while stirring. 200 g. of finely pulverized, anhydrous
+aluminum chloride are added in portions thereto within 25 minutes. The reaction
+temperature increases to about 45.degree. C. when adding the first portion of
+aluminum chloride. After about 20 minutes the reaction temperature of the
+reaction mixture is maintained at 50.degree. to 55.degree. C. for about 1 hour.
+The reaction mixture is then cooled to room temperature and is introduced into a
+mixture of ice and concentrated hydrochloric acid while stirring. After heating
+the mixture to room temperature, the benzene layer is separated from the
+hydrochloric acid and oil layer which is washed with benzene. The hydrochloric
+acid and oil layer is diluted, while stirring, with an amount of water
+sufficient to cause substantially all the oil to be dissolved. The resulting
+aqueous solution is then rendered alkaline by the addition of 40% sodium
+hydroxide solution, while stirring, and the alkaline solution is extracted with
+ether. The combined ether extracts are dried over anhydrous potassium carbonate
+and are concentrated by evaporation of the ether. 83.5 g. of the crude base are
+obtained as residue in the form of a dark oil. A light oil boiling at 98.degree.
+to 103.degree. C./0.01 mm. Hg is recovered by distillation of said crude oil in
+a high vacuum. The oil solidifies to crystals on standing for a short period of
+time. After recrystallization from aqueous dimethylformamide, the resulting
+1-methyl-4,4-diphenylpiperidine has a melting point of 71.degree. to 73.degree.C.
+
+EXAMPLE 3
+
+1-Ethyl-4,4-diphenylpiperidine
+
+When proceeding as described in Example 2 but replacing the corresponding
+1-methyl-3-benzoyl-4-hydroxy-4-phenylpiperidine starting material by
+1-ethyl-3-benzoyl-4-hydroxy-4-phenylpiperidine and reacting 20 g. thereof with
+benzene in the presence of aluminum chloride, 15 g. of crude
+1-ethyl-4,4-diphenylpiperidine base boiling at 110.degree. to 123.degree.
+C./0.01 mm. Hg are obtained. Its acid addition salt with maleic acid is produced
+by the addition of maleic acid to its acetone solution. The maleic acid salt
+melts at 239.degree. to 240.degree. C.
+
+EXAMPLE 4
+
+1-Isopropyl-4,4-diphenylpiperidine
+
+When proceeding as described in Example 2 but replacing the corresponding
+1-methyl-3-benzoyl-4-hydroxy-4-phenylpiperidine by 1-isopropyl-3-benzoyl-4-
+hydroxy-4-phenylpiperidine and reacting 55 g. thereof with benzene in the
+presence of anhydrous aluminum chloride, 33 g. of crude 1-isopropyl-4,4-
+diphenylpiperidine base boiling at 117.degree. to 125.degree. C./0.01 mm. Hg.
+are obtained in the form of a yellowish viscous oil. On adding isopropanol
+saturated with hydrogen chloride to its acetic acid ethyl ester solution, the
+crystalline hydrochloride precipitates. After recrystallization from
+isopropanol, the hydrochloride melts at 267.degree. C.
+
+EXAMPLE 5
+
+1-Phenethyl-4,4-diphenylpiperidine
+
+When proceeding as described in Example 2 but replacing the corresponding
+1-methyl-3-benzoyl-4-hydroxy-4-phenylpiperidine by
+1-phenethyl-3-benzoyl-4-hydroxy-4-phenylpiperidine and reacting 20 g. thereof
+with benzene in the presence of anhydrous aluminum chloride, 15 g. of
+1-phenethyl-4,4-diphenylpiperidine base are obtained. On adding ether saturated
+with hydrogen chloride to its acetic acid ethyl ester solution, the crystalline
+hydrochloride precipitates. After recrystallization from isopropanol, the
+hydrochloride melts at 202.degree. to 204.degree. C.
+
+EXAMPLE 6
+
+1-Isopropyl-4-phenyl-4-(p-tolyl)piperidine
+
+When proceeding as described in Example 2 but replacing the corresponding
+1-methyl-3-benzoyl-4-hydroxy-4-phenylpiperidine by
+1-isopropyl-3-(p-toluoyl)-4-hydroxy-4-(p-tolyl)piperidine and reacting 20 g.
+thereof with benzene in the presence of 30 g. of aluminum chloride, 17 g. of the
+hydrochloride of 1-isopropyl-4-phenyl-4-(p-tolyl)piperidine are isolated on
+decomposing the reaction mixture with a mixture of ice and hydrochloric acid.
+After recrystallization from isopropanol, the hydrochloride is obtained in
+colorless leaflets of the melting point 271.degree. to 273.degree. C.
+
+EXAMPLE 7
+
+1-(3-Methoxypropyl)-4,4-diphenylpiperidine
+
+30 g. of 1-(3-methoxypropyl)-3-benzoyl-4-hydroxy-4-phenylpiperidine are
+suspended in 225 ml. of anhydrous benzene. 50 g. of finely pulverized, anhydrous
+aluminum chloride are added thereto within 20 minutes, while stirring. The
+reaction temperature increases during said addition up to 60.degree. C. The
+reaction mixture is then kept at from 50.degree. to 55.degree. C. for about 1
+hour, is cooled to room temperature, and is added to a mixture of ice and
+concentrated hydrochloric acid. The benzene layer is separated from the aqueous
+layer by means of a separating funnel and is washed once with dilute
+hydrochloric acid. The combined aqueous layers are rendered alkaline by the
+addition of 40% sodium hydroxide solution. The precipitated base is separated by
+repeated extraction with ether. The combined ether extracts are dried over
+anhydrous potassium carbonate and the ether is distilled off. 21 g. of the crude
+base remain as residue. On distillation in a high vacuum, pure
+1-(3-methoxypropyl)-4,4-diphenylpiperidine is obtained in the form of a light
+oil boiling at 130.degree. C./0.01 mm. Hg.
+
+The crystalline fumaric acid salt of said base is obtained by the addition of
+the calculated amount of fumaric acid to the solution of the base in
+isopropanol. After recrystallization from isopropanol, the fumaric acid salt
+melts at 189.degree. to 190.degree. C.
+
+EXAMPLE 8
+
+1-(1-Phenyl-2-propyl)-4,4-diphenylpiperidine
+
+When proceeding as described in Example 2 but replacing the corresponding
+1-methyl-3-benzoyl-4-hydroxy-4-phenylpiperidine by 1-(1-phenyl-2-propyl)-3-
+benzoyl-4-hydroxy-4-phenylpiperidine and reacting 20 g. thereof with benzene in
+the presence of anhydrous aluminum chloride, 1-(1-phenyl-2-propyl)-4,4-
+diphenylpiperidine hydrochloride is isolated on decomposing the reaction mixture
+with a mixture of ice and concentrated hydrochloric acid. The yield of the crude
+hydrochloride amounts to 16 g. After recrystallization from isopropanol, its
+melting point is 172.degree. to 174.degree. C.
+
+EXAMPLE 9
+
+1-(2-Hydroxyethyl)-4,4-diphenylpiperidine
+
+When proceeding as described in Example 2 but replacing the corresponding
+1-methyl-3-benzoyl-4-hydroxy-4-phenylpiperidine by
+1-(2-hydroxyethyl)-3-benzoyl-4-hydroxy-4-phenylpiperidine and reacting 20 g.
+thereof with benzene in the presence of anhydrous aluminum chloride, 10 g. of
+1-(2-hydroxyethyl)-4,4-diphenylpiperidine base boiling at from 160.degree. to
+167.degree. C./0.01 mm. Hg are obtained. The hydrochloride obtained from the
+isopropanol solution of said base has a melting point of 219.degree. to
+221.degree. C.
+
+EXAMPLE 10
+
+1-Benzyl-4,4-diphenylpiperidine
+
+When proceeding as described in Example 2 but replacing the corresponding
+1-methyl-3-benzoyl-4-hydroxy-4-phenylpiperidine by
+1-benzyl-3-benzoyl-4-hydroxy-4-phenylpiperidine and reacting 20 g. thereof with
+benzene in the presence of anhydrous aluminum chloride and decomposing the
+reaction product with a mixture of ice and hydrochloric acid, 14 g. of the
+hydrochloride of 1-benzyl-4,4-diphenylpiperidine are isolated in crystalline
+form. After recrystallization from isopropanol, the hydrochloride melts at
+239.degree. C.
+
+EXAMPLE 11
+
+1-(2-Phenoxyethyl)-4,4-diphenylpiperidine
+
+When proceeding as described in Example 2 but replacing the corresponding
+1-methyl-3-benzoyl-4-hydroxy-4-phenylpiperidine by 1-(2-phenoxyethyl)-3-
+benzoyl-4-hydroxy-4-phenylpiperidine and reacting 20 g. thereof with benzene in
+the presence of anhydrous aluminum chloride, 13 g. of 1-(2-phenoxyethyl)-
+4,4-diphenylpiperidine are obtained. Its boiling point is 145.degree. C./0.01
+mm. Hg. The compound yields a fumaric acid salt melting at 199.5.degree. C.
+
+The starting materials of the formulae II or IIa are dissolved or suspended in
+an aromatic hydrocarbon having the formula ##STR7## wherein R.sub.3 has its
+above-ascribed meaning. In the preferred embodiment anhydrous benzene or toluene
+is used as the aromatic hydrocarbon. The Friedel-Crafts catalyst, preferably
+anhydrous aluminum chloride or ferric chloride, or another Lewis acid, such as
+antimony pentachloride, tin tetrachloride or zinc chloride, is used in at least
+stoichiometric amounts in relation to compounds II and IIa, e.g. in a molar
+ratio of catalyst: II or IIa of from about 6:1 to 2:1, preferably of from about
+5:1 to 4:1, whereas the aromatic hydrocarbon having the formula ##STR8## wherein
+R.sub.3 has its above-ascribed meanings, has two functions: it serves as a
+reactant and its stoichiometric excess serves as solvent or suspending medium in
+which the reaction proceeds.
+
+The reaction is preferably carried out while cooling or at an elevated
+temperature, preferably at temperatures between 0.degree. C. and 120.degree. C.,
+in particular between 25.degree. and 75.degree. C., or at the boiling
+temperature of the solvent or of the suspension.
+
+Usually, the Friedel-Crafts-type catalyst is added to the reaction mixture at
+room temperature. Thereby, the temperature of the mixture increases as the
+reaction proceeds. The condensation is completed by continuing heating the
+mixture, for example on a water bath, for a short period of time. The reaction
+product, which is a complex of the catalyst and the final product of formula I,
+Ia or I*, is readily decomposed by pouring the reaction mixture into a mixture
+of ice water and concentrated acid, e.g. hydrochloric acid or sulfuric acid. On
+addition of the acid the compounds of formula I, Ia or I* can be isolated in the
+form of their acid-addition salts, which are readily crystallized from polar
+solvents, e.g., acetic acid alkyl esters, lower alkanols, ethers or ketones. The
+acid-addition salt is converted into the corresponding free base of formula I,
+Ia or I* by rendering alkaline an aqueous acid solution containing I, Ia or I*
+by the addition thereto of an aqueous alkaline solution, whereby the mixture is
+cooled. The alkalized mixture can be extracted with ether. The ether extracts
+contain the 4,4-diarylpiperidine base and are dried over known drying agents or
+desiccants. By evaporation of the ether the crude base is obtained as a residue
+which is purified by distillation or by recrystallization, e.g., from aqueous
+dimethylformamide, lower alkanols or ketones.
+
+The acid-addition salts of the 4,4-diphenylpiperidine compounds of formula I are
+produced by methods known to the art, for instance, by dissolving the base in a
+suitable solvent wherein the respective salt is insoluble and adding thereto the
+corresponding acid which may also be dissolved in a suitable solvent. The
+hydrochloride can be obtained directly by decomposing the reaction product,
+obtained by proceeding as described hereinabove, with ice water-hydrochloric
+acid. Of course, not only acid-addition salts with inorganic acids, such as the
+hydrochlorides, hydrobromides, sulfates, nitrates, phosphates, and others, can
+be produced but also acid-addition salts with organic acids, such as the salts
+with acetic acid, propionic acid, and other alkanoic acids, maleic acid, fumaric
+acid, lactic acid, citric acid, malic acid, tartaric acic, succinic acid,
+glycine, alanine and other amino acids, benzoic acid, salicyclic acid, phthalic
+acid, furoic acid, nicotinic acid, isonicotinic acid, and others. The preferred
+acid addition salts are, of course, those salts which are substantially
+non-toxic and pharmaceutically acceptable in amounts administered.
+
+Said stimulating effect manifests itself by increased attentiveness, alertness,
+and vigilance without causing locomotory activity accompanied by restlessness
+and without inducing aggressiveness. The central nervous system (CNS)
+stimulating 4,4-diphenylpiperidines of formulae I, I*, Ia through Ie and their
+therapeutically-acceptable acid-addition salts thus possess considerable
+advantages over the heretofore known and used central nervous system stimulating
+agents of the amphetamine type. In contrast to said amphetamine-type compounds
+the compounds of formulae I, I*, Ia through Ie do not cause a pronounced
+increase in blood pressure nor general stimulation of the sympathetic nervous
+system. Due to these pharmacological properties the compounds have proved of
+value in therapy for all indications in which stimulation of the central nervous
+system is required, such as in the treatment of chronic fatigue, depressions
+especially in certain psychotic, senile, and psychoneurotic patients, obesity,
+and others. Therefore the compounds of formulae I, I*, Ia through Ie and their
+pharmacologically-compatible salts with organic or inorganic acids are useful as
+medicaments; furthermore the compounds of formula Ib are valuable intermediates
+for the preparation of compounds of formulae Ic, Id and Ie.
+
+It has been found, that the CNS stimulating compounds of the invention, while
+exhibiting similar stimulation of the central nervous system as the addicting
+drugs, do not cause habituation, tolerance and hence do not lead to
+drug-addiction. On repeated daily chronic administration of the same dose of the
+new substances to mice, rats and dogs, the same degree of stimulation has been
+reproduced. The animals tested did not develop habituation or tolerance as a
+consequence of repeated administration. Disruption of a continuous treatment
+over more than ten days did not provoke the appearance of withdrawal symptoms.
+
+
+"To be the sum of all parts, in one place, at one time" - Andrew Graybeal
+
+-------------------------------------------------------------------------------
+

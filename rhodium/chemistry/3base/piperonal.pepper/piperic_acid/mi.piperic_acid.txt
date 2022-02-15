@@ -1,0 +1,65 @@
+THE MERCK INDEX on CD-ROM / Version 12:3 / 1999
+===============================================
+
+Monograph number:  7620.
+
+Title: Piperic Acid.
+
+CAS Registry number: [5285-18-7]
+CAS name(s): 5-(1,3-Benzodioxol-5-yl)-2,4-penta dienoic acid; 
+   5-(3,4-methylenedioxyphenyl)-2,4-pentadienoic acid.
+Molecular formula: C12H10O4 ;
+Molecular weight: 218.21.
+Percent Composition: C 66.05%, H 4.62%, O 29.33%.
+
+Literature references: Early literature treats the title compound without 
+   specifying stereochemistry; however, four isomers exist: piperinic acid 
+   (E,E); isochavicinic acid (E,Z); isopiperinic acid (Z,E); chavicinic acid 
+   (Z,Z). Physical constants given in early references for piperic acid agree 
+   with those of piperinic acid. See Beilstein 19, 281; suppl. II, 300. 
+   Synthesis of (E,E)- form: L. von Babo, E. Keller, J. Prakt. Chem. 72, 53 
+   (1857); A. Ladenburg, M. Sholtz, Ber. 27, 2958 (1894); of (E,Z)- form: H. 
+   Lohaus, H. Gall, Ann. 517, 278 (1935); of (Z,E)- form: E. Ott, F. Eichler, 
+   Ber. 55, 2653 (1922); of (Z,Z)- form: idem, loc. cit.; H. Lohaus, H. Gall, 
+   loc. cit.; of all isomers: R. Grewe et al., Ber. 103, 3752 (1970); R. De 
+   Cleyn, A. Verzele, Bull. Soc. Chim. Belg. 81, 529 (1972).
+
+Derivative:  (E,E)- Form,
+CAS Registry: [136-72-1]
+Additional name(s): piperinic acid, piperinsaumlure (German).
+Properties: Nee dles from alc. Colorless when freshly prepd, rapidly turns 
+   yellow on exposure to light. mp 216-217° . Sublimes as yellow needles with 
+   partial decompn. uv max (methanol): 340 nm (epsi 28800) . Sol in 50 parts 
+   boiling alcohol, 275 parts abs alcohol at 25°. Practically insol in water, 
+   ether, benzene, carbon disulfide.
+Melting Point: 216-217°
+UV Maxima: 340
+
+Derivative:  (E,Z)- Form,
+CAS Registry: [495-87-4]
+Additional name(s): isochavicinic acid.
+Properties: Yellow crystals from methanol/water, sublimes as needles. mp 
+   134-136° (Lo haus, Gall); 143° (Grewe) . uv max (methanol): 335 nm (epsi 
+   14500) . Sol in methanol, benzene.
+Melting Point: 134-136° (Lo haus, Gall); 143° (Grewe)
+UV Maxima: 335
+
+Derivative:  (Z,E)- Form,
+CAS Registry: [495-88-5]
+Additional name(s): isopiperinic acid.
+Properties: Needles from benzene. mp 145° (Ott, Eichler); 153° (Grewe); 138° 
+   (DeCleyn, Verzele) . uv max (methanol): 328 nm (epsi 22000) . Sol in 
+   benzene.
+Melting Point: 145° (Ott, Eichler); 153° (Grewe); 138° (DeCleyn, Verzele)
+UV Maxima: 328
+
+Derivative:  (Z,Z)- Form,
+CAS Registry: [495-89-6]
+Additional name(s): chavicinic acid.
+Properties: Amorphous yellow granules from benzene. Wide disparities in mp 
+   have been reported: 200-202° (Ott, Eichler); 130° (Grewe); 120° (De Cleyn, 
+   Verzele) . uv max (methanol): 335 nm (epsi 17500) . 0.55 g sol in 16 g 
+   boiling 95% alcohol, and in 65 g boiling benzene.
+Melting Point: have been reported: 200-202° (Ott, Eichler); 130° (Grewe); 120° 
+   (De Cleyn, Verzele)
+UV Maxima: 335

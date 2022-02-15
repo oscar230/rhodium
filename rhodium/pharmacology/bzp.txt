@@ -1,0 +1,1044 @@
+================================================================================
+       Notes on the chemistry and pharmacology of 1-Benzylpiperazine (BzP)
+================================================================================
+
+Note: BzP is also known as "A2", from it's alternative chemical name
+      1-Benzyl-1,4-DIAZAcyclohexane.
+
+================================================================================
+
+From: LupusYonderboy <larryw@west.net>
+Subject: 1-Benzylpiperazine, Piberaline, Fipexide and related compounds
+Date: Tue, 17 Jun 1997 11:21:51 -0700
+
+1-Benzylpiperazine
+
+1-Benzylpiperazine is a CNS stimulant.  In doses around 20-100 mg it
+produces euphoria, wakefullness, improved vigilance.  The ratio of
+centeral/peripheral effects is roughly  that of d-amphetamine.  The
+duration of action is 6-8 hours.
+
+Benzylpiperazine, like the amphetamines triggering the release of dopamine
+and norepinephine as opposed to blocking their re-uptake as do cocaine,
+amfonelic acid, and methylphenidate.
+
+Studies using known amphetamine/methamphetamine addicts showed that 100mg
+was not distinguishable from 7.5 mg of d-amphetamine.
+They also noted that lower doses were not detected by the subjects.
+
+Piberaline
+
+Piberaline is 1-benzyl-4-picolonyl-piperazine; the picolonic acid amide of
+BZP and is metabolised to BZP.  It has been researched as an antidepressant.
+
+1-Piperonylpiperazine
+
+Piperonylpiperazine also referred to as 1-(3,4-methylenedioxy)-benzyl-
+piperazine (MDBPZ) shares the same substiutions on the benzene ring as
+methylenedioxyamphetamine (MDA).  I do not know of any referrence to MDA
+like activity.  There are animal studies indicating that it blocks the
+putative neurotoxic effects of MDMA and possibly the enactogenic effects as
+well.
+
+If it has MDA like effects they might not occur in reasonable doses.
+BZP is ~1/10 the potency of d-amphetamine. If piperonylpiperazine has a
+similar drop in potency that would put the dose in the 1000mg range. Then
+again speculation based on structural relationship to activity is
+notoriously unreliable.
+
+Fipexide
+
+Fipexide is a nootropic sold under the brand name Vigilor.  Originally
+marketed towards the geriatric patient it has become one of the growing
+number of drugs used as cognitive enhancers.
+
+Interestingly it is the p-chlorophenylacetamide of piperonylpierazine
+(MDBZP) and is converted to MDBZP in vivo.  It is availiable from mail
+order pharmacies specializing in smart drugs. Anyone with experience with
+Fipexide is encouraged to share their knowledge.
+
+Other BenzylPiperazine Derivatives
+
+1-Benzyl-4-diphenylmethylpiperazine exibits cerebral vasodialating
+properties, many analogs have been synthesised.  The 3,4,5 trimethoxy being
+the most potent if I recall.  There are phosphonate derivatives that are Ca
+channel blockers.
+
+================================================================================
+
+One might also wish to check out: Sury and Hoffmann (1954) Uber
+alkyleniminderivate. Piperidin-derivate mit zentralerregender wirkung I,
+Helv. Chim. Acta. 37:2133-2145.
+
+================================================================================
+
+CAS No's:
+
+[2759-28-6]  1-benzylpiperazine
+[72878-35-4] 1-benzylpiperazine HCl
+
+================================================================================
+
+As a matter of fact I HAVE had  experience with this chemical/drug.
+I made it myself from benzyl chloride and a mixture of piperazine-6H2O/
+piperazine-HCl-2H2O (That I made from livestock wormer!!!). I have and
+Organic Syntheses reference around here somewhere.
+
+Frankly, I didn't like it very much. It _was_ a stimulant, but it caused
+some jaw clenching and nervous tics (I couldn't stop playing with my
+goatee. I mean I REALLY couldn't stop!).
+
+It has what I would call a "serotonin component". I do't think explaining
+that term in depth would be in the scope of this group. It's just not
+exactly like amphetamines qualittatively. I also can not confirm whether
+or not I had formed any dibenzylpiperazine, but the ref for the synth
+said that the purity would be high. (That's why the salt system mentioned
+is used.) That compound has a pharmacology all it's own. It would be
+something of an antihistamine /maybe/.
+
+Something tells me that ring substitution might produce interesting
+compounds maybe like MDMA. Putting some sort of small aliphatic
+group on the benzyl carbon might be interesting too.
+
+A final note. I'm also not sure of my dosage. I /think/ Iit was a range
+of 75-250 mg. 75 producing little effect and 250 feeling yucky.
+
+
+Anthony
+
+
+================================================================================
+
+Here is a quote from a letter from a resercher who is using TFMPP and
+BZP HCl in his studies:
+
+"Benzylpiperazine Hydrochloride (BZP HCl) simulates methamphetamine use
+in lab animals.  It is a strong anorexic.  Anorexic capacity is
+frequently equated with euphoriant capacity...  My observations show
+this correlation to be true.
+
+3-Trifluoromethylphenylpiperazine Monohydrochloride (TFMPP), mimics MDMA
+in lab animals.  A combination of BZP HCl and TFMPP has been observed to
+cause activity that is prefered to MDMA in chemical discrimination tests
+with lab animals.
+
+A ratio of 2 parts BZP HCl to 1 part TFMPP was used for these chemical
+descrimination tests.  Larger laboratory primates were given 200 mg. of
+BZP HCl mixed with 100 mg. of TFMPP.  Observed activity appeared to last
+from 6 to 10 hours.  There was an increased sociability observed in all
+animals given this preparation.
+
+Loss of apetite was observed both in the BZP HCl only group and the BZP
+HCL and TFMPP (2:1) group."
+
+================================================================================
+
+I have read that benzyl piperazine is an active stimulant
+similiar in properties to amphetamines in a dosage of 20-100 mg.
+I have read this in PIHKAL by our good friend Dr. Shulgin.  I
+seem to recall his reaction to make "E" entry number 72.  Is it
+not possible that reacting p-methoxyphenol with fromyl
+piperazine as a 40% solution with a 40% solution of formaldehyde
+heated on steam bath would yield a substituted benzlpiperazine
+just requiring the conversion of the hydroxy group to a methyl
+ether and the addition of a bromine in the benzenes fourth
+position as well as removal of the formyl group.  Sounds good so
+far but how to make the methyl ether from the hydroxyl- I tend
+to think that a alkali hydroxide and alkyl halide may work but
+by products would be high in terms of the quarternary ammonium
+halides formation.  If there was maybe a way to convert the
+quarternary ammonium halide back to a three degree amine.
+Another possible route maybe is to use methyl sulfate and
+hydroxide or carbonate.  Or possibly the diazomethane reaction
+but how would a formyl or if removed a two degree amine
+react-would it?  A layer of ether could hold the substituted
+benzylpiperazine and the aqeous layer hold the precursors to the
+diazomethane.  One last question how would one concentrate the
+reactants so that poly piperazinomethylation does not occur in
+the other opn ortho position of the phenol?  I think much might
+be discovered by delving into various analogs of
+benzylpiperazines.  I would greatly appreciate input from my
+fellow experimental innovators of hypothetical chemistry.
+
+Thanks in advance
+                 cornbred
+
+================================================================================
+
+MDA piperazine derivative
+
+Author: Sub Human <Misfit@netreach.net>
+Date: 1996/08/13
+Forums: alt.drugs.chemistry
+
+Did anybody catch the comment in Shulgins book about the amphetamine
+like properties Benzyl Piperazine posseses?  I even think he said
+something about the possibility of 3,4 methylenedioxy benzylpiperazine
+having MDA like qualities.  Well heres a brief skeleton of a synthesis I
+worked out for this intriguing molecule.
+
+First off if you can get ahold of piperonal then great, but most people
+can't. So we'll start from a more basic building block- isosafrole.
+This is oxidized with Na2Cr2O7/H2SO4 as gunther directs in his essential
+oils volumes to yield 80% piperonal as the bisulphite complex.  The
+solid bisulphite complex is boiled with sodium carbonate to give a good
+yield of pure piperonal(3,4 methylenedioxy benzaldehyde).  This aldehyde
+is reacted with formaldehyde and KOH to give a 70% yield of the benzyl
+alcohol as illustrated in Org. Syn. Coll. Vol. 2 .  The alcohol is then
+chlorinated with thionyl chloride to yield 3,4 methylenedioxy
+benzylchloride.  This is reacted with 2 moles of piperazine (DOES ANYONE
+KNOW HOW WATCHED THIS CHEM. IS?) as directed in org syn vol 5 to give a
+high yield of 3,4 methylenedioxy benzylpiperazine.
+
+Any comments on this one?
+
+================================================================================
+
+Subject: 1-Benzylpiperazine HCL
+Author: Soma <soma@kantana.com>
+Date: 1997/07/31
+Forums: alt.drugs.chemistry
+
+        Has anyone tried this conversion of 1-Benzylpiperazine to 1-
+Benzylpiperazine HCL ? Does it work. What is the dosage? Also i've been
+told that it should be ingested, not snorted or injected. Is this true?
+This is a synth ive seen.
+
+1.) To 35.25 grams of  benzyl piperazine add 99% Isopropyl alcohol to
+    make 200ml. of solution.
+2.) Make a separate solution containing 250 ml of chilled acetone and
+    35 ml of concentrated Hydrochloric acid added slowly.  After making
+    this 285 ml of solution, add another 115ml of acetone to make 400ml
+    of this solution.
+3.) Slowly add 200ml of the acetone/HCl solution to the
+    benzylpiperazine solution.
+4.) Evaporate.
+
+        Any comments?
+
+================================================================================
+
+> assuming a fictional character purchased bzp (as 55 gm of a liquid), what
+> would be the best way to partake, could a non-chemist convert this  into a
+> crystalline form?
+
+This is easy, and can be done by anybody.
+
+Place 20 grams of liquid benzylpiperazine in a 500 ml glass beaker
+(no plastic!) and add 100 ml 99% anhydrous isopropylalcohol or methanol,
+and give it a good stir. Next add 15 ml of hardware store hydrochloric
+acid (muriatic acid) of 30-31% strength, and stir the solution again until
+it is thorougly mixed. Now, while stirring, add 250 ml of acetone in 50 ml
+portions. Now white benzylpiperazine hydrochloride crystals will form in
+the solution. Let the mixture stand in the refrigerator for an hour, break
+up any lumps of crystals that may have formed, and filter them off with
+a coffee filter and let the crystals completely dry in the air.
+
+================================================================================
+
+Benzylpiperazine
+Author: Anonymous <nobody@REPLAY.COM>
+Date: 1997/05/01
+Forums: alt.drugs.chemistry
+
+Benzylpiperazine, N-Benzylpiperazine 1-Benzylpiperazine
+CAS no. 2759-28-6
+
+    H
+    N
+   / \
+  |   |
+   \ /
+    N
+    |
+    CH2
+    |
+   / \
+  | O |
+   \ /
+
+Appearance colourles or yellow oil. Air sensitive moisture sensitive.
+Potential Health Effects:
+
+Eye: Contact with eyes may cause severe irritation, and possible eye burns.
+Skin: May cause severe irritation and possible burns.
+Ingestion: Not available.
+Inhalation: May cause severe irritation of the respiratory tract with sore
+	      throat, coughing, shortness of breath and delayed lung edema.
+            Causes chemical burns to the respiratory tract.
+Chronic: Not available.
+
+This was taken from its MSDS, I don't have van nostrand's Hazardous Properties
+of Industrial Materials here that should have more info. Sounds nice and
+apetising doesn't it....This is the same stuff that Shulgin talks about in
+Pihkal. I'm no pharmacologist, if you want the pharmacology... people you've
+got the cas number, one of you students with free stn access can go and do a
+search with STN. I guess its somewhat like phenylpiperazine with 5HT1a affinity.
+Benzylpiperazine is also probably a powerful antihemintic like its parent,
+piperazine, so you might not get off but...
+
+================================================================================
+
+Here is the information regarding 1-benzylpiperazine also known as
+N-benzylpiperazine.  The benzylpiperazine currently availiable from CRSB is the
+chemical discussed in PHIKAL.   It is sold as  the free base which is caustic
+and unstable.  It forms a really pretty dicarbonate on standing in open air.
+The dihydrochloride is fine with to off white crystals.
+
+Here is the quote from PIHKAL:
+
+There is a benzyl amine that is a pure stimulant, which has been closely
+compared to amphetamine in its action This is benzylpiperazine, a base that is
+active in the 20 to 100 milligram range, but which has an acceptability similar
+to amphetamine. If this is a valid stimulant, I think that much magic might be
+found in and around compounds such as (1) the MDMA analogue, N-(3,4-methylene-
+dioxybenzyl)piperazine (or its counterpart N-(3,4-methylenedioxybenzyl)-N'-
+methylpiperazine) or (2) the DOM analogue, 2,5-dimethoxy-4-methylbenzylpiperazine.
+
+================================================================================
+
+MukiBear, Personal BzP notes:
+
+Got my first taste of BzP 'bout two weeks ago - the freebase form.
+Started out with 100 mgs, now up to about 200 mgs per dose.
+
+First some questions. One supplier offers BzP freebase liquid, 97%.Well, 3%
+what? One would assume H2O or EtOH, just to keep the stuff liquid, but it'd be
+nice to know. Also, has anyone tried snorting the carbonate salt (what forms
+when you just let it dry out)? Personally, I hate snorting anything and wouldn't
+try it, but others have different tastes. Lastly, after a week of daily use, I
+developed a mild bladder infection, which cleared up immediately with
+antibiotics. Another test subject also noticed some similar irritation. Not to
+get too physical, but frequent urination seems to be an effect of the drug, and
+I was wondering if anyone else had noticed anything similar...
+
+Okay, time for ratings and reviews.
+
+Mvua (ie, MukiBear) gives straight BzP 4 outta 5 for recreational purposes,
+better than Bontril/phendimetrazine/doctor-speed, *way* better than street-
+crank, not quite as good as real ice. Other subjects agree. On the Shulgin
+psychospiritual scale, though, it's a flat zero, no value at all.
+
+[MukiBear now disagrees - BzP is the best meditation aide this Bear has ever
+encountered - sure beats the hell out of green tea]
+
+100 mgs BzP + 1.5 mls 1,4 BDO:
+5 outta 5. The G just takes the edge off the speed, and it *rocks* to be on G
+and not be at all sleepy. Still zero on Shulgin scale.
+
+150 mgs BzP + several oz EtOH:
+I normally hate alcohol, but speed makes me crave drink. Again, 5 outta 5 -
+drunk without being sloppy, *very* fun to socialize, etc. Shulgin zero.
+
+50 mgs BzP + 500 mgs DXM +1 mg Xanax:
+3 outta 5, recreational, +1 on Shulgin. Mostly just weird and kinda scary.
+It's very ODD to have focus on DXM, and not altogether pleasant. Had hoped
+for something like DXM + MDA, but no dice.
+
+150 mgs BzP + 500 mgs DXM + 1 mg Xanax + MJ:
+Fuckin' rocks! 5/5 recreational, ++ Shulgin. Very interesting and well worth
+repeating - must try taking BzP after hitting 2nd or 3rd plateau. Strangely
+powerful - I couldn't drive at all (2nd plateau is usually no problem).
+
+150 mgs BzP + 10 mg hydrocodone:
+Yeah, I know it's not safe, Belushi-bullshit, but it's fun as hell. Lortab is
+a stimulant for confirmed junkies, and this combo made me jump around like a
+jackrabbit on cocaine. In deference to my ancestors: yeeeee-haw! 5/5, 0 Shulgin.
+
+================================================================================
+
+
+N-BENZYLPIPERAZINE (BZP)
+
+A Benzyl Amine, A CNS Stimulant.
+
+I've received a fair amount of correspondance regarding BZP recently.
+The central issues seem to be:
+
+   * "Is Shulgin refering to N-Benzylpiperazine?"
+   * "Is it an amphetamine like CNS stimulant?"
+
+Both are true.  BPZ is about one tenth the potency of dextroamphetamine
+but in comparable doses subjectively the same.
+
+In the PHIKAL, within the commentary on phenethylamine, Shulgin took the
+oppotunity to discuss two related classes compounds.
+
+     Benzyl amines- compounds where the benzene ring is connected to the
+     amine nitrogen by one carbon
+
+     Phenyl amines- compounds where the benzene ring is connected to the
+     amine nitrogen directly.
+
+One benzyl amine he states is an amphetamine like CNS stimulant.  His
+exact words were
+
+     "There is a benzyl amine that is a pure stimulant, which has been
+     closely compared to amphetamine in its action This is
+     benzylpiperazine,
+     a base that is active in the 20 to 100 milligram range, but which
+     has an
+     acceptability similar to amphetamine.
+
+Dirk deGroeten pointed out, quite correctly that there is more than one
+posible benzylpiperazine stating:
+
+     "How can you be sure that Shulgin isn't talking about
+     2-benzylpiperazine, which in structure is much closer to
+     amphetamine ?"
+
+I responded that I concluded that Shulgin was indeed refering to the
+N-benzylpiperazine.  If he were refering to the 2-benzylpiperzine it
+would not be a benzylamine.  Further when addressing the MDMA analog he
+did specify (N-(3,4-methylenedioxy)piperazine).  None the less, I had
+very little information on benzylpiperazine (BZP) and it sounded
+interesting.
+
+The following abstracts concure.  I would be fascinated to know if the
+3.4 methylenedioxy analog or the 4Me 2,5DiMeO BPZ  had CNS activity
+related to their phenethylamine/phenisopropylamine counterparts.
+
+Here are a few abstracts I ran across:
+
+------------------------------------------------------------------------
+
+Title:  A comparison of the effects of 1-benzylpiperazine and
+	  dexamphetamine on performance tests. Comparison of the effects
+        of dexamphetamine and 1-benzylpiperazine in former addicts.
+Author: Bye C.; Munro Faure A.D.; Peck A.W.; Young P.A.
+Publ:   EUR.J.CLIN.PHARMACOL., (1973) 6/3 (163-169).
+
+The subjective, behavioural and autonomic effects of dexamphetamine
+10 mg, 1 benzylpiperazine 100 mg and lactose dummy were compared in a
+group of 18 former amphetamine addicts. All subjects received the three
+preparations according to a balanced design under double blind
+conditions. 1-Benzylpiperazine and dexamphetamine produced
+indistinguishable subjective effects and both were liked. The effects
+of both compounds differed significantly from the effects following the
+dummy preparation. Increases in pulse rate and both systolic and
+diastolic blood pressure were similar following the two active
+compounds, but 1 benzylpiperazine produced pupillary dilation whereas
+no significant change in pupil size followed dummy or dexamphetamine.
+It was concluded that 1 benzylpiperazine is a compound liable to abuse
+by an addict population, and that this type of study might be of value
+in predicting abuse liability of other new drugs.
+
+------------------------------------------------------------------------
+
+Title:  Benzylpiperazine Derivatives. I. Syntheses and Biological
+	  Activities of 1-(2,3,4-Trimethoxy Benzyl)Piperazine Derivatives
+Author: Ohtaka H; Miyake M; Kanazawa T; Ito K; Tsukamoto G
+Publ:   Chem.Pharm.Bull. (35, No. 7, 2274-81, 1987)
+
+A series of 1-(2,3,4-trimethoxy benzyl)piperazine derivatives (3-6) was
+prepared and almost all were found to possess stronger activity than
+trimetazidine when tested for cerebral vasodilating activity, by
+measuring the ratio of the maximum change of blood flow in vertebral
+arteries after i.v. administration of the test compound (1 mg/kg) to
+that of papaverine (1 mg/kg) in mongrel dogs (11-18 kg). (6 e-j) Were
+more active than cinnarizine and papaverine, and (6e) was shown to
+exhibit a selective effect on vertebral arteries.
+
+------------------------------------------------------------------------
+
+Title: Synthesis and some CNS activities of new benzofuranylacryloyl-
+	 piperazines.
+Publ:  Eur.J.Med.Chem. (30, No. 1, 53-59, 1995) 1 Tab. 29
+
+Among a series of novel compounds (cmpds) including 7a-7s (all (E)-4-
+(3-(2-benzofuranyl) acryloyl)-1-R-piperazines HCl), 12((E)-4-cinnamoyl-
+1-benzylpiperazine HCl and 13 ((E + Z)-4-(3-(3-2H-chromenyl) acryloyl)-
+1-benzylpiperazine HCl), only the non-substituted phenyl (7a, i.p.)
+showed good antidepressant activity vs. tetrabenazine-induced palpebral
+ptosis in mice. The 3,4-methylenedioxy- disubstituted cmpd 7i had
+similar anticonvulsant activity vs. maximal electroshock seizures (MES)
+to cmpd 7h. Among cmpds substituted at the 5 position of the benzofuran
+ring, only the methoxy cmpd 7n was more active than 7h and had best
+overall pharmacological activity. The 6-methoxy derivative 7o showed
+similar anticonvulsant activity to 7n but was slightly more toxic.
+Befuraline, imipramine and carbamazepine were reference drugs.
+
+LupusYonderboy, Doctor of the poison path
+
+================================================================================
+
+Stimulus properties of antidepressants in the rat.
+
+Source: Psychopharmacology (Berl), 1980 Feb, 67:2, 111-8
+
+Abstract
+	Various doses of bupropion HCl (Wellbatrin) (5, 10, and 20 mg/kg), a new
+	phenylaminoketone antidepressant, were employed as cues in a two-lever
+	operant discrimination from saline control injections in rats on an FR10
+	schedule of food reinforcement. Subjects reached and maintained a high
+	level of discrimination in the O vs 20 mg/kg bupropion stimulus condition
+	but not at the lower doses. In generalization testing, the following
+	compounds produced dose-related responding on the bupropion lever:
+	viloxazine, nomifensine, caffeine, d-amphetamine, cocaine, methylphenidate,
+	and benzylpiperazine. Drugs that failed to show dose-related generalization
+	included phenethylamine, thyrotropin-releasing hormone, imipramine,
+	nortriptyline, amitriptyline, desipramine, mianserin, chlordiazepoxide,
+	diazepam, scopolamine, phenobarbital, and morphine. With the important
+	exception of viloxazine, the generalization profile of bupropion seems to
+	reflect its previously reported locomotor stimulant effects in the rat
+	rather than its antidepressant activity and suggests that species
+	differences exist between man and rat with regard to the pharmacologic
+	activity of this new antidepressant.
+
+- - - - -
+
+Studies on the biochemical mode of action of EGYT-475, a new antidepressant.
+
+Source: Pol J Pharmacol Pharm, 1987 Mar-Apr, 39:2, 203-11
+
+Abstract
+	We studied the mode of action of N-benzyl-piperazine-picolinylfumarate
+	(EGYT-475) and of its metabolite N-benzyl-piperazine (EGYT-2760) in CFY
+	rats. It was found that EGYT-475 had no uptake-inhibitory effect but
+	EGYT-2760 inhibited the high-affinity uptake of 3H-noradrenaline,
+	3H-dopamine and especially that of 3H-serotonin both in vitro and ex
+	vivo. Neither of the two compounds changed the serotonin turnover. Only
+	EGYT-2760 evoked hyperthermia in rats at a high ambient temperature
+	(28 degrees C). This effect was abolished by cyproheptadine but not by
+	amitriptyline. EGYT-2760 antagonized serotonin-induced contractions of
+	the stomach fundus but it was inactive in inhibiting the serotonin-
+	induced platelet aggregation. Our results suggest that EGYT-2760, an
+	active metabolite of EGYT-475, has a central serotoninomimetic action
+	which involves 5-HT uptake-inhibition and 5-HT1 receptor agonistic effect.
+
+- - - - -
+
+Pharmacokinetic aspects of the mode of action of EGYT-475, a new antidepressant.
+
+Source: Pol J Pharmacol Pharm, 1987 Mar-Apr, 39:2, 107-12
+
+Abstract
+	EGYT-475 (N-benzyl-piperazine-picolinyl fumarate; Trelibet) metabolism was
+	compared in rats, dogs and man. In the rat 7 urinary metabolites of EGYT-475
+      were found, and 4 were identified as: N-picolinyl-piperazine (EGYT-1354)
+	(30%), picolinic acid (28.5%), hippuric acid (53%) and N-benzylpiperazine
+	(EGYPT-2760) (3.7%). The results show that debenzylation is the main route
+	of EGYT-475 metabolism in the rat. By this route EGYT-2760, the active
+	EGYT-475 metabolite, is further metabolized. In the dog the main metabolic
+	pathway is hydrolysis, and because of that the formed EGYT-2760 is not
+	metabolized further and its urinary content exceeds 50%. In man, similarly
+	as in the rat, debenzylation is the preferred route of EGYT-475 metabolism.
+	These results explain much higher toxicity of EGYT-475 in dogs than in rats
+	and man.
+
+================================================================================
+
+Title
+     	Effects of benzylpiperazine derivatives on the neurotoxicity of
+	3,4-methylenedioxymethamphetamine in rat brain.
+Author
+     	Hashimoto K; Maeda H; Goromaru T
+Source
+     	Brain Res, 1992 Sep 11, 590:1-2, 341-4
+Abstract
+     	The neurotoxicity of 3,4-methylenedioxymethamphetamine (MDMA) in rat
+	brain was attenuated significantly by coadministration of several benzyl-
+	piperazines	(p-nitrobenzylpiperazine, p-chlorobenzylpiperazine and
+	1-piperonylpiperazine), which were weak inhibitors for [3H]6-nitro-
+	quipazine binding to the 5-hydroxytryptamine (5-HT) transporter in rat
+	brain. These results suggest that these benzylpiperazines may inhibit the
+	MDMA-induced neurotoxicity by a novel neuropharmacological effect other
+	than 5-HT uptake inhibition.
+
+================================================================================
+
+Title
+     	Effects of benzylpiperazine derivatives on the acute effects of
+	3,4-methylenedioxymethamphetamine in rat brain.
+Author
+     	Hashimoto K
+Source
+     	Neurosci Lett, 1993 Apr 2, 152:1-2, 17-20
+Abstract
+     	The reduction of 5-hydroxytryptamine (5-HT) in rat brain 3 h after
+	administration of 3,4-methylenedioxymethamphetamine (MDMA) was attenuated
+     	significantly by coadministration of benzylpiperazine derivatives
+	(p-nitrobenzylpiperazine, p-chlorobenzylpiperazine and 1-piperonyl-
+	piperazine), which were	weak inhibitors of [3H]5-HT uptake into rat brain
+	synaptosomes. However, the coadministration of desipramine and imipramine
+	which were more potent 5-HT uptake inhibitors than these benzyl-
+	piperazines, did not attenuate the reduction of 5-HT by MDMA. These
+	results suggest that these benzylpiperazines might inhibit the acute
+	effects of MDMA by a novel neuropharmacological effect other than 5-HT
+	uptake inhibition.
+
+================================================================================
+
+Title
+     	Comparison of serotonin agonistic and antagonistic activities of a new
+	antidepressant agent Trelibet (EGYT-475) and its metabolite EGYT-2760 on
+	isolated rat fundus.
+Author
+     	Malomvölgyi B; Tóthfalusi L; Tekes K; Magyar K
+Source
+     	Acta Physiol Hung, 1991, 78:3, 201-9
+Abstract
+     	The effects of Trelibet (EGYT-475, N-benzyl-piperazine-picolinyl-fumarate)
+	and its active metabolite (EGYT-2760, N-benzyl-piperazine) on the
+     	serotoninergic responses of rat stomach fundus were investigated and
+	compared with those of MCPP (m-chlorophenyl-piperazine) which is the
+	common metabolite of the arylpiperazine antidepressants Trazodone and
+	Etoperidone. The contraction inhibitory potencies of the agents were
+	determined on the equipotent contractions (EC50) to serotonin (5-HT) and
+	prostaglandin F2 alpha (PGF2 alpha). Isotonic contractile responses to
+	5-HT were not affected by EGYT-475, however, both EGYT-2760 and MCPP
+	produced concentration related and reversible inhibition of the
+	serotoninergic responses. The IC50 values for EGYT-2760 and MCPP were
+	40.5 +/- 7.5 mumol/l and 125 +/- 35 nmol/l, respectively. The inhibition
+	was selective for the serotoninergic responses, as the equipotent
+	responses to PGF2 alpha were not affected. EGYT-2760 and MCPP displayed
+	not only 5-HT antagonistic, but also partial agonistic activities on the
+	rat fundus preparation. Maximum contractile response of the fundus
+	preparation to MCPP was approximately 25%, to EGYT-2760 was 10% of the
+     	maximum response to 5-HT.
+
+================================================================================
+
+From: Tom Kasper <wirehead@sb.net>
+Subject: Methamphetamine and Benzylpiperazine; same mechanism of action
+Date: Fri, 03 Oct 1997 09:51:51 -0700
+
+While chemically dissimilar benzylpiperazine and methamphetamine almost
+indistinguishable subjective effects in humans and as the following
+abstract suggests seem to do so through the same mechanism of action.
+
+Title:  Circling behavior induced by dopamine releasers and/or uptake
+        inhibitors during degeneration of the nigrostriatal pathway
+
+Author:  Oberlander, Claude; Euvrard, Catherine; Dumont, Claude;
+         Boissier, Jacques R.
+Pub:     Eur. J. Pharmacol. (1979), 60(2-3), 163-70
+
+Abstract:
+
+A no. of compds. which induce ipsilateral circling behavior in rats with
+chronic unilateral 6-hydroxydopamine (6-OHDA) destruction of the
+nigrostriatal dopamine (DA) [51-61-6] pathway through their postulated
+DA-releasing and/or uptake-inhibiting properties, were tested 24 h after a
+6-OHDA lesion. Under these conditions, in contrast to chronically lesioned
+animals, d [51-63-8] or l-amphetamine sulfate [51-62-7],
+d-methamphetamine-HCl [51-57-0], and benzylpiperazine-HCl [72878-35-4]
+induced contralateral turns whereas methylphenidate-HCl
+[298-59-9],pipradrol-HCl [71-78-3], dl-p-chloroamphetamine-HCl [3706-38-5],
+mazindol [22232-71-9], HR370 [73068-25-4], nomifensine maleate
+[32795-47-4], benztropine mesylate [132-17-2] still induced ipsilateral
+turns. The monoamine oxidase inhibitor pargyline-HCl [306-07-0] was
+inactive and the DA receptor agonist apomorphine-HCl [314-19-2] induced a
+mild contralateral circling response at high doses only. The contralateral
+circling response to d-amphetamine was hardly antagonized by a high dose of
+dl-.alpha.-Me p-tyrosine Me ester(AMT), and was increased by reserpine.
+Striatal DA levels were increased in the lesioned side and restored to
+normal values after d-amphetamine, in contrast to methylphenidate.
+Ipsilateral turns recorded with chronically lesioned rats were strongly
+decreased by AMT except in the case of p-chloroamphetamine, methylphenidate
+and pipradrol. The response of reserpinized rats was decreased except with
+d-amphetamine and its N-Me deriv. Thus, drugs inducing contralateral turns
+during degeneration of the nigrostriatal DA pathway predominantly release
+newly-synthesized DA independently of nerve impulse flow, whereas
+ipsilateral turns are either triggered by inhibiting of DA uptake or by the
+release of the reserpine-sensitive pool of DA, both on the intact side.
+This last effect may require a normal nerve impulse flow. This method thus
+provides the first direct behavioral evidence of differences in the mode of
+action of drugs interfering presynaptically with DA.
+
+================================================================================
+
+Neuropharmacology of BZP
+
+1-Benzylpiperazine (BZP) has a peripheral sympathomimetic action and a complex central action, both
+directly and indirectly acting upon on all monoamine[1, 2, 3]. There are few experiments investigating
+the nature of BZPs mechanism of action, and they are mainly in vitro, and on peripheral nerves. This
+article attempts to unify the existing research, to extrapolate the results to an in vitro, central
+situation and, in light of recent advances in pharmacology, clarify certain findings.
+
+The action of BZP on the noradrenergic system has two main facets. The first is the action on the a-2
+adrenoreceptor, and the second is on the noradrenergic uptake carrier. The a2-adrenoreceptor is the
+receptor that mediates presynaptic negative feedback, both centrally and peripherally in the adrenergic
+system. BZP has been shown to be an antagonist at the a2-adrenoreceptor[1], thus negating negative
+feedback at the synapse, and causing a larger stimulation evoked release of neurotransmitter. This is the
+same process as yohimbine, though, BZP is some 10,000 times less potent, but possibly just as
+efficacious[1]. These results were found from experimenting on peripheral nerves, not central ones, and
+it is possible that BZP has no a2-antagonist properties in the CNS. I find it likely that BZPs central a2
+action is extremely limited, especially at recreational doses, but even if there is a significant a2-
+receptor blockade, it does not effect the subjective experience, and is more likely to effect things like
+blood pressure. BZP has also been shown to inhibit the reuptake of noradrenaline (NA)[1, 3]. The reuptake
+inhibition is amphetamine-like (a theme you will come to recognize), and hence also causes the
+stimulation independent release of NA[1]. Although the experiments which showed the stimulation
+independent release of NA was done on peripheral nervous tissues, a study has been done to show that
+this action is probably exhibited in central nerves as well[3]. This amphetamine-like reuptake inhibition is
+probably BZPs noradrenergic action of most consequence in the CNS. In the peripheral nervous system,
+the a2-adrenoreceptor blockade is almost certainly responsible for most of the symptoms, as addition of
+clonidine (an a2 receptor agonist) blocks almost all of the effect of BZP in peripheral tissue[1].
+
+The action of BZP on dopaminergic system is probably just restricted to the amphetamine-like reuptake
+inhibition and stimulation independent release of dopamine (DA). BZP has been shown increase the
+concentration of DA in a cell free homogenate of subcortical rat brain, and decrease the amount of DA
+found in cells after 14 days of treatment[3].
+
+The action of BZP on the serotonergic system is the most studied aspect of BZPs action, as one member
+of the team of experimenters that did most of the research into BZP, was an employee of a drug company
+eager to prove the serotoninomimetic action of BZP (as this indicates more action as an antidepressant,
+and less possibility of abuse). Results show that BZP increases the amount of serotonin (5-HT) in the
+extracellular fluid surrounding subcortical neurons and decreases the amount of 5-HT in cells after 14
+days of treatment, indicating that BZP exhibits the now familiar amphetamine-like inhibition of reuptake
+and stimulation independent release of 5-HT[3]. On top of this central and probably peripheral
+amphetamine-like action, BZP seems to be an agonist of the 5-HT2B receptor. The logic behind the
+conclusion that BZP acts as a direct agonist at the 5-HT2B receptor is as follows: When BZP is applied
+to isolated rat stomach, it causes the smooth muscle to contract, and this contraction is blocked by
+methergoline, indicating the process is receptor mediated[2]. This could indicate that BZP is a direct
+5-HT receptor agonist, but it could also be explained by the fact that BZP causes 5-HT to be released
+from nerves. BZP also causes hyperthermia in rats at high ambient temperature an effect blocked by the
+5-HT antagonist cyproheptadine, but not by amitriptyline[3]. Amitriptyline binds to the 5-HT reuptake
+carrier, probably blocking BZPs amphetamine-like action. Seeing that BZP can still exhibit a serotonergic
+action, while the stimulation-independent release of 5-HT is blocked, shows that it must be directly
+activating a 5-HT receptor, and seeing that it causes stomach contraction, which is mediated by the
+5-HT2B receptor, it must be a direct agonist at the 5-HT2B receptor. The potency of BZP at the 5-HT2B
+receptor must be at least 100,000 times less that 5-HT[2], meaning that functionally, it is closer to an
+antagonist than an agonist.
+
+When one compares the contribution of these different neurotransmitter to the pharmacological action
+of BZP it is likely that 5-HT is the major player, as BZP has the highest affinity for the 5-HT reuptake
+carrier (IC50 2.9 x 10-6 mol/L). It is likely that NA and DA play a roughly equal role centrally (reuptake
+carrier IC50 2.8 x 10-5 mol/L and 1.3 x 10-5 mol/L respectively)[3]. Peripherally, NA is the largely
+responsible for BZPs peripheral effects, as NA is the main mediator of the sympathetic nervous system.
+
+The ability for BZP to induce dependance initially looks marked, as it has a pronounced central
+dopaminergic action[3], but if one considers all the factors, this may not be so. Tolerance to BZPs
+central action will develop quickly, as it probably accumulates in synaptic vesicles in the same fashion
+as amphetamine, while tolerance to BZPs peripheral blockade of a2-adrenoreceptors will be limited or
+nonexistent. This will moderate the abuse potential, as if dependence does develop it will occur along
+with central tolerance, and if an individual tries to up the dose of BZP to overcome the tolerance, the
+peripheral effects (mediated by the a2 receptor) would be intolerable.
+
+In summary, BZPs action could be described as somewhere between amphetamine and
+MDMA including a yohimbine like action as well, with limited to moderate abuse potential.
+
+[1] Magyar, K., Fekete, MIK., Tekes, K. and Török, TL.
+The action of trelibet, a new antidepressive agent on [3H]noradrenaline release from rabbit pulmonary artery.
+European Journal of Pharmacology. 130, 219-227, 1986.
+
+[2] Malomvölgyi, B., Tóthfalusi, L., Tekes, K. and Magyar, K.
+Comparison of serotonin agonistic and antagonistic activities of a new antidepressant agent trelibet
+(EGYT-475) and its metabolite EGYT-2760 on isolated rat fundus.
+Acta Physiologica Hungarica, 73), 201-209, 1991.
+
+[3] Tekes, K., László, T., Malomvölgyi, B., Hermán, F. and Magyar, K.
+Studies on the biochemical mode of action of EGYT-475, a new antidepressant.
+Polish Journal of Pharmacology and Pharmacy. 39, 203-211, 1987.
+
+================================================================================
+
+MATERIAL SAFETY DATA SHEET
+
+
+
+1-Benzylpiperazine, 97+%
+32841
+
+
+**** SECTION 1 - CHEMICAL PRODUCT AND COMPANY IDENTIFICATION ****
+
+
+MSDS Name: 1-Benzylpiperazine, 97+%
+
+Company Identification:  Acros Organics N.V.
+                         One Reagent Lane
+                         Fairlawn, NJ  07410
+For information in North America, call:   800-ACROS-01
+For emergencies in the US, call CHEMTREC: 800-424-9300
+
+          **** SECTION 2 - COMPOSITION, INFORMATION ON INGREDIENTS ****
+
++----------------+--------------------------------------+----------+-----------+
+|      CAS#      |              Chemical Name           |    %     |  EINECS#  |
+|----------------|--------------------------------------|----------|-----------|
+|     2759-28-6  |1-Benzylpiperazine, 97%               |          | 220-423-6 |
++----------------+--------------------------------------+----------+-----------+
+          Hazard Symbols: C
+          Risk Phrases: 34
+
+                  **** SECTION 3 - HAZARDS IDENTIFICATION ****
+
+                               EMERGENCY OVERVIEW
+Appearance:  clear colorless to faint yellow.
+Light sensitive. Air sensitive. Moisture sensitive.
+Target Organs: None.
+
+Potential Health Effects
+     Eye:
+          Contact with eyes may cause severe irritation, and possible eye
+          burns.
+     Skin:
+          May cause severe irritation and possible burns.
+     Ingestion:
+          Not available.
+     Inhalation:
+          May cause severe irritation of the respiratory tract with sore
+          throat, coughing, shortness of breath and delayed lung edema. Causes
+          chemical burns to the respiratory tract.
+     Chronic:
+          Not available.
+
+                    **** SECTION 4 - FIRST AID MEASURES ****
+
+     Eyes:
+          Immediately flush eyes with plenty of water for at least 15 minutes,
+          occasionally lifting the upper and lower lids.
+     Skin:
+          Flush skin with plenty of soap and water for at least 15 minutes
+          while removing contaminated clothing and shoes.
+     Ingestion:
+          Do NOT induce vomiting. Allow the victim to rinse his mouth and then
+          to drink 2-4 cupfuls of water, and seek medical advice.
+     Inhalation:
+          Remove from exposure to fresh air immediately.
+     Notes to Physician:
+          Treat symptomatically and supportively.
+
+                  **** SECTION 5 - FIRE FIGHTING MEASURES ****
+
+     General Information:
+          As in any fire, wear a self-contained breathing apparatus in
+          pressure-demand, MSHA/NIOSH (approved or equivalent), and full
+          protective gear.
+     Extinguishing Media:
+          Not available.
+     Autoignition Temperature: Not available.
+     Flash Point: > 112 deg C (> 233.60 deg F)
+     NFPA Rating: Not published.
+     Explosion Limits, Lower: Not available.
+                       Upper: Not available.
+
+                **** SECTION 6 - ACCIDENTAL RELEASE MEASURES ****
+
+     General Information: Use proper personal protective equipment as indicated
+                          in Section 8.
+     Spills/Leaks:
+          Absorb spill with inert material, (e.g., dry sand or earth), then
+          place into a chemical waste container.
+
+                   **** SECTION 7 - HANDLING and STORAGE ****
+
+     Handling:
+          Not available.
+     Storage:
+          Corrosives area.
+
+          **** SECTION 8 - EXPOSURE CONTROLS, PERSONAL PROTECTION ****
+
+     Engineering Controls:
+          Use adequate general or local exhaust ventilation to keep airborne
+          concentrations below the permissible exposure limits.
+
+                                 Exposure Limits
++--------------------+-------------------+-------------------+-----------------+
+|   Chemical Name    |        ACGIH      |       NIOSH       |OSHA - Final PELs|
+|--------------------|-------------------|-------------------|-----------------|
+| 1-Benzylpiperazine,|none listed        |none listed        |none listed      |
+|  97%               |                   |                   |                 |
++--------------------+-------------------+-------------------+-----------------+
+
+     OSHA Vacated PELs:
+          1-Benzylpiperazine, 97%:
+             No OSHA Vacated PELs are listed for this chemical.
+
+     Personal Protective Equipment
+
+                 Eyes:
+                       Wear safety glasses and chemical goggles if splashing
+                       is possible.
+                 Skin:
+                       Wear appropriate protective gloves and clothing to
+                       prevent skin exposure.
+             Clothing:
+                       Wear appropriate protective clothing to minimize
+                       contact with skin.
+          Respirators:
+                       Wear a NIOSH/MSHA or European Standard EN 149
+                       approved full-facepiece airline respirator in the
+                       positive pressure mode with emergency escape
+                       provisions.
+
+             **** SECTION 9 - PHYSICAL AND CHEMICAL PROPERTIES ****
+
+Physical State:             Not available.
+Appearance:                 clear colorless to faint yellow
+Odor:                       None reported.
+pH:                         Not available.
+Vapor Pressure:             Not available.
+Vapor Density:              Not available.
+Evaporation Rate:           Not available.
+Viscosity:                  Not available.
+Boiling Point:              @ 760.00mm Hg
+Freezing/Melting Point:     0 deg C
+Decomposition Temperature:  Not available.
+Solubility:                 Not available.
+Specific Gravity/Density:   1.0140g/cm3
+Molecular Formula:          C11H16N2
+Molecular Weight:           176.26
+
+                 **** SECTION 10 - STABILITY AND REACTIVITY ****
+
+     Chemical Stability:
+          Stable under normal temperatures and pressures.
+     Conditions to Avoid:
+          Not available.
+     Incompatibilities with Other Materials:
+          Strong oxidizing agents - light - air and moisture - strong acids.
+     Hazardous Decomposition Products:
+          Nitrogen oxides, carbon monoxide, carbon dioxide, nitrogen.
+     Hazardous Polymerization: Has not been reported.
+
+                **** SECTION 11 - TOXICOLOGICAL INFORMATION ****
+
+     RTECS#:
+          CAS# 2759-28-6 unlisted.
+     LD50/LC50:
+          Not available.
+     Carcinogenicity:
+       1-Benzylpiperazine, 97% -
+          Not listed by ACGIH, IARC, NIOSH, NTP, or OSHA.
+     Epidemiology:
+          No data available.
+     Teratogenicity:
+          No data available.
+     Reproductive Effects:
+          No data available.
+     Neurotoxicity:
+          No data available.
+     Mutagenicity:
+          No data available.
+     Other Studies:
+          No data available.
+
+                  **** SECTION 12 - ECOLOGICAL INFORMATION ****
+
+     Ecotoxicity:
+          Not available.
+
+                 **** SECTION 13 - DISPOSAL CONSIDERATIONS ****
+
+Dispose of in a manner consistent with federal, state, and local regulations.
+RCRA D-Series Maximum Concentration of Contaminants:
+None listed.
+RCRA D-Series Chronic Toxicity Reference Levels: None
+listed.
+RCRA F-Series: None listed.
+RCRA P-Series: None listed.
+RCRA U-Series: None listed.
+
+                  **** SECTION 14 - TRANSPORT INFORMATION ****
+
+     US DOT
+          Shipping Name: CORROSIVE LIQUID, BASIC, ORGANIC, N.O.S.
+                         (1-BENZYLPIPERAZINE)
+           Hazard Class: 8
+              UN Number: UN3267
+          Packing Group: II
+     IMO
+          Shipping Name: CORROSIVE LIQUID, BASIC, ORGANIC, N.O.S.
+           Hazard Class: 8
+              UN Number: 3267
+          Packing Group: II
+     IATA
+          Shipping Name: CORROSIVE LIQUID, BASIC, ORGANIC, N.O.S.*
+           Hazard Class: 8
+              UN Number: 3267
+          Packing Group: II
+     RID/ADR
+          Shipping Name: CORROSIVE LIQUID, BASIC, ORGANIC, N.O.S.
+   Dangerous Goods Code: 8(56B)
+              UN Number: 3267
+     Canadian TDG
+          No information available.
+
+                  **** SECTION 15 - REGULATORY INFORMATION ****
+
+ US FEDERAL
+     TSCA
+          CAS# 2759-28-6 is listed on the TSCA inventory.
+        Health & Safety Reporting List
+          None of the chemicals are on the Health & Safety Reporting List.
+        Chemical Test Rules
+          None of the chemicals in this product are under a Chemical Test Rule.
+        Section 12b
+          None of the chemicals are listed under TSCA Section 12b.
+        TSCA Significant New Use Rule
+          None of the chemicals in this material have a SNUR under TSCA.
+     SARA
+        Section 302 (RQ)
+          None of the chemicals in this material have an RQ.
+        Section 302 (TPQ)
+          None of the chemicals in this product have a TPQ.
+        Section 313
+          No chemicals are reportable under Section 313.
+     Clean Air Act:
+          This material does not contain any hazardous air pollutants.
+          This material does not contain any Class 1 Ozone depletors.
+          This material does not contain any Class 2 Ozone depletors.
+     Clean Water Act:
+          None of the chemicals in this product are listed as Hazardous
+          Substances under the CWA.
+          None of the chemicals in this product are listed as Priority
+          Pollutants under the CWA.
+          None of the chemicals in this product are listed as Toxic Pollutants
+          under the CWA.
+     OSHA:
+          None of the chemicals in this product are considered highly hazardous
+          by OSHA.
+ STATE
+     1-Benzylpiperazine, 97% is not present on state lists from CA, PA,
+     MN, MA, FL, or NJ.
+     California No Significant Risk Level:
+     None of the chemicals in this product are listed.
+ European/International Regulations
+     European Labeling in Accordance with EC Directives
+          Hazard Symbols: C
+          Risk Phrases:
+                       R 34  Causes burns.
+          Safety Phrases:
+                       S 24/25  Avoid contact with skin and eyes.
+   WGK (Water Danger/Protection)
+          CAS# 2759-28-6: No information available.
+   Canada
+          None of the chemicals in this product are listed on the DSL/NDSL list.
+          WHMIS: Not available.
+          CAS# 2759-28-6 is not listed on Canada's Ingredient Disclosure List.
+   Exposure Limits
+
+                  **** SECTION 16 - ADDITIONAL INFORMATION ****
+
+     MSDS Creation Date:  3/01/1994  Revision #2 Date:  9/02/1997
+
+     The information above is believed to be accurate and represents the best
+     information currently available to us. However, we make no warranty of
+     merchantability or any other warranty, express or implied, with respect to
+     such information, and we assume no liability resulting from its use. Users
+     should make their own investigations to determine the suitability of the
+     information for their particular purposes. In no way shall Fisher be liable
+     for any claims, losses, or damages of any third party or for lost profits
+     or any special, indirect, incidental, consequential or exemplary
+     damages, howsoever arising, even if Fisher has been advised of
+     the possibility of such damages.
+
+================================================================================
+
+CAS #                         [2759-28-6]
+ FW                           176.26
+ Molecular formula            C11H16N2
+ Water determination          <=0.5% (K.F.)
+ d                            1.0140
+ Refractive index (sodium D)  1.5467
+ Fp                           >112°
+ Hazard symbol                C
+ Risk/safety phrases          R 34    S 24/25    UN 3267    DOT 8
+ Properties                   LIGHT SENSITIVE
+                              AIR SENSITIVE
+ EINECS                       220-423-6
+
+================================================================================

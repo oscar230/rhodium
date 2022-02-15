@@ -1,0 +1,64 @@
+Piperonylic acid from Black Pepper:
+-----------------------------------
+                                   
+Preparation of Piperine
+
+One ounce (28 grams) of standard black pepper was placed in a 500 ml flat bottom
+flask along with 250ml Everclear to which a condenser was attached to prepare
+for standard reflux. With vigorous magnetic stirring, the mixture was refluxed
+at just above boiling temperature for 3 hours, allowed to cool, and the mixture
+was suction filtered to retrieve the filtrate. Standard distillation
+concentrated the filtrate to approximately 20 ml. The concentrated extract was
+then added to 20 ml of 10% KOH in Everclear which was heated on a low setting on
+a hot plate. To this mixture, water was added dropwise to form a yellow
+precipitate until no more precipitate formed. This was suction filtered and
+recrystallized with 30 ml of hardware-store acetone made anhydrous by drying
+with epsom salts. Yield was approximately 1.3g of crude piperine, which was
+stored in a dark place overnight. (approximate because the scale in question was
+at best accurate to tenths of grams.) You can do this a couple of times in a
+night without much effort, which can effectively yield 2.5 grams.
+
+Hydrolysis of Piperine to Piperic Acid and Piperidine
+
+2 grams of piperine was placed in 20 ml of a 10% KOH in Everclear solution in a
+125 ml Erlenmeyer flask and was refluxed using a standard reflux setup for 2
+hours. The original article recommends refluxing under reduced pressure, but
+there should not be a problem with standard reflux. It's your choice. There is
+no shortage of duct tape or chemical burns around these parts, so don't listen
+to the author.
+
+The solution was then transferred to a suitable vacuum distillation apparatus
+(a 100ml flask would be ideal) and the distillate was collected in an ice cooled
+receiving flask. The remaining undistilled residue was scraped out of the
+distillation flask and placed in 100 ml of H2O. The solution was acidified with
+HcL. The yellow precipitate was vacuum filtered and recrystallized with hot
+Everclear to yield approximately 1.5 grams of predominantly piperic acid, which
+was confirmed by a melting point of 213 degrees.
+
+Phase Transfer Oxidation Of Piperic Acid
+
+"In a 250 ml two- or three-necked round bottomed flask, place 1.0g of piperic
+acid, .1 g of Adogen 464, 10-15 ml of benzene, and a magnetic stirring bar.
+Attach a thermometer to the flask through a cork or adapter as well as a small
+dropping funnel. Add to this stirred mixture 4.4g of potassium permanganate
+dissolved in 50-60 ml of water at such a rate that the reaction temperature
+remains below 30 degrees. After all of the potassium permanganate has been
+added, stir at room temperature for 90 minutes. Finally, add about 10-20 ml of
+saturate sodium bisulfite solution to the reaction mixture and collect the
+preciptated manganese dioxide by suction filtration. Wash the precipitate with
+10 ml of benzene. Place the filtrate in a separatory funnel, separate the
+layers, and wash the benzene layer three times with 10ml of 10% NaOH solution.
+Wash the base solution once with 20ml of ether. Carefully acidify the base
+solution to pH 1-2 with 6M HcL and extract the acid solution with 3x25ml ether.
+Dry the ether solution over magnesium sulfate, filter, and then remove the ether
+by use of a rotary evaporator. The yield was approx. .3 grams piperonylic acid."
+Obviously, some sort of scale up is necessary to get an amount of product for a
+workable synth.
+
+Reference: Page 527 of _Laboratory Experiments In Organic Chemistry_
+           by Mohrig and Neckers, no doubt long out of print.
+
+
+[http://www.rhodium.ws/chemistry/piperine.txt]
+
+

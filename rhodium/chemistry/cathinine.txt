@@ -1,0 +1,230 @@
+-------------------------------------------------------------------------------
+                         Psychedelic Cathinone Analogs
+-------------------------------------------------------------------------------
+
+Has anyone given any thought into this? Creating Psychedelic CATS sound like a
+fun thing to do. Here are some possibilities:
+
+3,4-methylenedioxy-N-methyl-cathinone - MDMA
+4-bromo-2,5-dimethoxy-cathinone - DOB
+4-iodo-2,5-dimethoxy-cathinone - DOI
+4-methyl-2,5-dimethoxy-cathinone - DOM
+3,4,5-trimethoxy-cathinone - TMA
+2,4,5-trimethoxy-cathinone - TMA-2
+N-ethyl-3,4-methylenedioxy-cathinone - MDE
+
+Well you could go on and make CAT versions of every phenethylamine and
+amphetamine. What about Indoles? Would that double-bonded oxygen in the beta
+position make any difference with DMT or AMT? Would 3,4-dihydroxy-cathinone work
+in my biosynthesis theory described in "TMA production with Mescaline-containing
+Cactii" here: http://hive.lycaeum.org/ubb_board/Forum1/HTML/002634.html
+
+Any and all comments welcome.
+
+Laters, Nemesis
+
+-------------------------------------------------------------------------------
+jesomina:
+
+The Cathinone-derivates 1-(1,3-Benzodioxol-5-yl)-2-(pyrrolidin-1-yl)propan-1-on
+and 1-(Phenyl)-2-(pyrrolidin-1-yl)propan-1-on are forbidden drugs contained in
+the german Btmg list since 1998. Somwhere someone seems to think that
+these are psychoactive and good...
+
+-------------------------------------------------------------------------------
+Psychokitty:
+
+I agree completely with you, Osmium. That IS truly very fascinating because
+a-bromopropiophenone is commercially available and VERY easy to synthesize. It
+is without a doubt that the amine used to make the aformentioned cathinone
+derivative -- the second one mentioned by Jesomina -- is perfectly legal to
+obtain AND is probably not as volatile as some of the other lower order amines
+meaning that the substitution reaction is probably really quite facile.
+
+Tell me more. I am DEFINITELY all ears.
+
+Wow.
+
+- - - - -
+
+Wow again! Those fucking Germans seem to be paving the way for psychedelic
+experimental drug legislation. Some of the proscribed shit on their list is
+down-right wierd!
+
+Anyway, I dug through my little cathinone research file cabinet and found some
+interesting stuff:
+
+As for the 3,4-methylenedioxy ring substituted analogue, I just don't know. But
+in regard to the simple pyrrolidino cathinone analogue, well, it was developed
+originally as an appetite suppressant drug and according to a patent that I have
+which details to a limited degree the pharmacology of several cathinone analog
+drugs, it was way up there in preference to regular old amphetamine along with
+the main vein of the paper: diethylcathinone, more popularly know as
+diethylproprion, an FDA approved drug for appetite suppression.
+
+Anyway, here the synthesis for it:
+
+First, one starts with a-bromopropiophenone. IF one does not have this precursor
+then it will have to be made from readily available and CHEAP AS SHIT
+propiophenone. There are many ways to effect the tranformation of propiophenone
+to a-bromopropiophenone but the best of the lot is as follows:
+
+Taken from JOC vol. 29, 1964, pp3459-3461.
+
+Here is a general review of the process for brominated ketones (particularly
+acetophenones) with CuBr2 in refluxing 1:1 ethylacetate/chloroform solvent.
+
+"General Proceedure for the Heterogeneous Bromination Using Copper (II) Bromide
+-- The copper (II) bromide was finely ground, without drying, in a mortar and
+pestle to ca. 80 mesh to ensure a large surface area for reaction. Copper (II)
+bromide (0.050 mol) was placed in an erlenmeyer flask fitted with a reflux
+condenser, and ethyl acetate (25 mL) was added and brought to reflux on a
+magnetic stirrer-hot plate. The compound to be brominated (0.030 mole; it is
+advisable to use a slight excess to avoid the possibility of dibromination)was
+dissolved in or diluted with hot chloroform (25 mL) (or an additional 25 mL of
+ethyl acetate if the compound was not solutble in chloroform) and added to the
+flask. The resulting reaction miture was refluxed with vigourous stirring to
+ensure complete exposure of the copper (II) bromide to the reaction medium until
+the reaction was complete as judged by a color change of the solution from green
+to amber, disappearance of all black solid, and cessation of hydrogen bromide
+evolution. With numerous compounds the bromination was estimated, form the
+composition of the mixed copper bromides recovered, to be 90-95% complete in
+30-60 min even though the deep green color persisited much longer. The color
+could be removed by decoloration with Norit A after removal of the copper (I)
+bromide by filtration. An induction period which varied with the starting
+material was observed in each case. The copper (I) bromide was collected by
+filtration and washed well with ethyl acetate. Recovery of copper (I) bromide
+was 96-100% in every case. The solvents were removed form the filtrate under
+reduced pressure, except when the product had a low boiling point, a property
+which required fractional distillation.
+
+That was the general proceedure. There was one paper I found which used
+propiophenone as an experimental example andddddddd -- wouldn't you fucking know
+it, I don't have it with me. But the yields were in the range of 90-95% using
+the same technique with only a slight variation where they bubbled nitrogen into
+the reaction matrix (presumably to flush out the formed hydrogen bromide) and
+the time-frame was approximately 5-6 hrs. I'll post the details tommorow.
+
+Anyway, once you have your a-bromopropiophenone you can go one of two ways. The
+inconvenient way is where you must isolate your a-bromopropiophenone first to
+then use in the following reaction (tedious and smelly unless, of course, you
+have a-bromopropiophenone already made):
+
+Taken from CA vol.56, 2384 g and/or US Patent # 3,001,910 Sept 26, 1961:
+
+Keep in mind that a-pryrrolidino-propiophenone is one of their experimental
+models but for the experimetal reaction example, they use diethylamine to make
+diethylamino-propiophenone. Substituting pyrrolidine for diethylamine in this
+reaction will yield the desired a-pyrrolidino-propiophenone.
+
+"1145 g of a-bromopropiophenone and 850 g of diethylamine are combined under
+stirring and heated on a water bath to boiling. The precipitate is filtered off
+under suction and washed with benzol (benzene). The filtrate is shaken up with
+aqueous hydrogen chloride, the aqueous solution made alkaline and etherfied. The
+solution freed of the ether is fractionated. The boiling point (6 mm) is 140 deg
+C and the yield 800 g. The base is dissolved in acetic ester (ethyl acetate?)
+and precipitated with isopropanolic hydrogen chloride. After suction filtration
+and washing with ether the yield is found to be 750 g (80%) and the melting
+point 168 deg C."
+
+A much better and conventient way to go is to start right where the synthesis of
+a-bromopropiophenone in refluxing ethyl acetate/chloroform left off:
+
+Substituting pyrrolidine for pyridine will yield the desired a-pyrrolidino-
+propiophenone.
+
+"Preparation of the Substituted 1-Benzoylpyridinium Salts -- The pyridinium
+bromides could be prepared directily form the filtrate containing the crude
+a-bromo ketone by addition of a slight excess (0.03 mol) or pyridine followed by
+heating on the steam bath. An alternate proceedure was to remove the
+chloroform-ethyl acetate under reduced pressure and dissolve the crude a-bromo
+ketone (lacrymatory!!!!) in acetone before addition of the pyridine. The latter
+method sometimes gave crude products which were less discolored and had higher
+melting points. Both methods gave good yields."
+
+I would guess 24 hours would be good enough to effect the desired
+transformation. Probably less would be needed. One could easily guage the
+progress of the reaction by observing the slow deposition of pyridine salt.
+Also, there is no fear of significant side product formation as the nature of
+the a-pyrrolidino-propiophenone stucture obviates any formation of pyrazine
+contaminant. If effect, a-pyrrolidino-propriophenone should be the only material
+recovered. Most definitely this synthesis is ideal as one goes directly from
+commercial propiophenone to final product a-pyrrolidino-propiophenone without
+the use of vaccum distillation in what is basically a "one-pot" process.
+
+As for the dosage, I don't know. The tablets that were to be manufactured,
+according to the patent, ideally would contain 25 mg each of product. These were
+to be taken at each meal each day, making the daily dose 75 mg on average. Side
+effects were a temporary lowering of blood pressure, with the desirable lack of
+any observed hypertensive response (Good for me!!!)
+
+- - - - -
+
+Okay, I found the reference wherein they detail the specific synthesis of
+a-bromopropiophenone via the CuBr2 refluxing ethylacetate/chloroform solution.
+
+Taken from:
+
+JOC vol. 40, no. 13, 1975 pp1990-1992.
+
+"Iodide Catalysis of Oxidations with Dimethyl Sulfoxide.
+A Convenient Two-Step Synthesis of a-Diketones from a-Methylene Ketones."
+
+I quote:
+
+"Of the many ways to a-brominate ketones, we have had uniformly excellent
+results with cupric bromide in refluxing chloroform-ethyl acetate."
+
+Here is the general proceedure that they used:
+
+2-Bromocylcododecanone is given as the experimental example.
+
+"2-Bromocylcododecanone. Cyclododecanone (9.1 g 0.050 mol) chloroform (50 mL),
+and ethyl acetate (50 mL) were placed in a 250 mL three-necked flask equipped
+with magnetic stirrer, nitrogen inlet tube, and reflux condenser. Powdered
+cupric bromide (22.3 g, 0.10 mol) was added in small portions over a 2 hr
+period, with the reaction mixture maintained at 75-80 deg C while a constant
+stream of nitrogen gas was bubbled through the reaction solution. The green
+color from each portion was allowed to dissappear before the next portion was
+added. After the addition was completed, the solution was heated for 1.5 hrs
+until the green color and dark cupric bromide dissappeared, cooled, and
+filtered, and the colorless solid cuprous bromide was washed with 25 mL of
+chloroform. The combined filtrate and washings were rotarty evaporated and the
+oily residue was redissoled in 200 mL of ditheyl ehter, washed with water (50
+mL), 5% sodium bicarbonate (2 tms 50 mL), and brine (50 mL), then dried over
+sodium sulfate. After filtration, rotary evaporation of solvent, and cooling
+(-10 deg C), the resulting oil solidified to give cream-colored crystals (11.8
+g, 90%) of 2-bromocyclododecanone.
+
+"a-Bromopropiophenone (an oil) was prepared on the 100 mmol scale (addition 1.5
+hr, stirring 1.5 hr): yield 95%; bp 64-66 deg C (1 mm Hg) [lit. bp 110-111 deg C
+(3 mm Hg)]."
+
+According to table I, the reaction using propiophenone was 5 hrs in total with a
+95% yield.
+
+- - - - -
+
+For anyone who's interested, Table II from JOC vol 29, 1964 pp3460 indicates
+that the yields for various a-pyridino-acetophenones were in the range of 66-99%
+which stongly suggests that going from the refluxing ethyl acetate/chloroform
+phase immediately to substition with the pyrrolidine is the best and safest way
+to go. No one will like handling lachrymatory a-bromopropiophenone, so the above
+modification makes for a simple transition from starting material to end
+product. I wonder though if the precipitated salt is the desired product or
+simply the salt of pyrrolidine itself? Or even if there is any precipitated
+salt? Anyone have any best guesses to offer?
+
+No? Well, if I had to suggest a way out of the above problem I would say that
+distillation of the chloroform would be in order (so that the only solvent
+present would be ethyl acetate). This would then be followed by a basic wash
+(25% NaOH), a simple water wash to neutrality, and then a back-extraction with
+10% HCl, which would then be separated, basified, the final product then being
+extracted into a suitable solvent and bubbled with dry HCl gas to precipitate
+the hydrochloride. Who knows though? Maybe the solvent can just be evaporated to
+yield a crystalline base.
+
+Comments?
+
+-------------------------------------------------------------------------------
+

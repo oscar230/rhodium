@@ -1,0 +1,106 @@
+-------------------------------------------
+Preparation of Palladium(II)Chloride, PdCl2
+-------------------------------------------
+
+From Brauer's:
+
+Palladium (II) Chloride
+
+The anhydrous salt is prepared by heating loose palladium sponge (contained in a porcelain boat set in a glass tube) to a dull red heat in a stream of
+Cl2. According to Krustinsons, the decomposition pressure of PdCl2 reaches 1 atm. at 738°C. By dissolving finely divided Pd in conc. HCl
+through which Cl2 is bubbled, one obtains a solution in which both H2PdCl4 and H2PdCl6 can be detected. Concentrating the solution also yields a
+residue of PdCl2.
+
+PdCl2 Solution for the Detection of CO
+
+Winkler gives the following method for preparing this solution. Pure Pd (0.2 g.) is dissolved with gentle heating in about 10 ml. of aqua regia. The
+solution Is evaporated to dryness in a 50-ml. porcelain dish placed on a steam bath. The residue is dissolved in 10 ml. of 20% hydrochloric acid and
+the solution is again evaporated to dryness; this last procedure is repeated three times. The resulting residue, which is now completely nitrate-free,
+is mixed with 2 g. of KBr and dissolved (gentle heating) in 10 ml. of 1 N HCl. After dilution to about 150 ml. with water, a few particles of pumice
+and 1 ml. of alcohol are added to the solution. which is then boiled for about 10 minutes in an Erlenmeyer flask in order to reduce any Pd (M) not
+decomposed during the drying to Pd (H) and to drive off the excess alcohol. After cooling. 2.5 g. of CH3COONa . 3 H2O is dissolved In the liquid. The
+solution Is filtered through a small wad of cotton wool and diluted to 200 ml. with the water used for washing the cotton wool. The clear, reddish-
+brown liquid, which contains 0.1% palladium. is stable when stored in a flask provided with a ground-glass stopper. To be on the safe side, It Is best
+to filter the solution before use; It should be stored In the dark.
+
+REFERENCES:
+
+J. Krustinsons. Z. Elektrochem. 44, 537 (1938); L. Winkler. Z. Anal. Chem.100, 321 (1935);  97, 18 (1934); also describes analytical methods for
+detecting CO with PdCI2 solutions. Explicit directions for the preparation of palladium catalysts using PdCI2 are given by R. Mozingo in Organic
+Syntheses, collective vol. III, p. 685 (Wiley, New York, 1955).
+
+- - - - -
+
+J. J. Berzelius prepared palladium dichloride or palladous chloride, by evaporating to dryness a solution. of palladium in aqua regia, and dehydrating
+the residue by a gentle heat. L. R. von Fellenberg obtained the chloride, as a rose-red sublimate, and a garnet-red mass, by heating palladium
+sulphide in a current of chlorine; and E. H. Keiser and M. B. Breed obtained it as a sublimate by heating spongy palladium to dull redness in
+chlorine; the anhydrous chloride can be distilled at a low red-heat in a current of chlorine when it yields a sublimate of deliquescent, dark red,
+acicular crystals. N. W. Fischer obtained a solution. of the chloride by exposing palladium to hydrochloric acid and air; the process of dissolution
+is then a slow one. If chlorine is passed into hydrochloric acid in contact with palladium, the metal dissolves quickly to form the dichloride; and if
+nitric acid is added to the hydrochloric acid, some palladous nitrate is formed. By evaporating the hydrochloric acid solution over quicklime, the
+chloride is obtained in reddish-brown, prismatic crystals, which, if free from nitric acid, remain dry. L. N. Vauquelin found that when palladium is
+dissolved in aqua regia, and the nitric acid removed by repeated evaporation with hydrochloric acid, there remains a brownish-yellow, crystalline
+mass, which, according to the analyses of R. J. Kane, is the dihydrate, PdCI2-2H2O.
+
+The dichloride obtained by dehydrating the dihydrate is a browniish-black mass; the sublimed salt appears as rose-red, or dark red, acicular crystals;
+the unsublimed salt is a garnet-red crystalline mass. The dihydrate forms reddish-brown, prismatic crystals. V. M. Goldschmidt said that the crystals
+are probably rhombohedral. L. Pauling discussed the structure. E. H. Keiser and M. B. Breed gave 2.5 for the sp. gr; and G. Beck, 4.00 for the sp. gr.
+at 18 degrees and 44 for the mol. vol. J. J. Berzelius observed that the anhydrous salt fuses without decomposition when gently heated in a glass
+vessel; when fused in a platinum vesed, it acquires a bluish-green colour by taking up platinum chloride. When.strongly heated, chlorine and palladium
+are formed. F. Puche found that the dissociation begins at 600 degrees, and attains one atmosphere of  pressure at 920 degrees.
+
+References: J. J. Berzelius, Pogg. Ann., 13, 454 (1828); Schweigger's Jour, 7, 66 (1813); L. R. von Fellenberg, Pogg. Ann., 50, 61 (1840); E. H.
+Keiser and M. B. Breed, Chem. News, 69, 197, 211 (1894),  N. W. Fischer, Schweigger's Jour., 51,197 (1827), Pogg. Ann. 9, 256 (1827); 10, 607 (1827);
+L. N. Vauquelin, Ann. Chim. Phys., (1), 88, 167 (1813), R. J. Kane, Phil. Trans., 132,275 (1842); V. M. Goldschmidt, Skrift. Norske Akad. Oslo, 5
+(1925); L. Pauling, Proc. Nat. Acad. 15, 709 ( (1929); Puche, Compt. Rend. 200, 1206 (1935)
+
+Interestinly, the aqua regia method appears to be the very first method, and from the above, it can be seen that oxidation methods not using chlorine
+gas or nitric acid proceed very slowly, though IMHO if violent agitation under pressure such as in a SRV were employed, quicker results should be
+attained. As far as electrochemical methods, these abstracts were found, lending some credence to the science behind Uncle Fester's method:
+
+Electrochemical solution of palladium in hydrochloric acid. A. I. Vol'fson, A. I. Ryazanov, and G. D. Chigrinova. Zhur. Vsesoyuz. Khim. Obshchestva
+im. D. I. Mendeleeva 5 , 712(1960).-Powdered Palladium, placed on a graphite plate-type anode, was electrochemically. dissolved in a cell with a
+diaphragm. The current efficiency  in I0 N HCI at 25-32 degrees with an anodic current density of 6.25 amp./sq. dm  was 96% over 11.5 hrs. The
+resulting solution. contained 342 g. PdCl2./L Increasing the temperature of the electrolyte to 55-60 degrees lowered 71 to 95.2% over 14 hours.,
+giving a solution. containing. 420 g. PdCl2/L. Increasing current density. to 12.5 amp./sq. dm., at 24-36 degrees, reduced the current efficency to
+68.7%, giving a solution. containing. 491 g. PdCl2/L. in 12.75 hrs. The decrease in current efficnecy was ascribed to the passivation of the anode by
+solutionns. containing. 330-340 g. PdCl/L. A solution. contg.332 g. PdCl2/L. was obtained with current efficiency of 99.5% over 10 hrs.with 6 N HCI in
+the anolyte and IO N KCI in the catholyte at 25-32 degrees. Palladium was not deposited on the cathode in any of the experiments.
+
+Electrochemical method for preparation of salts.  A. I. Ryazanov, G. D. Chigrinova, and A. I. Vol'fson. U.S.S.R. 138,922. Appl. July 28, 1939.
+PdCl2,TeCI4,and BiCI3 are obtained by anodic dissolution. of the respective metals in HCI in an electrolytic bath with 3 chambers. To intensify the
+process, the metals are used as powders and placed on graphite plate-type electrodes, provided with perforations for elimination of the salt solution.
+
+Electrochenucal solution of palladium in hydrochloric acid. A. 1. Vli'fson, A. I. Ryazanov, and G. D. Chigrinova. Zhur. Priklad. Khim 34, 173-6
+(1961).-To develop, a commercial. electrochernical. process for the production of PdCl2 the anodic solution. of Palladium. powder and solid, in HCI
+was studied in a cell without a diaphragm. The powder was placed on a horizontal graphite anode. The solubility of Palladium in HCI at 20 degrees
+increased from 46.0 g./L. in 0..3 N HCI to 902.0 g./L. in 11 N HCL The anode potential was at the lowest electronegativity value in 6 N HCl
+Electrolysis of palladium anode in 6 and I0 N HCl (S - 542.0 and 810.0 g/L., with cathodic current.densities of 12.5-50 and anodic current.densities.
+of 6.25-25 amp./sq. dm. at 25 degrees produced solutions with concentration of 350 g/L. with a current efficiency of 90.2%.Increasing current density.
+from 7.5 to 12.5 and 25 amp./sq. .dm.. in I0 N HCI lowered current efficiency from 90.2 to 71.2 and 66.6% and p,from350 to250 and 47.2g./L. In 6 N HCl
+on electrolysis with current density of-6.25 amp./sq. dm., current efficiency of- 100%, and concentration  55.4 g/L.using the duration of electrolysis
+from 1 to 12.5 hours.in 10 N HCl with current density of 7.5 amp./sq. dm. lowered current efficiency  from 100 to 90.2% and increased concentration
+from 20 to 350 g/L. Pallaium deposited on the Platinum cathode formed a slime which contaminated the electrolyte.
+
+Also, this abstract gives a thermochemical method of production.
+
+Chloridation of platinum metals with ammonium chloride. O. E. Zvyagintsev and L. D. Plaksina. Izvest. Sektora Platiny i Drugikh Blagorod. Metal. Inst.
+Obshchei i Neorg. Khim., Akad. Nauk S.S.S.R. No. 24, 121-8(1949).- Platinum and Palladium were chloridated with NH4Cl 1:2 at 250-400 degrees C.The
+reaction is more effective when metals are finely divided and in the presence of Fe and Cu but not Ni. Excess NH4Cl gave no advantage. Chloridation
+dropped sharply at temps. above 450 degrees. Palladium is chloridized more easily than Platinum.
+
+- - - - -
+
+While no practical work in the recycling of palladium has been attempted by any bees yet, long ago a couple of Dutch chemists from Amsterdam solved
+this type of problem in US Pat 3210152. It claims to be effective in recycling palladium chloride from spent organic reaction mixtures, which IMHO
+includes benzoquinone. As in some other inventions of interest to the Hive, this process requires completely anhydrous conditions.
+
+The Shell patent referenced above is titled "Regeneration of Metal-Containing Reaction Components and Process for the Production of Palladium
+Chloride", since this method requires no isolation of the reduced palladium, and directly produces palladium chloride, it would seem best for the
+purposes of those here. The solvent is glacial acetic acid and the required reagents are oxygen, hydrogen chloride and nitric oxide, the latter can be
+prepared by by dropping concentrated sulfuric acid onto sodium nitrite covered with two to three times it's weight in water [JACS 47, 2170 (1925)].
+Impurities in the gas charge contribute most to catalyst degradation, another process for regeneration of wacker oxidation catalysts is in German Patent
+1143499. This method is applicable to the reduced palladium recovered by filtration, or the reduced catalyst that tends to adhere to labware. Quite
+possibly, it may serve as an alternative method of preparing palladium chloride from palladium metal, it ends much the same as Bright Star's synthesis
+on Rhodium's page, using cuprous chloride and oxygen to form palladium chloride. Another reference of possible interest is Jap. Pat. 13,354 (1963),
+disclosing a simple method of separating cupric and palladium chloride.

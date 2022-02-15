@@ -1,0 +1,389 @@
+--------------------------------------------------------------------------------
+        Reductions of Nitroalkenes Using Zinc and Aluminum Amalgam
+--------------------------------------------------------------------------------
+
+Comptes Rendus 213: 304 ('41) - Translation by Labrat
+
+Amongst the reduction methods used in organic chemistry, there are many
+methods using Zn. The zinc is used, either in metal form, or associated
+with other metal in the form of a couple: Zn-amalgam (BER 46: 1837 ('13),
+Zn-Cu, Zn-Pd and Zn-Pt are described in the literature. The couple Zn-Ni
+has not received attention by chemists.
+
+The Zn-Ni couple is only active in the presence of base: ammonia or
+hydroxide ions. We've used ammonia as base in most cases.
+
+Preparation of the couple: One can obtain this easily by treating a
+ammoniacal solution of a nickel salt, e.g. the sulfate, with powdered zinc.
+The nickel is reduced and releases hydrogen, while the zinc is transformed
+into the oxide, which dissolve slowly in the ammoniacal solution. In some
+cases it's necessary to remove the ionised nickel, either because it'll
+form an insoluble complex with the substance to be reduced, or because one
+wants to replace the ammonia with sodium/potassium hydroxide.
+
+We've realised the hydrogenation of several functional groups in this work:
+
+Oximes, isonitrosoketones
+-------------------------
+The ketoximes are reduced to the corresponding primary amines.
+Phenethylamine and amphetamine were obtained starting from
+methylphenylketoxime and methylbenzylketoxime. The isonitrosoketones are
+reduced to aminoalcohols. We cite the case wherein isonitrosoacetophenone
+is reduced to beta-phenylethanolamine.
+
+Nitriles
+--------
+Benzyl cyanide is reduced to phenethylamine.
+
+
+Reductive amination of ketones
+------------------------------
+
+If a commercial solution of ammonia is used (with added alcohol to
+solubilise the ketone), one obtains a moderate yield of the corresponding
+amine. Cyclohexanone gives a 60-70% yield of cyclohexylamine.
+Methylbenzylketone is transformed in the same way to phenylisopropylamine.
+
+--------------------------------------------------------------------------------
+
+Ann.Pharm.France 7: 733('49) - Translated by Labrat
+
+2,3-dimethoxyphenethylamine
+----------------------------
+We've prepared this substance by direct reduction of the nitrostyrene with
+zinc amalgam in hydrochloric acid. Water is added to 24 g of the
+nitrostyrene until the total volume is 650 ml. Add 100 ml concentrate HCl
+and 10 ml of a 5% solution of HgCl2. Add with vigorous stirring in small
+portions 46 g powdered zinc, amalgamated with 33 ml 5% HgCl2 solution. With
+every addition of Zn, 15 ml concentrated HCl is added. The temperature is
+not allowed to rise over 35 C. After complete disappeared of the
+nitrostyrene, one filters the unreacted zinc and concentrates the acidic
+solution in vacuo. Add NaOH/H20 solution until the precipitated zinc
+redissolves and extract several times with ether. The ethereal solutions
+are washed and dried over Na2SO4. The ether is evaporated and the residue
+is fractionated to give 60% amine.
+
+--------------------------------------------------------------------------------
+
+On the reductive amination of P2P, using MeNO2 as the source of methylamine:
+
+Yakugaku Zasshi; 77; 1957; 310; Chem.Abstr.; 1957; 11278;
+
+2-MeCH:CHC6H4OMe (52g) in 400ml AcOH treated portionwise with 200g. Pb3O4
+stirred 1 hour at 40 degrees, the solution treated with a small amount of
+H2O, AcOH removed in vacuo, the residue extracted with Et2O, the Et2O
+residue with 500ml 20% H2SO4 refluxed 3 hrs, and the end product with EtO2
+gave 24g 2-MeOC6H4CH2COMe (I), I (32.8g) in 19g MeNO2 and 100ml EtOH added
+dropwise to 30g Al-Hg in 500ml EtOH, refluxed 2-3 hours, the Al(OH)3 and
+EtOH removed, the residue acidified with HCl, washed with Et2O, made
+alkaline with NaOH, and the end product extracted with Et2O gave 29g
+2-MeOC6H4CH2CH(NHMe)Me.
+
+
+--------------------------------------------------------------------------------
+
+Excerpt from Monatsh. Chem. 79 (1948) pp72-77
+
+Direct reduction of the nitro compound to the amine:
+
+1g 2,3-dimethoxy-beta-nitrostyrene was dissolved in a mixture of 10ml HOAc,
+10ml EtOH and 10ml H2O by gentle heating, and 2g fine Al turnings were added.
+The reduction started after the addition of some HgCl2 and was completed by
+heating on a warm water bath after standing for two hours at room temp.
+Workup was done in an analogous manner to the oxime (apparently filtration,
+solvent removal under vacuum and an acid-base extraction).
+0.58g was obtained after distillation at 1mmHg, 80-110° air bath temperature.
+From that 0.67g of the picrate was obtained.
+
+--------------------------------------------------------------------------------
+
+Posted on the Hive 980815 by Zorohustra
+
+In this dream I dreamed that I tried Eleusis's "Proposed nitro -> amine
+reduction for general use" (which can be found at Rhodium's outstanding
+page, check it out!).
+
+13g of GOOD phenyl-2-nitropropene was dissolved in 150ml Glacial Acetic
+Acid in a 500ml 3-neck RB.
+
+55g of tech. Zinc powder was "purified" as in Vogel's 5:Ed. (washing with
+10% HCl, then dH2O, followed by acetone).
+
+The dry and pure Zinc was slowly added to the nitropropene solution, while
+stirring at 700rpm. When ~2/3 of the Zinc had been added the solution
+turned "rust-red". When all the Zinc had been added the temperature was
+80C.
+
+The solution was still stirred at 700rpm, the goal was to heat it to 100C,
+but it became 106C, at which point it boiled(?!). The solution was no
+longer "rust-red", the Zinc was again gray and the solution appeared to be
+light-pink/red (observed by stopping the stirring for a while).
+
+The stirrer speed was increased to 1100rpm and the solution was held like
+this for another 30min (total time ~45min). The solution is now light
+yellow, with some colorless foam.
+
+"Perhaps I have made P2P instead the chemist thought." (I think I've read
+in March that it can be made with Zn/HOAc).
+
+60ml 37% ACS hydrochloric acid is put into the additionfunnel and added
+over perhaps 20min, no spectacular reaction at all. 1-2 hour later another
+20ml hydrochloric acid is added, can't hurt I mean.
+The solution is now near colorless, its decantated from unreacted Zinc, the
+solution dumped into 1000ml cool dH2O, the Zinc washed with 100ml dH2O.
+
+The solution was washed with 3*60+50ml DCM (500ml sep. funnel ;). Then
+basified with NaOH solution until pH 10-11, then extracted with 3*70+50ml
+DCM.
+
+The solvent was removed by destillation, leaving VERY LITTLE of
+"something", 15ml anhydrous acetone was added and 2-3 small drops of 98%
+sulfuric acid, crystals percipitated. But we are talking about a yield in
+the 100mg range… The chemist dumped it all out, being more of a curios
+chemist then a desperate speedhead.
+
+The washings was also stripped from solvent by destillation and then dumped
+into a satured bisulfitesolution, but no crystals formed.
+
+Hmm, IF this reaction can give an acceptable yield this is at least NOT the
+way to get it, there is really not much to do then but to try with lower
+temperature, but I am not motivated.
+
+--------------------------------------------------------------------------------
+Zn/Hg Nitrostyrene reduction
+
+To suspension 1.5 g of 5-bromo-1,3-dimethoxy-omega-nitrostyrene in 20 ml of
+aqueous MeOH (1:1) was added 4.5 g. HCl (d=1.19) and 0.3 ml 5% aqueous HgCl2
+soln. Under stirring this was reduced with 5 g. of Zn dust, previosly amalgamated
+with 0.3 ml 5% HgCl2 soln, adding Zn in portions at 30-35°C during 30 min. After
+addition completing, the reaction mass was heated to 45-50C and kept at this
+temp under stirring during 30 min. Unreacted Zn was removed, filtrate basified
+with 10% NaOH untill all deposited Zn(OH)2 was dissolved. Base was extracted
+with toluene (3x50 ml), solvent ditilled off in vacuo, and residue dissolved
+in 10 ml CH3OH, and treated with saturated soln of picric acid - yield 2.0 g
+picrate, 83%
+
+Ref: Zh. Org. Khim 35, 720 (1965)
+
+--------------------------------------------------------------------------------
+Zorohustra:
+
+I have earlier dreamt about several more traditional approaches of the old,
+but still useful (I hope ;) Clemmensen reduction of phenylnitropropens,
+these dreams have all turned out fruitless. The following is a modification
+and in this dream there was product, even thou the yield was low.
+
+This is my dream:
+
+60g Zinc powder was mixed with 5g HgCl2 and carefully stirred until
+homogenous, about 100ml d water was added and then slowly 4ml of
+concentrated hydrochloric acid was added, the temperature rose to about 50C
+and the amalgamation was finished within 5 minutes. The water was removed
+by filtration and the amalgam was washed with MeOH.
+
+The amalgam was placed in a 1000ml 3-neck RB flask containing 140ml MeOH,
+the mixture was magnetically stirred and 70ml of concentrated hydrochloric
+acid was slowly added, the temperature rose to about 65C. A condenser was
+fitted, as well as an addition funnel. The temperature of the amalgam/MeOH
+mixture was held at 50C with external heating.
+
+Meanwhile, 15g of really pure 1-phenyl-2-nitropropene and 200ml MeOH was
+mixed, the solution heated until boiling, to solve the crystals.
+
+The hot solution was added to the addition funnel and over just 15 minutes
+the whole 200ml was introduced into the RB. The solution boiled hard and
+the temperature rose to 70C, all while stirring at 1100rpm. The solution
+was left boiling for another 2 hours.
+
+The workup was quite a mess and in retrospect I can say that the best thing
+to do, probably, is to make the solution basic with 10% NaOH solution,
+filter, remove MeOH, extract whit DCM, skip back-extraction and let the
+distillation be the only cleanup.
+
+Anyhow, after distillation the yield of amphetamine freebase was ~4ml, that
+was collected at 125C with aspirator "vacuum".
+
+Tips how to increase the yield are very welcome, preferable from a
+Clemmensen dreaming bee, the refs always claim 60-70% yield, but that is
+just not my experience..
+
+--------------------------------------------------------------------------------
+Lone Ranger:
+
+Can you use a two phase system to incrase yields? The use HCl/zinc amalgam
+and a toluene layer can be helpful in preventing an immpossible to seperate
+complex forming with the zinc. JACS, vol 58, 1438
+
+--------------------------------------------------------------------------------
+Osmium:
+
+Basifying with strong NH3 avoids precipitation of Zn(OH2) in the workup.
+
+--------------------------------------------------------------------------------
+Dreamer:
+
+Yesterday i had a dream, i tried to reduce P2NP (phenyl-2-nitropropene) to
+amphetamine with amalganated Al. I amalganated 20gr of Al. To this 20gr Al
+i added 0.1 mol P2NP in 150ml Tetrahydrofuran (YES, tetrahydrofuran with
+his peroxides). The 150ml didn't cover the foil in the 1l Flask and i added
+another 150ml :). I putted the condensor on the flask and all was immersed
+in ice cold water!! (very important) Then i added slowly, in 10ml steps
+100ml of a solution of (100ml 31% HCl and 50ml H2O), i didn't have 25% HCl.
+
+The reaction TE climbed to 50°. To keep up the generation of bubbles i
+added after 45 min the last 50 ml of HCl slowly in 10ml steps. The whole
+mixture colled down to 20° and i let stand everything over night. Next day
+i made all very basic through slowly addition of 50% NaOH (~100ml). When i
+saw that with the addition of NaOH generated other bubbles,so i let
+everything stand again for 4h. Then i filtered the whole solution with a
+Buchner funnel, which was quite tedious because the grey shit is plugging
+(that should be "verstopfen" in english, http://www2.echo.lu/edic/ is a
+really good page for someone, who didn't follow english lessons at school)
+the filter paper. Well, after 2h all was filtered. I extracted with 3*75ml
+with a mixture of Chloroform and DCM (because once i recovered DCM i poured
+it to chloroform --> errors of a computerfreak, which is playing the
+chemist), i washed with 500ml of 10% NaOH (maybe an error, if amphetamine
+dissolves in diluted NaOH, a lot of the product could be loosed, is this
+true ?) the solvents where recovered and a red oil was the result.
+
+Now i made the sulfate salt instead of the HCl salt, because the sulfate is
+not so soluble in water (1part in 8.8parts of H2O). I added 2ml of the oil
+to 20ml of ether and a few drops of 96% H2SO4, i got amorphic crystals.
+
+I tried with 20ml den. 90° ethanol, again only amorphic crystals, maybe to
+many impurities, so one should distill the amphetamine freebase at 102°(13)
+under vaccuum. I couldn't, because my vaccum setup exploded a week ago.
+
+(while heating a mixture under vacuum i didn't realize, that the water trap
+of my vacuum hose was damaged, so the pressure in the glass of my vacuum
+distillation setup, which was not fixed, growed, pushed the glassware out
+of the ground joints, ...,) So i poured the last ~10-12ml of red oil to the
+amorphic crystals in a 30ml 90% den. ethanol. I added a little bit of 96%
+H2SO4. I waited 1min and i got a dense red-white mass. Remembering
+eleusis's acetone wash of mdma, i poured 100ml of acetone into the mass, a
+lot of crystals separated out. Everything seemed ok, but when i tried to
+add more acetone i mixed up the 95% H2SO4 with the acetone (same color of
+the flask :(() and i poured 5ml of 96% H2SO4 in the Acetone, den. Ethanol
+and Amphtamine Sulfate. There was a lot of fizzing and the crystals
+disappear !???!!!
+
+WHY ?WHY ?WHY ?
+
+Does acetone react with conc. sulfuric acid or ethanol and did one of these
+reaction byproducts destroy my amphetamine sulfate?
+
+Recovering the other crystals from ether gave 1 gr of brown-white with
+acteone washed crystals. I don't know how high the yield is, maybe around
+50%.I am sure that i can improve this reduction, because i was really
+imprecise.
+
+When i used tetrahydrofuran there where two layers. Is it ok if there are
+two layers with the P2NP in the organic layer, without an alcohol, that
+dissolves P2NP even in the water layer? Would it raise the yield if i add
+some Alcohol? Could it be that in such a reduction with amalganated Al the
+solvent is reduced too (acetone, methyl ethyl ketone -->in denaturated
+ethanol) and reduces the reduktion power of the reaktion?
+It is impossible for me to get methanol and pure isopropylalcohol without
+acetone (i can get tetrahydrofurane or ethyl ether like distilled water,
+but so funny it sounds no mathanol and 1l pure isopropyl alcohol costs like
+95% ethanol). Is there a possibility to eliminate all chemicals beside
+methanol and ethanol, and what does denaturated 1°category mean?
+
+If the TE of such a reduction is kept low, will this reduction work for
+MD-P2NP and is it possible to make a sulfate salt of MDA with a low
+solubity in water too?
+
+--------------------------------------------------------------------------
+Sunlight (01-21-99): Al/Hg and acetic acid reduction of 2,5-DMNS to 2C-H
+
+Recently I was dreaming about to reduce 2,5 dimethoxy nitrostyrene to the
+amine 2C-H with Al/Hg and acetic acid. I waited about 50-60 % but I got
+only 35%. Yields are not good, but Shulgin reports 40% in 2C-B and 50% in
+2C-H with LAH, so might be interesting to avoid buy/use LAH.
+
+Proportions I use :
+1 nitro (grams)
+10 acetic acid (ml)
+15 ethanol 96 (ml)
+5 water (ml)
+
+The reaction must be carried at about 60 C, becuase then the nitro is dissolved.
+Some tips are:
+
+- Put the HgCl2 in the reaction, then add the Al squares at a rate enough to
+  keep the temp around 60, and add till the orange colour disappear. About the
+  double weight of nitro will be enough, may be less.
+
+- Filter before add NaOH solution, if not the great amount of sodium acetate
+  formed complicates filtration, even crystallize in the flasks. Filter and wash
+  the cake with water, and then add NaOH.
+
+--------------------------------------------------------------------------------
+Zn/Hg reduction of 3-Br-4,5-MD-NS to 3-Br-4,5-MD-PEA
+
+53 g (0.22 mole) 3-Bromo-4,5-methylenedioxynitrostyrene and amalgamated
+Zink (prepared from zinc powder (200g) and HgCl2 (20g)were suspened in EtOH 2 L).
+Under vigorous stirring, conc HCl was added portionwise into the above mixture
+until the yellow coloring of the reaction mixture disappeared. After the
+decoloration was completed, the reaction mixture were further stirred for 30 min.
+An excess Zn/Hg was filtered off; EtOH was removed in vacuum. Yield 32g (46.7%)
+
+Tomitza et al, Chem Pharm Bull 16, 217-226 (1968)
+
+--------------------------------------------------------------------------------
+Dr Gonzo (04-14-99) - NaBH4 + Al/Hg reduction of 2,5-DMP2NP to 2,5-DMA
+
+10g of 2,5-dimethoxy-beta-nitropropene was placed in a 300 ml beaker with
+magnetic stirbar and 250 ml methanol, and stirred for a few minutes to dissolve
+as much as possible. Sloooowly... 50 mg at a time... 2.2 g NaBH4 was dropped
+into the sirring solution, with moderate effervescence with every addition.
+Addition of all the NaBH4 took less than 30 minutes. After a little bit more
+stirring, 50 ml 20% HCl was added SLOWLY - if there's any hydride left, it will
+bubble vigorously. About 300 mg HgCl2 was added and allowed to dissolve (still
+stirring) for a couple of minutes. Shredded kitchen aluminum foil was added,
+around half a gram at a time, allowing the foil to react mostly away before the
+next portion was added, in order to keep the reaction rate and temperature down.
+Several grams of Al were used, and the reaction was declared finished when all
+color was gone and when the chemist thought enough Al had been added. About 500
+ml dH2O was added (in a new beaker), and then it was basified with 10% NaOH
+until the sludge turned from solution -> gel -> granules. This was allowed to
+settle, then the usual gut-wrenching Al/Hg workup was done, with multiple
+dilutions, extractions, etc. When the final DCM extractions were vacuumed off,
+5.5 ml of impure presumed 2,5-dimethoxyamphetamine freebase (not analyzed, just
+hoped to be right) was left. Yield: approximately 60%. A drop of freebase
+produced crystals with the usual ether/IPA/HCl system.
+
+This reaction was also run on straight phenyl-beta-nitropropene, except in
+absolute ethanol and not methanol. Use MeOH! EtOH yields are poor. Anyway, 16g
+phenyl-beta-nitropropene was reduced to amphetamine freebase, which was then
+crystallized with 93% H2SO4 in 99% IPA. Yield: 3.5-4g amphetamine sulfate.
+Bioassaying the product thoroughly kicked the asses of the experimental
+subjects, and also produced extreme euphoria, most likely due to the joy of
+having completed a successful synthesis.
+
+--------------------------------------------------------------------------------
+Piglet
+
+NH2OH.HCl is readily available from photography supply. And a better reduction
+using the Zn/Ni couple has been posted by labrat. Claims to reduce imines to
+amines (ketone in 80% methanol saturated with NH3 at about 60-70%, yields higher
+from oxime, the side-product being hydroxylamine (boo hoo!), the freebase of
+which is a solid. It's active as MDA. If you really want MDA, put it right back
+into the next batch being reduced!
+
+Search for Labrats post (it IS there, I just havn't got the time) and then here
+are some details. (I use the sulphate).
+
+NiSO4 + 6 NH3 --> Ni(NH3)6SO4
+Zn + H2O --> ZnO + H2
+ZnO + 4 NH3 --> Zn(NH3)4(OH)2
+
+Pour off the NH3 solution, add your oxime in 80% v/v Methanol solution, add
+3 moles of NaOH and slowly add the Zn in portions (if it overheats, cool under
+running water) until it's all added, heat for 90 minutes, cool, filter (wash
+filtrate into mother liquor). Neutralize, extract, remove solvent (yielding the
+hydroxylamine as solid) or simply make salt as you see fit (IE a mix of MDA/MDOH).
+
+2 NaOH + Zn -->Na2[ZnO2] + 2H
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,20 @@
+/* This file originally found at http://www.erowid.org/archive/rhodium/chemistry/3base/(2-halo-propyl)-benzenes/stylesheet.css */
+body  {	font-size: 12pt;
+	font-family: arial, helvetica, sans-serif;
+        background-color: #C0C0C0 }
+
+h1    { font-size: 28pt;
+	font-family: arial, helvetica, sans-serif;
+        text-decoration: bold }
+
+h2    { font-size: 20pt;
+	font-family: arial, helvetica, sans-serif;
+        text-decoration: bold }
+
+h3    { font-size: 16pt;
+	font-family: arial, helvetica, sans-serif;
+        text-decoration: bold }
+
+p, li, table, td, b, ul, ol
+      {	font-size: 12pt;
+	font-family: arial, helvetica, sans-serif }

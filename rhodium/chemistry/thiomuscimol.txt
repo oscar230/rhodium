@@ -1,0 +1,240 @@
+
+Thiomuscimol
+
+GABA-A receptor agonist
+
+5-(aminomethyl)-3-(2H)-isothiazolone
+Mol. Wt. 130.10; C4H13N3O2S; [62020-54-6]; White solid; mp 140°C
+Soluble in water, slightly soluble in ethanol. Solutions may be stored 
+tightly sealed for several days at 4°C
+
+      O
+       \\
+        C---C
+        |    \\
+        |     C-CH2-NH2
+        |    / 		
+       HN---S
+	   
+Br. J. Pharmacol., 87, 677 (1986); Eur. J. Med. Chem., 20, 447 (1985);
+J. Neurochem., 32, 1717 (1979).
+
+Research Biochemicals International (RBI), 1998 Pricing: 5mg $64, 25mg $208.
+
+-------------------------------------------------------------------------
+
+Kurzer, J. Chem. Soc. 2288-2295 (1955) [Thiadiazoles, Part II]
+Kurzer, J. Chem. Soc. 2345-2352 (1956) [Thiadiazoles, Part III]
+Slack et al, J. Chem. Soc. 3061-3072 (1959) [Isothiazoles; A new heterocycle]
+Slack et al, J. Chem. Soc. 2032-2039 (1963) [Isothiazoles; Part II]
+Chem. Abs. 74, 125543p (1971) [Isothiazole sulfides]
+Chem. Abs. 74, 125521e (1971) [3-Hydroxyisoxazoles]
+Chem. Abs. 74, 125527m (1971) [3-Hydroxyisoxazoles]
+Feuer et al,  J. Org. Chem. 29, 935-938 (1964) [3,5-Dialkyl Isoxazoles]
+Beam et al, J. Org. Chem. 35(6), 1806-1810 (1970) [New isoxazole synthesis]
+Loew et al, J. Med. Chem. 13(4), 738-740 (1970) [Muscimol analogues]
+Micetich, Can. J. Chem. 48, 3753-3755 (1970) [Isoxazoles via Isoxazolines]
+Hamlet et al, Tet. Lett 24, 2101-2104 (1970) [3,5-Dialkyl Isoxazoles]
+
+-------------------------------------------------------------------------
+
+Yesterday during my exam I finally had time to read through the papers more 
+thoroughly, and to look at a synthesis of the chain compound. I agree with 
+you that that is the tricky part. I would be tempted to try a quick and 
+easy synthesis just to see if it works, namely start with malonitrile 
+(NC-CH2-CN) add H2S (probably H2S/pyridine would be fine, and use two moles 
+H2S), then you get 
+
+        HN           NH
+         \\         //
+           C--CH2--C
+          /         \
+        HS           SH
+
+which should react with one mole of persulfate to give dithiamuscimol:
+
+         HS
+           \
+            C---CH
+           //   \\
+           N     C--NH2
+            \   /
+              S 
+
+Sorry, I didn't mean dithiamuscimol, I meant the amine precursor to that.
+To get this compound would be very easy, and the reactions fairly likely to
+work.  You could then try hydrolyzing the compound with OH-, and hope that
+the SH will hydrolyze and that the NH2 will stay intact.  The 3- and 5-
+positions are vulnerable to nucleophilic attack (unlike many aromatics),
+because of the nitrogen.  This hydrolysis would be a bit more of a gamble,
+though I would say the odds are in favor of it working (at least if you can
+get the conditions right).
+
+        If this fails, you might want to take malonitrile and then form an
+imidate using PhCH2O-, to give a benzyl monoimidate, then doing the py/H2S
+reaction with the other nitrile. The thing is  this gets tricky because you
+have to selectively produce the monoimidate, and there is no difference in
+reactivity between the two cyano groups in malonitrile. Also, I don't know
+whether an imidate would react with py/H2S, complicating the issue still
+further. You could solve the first problem by making the benzyl imidate
+from the corresponding monoamide, 2-cyanoacetamide (which I see is cheaply
+available). However if the second problem is real, then you still have to
+face that. If the imidate survives, then you get the following route to
+your amine:
+
+NH2-CO-CH2-CN + PhCH2OTf ===> PhCH2O-C(=NH)-CH2-CN ===>
+
+          HN         NH
+           \\       // 
+            C--CH2--C
+           /         \
+   Ph-CH2-O           SH
+
+and this should cyclize to give the desired isothiazole with persulfate.
+After the Sandmeyer rxn etc, you should end up with the cyano compound, and
+if you choose the reducing agent well you can probably both reduce off the
+benzyl to leave OH and also reduce -CN to CH2NH2 in one step.
+
+        You are quite right about the stability of the isothiazole system.
+once I thought about it some more I realized that the lone pair on the ring
+N is tied up at 90 degrees to the pi system of the ring (as it is in
+pyridine). This bends it out of the way  of conflicting with the sulfur
+lone pair which is used to provide 4 of the 6 pi electrons for aromaticity,
+and which is clearly vertical (if the ring is defined as horizontal). The
+second S lone pair is pointing away from the ring also. So whereas a system
+R-CH=N-S-R would be too unstable to even exist (I would guess) in an open
+chain, when in this ring it is in fact very stable. Since the same
+arguments also apply to muscimol itself, I can see why it has unusual
+stability for an N-O compound.
+
+-------------------------------------------------------------------------
+
+[...] as well as a couple [of papers] that was cited in  J. Chem. Soc., 
+3061 (1959), which look relevant. You should be aware that there is 
+probably a much simpler way of making your target compound, but it is 
+also true that the kind of chemistry from that time is pretty reliable 
+and easy to run, even if it is a lot of work. I was thinking along the 
+lines of:
+             O                        CH3O 
+            //                            \
+  CN--CH2--C    ==Me2SO4 or Me3BF4O==>     C--CH2--CN  ==H2S/Pyridine==>  
+            \                             //
+             NH2                        HN
+
+
+   CH3O           SH                 CH3O	                   
+       \         /                       \
+        C--CH2--C      ==K2S2O8==>        C---CH
+       //       \\                       //   \\
+      HN         NH                      N     C--NH2
+                                          \   /
+                                            S
+
+OR:
+
+(Simpler, but may not work - worth a try definitely)
+
+CN-CH2-CONH2 ==H2S/Pyridine==> H2N-CO-CH2-CS-NH2 ==K2S2O8==> 
+
+         HO
+           \
+            C---CH
+           //   \\
+           N     C-NH2
+            \   /
+              S 
+
+
+There is a good chance it would work, and would save trying to go R-OCH3 to 
+R-OH later on. However it may that it *could* mess up the diazotization step. 
+
+--------------------------------------------------------------------------
+
+I have recently synthesized a sulfur for oxygen (thio) homolog of muscimol.
+Here is an outline of the reaction. I am not including stoichiometry; the
+knowledgeable can figure that out for themselves. Also , I assume no
+responsibility for anyone's assay of this new compound, which may be toxic,
+and whose dosage level is unknown. It is highly likely, though, that this is
+a new psychedelic of high potency and powerful effect, as simple thio
+substitutions have been highly successful, ala Shulgin and phenethylamine
+homologs. I use literal IUPAC style nomenclature here, and it is not totally
+compatible with separate heterocyclic nomenclature -- but does give more 
+detail for the layman.  Here are the structures.
+
+start with or make the chain 3-amino-1-imino-1-propanol (tautomer of 
+3-amino-propionamide)
+
+	HO                                                 
+	  \                                                 
+	   C-CH2-CH2-NH2
+	  //          
+      HN         
+
+bubble this with H2S for some time with a pyridine catalyst (pyridine and 
+hydrogen sulphide is perhaps the smelliest mixture in all chemistry so use 
+a hood). this produces 1-imino-3-thioamido-1-propanol 
+  
+	HO           NH2                                      
+	  \         /                                        
+	   C--CH2--CH
+	  //        \ 
+	HN           SH
+
+react this with ammonium persulphate/NaOH for the cyclization to
+
+        HO                     HO
+           \                     \ 
+            C---CH                C---CH2
+           //   \\               //    \
+           N     C-NH2  <---->   N     C=NH 
+            \   /                 \   /
+              S                     S 
+
+        (Two isomeric resonance structures)
+
+5-amino-2-aza-3-hydroxy-1-thio-cyclopentadiene, or "5-amino-isothiazole"
+
+react with cuprous bromide to 2-aza-5-bromo-3-hydroxy-1-thio-cyclopentadiene
+react with cuprous cyanide to 2-aza-5-cyano-3-hydroxy-1-thio-cyclopentadiene
+react with HCl in stannous chloride to give the final product
+
+        HO
+           \
+            C---CH
+           //   \\
+           N     C-CH2-NH2
+            \   /
+              S 
+
+2-aza-3-hydroxy-5-methylamino-1-thio-cyclopentadiene (which could also be 
+called "5-aminomethyl-isothiazole" or "thiomuscimol"). It is a tautomer of 
+the structure 5-(aminomethyl)-3-(2H)-isothiazolone, seen at the top of this
+file. 
+
+This is just the outline. details can be found in published journal
+articles. If anyone qualified is interested, I will send a bibliography and
+more details to them. Again, I  assume to responsibility for the misuse of
+this unknown , untasted compound. It is currently legal to make and possess,
+but I also assume no legal responsibility for misuse of it.
+
+10/31/97   
+
+-------------------------------------------------------------------------------
+
+6/15/98 Update: 
+
+It has now been tasted up to 500 mcg, with distinct psychedelic threshold 
+effects. This makes sense, as animal studies give it a GABA-A binding affinity
+strength an order of magnitude greater than that of muscimol. I have placed 
+articles relating to this area on five email accounts for public download. 
+Go to www.yahoo.com   Click on email.
+
+The five account names are tmusc1, tmusc2, tmusc3, tmusc4 and tmusc5.
+the password for all of these is fruitbat633933. please do not erase them.
+the 63 page total is scanned in .jpg format, as it would not OCR.
+so its 9 megabytes total spread out in five .zip files.
+
+dm_telvis@yahoo.com  and   fiaof93@rocketmail.com     
+
+
+

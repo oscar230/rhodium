@@ -1,0 +1,29 @@
+THE MERCK INDEX on CD-ROM / Version 12:3 / 1999
+===============================================
+
+Monograph number:  7630.
+
+Title: Piperonylic Acid.
+
+CAS Registry number: [94-53-1]
+CAS name(s): 1,3-Benzodioxole-5-carboxylic acid;
+Additional name(s): 3,4-methylenedioxybenzoic acid; protocatechuic acid 
+   methylene ether.
+Molecular formula: C8H6O4 ;
+Molecular weight: 166.13.
+Percent Composition: C 57.84%, H 3.64%, O 38.52%.
+
+Literature references: Occurs in Paracoto bark. Prepd by permanganate 
+   oxidation of piperonal: Shriner, Kleiderer, Org. Syn. 10, 82 (1930).
+
+Properties:  Prisms (by sublimation), needles from alc, feathery crys tals 
+   from water. mp 229° . Sublimes around 210°. Slightly sol in 
+   water, chloroform, cold alcohol, ether. Absorption spectrum: Dobbie, 
+   Lauder, J. Chem. Soc. 83, 621 (1903)
+
+Melting Point: 229°
+
+Derivative:  Methyl ester,
+Molecular Formula: C9H8O4 ,
+Properties:  mp 53° . Sublimes easily. Volatile in steam. Freely sol in alcohol, ether
+Melting Point: 53°

@@ -1,0 +1,102 @@
+/* This file originally found at http://www.erowid.org/archive/rhodium/chemistry/web/chemstyles.css */
+a:link	{ color: #6600FF; text-decoration: none; }
+
+a:visited	{ color: #2200BB; text-decoration: none; }
+
+a:hover	{ color: #CC0000; text-decoration: underline; }
+
+a:active	{ color: #CC0000; text-decoration: none; }
+
+body	{
+	background-color: #000000;
+	background-image: url("starfield.gif");
+	color: #6600FF;
+	font-family: verdana, sans-serif;
+	font-size: 10px;
+	text-align: center;
+}
+
+div 		{
+	border: thin dashed #6600FF;
+	margin: 5px;
+	padding: 10px;
+}
+
+div#bee   	{
+	float: left;
+	height: 100px;
+	text-align: center;
+	width: 220px;
+}
+
+div#copyright 	{
+	border: thin dashed #2200BB;
+	margin: 20px;
+	width: 480px;
+}
+
+div#copyright p 	{
+	color: #2200BB;
+	font-size: 10px;
+	margin: 10px;
+	text-align: justify;
+}
+
+div#header	{ border: none; text-align: center; width: 700px; }
+
+div#plugins 	{
+	float: right;
+	height: 100px;
+	text-align: left;
+	width: 410px;
+}
+
+div#plugins p 	{
+	color: #6600FF;
+	font-size: 12px;
+	margin-bottom: 3px;
+}
+
+div#search	{ float: left; height: 125px; width: 410px; }
+
+div#search p 	{ color: #6600FF; font-size: 15px; text-align: left; }
+
+div#zip    	{ float: right; height: 125px; width: 220px; }
+
+div.filelist		{ border: none; text-align: left; width: 700px; }
+
+div.topdiv	{ border: none; height: 450px; width: 700px; }
+
+form 	{ margin: 0px; }
+
+h2 	{
+	color: #FFEE00;
+	font-size: 20px;
+	margin-top: 10px;
+	text-decoration: none;
+}
+
+h3 	{
+	color: #8800BB;
+	font-size: 18px;
+	margin: 0;
+	text-decoration: none;
+	text-indent: 28px;
+}
+
+ul 	{ margin-bottom: 5px; margin-top: 5px; }
+
+ul li 	{
+	font-size: 12px;
+	list-style-image: url("bullet.gif");
+	margin: 0px;
+	padding: 0px;
+}
+
+.new {
+	color: #FFFFFF;
+	cursor: help;
+	font-family: "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}

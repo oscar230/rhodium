@@ -1,0 +1,279 @@
+
+The following summary may interest people who want to experiment with the
+conversion of styrenes to nitrostyrenes[13], the oxidation of alcohols to
+carbonyl compounds [14, 16] or other reactions supported on K10 clay [15].
+
+Check out ref. 16 for the conversion of phenyl acetic acids to
+benzaldehydes or conversion of phenethylamine to phenylacetaldehyde.
+
+--------------------------------------------------------------------------
+
+Reactions assisted by clays and other lamellar solids - a survey. [1]
+
+ACIDITY OF CLAYS AND TYPES OF CLAY CATALYSTS
+
+The vast majority of clay catalysts used by organic chemists are based on
+the naturally occurring smectite clay, montmorillonite (also known as
+bentonite). This clay has an aluminosilicate structure which can be
+compared to a multi-decker ham sandwich. The bread layers represent the
+extended aluminosilicate sheets where two external tetrahedral silica
+groups surround internal octahedral alumina groups in a tetrahedral
+octahedral tetrahedral ('TOT') structure. The ham represents an
+interlamellar water layer containing dissolved cations.
+
+The montmorillonites are a group of TOT-type clays in which isomorphous
+substitution of some of the octahedral aluminium(III) atoms by
+magnesium(II) or iron(II) atoms has taken place, with the result that the
+sheet retains a residual negative charge. In the naturally occurring form,
+this charge is balanced by the introduction into the water layer of
+interlamellar cations such as Na+ or Ca2+, some cations also occupying
+broken edge sites. Different deposits of montmorillonites can be found in
+which there are between 25 and 125 mequiv. of exchangeable cation per 100 g
+of clay. Such smectite clays have the added property of swelling in the
+presence of either water or a host of organic molecules, when the
+interlamellar distance between the sheets increases to accommodate the
+guest molecules.
+
+Natural montmorillonite clays have almost no catalytic activity, but it is
+relatively easy to convert them into useful catalysts by either (a) acid
+treatment or (b) cation exchange with polyvalent ions such as AI3+ or Cr3+.
+These cations can polarise their coordinated water molecules to yield
+protons in the interlamellar zone (equation 1)
+
+[Al(OH2)6]3+  -->  [Al(OH2)5(OH)]2+   +  H+    (equation 1)
+
+However, even mild acid ion-exchange of the natural clays can cause partial
+leaching of aluminium from the octahedral layer, resulting in de-lamination
+of the aluminosilicate sheets, providing a less crystalline
+aluminium-exchanged clay. Treatment of natural montmorillonites with strong
+mineral acids causes considerable de-lamination of the structure, producing
+an increase in surface area, particularly at the sheet edges, as well as
+adsorption of quantities of acid onto both external and internal surfaces.
+The tetrahedrally substituted smectite clay, beidellite, can also be used
+to prepare acid catalysts with high acidity by cation exchange.
+
+Clay catalysts have been shown to contain both Bronsted and Lewis acid
+sites, with the Bronsted sites mainly associated with the interlamellar
+region and the Lewis sites mainly associated with edge sites. The acidity
+of the ion-exchanged clays is very much influenced by the quantity of water
+between the sheets. If the clay is heated (to around 100 C) so as to remove
+most of the interlamellar water until only 'one layer' of water remains, at
+about 5% total water level, the Bronsted acidity increases markedly to that
+of a very strong acid indeed. Heating to a higher temperature (at around
+200-300°C) results in collapse of the clay interlayer structure as the
+water is driven out, resulting in a decrease in Bronsted acidity but an
+increase in Lewis acidity. Further heating (to around 450°C and above)
+results eventually in complete dehydroxylation of the aluminosilicate
+lattice, producing a completely amorphous solid that retains Lewis acidity.
+
+The swelling properties of montmorillonite and beidellites can be employed
+to manufacture 'pillared clays'. Large polyatomic inorganic ions can be
+intercalated into the swelled clay and then modified by heat treatment, so
+as to produce inorganic pillars that hold the roof up at a larger than
+normal interlamellar distance. Pillared clays can be prepared that have
+pore sizes larger than most zeolites, as well as having increased
+thermostability over normal layered clays, and much activity has been
+concentrated in incorporating transition metal elements into pillared clays
+to provide useful inorganic catalysts.
+
+However, organic chemists with synthesis in mind have so far confined their
+interest to the swellable montmorillonite clays, and almost all of their
+clay catalysts have been either (a) acid-treated clays such as K-l0, or
+ion-exchanged clays such as Al3+, Cr3+ or H+ exchanged Wyoming or Texas
+bentonites. Further details of clay structures are given in Chapter 1.
+
+The acid-treated and cation exchanged clays can be simply regarded as solid
+acids and act as heterogeneous catalysts, with all of the advantages of
+easy removal of the catalyst from the products. Acid-treated clays, because
+of their increased surface area and swelling properties, have also been
+widely used as solid supports for inorganic reagents such as potassium
+permanganate, thallium(III) nitrate and both copper(II) and iron(III)
+nitrates.
+
+The ion-exchanged clays have mostly Bronsted acidity in the interlamellar
+zone and so are characterized by promoting acid-catalysed reactions often
+of a bimolecular type between protonated and neighbouring unprotonated
+reactants.
+
+PREPARATION OF CLAY CATALYSTS
+
+Organic chemists can purchase ready-made acid-treated montmorillonite
+catalysts from a variety of commercial sources. Sud-Chemie AG, of Munich,
+West Germany, produce K-10, KSF and Tonsil acid-treated clays, of which
+K-10 can be obtained in Europe from Fluka AG and in America from Aldrich
+Chemical Co., and this easy availability has meant that organic chemists
+have made most use of this material. Additionally, Filtrol clays are
+manufactured by the Filtrol Corporation in Los Angeles, USA, and a series
+of clays (Fulmont, Fulbent and Fulcat) are produced by Laporte Industries,
+Widnes, England.
+
+Ion-exchanged clays, e.g. Al3+ exchanged montmorillonite, are simply
+prepared by suspending the clay in water containing low concentrations (ca.
+0.5 M) of salts of the cation to be introduced. The clay is then washed by
+decantation or centrifugation to get rid of most of the exchanged sodium
+cations and then dialysed until the supernatant is free of sodium ion.
+
+Pillared clays have an important role to play as industrial catalysts, but
+to date have not been used much by practising organic chemists for
+synthesis purposes and hence their preparation will not be detailed here.
+
+Clay-supported reagents have mainly been prepared by depositing inorganic
+materials on clay supports. Potassium permanganate/montmorillonite is
+prepared by grinding potassium permanganate and montmorillonite together as
+dry powders in approximately equal quantities. Reactions are carried out by
+refluxing the resultant solid in dichloromethane with the appropriate
+substrate.
+
+Thallium(III) nitrate/K-10 (TTN/K-10) is prepared by stirring K-10
+montmorillonite with a solution of thallium(III) nitrate in a mixture of
+methanol and trimethyl orthoformate, then evaporating to dryness. The
+resultant free-flowing solid catalyst is stable in a well-stoppered bottle
+for months.
+
+Claycop [copper(II) nitrate/K-10] and Clayfen [iron(III) nitrate/K-10] are
+prepared by adding K-10 montmorillonite to the acetone solvate of the
+inorganic nitrates and removing the solvent under vacuum.
+
+--------------------------------------------------------------------------
+
+Clay-Supported Copper(II) and Iron(III) Nitrates [ref. 2]
+
+Choice of an Acidic Clay as Support
+
+Supported reagents have the following assets of which points 4-6 were the
+most immediately important for our purposes:
+
+1. restricted diffusion of the reaction partners
+2. microenvironments of differing polarity, and with acidic or basic sites;
+3. enzyme-like pockets to bind the substrate;
+4. activation or stabilisation of the reagents;
+5. promotion of selective modes of reaction;
+6. ease of work-up by immobilisation of by-products, or of toxic chemicals.
+
+K10 clay, an inexpensive acidic industrial catalyst [K10 clay is made by
+Sud-Chemie (Munchen); montmorillonite K10 is also available from Fluka],
+was chosen as the support after a comparison with other clays (natural or
+industrial), sand, silica gel, titanium dioxide, acidic alumina, and
+zeolites. These other possible inorganic supports either deactivate the
+reagent or present theological properties after impregnation incompatible
+with an easy experimental set-up and work-up. [3, 4]
+
+A considerable amount of data dealing with the interaction of layer
+silicates with organic molecules, and with clay-activated organic
+reactions, has accumulated recently. A general and quite exhaustive
+introduction to the subject was published in 1974.[5]  Updated data are
+available from recent reviews[6, 7, 8], or from individual papers.
+Unfortunately, this new chapter of organic chemistry has yet to be indexed
+in a standardised form: it is thus advisable to scan geology and soil
+science literature, in addition to chemical publications, when seeking
+bibliographic information.
+
+The Reagents
+
+Preparation of Clay-Supported Iron(III) Nitrate (Clayfen)
+
+Whereas these procedures worked out very safely in our hands, nitrates are
+potentially dangerous compounds, and appropriate caution is to be applied
+in each step. In particular, we urge to avoid confinement conditions, and
+we recommend to proceed to scaling-up only after appropriate safety tests.
+
+Clay-Supported Iron(III) Nitrate (Clayfen) [4, 9]
+
+Iron(III) nitrate nonahydrate (22.5 g) is added to acetone (375 mL) in a 1
+litre, pear-shaped evaporating flask. The mixture is stirred vigorously for
+~ 5 min until complete dissolution of the crystals of hydrated iron(III)
+nitrate. The first-formed homogenous rusty brown solution turns after a
+short time into a muddy, light brown suspension. K 10 clay (30 g) is added
+in small amounts and stirring is continued for another 5 min. The solvent
+is then removed from the resulting suspension under reduced pressure
+(rotary evaporator) on a water bath at 50 C. After 30 min. the dry solid
+crust adhering to the walls of the flask is flaked off and crushed with a
+spatula, and rotary evaporator drying is resumed for another 30 min. This
+procedure yields K10 clay-supported iron(III) nitrate (Clayfen) as a
+yellow, floury powder; yield: ~ 50 g.
+
+Warnings:
+
+1. Prolonged heating, or use of a bath temperature > 50 C may yield an
+   unstable reagent, which decomposes in a vigorous exothermic reaction, with
+   emission of a large amount of nitrogen dioxide fumes. This decomposition
+   generally takes place within 15 min after the end of an incorrect
+   preparation of Clayfen.
+
+2. Preparation of Clayfen includes flaking off of the dry solid crust
+   formed in the evaporator. The physical state of the reagent at this step
+   is crucial: if this removal is performed while the solid is still a
+   little muddy, it will aggregate in spheres that remain wet inside. and
+   the resulting reagent will display little or no activity, or will
+   decompose as described above. This difficulty will be best avoided by
+   strict observance of the experimental conditions described (quantities,
+   flask volume and shape).
+
+3. Clayfen, spontaneously, slowly loses nitrous fumes, and should never he
+   stored in a closed flask.
+
+Stability of Clay-Supported Iron(III) Nitrate (Clayfen)
+
+Left in air contact at room temperature, Clayfen retains its activity for
+only a few hours. It may be stored for a few days and retains its activity
+when it is covered with n-pentane immediately after preparation; the
+hydrocarbon is evaporated prior to use. It is a good practice to use only
+freshly prepared reagent: it loses about 40 % of its reactivity upon
+standing exposed to air for 4 h, or under n-pentane for 24 h.
+
+The thermal stability of Clayfen was investigated by differential
+calorimetric analysis. Above 59°C, it decomposes with an enthalpy release
+of ~ 20 cal/g. This is a first order process, with calculated half-lives of
+53 min at 69 C (in boiling n-hexane, for instance) or of 14 min at 80 C
+(the temperature of boiling benzene). In our experience the latter is the
+upper temperature limit for the practical use of Clayfen.
+
+Clay-Supported Copper(II)Nitrate (Claycop)
+
+This reagent, also based on a salt forming covalent bidentate complexes
+upon dehydrations [10,11], shows no loss of reactivity in the applications
+described hereafter, even after standing in an open powder box for one
+month. In our hands, it never underwent any spontaneous decomposition.
+
+Clay-supported Copper(II) Nitrate (Claycop) [12]
+
+Clay-supported copper(II) nitrate (Claycop) is prepared in a process
+similar to the preparation of Clayfen, by adding K10 clay (30 g) to a
+solution of copper(II) nitrate trihydrate (20 g) in acetone (375 ml). The
+resulting suspension is placed in a rotary vacuum evaporator and the
+solvent is eliminated under reduced pressure (water jet aspirator) on a
+water bath at 50 C. After 30 min. the dry solid crust adhering to the walls
+of the flask is flaked off with a spatula, and vaporation is resumed for
+another 30 min in the same conditions, giving Claycop as a light blue,
+free-flowing powder; yield: ~ 50 g.
+
+For examples of applications of Clayfen, Claycop and K10 see references
+13,14,15.
+
+References:
+
+1.  J A Ballantine in Chp 4. p100-103. In "Bologh, Laszlo, Organic
+    Chemistry Using Clays", 1993, Springer-Verlag.
+2.  From "Clay-Supported Copper(II) and Iron(III) Nitrates: Novel
+    Multi-Purpose Reagents for Organic Synthesis. A Cornelis, P Laszlo.
+    Synthesis 1985, 909-918.
+3.  Cornelis, Laszlo & Pennetreau, Clay Miner 1983, 18, 437; CA 1984, 100, 102362.
+4.  Cornelis, Laszlo & Pennetreau, Bull. Soc. Chim. Belg. 1984, 93, 961
+5.  B. Theng, The Chemistry of Clay-Organic Reactions, Wiley NY, 1974.
+6.  McKillop & Young, Synthesis 1979, 401, 481.
+7.  Theng, Dev. Sedimentol. 1982, 35, 197; CA 1982, 97, 197524;
+8.  Lagaly, Phil. Trans. R. Soc. Lond. A 1984, 311, 315
+9.  Cornelis & Laszlo, Synthesis 1980, 849.
+10. Addison. Prog. Inorg. Chem. 1967, 8, 195.
+11. Addison, Logan, Wallwork, Garner. Q. Rev. Chem. Soc. 1971, 25, 289.
+12. Bologh, Hermecz, Meszaros, Laszlo. Helv. Chim. Acta 1984, 67, 2270.
+13. Selective Nitration of Styrenes with Clayfen and Clayan: A Solvent-free
+    Synthesis of beta-Nitrostyrenes. Rajender S. Varma, Kannan P. Naicker
+    and Per J. Liesen. Tetrahedron Letters 39 (1998) 3977-3980.
+14. Varma, R.S.; Dahiya, R. Tetrahedron Lett. 1997,38. 2043;
+15. Sodium Borohydride on Wet Clay: Solvent-free Reductive Amination of
+    Carbonyl Compounds Using Microwaves. Rajender S. Varma and Rajender
+    Dahiya. Tetrahedron 54, 6293-8 (1998)
+16. Varma & Dahiya. Tetr. Lett. 39 (1998), 1307-8.
+
+--------------------------------------------------------------------------

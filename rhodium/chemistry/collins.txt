@@ -1,0 +1,24 @@
+ReFlux 
+
+A Better method for oxidation of the alcohol is using in-situ prepared
+Chromium Trioxide-Pyridine complex in methylene chloride. For best results
+use 6:1 molar excess of reagent @ room temp. General proc. as follows:
+
+6.00g (60 mmol) of Cr03 is added at room temp. to a stirring soln. of 9.49g
+(120 mmol) of Pyridine in 150ml of methylene chloride (DCM). After approx.
+15 min of stirring a soln of the Alcohol (10 mmol) in a small volume of DCM
+is added in one portion. A tarry black deposit seperated immediately. After
+stirring for an additional 15 min. at room temp, the soln. is decanted from
+the residue, which is washed with 200ml of ether. The combined organic
+soln. are washed successively w/ 5% aq. NaOH, HCl, Sodium Bicarbonate, and
+NaCl. It is then dried over anhydrous Magnesium Sulphate. Evap. of the
+solvent at reduced pressure affords crude aldehyde.
+
+Notes: If large scale rxns are attempted then use ice-bath cooling during
+the Cr03 addition and mechanical stirring.
+
+The advantages are that there is no risk of explosion/fire and the yields
+are extremely high. If the reaction is allowed to continue for 24-48hrs
+then near quantitative yeilds of the aldehyde can be obtained. Also,
+over-oxidation to a carboxalic acid will not occur.
+
