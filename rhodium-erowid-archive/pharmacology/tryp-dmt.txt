@@ -16,7 +16,7 @@ chemistry and effects of tryptamine:
 
 page 283.
 
-   ..... Almost forty years ago a researcher in the National institute
+  ..... Almost forty years ago a researcher in the National institute
    of Mental Health, in Maryland, discovered an enzyme in rabbit lung
    that could transfer a methyl group to a tryptamine from the amino
    acid donor, S-adenosyl-methione. With this system, sorotonin gave
@@ -41,7 +41,7 @@ page 582.
    of the amino acid L_methionine produced in about half of these
    patients a toxic or deliriod state."
 
-   ...... Tryptophan, a natural and nutritionally essential amino-acid,
+  ...... Tryptophan, a natural and nutritionally essential amino-acid,
    is a centrally active intoxicant and sleep provider in man. It is
    converted metabolicaly to tryptamine, which is a little bit
    psychedelic.  When administered with methionine (another amino-acid
