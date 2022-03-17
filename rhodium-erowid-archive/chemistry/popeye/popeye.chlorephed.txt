@@ -38,19 +38,19 @@ O.Y.Magidson & G.A. Garusha, J. Gen. Chem. (USSR),11, 339 (1949)
  Preparation of Four Phenylpropylamines by Catalytic Hydrogenation  Hartung
 & Munch, J.Am Chem Soc. 53,1875(1931)
 
-Allen, AC, and Kiser, WO.  Methamphetamine from ephedrine: I.
-chlorephedrines and aziridines.  _J F S_. 32:953-962.  (1987).
+Allen, AC, and Kiser, WO. Methamphetamine from ephedrine: I.
+chlorephedrines and aziridines. _J F S_. 32:953-962. (1987).
 
                         *SPECIAL DISCLAIMER*
 If you have read to this point, you should know better than to try and use
-this as a procedure.  If you skipped anything, maybe you should go back and
-read it.  If you are interested as to whether or not this is viable, then
+this as a procedure. If you skipped anything, maybe you should go back and
+read it. If you are interested as to whether or not this is viable, then
 follow the thread (if there is one)...these are questions, not answers.
 
 
                         *standard disclaimer*
  It should be obvious that I am not a chemist. Merely a chemHacker
-experienced in certain chemical processes/techniques.  This is not one of
+experienced in certain chemical processes/techniques. This is not one of
 them.
  This is not intended as a procedure.
  All responses expounding ethical and/or moral pretences will be mutilated
@@ -58,7 +58,7 @@ for entertainment purposes and your addressing circulated amongst low-life
 scooter-trash.
  This describes illegal activity, this is posted cross-eyed and double
 blind anonymous, I could be making this up, I have already been publicly
-denounced, don't try this in Tupperware...  I have hereby disclaimed, you
+denounced, don't try this in Tupperware... I have hereby disclaimed, you
 have been warned....be careful in realTime, remember to keep your mouth
 shut.
                           *disclaimer over*
@@ -85,16 +85,16 @@ externally vented, taking care that no back pressure is created. Leave the
 stir plate set at a low RPM and use a big stir bar, so as not to induce too
 violent a reaction.
 
-  It will take up to an hour for all the l-Ephedrine to dissolve.   After
+  It will take up to an hour for all the l-Ephedrine to dissolve.  After
 it has done so, let react for another hour, then add 1L chilled diethyl
-ether, transfer flask to ice bath. Do not disturb 1 hr.    Precipitation
-should occur.  Filter, discard  the filtrate & rinse the  crystals  with
-more chilled ether, vaccuum dry .  The yield after recrystallization of
+ether, transfer flask to ice bath. Do not disturb 1 hr.   Precipitation
+should occur. Filter, discard  the filtrate & rinse the  crystals  with
+more chilled ether, vaccuum dry . The yield after recrystallization of
 this intermediate should be equal to the mass of the l-Ephedrine precursor.
 
 (2) The first step in this process as described is
       a) accurate
-      b) not quite right.  Here's why...
+      b) not quite right. Here's why...
       c) OK, but you forgot to ...
       d) an indication that any endeaver in this direction shoud be abandone=
 d
@@ -110,21 +110,21 @@ d
         e)other...
 
  and gently refluxed for 1 hour,  The  solution should turn to  a deep
-burgundy color.  Now strip  volatiles 'in vacueo'.
+burgundy color. Now strip  volatiles 'in vacueo'.
 
 (4)     True/False:  Carefully boiling/distilling off volatiles will work
-if no vaccuum is available.  When boiling has ceased at 110=BA C go to next
+if no vaccuum is available. When boiling has ceased at 110=BA C go to next
 step.
 
 
 Now add 1L chilled diethyl ether, place flask in ice bath, chlorephedrine
-intermediate should precipitate once again.  The crystals are filtered out.
+intermediate should precipitate once again. The crystals are filtered out.
 The yield after recrystallization of this intermediate should be equal to
 the mass of the l-Ephedrine precursor.
 
 (5) The second step described here is
         a) accurate
-        b) not quite right.  Here's why...
+        b) not quite right. Here's why...
         c) OK, but you forgot to ...
         d) totally wrong, try this instead...
         e) unnecessary
@@ -138,13 +138,13 @@ the mass of the l-Ephedrine precursor.
         b) ___ gms 10% palladium on carbon
         c) ___ gms 10% palladium on carbon or ________
         d) other _______
-                               and enough Hexane to moisten.  Measure
+                               and enough Hexane to moisten. Measure
 1.25Ls of methanol, set one quarter of it aside,   add remaining methanol
 and chlorephedrine intermediate to beaker w/ amalgam,  stir, then transfer
-the contents to a pressure vessel.  Now use the remaining alchohol to rinse
+the contents to a pressure vessel. Now use the remaining alchohol to rinse
 any residue remaining and add.
 
-Seal the pressure vessel and attach it to a shaker.  Purge it 3 times with
+Seal the pressure vessel and attach it to a shaker. Purge it 3 times with
 40psi Hydrogen gas then pressurize to 40-60 psi and start shaker.
 Repressurize whenever psi falls below 20lbs. Continue until the pressure no
 longer falls, between  0.5 to 2 hours.
@@ -153,16 +153,16 @@ Let stand another hour before releasing pressure through an aspirator into
 a safe exhaust.
 
 Combine contents of aspirator and pressure container into a  glass vessel
-which can be stoppered. Rinse containers with methanol and add.  The
+which can be stoppered. Rinse containers with methanol and add. The
 holding vessel should then be filled to the top with methanol to purge the
 air and prevent any wierd oxidation catastrophes, then stoppered.
 
-Let sit for a few hours until Pd/C settles out.  Carefully suction out the
-reaction mixture without disturbing Pd/C sedimentation.  To increase yield,
+Let sit for a few hours until Pd/C settles out. Carefully suction out the
+reaction mixture without disturbing Pd/C sedimentation. To increase yield,
 refill container with methanol and repeat last step. Now, filter solution
 until it is free of catalyst, adding more methanol to carry solution
 through filtercake as necessary, solution of oil/methanol is orange colored
-when clean.  Now strip  methanol from oil 'in vaceuo'.
+when clean. Now strip  methanol from oil 'in vaceuo'.
 
 (7) In this case, the hydrogenation process:
         a) works fine with Methanol as a solvent
@@ -170,12 +170,12 @@ when clean.  Now strip  methanol from oil 'in vaceuo'.
 
 (8) The hydrogenation step in this process, as described, is
       a) accurate
-      b) not quite right.  Here's why...
+      b) not quite right. Here's why...
       c) OK, but you forgot to ...
       d) lethal
 
 (9)     True/False:  Carefully boiling/distilling off volatiles will work
-if no vaccuum is available.  When boiling has ceased at 110=BA C go to next
+if no vaccuum is available. When boiling has ceased at 110=BA C go to next
 step.
 
 
@@ -211,9 +211,9 @@ Crystallization and consumption:
 
 Quickly add anhydrous oil to the cold ether,  fill jugs to top with more
 ether, stopper and  keep them as cold as you can, crystallization may be
-immediate or take a few days.  Either way, crytals may continue to form for
-up to two weeks.  Switch to regular ice and rock salt after dry ice
-evaporates.   Never put ether medium in the freezer because fumes can be
+immediate or take a few days. Either way, crytals may continue to form for
+up to two weeks. Switch to regular ice and rock salt after dry ice
+evaporates.  Never put ether medium in the freezer because fumes can be
 ignited by sparking relay or compressor motor which will result in rapid
 dekitchenation.
 
@@ -241,8 +241,8 @@ product from pseudoephedrine
 
                         *final disclaimer*
 I am not 'in the business', I have grown weary of 'the business' and
-worrying about the cops.  It is interesting to note that the existence of
-one is very much dependent upon the health of the other.   You would do
+worrying about the cops. It is interesting to note that the existence of
+one is very much dependent upon the health of the other.  You would do
 good to avoid both. If you think about it, that is where the real value of
 this Newsgroup lies.
                                                 -POPEYE-

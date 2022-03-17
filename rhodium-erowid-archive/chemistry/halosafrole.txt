@@ -72,10 +72,10 @@ dump it in. And whatever you do save whats in the recieving side.
 Mainly i used to buy the 33% HBr in GAA from a chem supplier, but I also bought
 anhydrous HBr gas in cylinders and would make the solution myself. Both worked
 great, but I dont know how easy it is to aquire some nowadays - I dont have that
-problem. At around 20mmHg the bromosafrole would start distill at 175-185°C and
-continue to rise slowly until it reached 212°C, where decomposition occurred.
-I generally  would stop at 205°C, but sometimes it decomposes even if you're
-careful.  I suggest you to be prepared, and check for vaccuum leaks very
+problem. At around 20mmHg the bromosafrole would start distill at 175-185ï¿½C and
+continue to rise slowly until it reached 212ï¿½C, where decomposition occurred.
+I generally  would stop at 205ï¿½C, but sometimes it decomposes even if you're
+careful. I suggest you to be prepared, and check for vaccuum leaks very
 carefully. Bromosafrole is generally a clear, reddish-brown sweet-smelling oil.
 
 The proportions were 1L 33% HBr in acetic acid to 450ml safrole.
@@ -87,7 +87,7 @@ I've distilled quite a bit of bromosafrole myself, and can tell you that a highe
 vacuum will prevent that rapid charcoal-decomposition-volcano from occurring.
 The decomposition is occuring because the still pot is getting WAY too hot.
 When you only have a few ml's left in the still pot (about 50), cool it down
-and transfer the remaining liquid to a smaller 100ml flask.  This should allow
+and transfer the remaining liquid to a smaller 100ml flask. This should allow
 distillation of the last traces of bromosaf without a problem.
 
 --------------------------------------------------------------------------------
@@ -233,9 +233,9 @@ Date:         1997/11/08
 
 > Man, this has to be some of the most confusing research I've done.
 > Could someone (Eleusis, maybe....) tell me exactly which method for
-> brominating safrol with 48% HBr actually works.  My #1 so far seems to
+> brominating safrol with 48% HBr actually works. My #1 so far seems to
 > be starting with MDP-2-Pol and brominating like Fester told us way back
-> when chemistry worked differently (apparently).  This would seem to
+> when chemistry worked differently (apparently). This would seem to
 > drive the reaction towards the bromnation side, due to the willingness
 > of that alcohol to leave in place of Br.
 > So c'mon, gimme some insights.
@@ -245,7 +245,7 @@ library you will find books that you can read.
 
 When you've discovered how it's done you can post your results to a.d.c for
 the rest of us to read. You can connect to www.deganews.com and read old
-Eleusis and ZWITTERION posts on this topic.  I include a couple below.
+Eleusis and ZWITTERION posts on this topic. I include a couple below.
 
 Otherwise you'll have to contend with me taking the piss out of you.
 
@@ -256,15 +256,15 @@ wouldn't want to brominate it at all. I'd oxidise it to MDP-2-P and
 reductively aminate the ketone to MDMA.
 
 If I wanted bromo-safrole I'd make it from safrole using a phase-transfer
-catalyst to allow non-polar safrole to mix with polar aq. 47% HBr.  More
+catalyst to allow non-polar safrole to mix with polar aq. 47% HBr. More
 likely, I'd use aq. 37% HCl or, I presume, even aq. 32% HCl would work to
-give chloro-safrole.  See: Addition of hydrohalogen acid to alkenes:
-Landini & Rolla, JOC 45, 3527, (1980).  JOC = Yes, that's Journal of
-Organic Chemistry to you.  Phase-transfer catalysts can be extracted from
+give chloro-safrole. See: Addition of hydrohalogen acid to alkenes:
+Landini & Rolla, JOC 45, 3527, (1980). JOC = Yes, that's Journal of
+Organic Chemistry to you. Phase-transfer catalysts can be extracted from
 hair and fabric conditioners. The cationic surfactants mentioned on the
 ingredients of such stuff will easily suffice as phase-transfer catalysts.
 But remember, when you use a surfactant to mix two immiscible phases you
-must stir them at 500 rpm or better, otherwise nothing will happen.  Keep
+must stir them at 500 rpm or better, otherwise nothing will happen. Keep
 the temperature on the low side otherwise you'll zap that delicate
 methylenedioxy bond. So, why are you phaffing about with 47% HBr when you
 can walk over to the local hardware shop and do something similar with 32%
@@ -304,7 +304,7 @@ Date: 18 Apr 1994 17:10:03 -0600
 
 	This is an MDMA sysnthesis I OCR's out of my copy of _Secrets of
 Methamphetamine Manufacture_, which will probably end up being the one
-that I put in the next revision of my MDMA FAQ.  I thought I'd also post
+that I put in the next revision of my MDMA FAQ. I thought I'd also post
 it as a separate file as well.
 
 	-Jon
@@ -442,72 +442,72 @@ PREPARATION OF BROMOSAFROLE FROM 48% HYDROBROMIC ACID
 
 A greatly improved procedure using 48% HBr to make bromosafrole is my own
 invention, and it is with unbounded pride that I offer this advance to the
-field of MDA manufacture.  This procedure is both quicker and much higher
+field of MDA manufacture. This procedure is both quicker and much higher
 yielding than the procedure worked out by the jackass who wrote the article
-for the Alabama Academy of Science cited earlier.  This so-called researcher
+for the Alabama Academy of Science cited earlier. This so-called researcher
 was hired by the DEA to fool around with 48% HBr to see if it could be used
-to make MDA or MDMA from sassafras oil.  They had busted someone with 48% HBr
+to make MDA or MDMA from sassafras oil. They had busted someone with 48% HBr
 and a load of sassafras, and to make their case they needed to show that it
-could be done.  The result is a testimonial to the power of money - for it,
-some people will say anything.  I just wonder who is rotting away in a cage
+could be done. The result is a testimonial to the power of money - for it,
+some people will say anything. I just wonder who is rotting away in a cage
 as a result of his inflated claims.
 
 You bought this book for the straight poop, so let your Uncle be your guide.
 To get good yields of bromosafrole from 48% HBr and sassafras oil, mix one
 part sassafras oil with one part glacial acetic acid and two parts 48% HBr
-in a suitable-sized flask.  Chill this mixture down in ice, then with strong
+in a suitable-sized flask. Chill this mixture down in ice, then with strong
 magnetic stirring pass a stream of dry HCl gas into the solution for about
-an hour.  See Chapter 5 for the dry-HCI gas-generator.  How much HCl to pass
+an hour. See Chapter 5 for the dry-HCI gas-generator. How much HCl to pass
 into solution?  Well, for a batch using 50 ml of sassafras oil, the amount of
 dry HCl generated by dripping 75 to 100 ml of sulfuric acid onto a half-full
 500 ml flask of salt-hydrochloric-acid paste is about right. A little bit
-more wouldn't hurt.  Good ventilation is required!
+more wouldn't hurt. Good ventilation is required!
 
 As the dry HCI passes into the solution, it dehydrates the 48% HBr, causing
 it to react with the safrole. The dehydration and the reaction both generate
 a good deal of heat, so fresh ice will periodically have to be put into the
-bath around the reaction flask.  The temperature of the reaction shouldn't
-be allowed to rise above 10-15° C. The reaction mixture first turns green
-then blue, then purple, and finally burgundy.  When the bubbling with dry
+bath around the reaction flask. The temperature of the reaction shouldn't
+be allowed to rise above 10-15ï¿½ C. The reaction mixture first turns green
+then blue, then purple, and finally burgundy. When the bubbling with dry
 HCl is finished, stopper the flask and continue stirring in the cold for two
 days. Sometime around a day into this stirring, no separation of phases can
 be seen when stirring ceases.
 
 The amount of dry HCl produced by dripping sulfuric acid onto salt will vary
 with the exact conditions, so the batch should be checked for reaction before
-quenching it on ice.  It doesn't hurt to add too much dry HCl, within limits,
-but too little won't dehydrate the acid sufficiently.  To check this, after
+quenching it on ice. It doesn't hurt to add too much dry HCl, within limits,
+but too little won't dehydrate the acid sufficiently. To check this, after
 the day of stirring is done, pour some of the reaction mixture into a beaker,
-then from beaker, return it to the reaction vessel.  This leaves a coating of
-the reaction mixture on the glass in the beaker.  Fill the beaker with water
+then from beaker, return it to the reaction vessel. This leaves a coating of
+the reaction mixture on the glass in the beaker. Fill the beaker with water
 to rinse away the fuming acids, empty it, and sniff inside the beaker for the
-aroma of the organics clinging to the glass.  If it still smells like the
+aroma of the organics clinging to the glass. If it still smells like the
 candyshop fragrance of sassafras oil, an additional bubbling with dry HCl is
-going to be required, followed by another day of stirring in the cold.  After
+going to be required, followed by another day of stirring in the cold. After
 the first batch or two, it's easy to gauge how much dry HCl one is getting.
 If the aroma has changed to something more chemical and fruity, yes just like
 phenylacetone, sufficient HCl has been added.
 
 When two days of stirring are completed, the batch is poured onto crushed ice
-as in the other methods.  When the ice has melted, a little bit of toluene is
+as in the other methods. When the ice has melted, a little bit of toluene is
 added (a volume about equal to the amount of sassafras oil used), and the
-water-bromosafrole mixture shaken.  Prior to adding toluene, the bromosafrole
+water-bromosafrole mixture shaken. Prior to adding toluene, the bromosafrole
 will likely be on the bottom of the container, but adding toluene and shaking,
-it should be floating on top.  It's still burgundy-colored.  Separate the
+it should be floating on top. It's still burgundy-colored. Separate the
 bromosafrole layer with a sep funnel, and then wash it with about 3 volumes
-of water.  Add bicarb slowly until the fizzing stops.  This will knock out
-the carried-over HBr, HCI and acetic acid.  Shake some more, then add a little
+of water. Add bicarb slowly until the fizzing stops. This will knock out
+the carried-over HBr, HCI and acetic acid. Shake some more, then add a little
 more bicarb to make sure all the acid has be neutralized.
 
 Separate the toluene-bromosafrole, and place it in a distilling flask. Distill
 off the toluene at normal pressure, then vacuum-distill the remaining
-bromosafrole.  A vacuum that distills safrole at 110°C will distill
-bromosafrole at about 140-145° C. Some chlorosafrole distills at about 125°C.
+bromosafrole. A vacuum that distills safrole at 110ï¿½C will distill
+bromosafrole at about 140-145ï¿½ C. Some chlorosafrole distills at about 125ï¿½C.
 It can be used as is, or the chlorosafrole can be converted to iodosafarole
 according to the directions found in the "Psychedelic Amphetamine" chapter in
-this book.  The yield is about 66-75% conversion to bromosafrole, with the
-remainder being unconverted safrole and chlorosafrole.  Bromosafrole smells
-a lot like phenylacetone.  It may turn pink on standing, and should be stored
+this book. The yield is about 66-75% conversion to bromosafrole, with the
+remainder being unconverted safrole and chlorosafrole. Bromosafrole smells
+a lot like phenylacetone. It may turn pink on standing, and should be stored
 in a freezer until used.
 
 With this posted, has anyone ever discussed the bad effects that the zinc
@@ -517,30 +517,30 @@ HCL prior to use.
 
 Along a similar line of thought, has the reaction of safrole with dry HCl in
 toluene been considered?  Chlorosafrole has interested me for some time.
-It too smells like phenylacetone.  My experiments indicate that HCl adds
-poorly to safrole at slightly elevated temps.  About 10% yield in a three
-week reaction time.  Higher temps would be needed to bring about reaction,
-but below the about 100C temp where ether cleavage with HCl happens.  Once
+It too smells like phenylacetone. My experiments indicate that HCl adds
+poorly to safrole at slightly elevated temps. About 10% yield in a three
+week reaction time. Higher temps would be needed to bring about reaction,
+but below the about 100C temp where ether cleavage with HCl happens. Once
 one has chlorosafrole, what good is it?  It can be converted to iodosafrole
 by refuxing with 2 moles of NaI in acetone, and then filtering out the NaCl
 precipitated, boiling off the acetone under vacuum, and recovering the
-iodosafrole by extraction with toluene.  What good is iodosafrole?  Compare
+iodosafrole by extraction with toluene. What good is iodosafrole?  Compare
 to the 2 halogen propyl benzenes listed in JACS 68, pages 1009-11(1946).
 
 Similar chloro derivatives give small yields, whereas the bromo derivative
-of safrole gives a decent yield of product at lower temp.  I see a trend here.
+of safrole gives a decent yield of product at lower temp. I see a trend here.
 The iodine is a better leaving group, and should give a superior yield at
-lower reaction temp.  Read over all the relevant lit before proceedings Also
+lower reaction temp. Read over all the relevant lit before proceedings Also
 know that a significant amount of mail I've recieved indicates that the
 presence of a significant (that means more than incidental) amount of water
 in the pipe bomb with bromosafrole yields excessive amounts of tar. Just
-adding 40% mehylamine or 28% NH3 to the alcohol is too much water.  This is
+adding 40% mehylamine or 28% NH3 to the alcohol is too much water. This is
 fine for making meth or benzedrine by this method, but for MDA some
 dehydration is called for.
 
 I hope this contribution to the discussion group causes serious exchange.
 I also hope you've enjoyed meeting my friend down the street LASERTEK.
-He's not a chemist, rather he works metal using a laser.  He hasn't had so
+He's not a chemist, rather he works metal using a laser. He hasn't had so
 much fun since he discovered your group.
 
 Best, Fester
@@ -550,10 +550,10 @@ Best, Fester
 
 Ritter
 
-Yup, that's the procedure I've been touting for years now.  I don't know how
+Yup, that's the procedure I've been touting for years now. I don't know how
 many times I have to say that Fester actually did something right this time!
 The only variation I've made on his procedure is to bubble in about half again
-as much HCl(g) as Fester calls for.  Other than that the reaction procedes
+as much HCl(g) as Fester calls for. Other than that the reaction procedes
 EXACTLY the way he quotes it, color changes and all!  Just make sure the ice
 bath is kept chock full of ice for the entire duration of the rxn.
 
@@ -568,11 +568,11 @@ Message-ID: <2p1f24$2bd@news.u.washington.edu>
 jmt0165@u.cc.utah.edu (Jon Taylor) writes:
 >	This is an MDMA sysnthesis I OCR's out of my copy of _Secrets of
 >Methamphetamine Manufacture_, which will probably end up being the one
->that I put in the next revision of my MDMA FAQ.  I thought I'd also post
+>that I put in the next revision of my MDMA FAQ. I thought I'd also post
 >it as a separate file as well.
 
 According to J-Forensic-Sci 35(3):675-697 this isn't the best method of
-making methoxylated amphetamine derivatives.  The author claims that
+making methoxylated amphetamine derivatives. The author claims that
 yields are low, synthing the intermediate is time consuming (although
 so is synthing MD-P2P), and potentially hazardous -- I don't know why
 its  hazardous, but the author references ANALOG 9(3):1-10 which
@@ -595,17 +595,17 @@ of those multikilagram processes here in the Netherlands someone was asking
 about.
 
 The key is using the DMSO method of producing anhydrous HI. NaI is dissolved
-in DMSO and then an equimolar amount of H2SO4 is added.  Na2SO4 precips out.
+in DMSO and then an equimolar amount of H2SO4 is added. Na2SO4 precips out.
 The reason the process works is that DMSO has the peculiar property of
-dissolving lots of NaI.  (the solubility is much higher for NaI than for
+dissolving lots of NaI. (the solubility is much higher for NaI than for
 NaBr, making the HI process much better for large qty- make note of this you
 crank manufacturers) (will phoshorus and iodine be obsoleted?? :)
 
-And DMSO makes such acids particularly active.  And HI is not likely to
+And DMSO makes such acids particularly active. And HI is not likely to
 cleave ether substituted allyl benzenes like apiole, asarone, and myristicin.
 (See Feiser and Feiser in Reagents for Organic Synthesis vol. 1 for details)
 
-Extraction of iodosafrole left to your own imagination.  Our trade secret!!
+Extraction of iodosafrole left to your own imagination. Our trade secret!!
 
 Finally, amination is done at room temp with methylamine for MDMA or with
 hexamine (via Delepine process) to get MDA or other analog.
@@ -621,67 +621,67 @@ Subject: Pugsley: on Bromosafrole via DMSO Method/ Various topics, advice
 Date: 1997/08/31
 
 Congratulations to the poster on getting the DMSO method of bromosafrole
-synthesis to work.  Its incredibly easy- but too easy for anyone to believe it
-works.  Its the amination thats the more difficult part.  Be careful if you
+synthesis to work. Its incredibly easy- but too easy for anyone to believe it
+works. Its the amination thats the more difficult part. Be careful if you
 decide to make your own methylamine via the formaldehyde/NH4Cl method- it
 gives off alot of methyl formate at the start, which is really nasty stuff,
-almost as bad as dimethyl sufate.  It turns into formic acid in your lungs.
-Big Mr. Yukk sticker on that one.  Another chemical given off, formylal, has
+almost as bad as dimethyl sufate. It turns into formic acid in your lungs.
+Big Mr. Yukk sticker on that one. Another chemical given off, formylal, has
 a nice smell and is relatively safe, but masks the danger involved.
 
 I'm still interested in hearing in this NG from anyone doing the Delepine
-reaction with hexamine camping fuel to get MDA.  Bromosafrole has given mixed
-results.   Iodosafrole works at room temp.  I don't see too much problem with
+reaction with hexamine camping fuel to get MDA. Bromosafrole has given mixed
+results.  Iodosafrole works at room temp. I don't see too much problem with
 getting NaI, since it can be diverted from table salt and photographic
-applications.  I don't know if CRSB sells it, but they should. (if they stay
+applications. I don't know if CRSB sells it, but they should. (if they stay
 in business)  I don't think that meth labs use it, since in aquious media,
-H2SO4 turns it into elemental Iodine plus whatever salt of Na.   DMSO doesn't
+H2SO4 turns it into elemental Iodine plus whatever salt of Na.  DMSO doesn't
 suffer from that problem.
 
-I still see a lot of synthesis and talk on methcathinone.  Very little said
+I still see a lot of synthesis and talk on methcathinone. Very little said
 about cyclization products, which is one of a couple reasons some people can't
-seem to make it.  There were some posts here a while ago referencing the
-specific papers on the subject.  I didn't have to time to go to the library
+seem to make it. There were some posts here a while ago referencing the
+specific papers on the subject. I didn't have to time to go to the library
 and dig all that stuff up.
 
 Never keep academic papers or chemistry  books of any kind on your property if
-you are making "stuff".  Memorize, memorize, memorize.  Try to use anything
-but commercial glassware if you can.  A suprising amount of chemistry can be
-done with spagetti sauce jars and various types of tubing.  Even holes can be
+you are making "stuff". Memorize, memorize, memorize. Try to use anything
+but commercial glassware if you can. A suprising amount of chemistry can be
+done with spagetti sauce jars and various types of tubing. Even holes can be
 drilled in spagetti sauce lids and brass pipe fittings soldered, for various
 operations involving gases.
 
  For exampe, I performed the entire asarone and anethole pseudonitrosite
 syntheses for TMA and PMA respectively, using nothing other than sauce jars
-and a large pyrex juice dispensers as containers.  One sauce jar has two
+and a large pyrex juice dispensers as containers. One sauce jar has two
 fittings attached to it so that an outlet tube for the N2O3 could be attached,
-plus an inlet for air from a fish tank bubbler.  The pyrex juice dispenser was
+plus an inlet for air from a fish tank bubbler. The pyrex juice dispenser was
 used to contain the etherial solution of essential oil.
 
 (By the way, PMA or 4-MA as Schulgin calls it, is quite the roller-coaster
-ride.  Except you start out at the top of a gigantic hill, instead of
-gradually making your way to the top.  And it hits real suddenly.)
+ride. Except you start out at the top of a gigantic hill, instead of
+gradually making your way to the top. And it hits real suddenly.)
 
 I think a DA would really think twice about going after someone who had no
 paper evidence of drug chemistry efforts, and just a bunch of old jars lying
-around.  If you ever read accounts of DEA busts, they always tell about all
-the drug and bomb making Loompanics books they find.  If all they find are
+around. If you ever read accounts of DEA busts, they always tell about all
+the drug and bomb making Loompanics books they find. If all they find are
 Nancy Drew mystery novels, they'd look pretty silly.
 
 Various people have been asking about where they can buy essential oils.
-There are a number of web site based mail order suppliers.   Just type
-"essential oil" into AltaVista.   For example 16oz of anise oil costs $12.
-Same price for sassafrass.  Calamus oil costs anywhere from $60-200 for 16oz
-depending on where you buy it.  Make certian to get the Indian oil.  The
-others have no asarone in them.  Nutmeg and elemi oil are reasonable also.
-Parsley seed oil has gone up to about $100/16oz.  If you isomerize it to
+There are a number of web site based mail order suppliers.  Just type
+"essential oil" into AltaVista.  For example 16oz of anise oil costs $12.
+Same price for sassafrass. Calamus oil costs anywhere from $60-200 for 16oz
+depending on where you buy it. Make certian to get the Indian oil. The
+others have no asarone in them. Nutmeg and elemi oil are reasonable also.
+Parsley seed oil has gone up to about $100/16oz. If you isomerize it to
 isoapiole, it makes way cool  DMMDA.
 
-Well, thats all the comment I can think of for now.  I really haven't been
-doing much in quite number of months.  I get burnt out on making drugs and
-find new interests.  I've never had any desire to make money that way.  After
+Well, thats all the comment I can think of for now. I really haven't been
+doing much in quite number of months. I get burnt out on making drugs and
+find new interests. I've never had any desire to make money that way. After
 all, anyone smart enough to make their own druggs can probably make alot of
-money legit.  Its always been a curiosity thing.  I am eagerly awaiting
+money legit. Its always been a curiosity thing. I am eagerly awaiting
 Fester's "Advanced Meth Chemistry Book". That should be interesting.
 Wednesday sends her good wishes.
 
@@ -698,44 +698,44 @@ Subject: Pugsley & Wednesday Please Read
 Date: 1997/09/07
 
 First, let me thank you for the excellent information about the
-DMSO-Bromosafrole method.  For those of you unfamiliar with it, I
-strongly suggest searching dejanews.  Basically, it uses DMSO, NaBr (from
+DMSO-Bromosafrole method. For those of you unfamiliar with it, I
+strongly suggest searching dejanews. Basically, it uses DMSO, NaBr (from
 darkroom supply houses), and H2SO4 (drain cleaner) to synthesize
-anhydrous HBr which converts Sassafras oil to Bromosafrole.  This method
+anhydrous HBr which converts Sassafras oil to Bromosafrole. This method
 is better than using commercially available HBr.
 
 The authors suggest that after obtaining Bromosafrole, a 5g tablet of
 Hexamine camping fuel can be added to start the Delepine reaction to
-convert it to MDA.  Does anyone have any references for the Delepine
+convert it to MDA. Does anyone have any references for the Delepine
 reaction?  Is the mixture refluxed, cooked in a pipe bomb, or allowed to
 sit for a period of time?  Does anyone have any numbers?  The other
 method of converting bromosafrole to MDA via ammonia and isopropyl
 alcohol or ammonia hydroxide gives poor yields (20%) and doesn't smell
 too good to the neighbors.
 
-In another post, Pugsley discusses iodosafrole.  This method uses DMSO,
-NaI, and H2SO4 to yield anhydrous HI.  NaI is easily diverted from salt
-licks.  I believe that the recipe is 100ml chilled DMSO + 7.8ml H2SO4 +
-43g NaI.  Although this can be used for making speed without having to
+In another post, Pugsley discusses iodosafrole. This method uses DMSO,
+NaI, and H2SO4 to yield anhydrous HI. NaI is easily diverted from salt
+licks. I believe that the recipe is 100ml chilled DMSO + 7.8ml H2SO4 +
+43g NaI. Although this can be used for making speed without having to
 purchase red phos or iodine, can it be used for MDA?  If one were to use
 the HI to convert sassafras oil to Iodosafrole, could it be converted to
 MDA via the Delepine reaction?  How?  Let's use the example of 5ml
-Sassafras oil + 100ml DMSO + 7.8ml H2SO4 + 43g NaI.  After it has reacted
+Sassafras oil + 100ml DMSO + 7.8ml H2SO4 + 43g NaI. After it has reacted
 for a day or so, there should be iodosafrole - right?  Now, would adding
 a 5g Hexamine camping fuel tablet start the delepine reaction?  What are
 the times and methods - reflux, bomb, let sit?  How do the yields compare
 to the bromosafrole methods?
 
 Finally, in their amazing post about pseudonitrosites, the authors state
-that the method can be used on various propenyl benzenes.  This would
-allow isosafrole to be easily converted to MDA.  Howver, in Fester's
+that the method can be used on various propenyl benzenes. This would
+allow isosafrole to be easily converted to MDA. Howver, in Fester's
 Practical LSD Manufacture, he states that it will work on all propenyl
-benzenes EXCEPT isosafrole.  Howver, the two procedures are different.
+benzenes EXCEPT isosafrole. Howver, the two procedures are different.
 Will it work?  What is DMMDA like?
 
 Thanks for the help.
 
-BTW, please do not respond to this e-mail account.  It is not mine.  I
+BTW, please do not respond to this e-mail account. It is not mine. I
 can be reached at:
 
 iodosafrole@hotmail.com
@@ -750,9 +750,9 @@ From: Secret Squirrel
 Subject: COME MOCK MY DMSO FAILURE
 Date: 1997/06/03
 
-Let me first apologize for the outburst.  After investing so much time
+Let me first apologize for the outburst. After investing so much time
 and energy into the project, to have it fail miserably at the end was
-frustrating, to say the least.  I greatly appreciate Pugsley's and
+frustrating, to say the least. I greatly appreciate Pugsley's and
 Wednesday's contributions to poor chem trench grunts everywhere.
 
 That said, prepare the mudslings for my crappy technique.
@@ -760,56 +760,56 @@ Keep in mind none of this actually happened and the entire post
 is pure fiction :).
 
 The DMSO was purchased anhydrous at the local homeopathy shack (it
-even says "for use as solvent only" *grin*).  It would freeze solid
-when put in the fridge (a good sign).  Kodak anh. KBr (from darkroom
+even says "for use as solvent only" *grin*). It would freeze solid
+when put in the fridge (a good sign). Kodak anh. KBr (from darkroom
 supply) was used in place of NaBr, molar scaled up of course.
 Sassafrass oil was used straight to take advantage of eugenol, etc.
-I was unable to locate ocotea cymbarum locally.  The relative quality
+I was unable to locate ocotea cymbarum locally. The relative quality
 of the essential oil I have no idea nor reference for, all that can be
 said is that it was expensive.
 
 175ml DMSO was chilled(frozen) in an acetone-rinsed 500ml round-bottom
-and the flask placed in an ice-water bath.  There was then added 30.6g
-H2S04 drain cleaner with some evolution of heat.  The drain cleaner was
+and the flask placed in an ice-water bath. There was then added 30.6g
+H2S04 drain cleaner with some evolution of heat. The drain cleaner was
 slightly discolored brown even though it came from a sealed container
-(although the container is probably a year old).  Looking at the container
+(although the container is probably a year old). Looking at the container
 now, the acid is dark brown-red with chunks, disgusting; evidently I had
 drawn off the undisturbed clearer top part when doing this, but still
-undoubtedly introduced impurities.  I hadn't realized it at the time, or
+undoubtedly introduced impurities. I hadn't realized it at the time, or
 even much later.
 
-69.3g KBr was then added.  The initial granules falling into the flask
+69.3g KBr was then added. The initial granules falling into the flask
 produced a fine mist, much like ammonium chloride forming above a bottle
 of muriatic and a bottle of ammonia placed next to each other,  which
-shot up a bit and gave me a bit of a gag.  Perhaps the addition order
-should be reversed.  The soln turned orange, and began to stink.  The
+shot up a bit and gave me a bit of a gag. Perhaps the addition order
+should be reversed. The soln turned orange, and began to stink. The
 stench is a lot like garlic, and exactly like the smell of the sweaty
 guy who had the locker next to mine in high-school gym class (ugh).
 A lot of KBr remained undissolved despite repeated stirring with a glass
 rod, as expected.
 
-10ml sassafras oil was pipetted in.  The stink changed from garlic/sweat
-to garlic/sweat/bandaids.  The soln turned brownish-red with a sort of
-mobile greenish band on top.  The flask was tightly stoppered, then
+10ml sassafras oil was pipetted in. The stink changed from garlic/sweat
+to garlic/sweat/bandaids. The soln turned brownish-red with a sort of
+mobile greenish band on top. The flask was tightly stoppered, then
 entirely enclosed in a ziplock bag, which still didn't keep in all
 the smell, and left on a dark shelf at room temp for 2 days with
-occasional swishing and/or stirring.  It turned entirely brownish-red.
+occasional swishing and/or stirring. It turned entirely brownish-red.
 The solids remained on the bottom throughout, being broken up upon
 stirring.
 
 My notes are missing for the next part, but around 600 ml of distilled
 water was added in two portions, the entire thing getting dumped into a
-liquor bottle.  A dark red, clear oil settled to the bottom; the aqeuous
-layer turned cloudy tan as the solids dissolved into it.  The aq layer
-was poured off, and the oil washed with a bit more H2O.  Yield of oil was
+liquor bottle. A dark red, clear oil settled to the bottom; the aqeuous
+layer turned cloudy tan as the solids dissolved into it. The aq layer
+was poured off, and the oil washed with a bit more H2O. Yield of oil was
 (guessing) maybe 7 or 8 ml.
 
 To the oil was added 400ml denatured alcohol and 10.2g crushed camping
-fuel, which was used straight but was nice and white crystalline.  A
+fuel, which was used straight but was nice and white crystalline. A
 few small pieces of fuel didn't dissolve right away, but had after
-the soln sat one day.  The soln was left alone until the 3rd day, when
-heating was attempted, but aborted due to pesky interlopers.  The 4th
-day the soln was finally refluxed on steam bath for about 6 hrs.  It
+the soln sat one day. The soln was left alone until the 3rd day, when
+heating was attempted, but aborted due to pesky interlopers. The 4th
+day the soln was finally refluxed on steam bath for about 6 hrs. It
 sat one more day (good undisturbed lab space is hard to come by).
 The soln remained a reddish tea color.
 
@@ -817,23 +817,23 @@ The soln remained a reddish tea color.
 The first 20ml produced loads of fine white needle crystals, filling the
 500ml flask halfway and nearly giving me a heart attack for the few seconds
 until my brain realized there were just too many and they were probably
-ammonium chloride and unreacted hexamine.  As the rest of the HCl was added,
+ammonium chloride and unreacted hexamine. As the rest of the HCl was added,
 the crystals all dissolved, but then gradually a white ppt formed, snowy and
-unlike the needles.  The flask was refluxed on steam bath about 4 hrs and
-then sat for a day.  The ppt did not dissolve with heat.
+unlike the needles. The flask was refluxed on steam bath about 4 hrs and
+then sat for a day. The ppt did not dissolve with heat.
 
 125ml H2O was added, which dissolved the ppt and turned the soln opaque
-tan.  A dark clear red oil settled out (I assumed it to be unreacted bromosaf).
-The pH at this point was less than 3, determined by indicator paper.  The
-oil was seperated and the aq soln extracted with 3x20ml 1,1,1-TCE.  The TCE
+tan. A dark clear red oil settled out (I assumed it to be unreacted bromosaf).
+The pH at this point was less than 3, determined by indicator paper. The
+oil was seperated and the aq soln extracted with 3x20ml 1,1,1-TCE. The TCE
 extracts were combined w/ the oil and set aside.
 
 80ml 25% NaOH (lye) in water was added to make the aq soln strongly basic.
 After shaking, a (small amount of) red-brown oil settles to the bottom.
-The oil was sep'd and the aq layer extracted with 3x20ml 1,1,1-TCE.  The
-TCE extracts were orange-ish.  The remaining aq soln looks like iced tea.
+The oil was sep'd and the aq layer extracted with 3x20ml 1,1,1-TCE. The
+TCE extracts were orange-ish. The remaining aq soln looks like iced tea.
 Post-mortem dissection of my notes reveals the combined TCE extracts and
-oil did not get an additional water wash.  The TCE was distilled off in a
+oil did not get an additional water wash. The TCE was distilled off in a
 flask I finally remembered to tare beforehand, leaving 7.4g of a dark
 black-red oily goo, which was dissolved in 12.5ml anh. isopropanol and
 treated with a couple ml of HCl, then evaporated on steam (ala ZWITTERION,
@@ -850,8 +850,8 @@ crying.
 For my next attempt, I'm considering (among other things) doing the
 first part of the Delepine in TCE instead of alcohol, which would allow
 me to see the progress of the rxn,  harvesting the pptd hexamine salt
-and returning the rest to the heat.  The salt could then be hydrolyzed
-in a separate reaction.  I'm also considering use of the bomb.
+and returning the rest to the heat. The salt could then be hydrolyzed
+in a separate reaction. I'm also considering use of the bomb.
 
 
 =============================================================================
@@ -861,25 +861,25 @@ From: iodosafrole@hotmail.com
 Subject: The Real Info - Please Read
 
 HI can be made by reacting phosphoric acid (it can be purchased at HOME
-DEPOT in the bldg supply section) and NaI or KI.  NaI can be found at salt
-licks.  HI can also be made by reacting dilute sulfuric (it's not spelled
-with a ph bookworm) with NaI or KI.  Now this produces HI gas.  So, using a
+DEPOT in the bldg supply section) and NaI or KI. NaI can be found at salt
+licks. HI can also be made by reacting dilute sulfuric (it's not spelled
+with a ph bookworm) with NaI or KI. Now this produces HI gas. So, using a
 variation of Tom Kasper's push pull bullshit, in jug have 5L of phosphoric
 acid connected by neoprene automotive feul tubing to a champagne bottle
 containing NaI, Ephedrine or pseudoephedrine, and H2O. Supposedly HI gas
 bubbled through a solution of 1 part ephedrine to 2 or 3 parts water under
 25 psi will make meth without the need for red phos.
 
-The best quench for the Birch is ammonium chloride.  Bubble some of the gas
+The best quench for the Birch is ammonium chloride. Bubble some of the gas
 through some HCl.
 
 There was a post by bookworm in which he said that there was a "recipe"
 that used 75:15:10 ratio in which 75g of NaI or KI:15g TripleSuperPhophate
-(might be tri-sodium phosphate):10g Al.  If it works, which I doubt, the
-10g of Al should be AlCl because it is hygroscopic.  This is all in one
+(might be tri-sodium phosphate):10g Al. If it works, which I doubt, the
+10g of Al should be AlCl because it is hygroscopic. This is all in one
 jug which is connected to another jug containing phophoric acid. He claims
 that the temp should be under 80C - bullshit - and should take 2-4 days -
-bullshit.  Follow the 3 hour push/pull by that anon guy in Santa Barbara.
+bullshit. Follow the 3 hour push/pull by that anon guy in Santa Barbara.
 
 =============================================================================
 
@@ -977,32 +977,32 @@ This article refers to the bromosafrole as Beta-Bromodihydrosafrole.
 [discussion of related compounds deleted]
 
 Addition of Hydrogen Bromide to Safrole.--Only one of the many experiments
-made is here described.  A mixture of freshly distilled safrole (8.1 g.), a
+made is here described. A mixture of freshly distilled safrole (8.1 g.), a
 solution of perbenzoic acid in benzene (2 cc of 0.3N), and benzene (100 cc)
-was saturated with hydrogen bromide (2 hours).  On each of the next 7 days
+was saturated with hydrogen bromide (2 hours). On each of the next 7 days
 perbenzoic acid solution (1 cc) was added, and the mixture shaken and kept
-for 17 days.  The mixture was then washed with water, dilute aqueous sodium
+for 17 days. The mixture was then washed with water, dilute aqueous sodium
 carbonate, and again water and the benzene layer was separated, dried, and
-distilled.  The fraction (6.5 g), b.p. 145.5-153C at 9.5mm, was a colourless,
+distilled. The fraction (6.5 g), b.p. 145.5-153C at 9.5mm, was a colourless,
 mobile liquid and was identified as the known safrole hydrobromide; Robinson
 and Zaki (J., 1927, 2489) give b.p. 160C at 16mm.
 
 The addition of hydrogen bromide to safrole was also carried out (a) in the
 presence of alpha-heptenylheptaldehyde, and (B) in the presence of
-anhydrous ferric cloride.  The same beta-bromdihydrosafrole was obtained in
+anhydrous ferric cloride. The same beta-bromdihydrosafrole was obtained in
 both cases.
 
 =============================================================================
 
 This procedure calls for reactions under high pressure, this is potentially
-very dangerous.  See ANALOG, Vol 9, No. 3, Nov 1987, pp. 1-10, by R.C.
-Hansson for additional dangers.  Do not try this at home.
+very dangerous. See ANALOG, Vol 9, No. 3, Nov 1987, pp. 1-10, by R.C.
+Hansson for additional dangers. Do not try this at home.
 
 
 From:  Chemical Abstracts 1961, column 14350.
 
 Preparation of DL-1-(3,4-methylenedioxyphenyl)-2-(methylamino)propane and
-DL-1-(3,4-dimethoxyphenyl)-2-(methylamino)propane.  Stanislaw Biniecki and
+DL-1-(3,4-dimethoxyphenyl)-2-(methylamino)propane. Stanislaw Biniecki and
 Edmund Krajewski.
 
 Safrole (5.3 g.) added dropwise at 0C to 21 g. 70% HBr, the mixt. left
@@ -1029,22 +1029,22 @@ hydrochloride m. 148-149C.
 
 From: The Journal of the American Chemical Society, volume 68, page 1805
 
-PYRIDINIUM ANALOGS OF THE PRESSOR AMINES.  I.  THE BENZENE SERIES
+PYRIDINIUM ANALOGS OF THE PRESSOR AMINES. I. THE BENZENE SERIES
   by Byron Riegel and Harold Wittcoff
 
 [discussion of other compounds deleted]
 
 Beta-Bromopropylbenzene.--Although this compound had been prepared
 previously by Carter by the addition of aqueous hydrobromic acid to
-allylbenzene, it was decided to employ an alternative procedure.  The
+allylbenzene, it was decided to employ an alternative procedure. The
 induction of a rapid stream of hydrogen bromide into a solution of 10g.
 of allylbenzene in 25 ml. of glacial acetic acid over a period of two
 hours led to the formation of two layers which were subsequently
-dispelled by the addition of 20 ml. more of solvent.  The reaction
+dispelled by the addition of 20 ml. more of solvent. The reaction
 mixture, having been subjected to low temperatures overnight, was poured
 into ice water to yield a heavy bromide which was taken up in ether and
 combined with the solution which resulted from the ether and benzene
-extraction of the aqueous layer.  The solution, having been washed with
+extraction of the aqueous layer. The solution, having been washed with
 dilute bicarbonate and with water, was dried over sodium sulfate.
 Thereupon, the solvent was evaporated to obtain a reddish oil which on
 fractionation yielded 12g.(71%) of a colorless liquid which distilled at
@@ -1058,14 +1058,14 @@ JOC 45, 3527-3529 (1980)
 
 16.2 grams (0.1 mole) of safrole was added to a mixture of 50 ml 37% HCl
 (0.5 mole) and 4.0 grams (0.01 mole) of trioctylmethylammonium chloride
-(Aliquat 336), and the two-phase mixture was heated at 115°C (bath temp)
+(Aliquat 336), and the two-phase mixture was heated at 115ï¿½C (bath temp)
 with magnetic stirring for two hours. The solution was extracted with
 1x20ml and 2x10ml CH2Cl2, and the pooled extracts was freed from solvent
 by evaporation. The dark residue was distilled under aspirator vacuum
 which gave two fractions:
 
-113-135°C - 10.1 grams - Clear, safrole + chlorosafrole
-135-165°C - 4.8 grams - Cloudy, chlorosafrole + something.
+113-135ï¿½C - 10.1 grams - Clear, safrole + chlorosafrole
+135-165ï¿½C - 4.8 grams - Cloudy, chlorosafrole + something.
 
 
 Chlorosafrole II
@@ -1077,7 +1077,7 @@ The solution was left to cool, and it was extracted with 3x15 ml DCM. The
 pooled organic extracts was washed with a little dilute Na2CO3, dried over
 MgSO4, and the solvent removed by evaporation. The black residue was
 vacuum distilled at 3 mmHg to yield 10.2 grams of clear 2-chlorosafrole
-at 130-150°C. There was also quite a lot of deep red residue in the
+at 130-150ï¿½C. There was also quite a lot of deep red residue in the
 distillation flask, probably consisting of the PTC and various
 polymerization products.
 
@@ -1090,13 +1090,13 @@ US Pat 3,864,115
 
 Preparation of Bromosafrole
 
-65 grams of safrole was dissolved in 100 ml of glacial acetic acid. At 20°C,
+65 grams of safrole was dissolved in 100 ml of glacial acetic acid. At 20ï¿½C,
 there was added, with stirring, a solution of 100g HBr in glacial acetic
 acid. Stirring was continued for a further 12 hours at room temperature and
 the acetic acid was distilled off under vacuum. The residue was taken up in
 200 ml of benzene and washing was effected several times with, in each case
 100 ml of water. The benzene solution was dried over sodium sulfate. When
-fractionation was effected, 43 grams of bromosafrole of the bp 90°C at
+fractionation was effected, 43 grams of bromosafrole of the bp 90ï¿½C at
 0.05 mmHg was obtained.
 
 This is the corresponding U.S. patent of the original German patent.
@@ -1485,7 +1485,7 @@ Experimental:
 2-Bromodillapiole
 
 Dillapiole (11.1g, 0.05 mol) in dry DMF (100 ml) was saturated with dry HBr at
-0°C. After keeping for 2hr, it was poured into ice-cold water (300ml), extracted
+0ï¿½C. After keeping for 2hr, it was poured into ice-cold water (300ml), extracted
 with CHCl3, the organic layer washed with H2O until neutral, dried over anhydrous
 Na2SO4 and evaporated to furnish 2-Bromodillapiole (14.9g).
 
@@ -1519,10 +1519,10 @@ therefor is best characterized as the monobromocompound.
 The above produced dibromo compound is carefully thermally decomposed in a
 standard vacuum distillation rig using an oil bath. Since copious quantities
 of HBr are produced as decomposition product it only make sense to use a water
-aspirator as vacuum source. When pot contents reach approximately 100°C
+aspirator as vacuum source. When pot contents reach approximately 100ï¿½C
 dehalogenation takes place and 2-bromosafrole starts to distil over. Depending
 on vacuum, rxn. may start at lower temp. Do not allow pot contents to excede
-130°C or glassware will rapidly fill with charcoal from uncontrolled
+130ï¿½C or glassware will rapidly fill with charcoal from uncontrolled
 decomposition! Yield of water white 2-bromosafrole was found to be
 in the 80-90% range.
 
@@ -1567,9 +1567,9 @@ benzene (2cc of 0.3N), and benzene (100ml) was saturated with hydrogen bromide
 (2 hours). On each of the next 7 days perbenzoic acid solution (1ml) was added,
 and the mixture shaken and kept for 17 days. The mixture was then washed with water,
 dilute aqueous sodium carbonate, and again water and the benzene layer was separated,
-dried, and distilled. The fraction (6.5g, bp 145.5-153°C/9.5mmHg) was a colourless,
+dried, and distilled. The fraction (6.5g, bp 145.5-153ï¿½C/9.5mmHg) was a colourless,
 mobile liquid and was identified as the known safrole hydrobromide; Robinson and
-Zaki (J, 1937, 2489) give bp 160°C/16mmHg.
+Zaki (J, 1937, 2489) give bp 160ï¿½C/16mmHg.
 
 The same beta-bromodihydrosafrole was obtained in both cases. The product was
 identical with the hydrobromide made under ordinary conditions and it did not react
@@ -1595,26 +1595,26 @@ Derivatives of amphetamine. E. Muszynski (Akad. Med.. Warsaw).
 CA 58:3334 (1963); Acta Polon. Pharm. 18, 471-8 (1961) (in Polish).
 
 Safrole (10 g.) and 0.1 g. HgCl2 in 5 vols. AcOH was satd. with HBr. left 2 days
-at 0°, neutralized with NaHCO3, extd. with Et2O, and distd. to give 73.3%
-1-(3,4-methylenedioxyphenyl)-2-bromopropane (I), b15 162-5°. nD16 1.5628.
+at 0ï¿½, neutralized with NaHCO3, extd. with Et2O, and distd. to give 73.3%
+1-(3,4-methylenedioxyphenyl)-2-bromopropane (I), b15 162-5ï¿½. nD16 1.5628.
 
 Methyleugenol (II) brominated analogously gave 36.5%
-1-(3,4-dimethoxyphenyl)-2-bromopropane (III), b10 171-2° nD18 1.5614.
+1-(3,4-dimethoxyphenyl)-2-bromopropane (III), b10 171-2ï¿½ nD18 1.5614.
 
-I (7.3 g.), 36 g. 10% alc. NH3, and 0.8 g. Cu2O heated 7 hrs. at 160°, alkalised to pH 9
+I (7.3 g.), 36 g. 10% alc. NH3, and 0.8 g. Cu2O heated 7 hrs. at 160ï¿½, alkalised to pH 9
 with 40% NaOH. extd. with Et2O, and the ext. treated with 1:1 H2SO4-EtOH gave 1 g.
 1-(3,4-methylenedioxyphenyl)-2-aminopropane sulfate, and 4.2 g. unchanged I.
 
-II (2.9 g.) added at 0° to 9.3 g. 70% HBr, the mixt. left 12 hrs. at 0°, hydrolyzed, extd.
+II (2.9 g.) added at 0ï¿½ to 9.3 g. 70% HBr, the mixt. left 12 hrs. at 0ï¿½, hydrolyzed, extd.
 with Et2O, and the ext. distd. yielded 80.9% III. III (10 g.) treated similarly with NH3
 gave 3.4 g. 1-(3,4-dimethoxyphenyl)-2-aminopropane sulfate and recovered 4.9 g. III.
 Acetyleugenol (63.6 g.) in 80 ml. AcOH oxidized 5 hrs. with 256 g. KMnO4, the MnO2
 filtered off, the filtrate concd. to 800 ml., treated with 40 g. KOH, refluxed 90 min.,
 acidified with 50% H2SO4 to Congo red, evapd. to dryness, and the residue extd. with
-Et2O yielded 41.5 g. homovanillic acid (IV), m. 142°. IV (33.5 g.), 21.8 g. KOH, 25 ml.
+Et2O yielded 41.5 g. homovanillic acid (IV), m. 142ï¿½. IV (33.5 g.), 21.8 g. KOH, 25 ml.
 EtOH, and 55.3 g. MeI refluxed 1 hr., treated with 11 g. KOH, refluxed 1 hr., cooled,
 filtered, acidified with HCl, and extd. with Et2O gave 33.9 g. homoveratric acid (V),
-m. 97°. V (20 g.) in 13 ml. AcOH passed at 430-50° through ThO2 on pumice yielded
+m. 97ï¿½. V (20 g.) in 13 ml. AcOH passed at 430-50ï¿½ through ThO2 on pumice yielded
 30.8% 3,4-dimethoxyphenylacetone.
 
 --------------------------------------------------------------------------------

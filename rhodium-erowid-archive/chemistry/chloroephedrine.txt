@@ -5,25 +5,25 @@
 From Noggle, et al. (NARCOSWINE ALERT!) Anal-Chem, 58(8):1643, 1986:
 
 General Method for the Preparation of the 1-Phenyl-1-chloro-2-(methylamino)
-propanes (I).  A solution of the ephedrine hydrochloride or pseudoephedrine
+propanes (I). A solution of the ephedrine hydrochloride or pseudoephedrine
 hydrochloride (1.65 g, 10 mol) and thinyl chloride (10 mL) in chloroform
-(200 mL) was stirred at reflux for 3 h.  The reaction solution was then
+(200 mL) was stirred at reflux for 3 h. The reaction solution was then
 cooled to room temperature and the solvent vlume reduced to approximately
-50 mL.  Adition of anhydrous ether (200 mL) followed by cooling (freezer)
+50 mL. Adition of anhydrous ether (200 mL) followed by cooling (freezer)
 resulted in crystallization of (I) HCl.
 
-General Method for Perparation of the Methamphetamines.  A mixture of the
+General Method for Perparation of the Methamphetamines. A mixture of the
 (I) HCl (500 mg, 2.3 mmol), sodium acetate trihydrate (1.22 g, 8.9 mmol),
 and 5% Pd-BaSO4 (250mg) in glacial acetic acid (95 mL) and water (5 mL) was
 shaken under a hydrogen atmosphere (intiial psi of 40-45) on a Parr
-apparatus for 30-60 min.  After the uptake of hydrogen ceased, the catalyst
-was removed by filtration and washed with water (50 mL).  The combined
+apparatus for 30-60 min. After the uptake of hydrogen ceased, the catalyst
+was removed by filtration and washed with water (50 mL). The combined
 filtrate and water washings were evaportaed to dryness under reduced pressure
 and the remaining oil dissolved in water (50 mL), and acidified with
-concentrated HCl (pH 1).  The acidic aqueous solution was washed with
-chloroform (2 x 50 mL), then made basic (pH 12) with 10% NaOH.  The basic
+concentrated HCl (pH 1). The acidic aqueous solution was washed with
+chloroform (2 x 50 mL), then made basic (pH 12) with 10% NaOH. The basic
 aq solution was extracted with chloroform (3 x 75 mL), and the combined
-extracts were washed with water (100 mL) and dried over MgSO4.  Evaporation
+extracts were washed with water (100 mL) and dried over MgSO4. Evaporation
 of the CHCl3 under reduced pressure yielded the product as the free base.
 The base was coverted to the HCl salt in ethereal HCl, and the salt
 was recrystallized from ethanol-ether to give a granular white solid.
@@ -49,13 +49,13 @@ To 1 gram (6.61 mmol) of norephedrine, 1.43 ml (19.8 mmol) of thionyl chloride
 was added. After stirring for 5 hours at room temp the excess thionyl chloride
 was removed under vacuum. The white solid obtained was washed with acetone,
 filtered and recrystallized from MeOH to yield 0.76 g (74%) of
-1-chloro-1-phenyl-2-aminopropane hydrochloride, mp 205-207°C.
+1-chloro-1-phenyl-2-aminopropane hydrochloride, mp 205-207ï¿½C.
 
 1-Chloro-1-phenyl-2-(N-methyl)aminopropane hydrochloride (Chloroephedrine)
 
 The same general procedure as above was employed, using 3.0 g (18.1 mmol) of
 ephedrine and 3.9 ml (54.3 mmol) of thionyl chloride to give 3.7 g (94%) of
-chloroephedrine, mp 198-200°C.
+chloroephedrine, mp 198-200ï¿½C.
 
 ------------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ Emde, Concerning Diastereoisomers. I. Configuration of Ephedrine; II. Steric
 Inversion of Ephedrine with Hydrochloric acid; III. Chloro- and Bromo-Ephedrine.
 Helv. Chem. Acta., 12, 365-99 (1929); C.A. 23: 3452-4 (1929).
 
-Chloropseudoephedrine-HCl [PhChClCHMeNHMe·HCl]:
+Chloropseudoephedrine-HCl [PhChClCHMeNHMeï¿½HCl]:
 
 (a) 60 cc. CHCl3 (chloroform) and 60 g. PCl5 (phosphorus pentachloride) are
 placed in a wide-mouth glass-stoppered bottle, and after cooling with ice
@@ -116,13 +116,13 @@ under hydrogen at room temperature. About 90% of the theoretical H2 is
 absorbed in 2-3 hours, the catalyst is filtered off, and the product is steam
 distilled from the filtrate after addition of sodium hydroxide. There remains
 a small residue of (+)-didesoxyephedrine (probably 2,5-bis-methylamino-
-3,4-diphenylhexane, b.p.0.6 165°. The steam distillate is neutralized with
+3,4-diphenylhexane, b.p.0.6 165ï¿½. The steam distillate is neutralized with
 HCl (to methyl red) and crystallized from absolute ethanol (solubility
 1:4). Yield, 80-90%.
 
 Purification was achieved by extraction of the base from the steam distillate
 with diethyl ether, drying and distillation under a high vacuum. The
-hydrochloride salt had m.p. 172°.
+hydrochloride salt had m.p. 172ï¿½.
 
 
 Gero, Some Reactions of 1-Phenyl-1-chloro-2-(methylamino)propane. I.
@@ -159,7 +159,7 @@ calcium hydride and hydrochloric acid in the presence of palladium:
 To this solution was added a solution of 0.25 g. of palladium chloride
 in 7.5 ml. hot concentrated hydrochloric acid (Solution A). Calcium hydride
 (11 g.) was covered with 100 ml. of methanol and Solution A was added at
-such a rate that the temperature of the reaction mixture stayed at 35-40°,
+such a rate that the temperature of the reaction mixture stayed at 35-40ï¿½,
 with outside cooling if necessary. When the initially vigorous hydrogen
 development subsided, enough concentrated hydrochloric acid was added to bring
 the pH to about 3 and the mixture was stirred for 30 minutes. The clear
@@ -182,7 +182,7 @@ vacuum distillation.
 
 
 ------------------------------------------------------------------------------
-On Chloroephedrine [ Drug and Alcohol Dependence 64 (2001) 299–307 ]
+On Chloroephedrine [ Drug and Alcohol Dependence 64 (2001) 299ï¿½307 ]
 
 Many methods have been used to synthesize methamphetamine, but the most common
 current method involves the conversion of (-)-ephedrine or (+)-pseudoephedrine

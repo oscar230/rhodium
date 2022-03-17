@@ -215,7 +215,7 @@ Presented, in part, at the 215th American Chemical Society National Meeting
 (Abet. ORGN 232), Dallas, Texas, March 29-April 2. 1998.
 
 1. (a) Emerson, W. S. Organic Reactions, Wiley, New York, 1948, vol. 4,
-   chapter 3, pp 174. (b) Hutchins, R.  O.; Natale, N. Org Prep. Proced.
+   chapter 3, pp 174. (b) Hutchins, R. O.; Natale, N. Org Prep. Proced.
    Int. 1979,11, 20. (c) Lane, C. F. Synthesis 1975, 135. (d) Hudlicky, M.
    Reductions in Organic Chemistry, Second Ed., ACS Monograph 188, 1996, pp
    187 and references cited therein. (e) Reductions in Organic Synthesis,
@@ -224,7 +224,7 @@ Presented, in part, at the 215th American Chemical Society National Meeting
    Majee, A. J. Org Chem. 1997, 62, 1841.
 
 2. Luthardt, H.; Fieseler, C.; Wind, M.; Biering, H.; Kochmann, W.; Kramer,
-   W.; Manmen, H.; Roethling, T.  Ger. Patent 237,250, 1976; Chem. Abstr.
+   W.; Manmen, H.; Roethling, T. Ger. Patent 237,250, 1976; Chem. Abstr.
    1976,107, 35133a.
 
 3. Worbel, J. E.; Ganem, B. Tetrahedron Lett. 1981, 22, 3447 and
@@ -240,7 +240,7 @@ Presented, in part, at the 215th American Chemical Society National Meeting
    1993, 121.
 
 7. (a) Balogh, M.; Laszlo, P. Organic Chemistry Using Clays;
-   Springer-Verlag: Berlin, 1993. (b) Laszlo, P.  Preparative Chemistry
+   Springer-Verlag: Berlin, 1993. (b) Laszlo, P. Preparative Chemistry
    using Supported Reagents, Academic Press, San Diego, California, 1987.
    (c) McKillop, A.; Young, D. W. Synthesis 1979, 401 and 481. (d) Posner,
    G. H. Angew. Chem. 1978, 90, 527; Angew. Chem. Int. Ed Engl. 1978, 17,
@@ -248,7 +248,7 @@ Presented, in part, at the 215th American Chemical Society National Meeting
    1990, 20, 293. (f) Kabalka, G. W.; Pagni, R. M. Tetrahedron 1997, 53, 7999.
 
 8. For recent reviews on microwave assisted chemical reactions see (a)
-   Abramovich, R. A. Org Prep.  Proced. Int. 1991, 23, 683. (b) Whittaker,
+   Abramovich, R. A. Org Prep. Proced. Int. 1991, 23, 683. (b) Whittaker,
    A. G.; Mingos, D. M. P. J. Microwave Power Electromagn. Energy 1994, 29,
    195. (c) Majetich, G.; Hicks, R. J. Microwave Power Electromagn. Energy
    1995, 30, 27. (d) Caddick, S. Tetrahedron 1995, 51. 10403. (e) Varma, R.
@@ -258,13 +258,13 @@ Presented, in part, at the 215th American Chemical Society National Meeting
    Ceramic Transactions 1997, 80, pp 375-365.
 
 9. (a) Gedye, R.; Smith, F.; Westaway, K.; Ali, H.; Baldisera, L.; Laberge,
-   L.; Rousell, J. Tetrahedron Lett.  1986, 27, 279. (b) Giguere, R. J.;
+   L.; Rousell, J. Tetrahedron Lett. 1986, 27, 279. (b) Giguere, R. J.;
    Namen, A. M.; Lopez, B. O.; Arepally, A.; Ramos, D. E.; Majetich, G.;
    Defrauw, J. Tetrahedron Lett. 1987, 28, 6553. (c) Bose, A. K.; Banik, B.
    K.; Lavlinskaia, N.; Jayaraman, M.; Manhas, M. S. Chemtech 1997, 27,18.
 
 10. (a) Oussaid, A.; Thach, L. N.; Loupy, A. Tetrahedron Lett. 1997, 38,
-    2451. (b) Villemin, D.; Alloum, A.  B. Synth. Commun. 1991, 21, 63.
+    2451. (b) Villemin, D.; Alloum, A. B. Synth. Commun. 1991, 21, 63.
     (c) Lerestif. J. M.; Toupet, L.; Sinbandhit, S.; Tonnard, F.;
     Bazureau, J. P.; Hamelin, J. Tetrahedron 1997, 53, 6351.
 
@@ -293,12 +293,12 @@ Presented, in part, at the 215th American Chemical Society National Meeting
     Tetrahedron Lett. 1997, 38, 4337. (u) Varma, R. S.; Naicker, K. P.
     Molecules Online 1998, 2, 94.
 
-12.  Wade, R. C. J. Mol. Catal. 1983, 18, 273.
+12. Wade, R. C. J. Mol. Catal. 1983, 18, 273.
 
-13.  Pitman, C. U., Jr.; Massry, A. M. El., Amer, A. Synth. Commun. 1990,
+13. Pitman, C. U., Jr.; Massry, A. M. El., Amer, A. Synth. Commun. 1990,
      20, 1091.
 
-14.  Tabaei, S.-M. H.; Pitman, C. U  Jr.; Mead, K. T. Tetrahedron Lett.
+14. Tabaei, S.-M. H.; Pitman, C. U  Jr.; Mead, K. T. Tetrahedron Lett.
      1991, 32, 2727.
 
 15. For a critical evaluation of activation process by microwaves see:

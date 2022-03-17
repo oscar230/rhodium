@@ -17,13 +17,13 @@ Literature references: Prepn: Blair, U.S. pat. 2,916,499 (1959 to Welsbach Corp.
    Holum, J. Org. Chem. 26, 4814 (1961); Feugeas, Bull. Soc. Chim. France 1964,
    1892. Toxicity: Hagan et al., Toxicol. Appl. Pharmacol. 7, 18 (1965). 
 
-Properties:  Colorless, lustrous crystals, mp 37° . Heliotrope odor. bp ~263° ;
-   bp(0.5) 88°. Sol in 500 parts water; freely sol in alcohol, ether. Keep in
+Properties:  Colorless, lustrous crystals, mp 37ï¿½ . Heliotrope odor. bp ~263ï¿½ ;
+   bp(0.5) 88ï¿½. Sol in 500 parts water; freely sol in alcohol, ether. Keep in
    cool place protected from light. LD50 orally in rats: 2700 mg/kg (Hagan).
 
-Boiling point: bp ~263°; bp(0.5)88°
+Boiling point: bp ~263ï¿½; bp(0.5)88ï¿½
 
-Melting Point: 37°
+Melting Point: 37ï¿½
 
-USE: In perfumery, in cherry and vanilla flavors, in organic syntheses.  
+USE: In perfumery, in cherry and vanilla flavors, in organic syntheses. 
 THERAP CAT: Has been used as pediculicide.

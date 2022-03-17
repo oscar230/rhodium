@@ -21,14 +21,14 @@ Related to the JB-series (eg. Ditran) of benzillate
 ester hallucinogens.
 
 Synthesis is simple, if I recall correctly:  esterify
-3-quinuclidinol with benzillic acid.  I believe it
+3-quinuclidinol with benzillic acid. I believe it
 made a very brief appearance on the streets as either
 "TWA" or "DMZ" during the '60s, according to published
-sources.  I believe the effects are of the deliriant-
+sources. I believe the effects are of the deliriant-
 type, similar to datura/belladonna/atropine.
 
 [ correction added 5/97: "Correct statement is that BZ has never been
-  available.  TWA & DMZ were benactyzine & Ditran, but I'm not sure which
+  available. TWA & DMZ were benactyzine & Ditran, but I'm not sure which
   is which." -- yshan@nortel.ca ]
 
 Further info, including tox data may be found in 
@@ -65,11 +65,11 @@ Joseph E. Gladstone <lonewolf@netcom.com> wrote:
 >Cholinergics produce wierd effects, but not predictably nightmarish.
 
 Actually, BZ (quinuclidinol benzilate, or QNB) is an anticholinergic,
-acting specifically on muscarinic receptors.  It is extremely potent (and
-is, in fact, used in research for its antimuscarinic properties).  It
+acting specifically on muscarinic receptors. It is extremely potent (and
+is, in fact, used in research for its antimuscarinic properties). It
 also seems to have a greater LD50/ED50 ratio than other antimuscarinics
-(such as atropine, scopolamine, etc).  But I wouldn't try it, it's still
-not particularly safe.  Incidentally, it has been reported to tend to
+(such as atropine, scopolamine, etc). But I wouldn't try it, it's still
+not particularly safe. Incidentally, it has been reported to tend to
 induce nightmarish hallucinations/delusions (I could never find out why).
 In any case, I can imagine that in a combat situation, one could easily
 find onesself in a bad trip.
@@ -78,7 +78,7 @@ find onesself in a bad trip.
 (Bad ASCII drawing to follow):
 
 
-ASCII drawing of QNB (sorry, not too great.  The two rings on the top
+ASCII drawing of QNB (sorry, not too great. The two rings on the top
 and bottom are phenyl groups).
 
 
@@ -118,17 +118,17 @@ Subject: Re: Research information
 Newsgroups: alt.drugs
 Date: Tue, 7 Jun 94 18:52:05 EDT
 
-BZ is the benzoicc acid ester of 3-Quinuclidinol.  I believe it was
+BZ is the benzoicc acid ester of 3-Quinuclidinol. I believe it was
 explored as a chemical warfare incapicitating agent by the CIA.
 I know Dr. James Moore who used to be a prof at the U of DE and 
-made compounds for the CIA.  He tells some amazing tales.
+made compounds for the CIA. He tells some amazing tales.
 
 Case in point:  He made BZ for the CIA and got some on his
-hands.  He felt very disoriented.  "I felt like the whole world turned 
+hands. He felt very disoriented. "I felt like the whole world turned 
 sideways on me." This effect lasted for days and so he asked the  big 
-boys at the CIA how to get back.  They told him to take some THA 
+boys at the CIA how to get back. They told him to take some THA 
 (tetrahydroacridine) that is now used as an experimental Alzheimers 
-treatment.   He claims it straightened him right out.
+treatment.  He claims it straightened him right out.
 
 MK-801 is a sigma opiate receptor agonist (I think) not sure about that one.
 
@@ -160,28 +160,28 @@ ED 5-15 mg, duration 8-12 hours.
 
 =============================================================================
 
-Synthesis is very simple.  This is from Chemical Abstracts, 1959, vol 53,
+Synthesis is very simple. This is from Chemical Abstracts, 1959, vol 53,
 #1385h, under the heading "Esters of diaryl hydroxyacetic acids."  It
 references US Patent # 2,843,593.
 
 "Thus, 15 grams anhydrous methyl benzilate in 50 cc dry toluene is added
 with stirring to 1.2 gram of sodium metal dispersed in 50 cc toluene, the
 mixture kept below 30 degrees (C) by external cooling during hydrogen
-evolution.  (1 hour).  Whereupon 5.2 grams anhydrous 3-quinuclidinol in
+evolution. (1 hour). Whereupon 5.2 grams anhydrous 3-quinuclidinol in
 toluene is added, the mixture refluxed 30 minutes (turns reddish), cooled
 to -20 degrees C, (turns pale yellow) extracted 3 times with cold 1-normal
 HCl, made alkaline with 35 cc 15% NaOH, extracted 3 times with chloroform,
 dried over sodium sulfate, evaporated till crystallization begins, 50 cc of
 acetone added, allowed to stand 24 hours in a refrigerator (not further
 defined), and the precipitate filtered off and washed with acetone to give
-84.2% benzilic acid ester of 3 quinuclidinol, melting point 160-161.  "
+84.2% benzilic acid ester of 3 quinuclidinol, melting point 160-161. "
 
 Also:
 
 Journal of the American Chemical Society, May 5, 1952, page 2215-2219+ 
 
 Also, from the Merck Index, a reference to a WHO (World Health
-Organization) publication, under heading 3-Quinuclidinol.      "Health
+Organization) publication, under heading 3-Quinuclidinol.     "Health
 Aspects of Chemical and Biological Weapons (WHO, Geneva, 1970, pp 49-51)
 
 =============================================================================

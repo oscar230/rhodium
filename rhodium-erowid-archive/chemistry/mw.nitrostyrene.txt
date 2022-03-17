@@ -56,11 +56,11 @@ demonstrated. Additionally, we found that the related Clayan[15] is equally
 useful for nitration of styrene and its p-substituted derivatives.
 
 In a typical example, the neat styrene and Clayfen or Clayan are mixed well
-in a glass container and then heated in an oil bath (~100-110°C, 15 min) or
-irradiated in a microwave oven (~100-110°C, 3 min) in solid state (Eqn. 1).
+in a glass container and then heated in an oil bath (~100-110ï¿½C, 15 min) or
+irradiated in a microwave oven (~100-110ï¿½C, 3 min) in solid state (Eqn. 1).
 In the case of Clayfen, the reaction mixture is irradiated continuously for
 3 min whereas for Clayan intermittent warming is recommended with 30 second
-intervals (temperature should not exceed ~60-70°C).
+intervals (temperature should not exceed ~60-70ï¿½C).
 
 	p-R-C6H4-CH=CH2 ==> p-R-C6H4-CH=CH-NO2 + p-R-C6H4-CHO	(Eqn. 1)
 
@@ -92,8 +92,8 @@ Using Clayan
 --------------------------------------------------------------------------------
 
 [a] Reaction conditions for Clayfen. either in oil bath (15 min) or in
-    microwave. MW. (3 min) at 100-110°C and for Clayan, either in oil bath
-    (15 min) or in MW (3 min) at 60-70°C
+    microwave. MW. (3 min) at 100-110ï¿½C and for Clayan, either in oil bath
+    (15 min) or in MW (3 min) at 60-70ï¿½C
 [b] The relative amounts of product formation are determined by GC-MS
     analysis and the results in the parentheses refer to the corresponding
     yields obtained using MW irradiation; the products are identified by
@@ -201,36 +201,36 @@ Sam Houston State University.
    Tetrahedron 1990, 46, 7443; (e) Kabalka, G.W.; Varma, R.S. Org. Prep. Proc.
    Int. 1987, 19, 283.
 
-2.  Shulgin, A.T. J. Med. Chem. 1966, 9, 45.
+2. Shulgin, A.T. J. Med. Chem. 1966, 9, 45.
 
-3.  Grebenyuk, A.D.; Ismailova, R.A.; Tokbolatov, R.B.; Ovadova, T. Zh.
+3. Grebenyuk, A.D.; Ismailova, R.A.; Tokbolatov, R.B.; Ovadova, T. Zh.
     Org. Khim. 1990, 26. 680.
 
-4.  Sy, W.W.; By, A.W. Tetrahedron Lett. 1985, 26, 1193.
+4. Sy, W.W.; By, A.W. Tetrahedron Lett. 1985, 26, 1193.
 
-5.  (a) Masnovi, J.M.; Kochi, J.K. Recl. Trav. Chim. Pays-gas 1986,105, 286;
+5. (a) Masnovi, J.M.; Kochi, J.K. Recl. Trav. Chim. Pays-gas 1986,105, 286;
     (b) Penczek, S.; Jagur Grodzinski, J.; Szwarc, M. J. Am. Chem. Soc.
     1968, 90, 2174; (c) Schmidt, E.; Fischer, H. Chem. Ber. 1920, 53, 1529.
 
-6.  Tinsley, S.W. J. Org. Chem. 1961, 26, 4723.
+6. Tinsley, S.W. J. Org. Chem. 1961, 26, 4723.
 
-7.  Corey, E.J.; Estreicher, H. J. Am. Chem. Soc. 1978, 100, 6294.
+7. Corey, E.J.; Estreicher, H. J. Am. Chem. Soc. 1978, 100, 6294.
 
-8.  Mathew, L.; Varghese, B.; Sankararaman, S. J. Chem. Soc., Perkin Trans.
+8. Mathew, L.; Varghese, B.; Sankararaman, S. J. Chem. Soc., Perkin Trans.
     2 1993, 2399.
 
-9.  Hayama, T.; Tomoda, S.; Takeuchi, Y.; Normura, Y. Tetrahedron Lett.
+9. Hayama, T.; Tomoda, S.; Takeuchi, Y.; Normura, Y. Tetrahedron Lett.
     1982, 23, 4733.
 
-10.  Jew, S.-S.; Kim, H.-D.; Cho, Y.-S.; Cook, C.-H. Chem. Lett. 1986, 1747.
+10. Jew, S.-S.; Kim, H.-D.; Cho, Y.-S.; Cook, C.-H. Chem. Lett. 1986, 1747.
 
-11.  Hwu, J.R.; Chen, K.-L.; Ananthan, S. J. Chem. Soc., Chem. Commun.
+11. Hwu, J.R.; Chen, K.-L.; Ananthan, S. J. Chem. Soc., Chem. Commun.
      1994, 1425.
 
-12.  (a) Hata, E.; Yamada, T.; Mukaiyama, T. Bull. Chem. Soc. Jpn. 1995,
+12. (a) Hata, E.; Yamada, T.; Mukaiyama, T. Bull. Chem. Soc. Jpn. 1995,
      68, 3626;  (b) Mukaiyama, T.; Hata, E.; Yamada, T. Chem. Lett. 1995, 505.
 
-13.  For cleavage-deprotection reactions see: (a) Varma, R.S.; Meshram,
+13. For cleavage-deprotection reactions see: (a) Varma, R.S.; Meshram,
      H.M. Tetrahedron Lett. 1997, 38, 5427; (b) Varma, R.S.; Saini, R.K.
      Tetrahedron Lett. 1997, 38, 2623; (c) Varma. R.S.; Varma, M.;
      Chatterjee, A.K. J. Chem. Soc., Perkin. Trans. 1, 1993, 999; (d) Varma,
@@ -255,16 +255,16 @@ Sam Houston State University.
      see: (u) Varma, R.S.; Saini, R.K. Tetrahedron Lett. 1997, 38, 4337;
      (v) Varma, R.S.; Naicker, K.P. Molecules Online 1998, 2, 94.
 
-14.  (a) Cornelis, A.; Laszlo, P.; Pennetreau, P. J. Org. Chem. 1983, 48, 4771;
+14. (a) Cornelis, A.; Laszlo, P.; Pennetreau, P. J. Org. Chem. 1983, 48, 4771;
      (b) Cornelis, A.; Laszlo, P.;  Pennetreau, P. Bull. Soc. Chim. Belg. 1984,
      93, 961; (c) Balogh, M.; Pennetreau, P.; Hermecz, 1.; Gerstmans, A.
      J. Org. Chem. 1990, 55, 6198.
 
-15.  Meshram, H.M.; Reddy, G.S. Yadav, J.S. Tetrahedron Lett. 1997, 38, 8891.
+15. Meshram, H.M.; Reddy, G.S. Yadav, J.S. Tetrahedron Lett. 1997, 38, 8891.
 
-16.  Suzuki, H.; Mori, T. J. Org. Chem. 1997, 62, 6498.
+16. Suzuki, H.; Mori, T. J. Org. Chem. 1997, 62, 6498.
 
-17.  Alumina bath (neutral alumina: 125 g, mesh ~150, Aldrich; bath: 5.7 cm
+17. Alumina bath (neutral alumina: 125 g, mesh ~150, Aldrich; bath: 5.7 cm
      diameter) has three functions:  (i) serves as a heat sink in the MW
      chamber; (ii) houses the small reaction vessels, and (iii) allows the easy
      measurement of the bulk temperature after completion of the reaction.

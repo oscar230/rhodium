@@ -19,7 +19,7 @@ Here are the results of our observations.
   
 Iodo-n-butylate: C6H12N4-C4H9I
   This iodobutylate was prepared without difficulty by the method 
-indicated by us.  One heats to reflux in a double boiler 1mol of HMTA 
+indicated by us. One heats to reflux in a double boiler 1mol of HMTA 
 dissolved in 12-15 times its weight in chloroform with 1 mol of the 
 iodo-n-butane. The quaternary salt precipitates at the end and is a sign 
 of its production. Collect after the temperture progresses; we verified 
@@ -50,11 +50,11 @@ with decomposition. It combines with bromine.
 
 Iodo-i-butane: C6H12N4-C6H9I
   The rections is much slower and less complete than with the normal 
-iodine compound.  Theyield after 15 hours was only 27% and it is likely 
+iodine compound. Theyield after 15 hours was only 27% and it is likely 
 that longer heating wouldn't increase it, also the chloroform solution 
 was yellow. Besides, the salt isn't pure; the bitter taste is clearly 
-accompanied with an acidic flavor.  The quaternary  salts of HMTA are 
-neutral. like HMTA itself, while the salts of HMTA are acidic.  We were 
+accompanied with an acidic flavor. The quaternary  salts of HMTA are 
+neutral. like HMTA itself, while the salts of HMTA are acidic. We were 
 able to measure the acidity of the ppt. and found that it contained 15% 
 of the iodine salt of HMTA.
 
@@ -142,7 +142,7 @@ benzylamine, two hours, 82.5%; p-nitrobenzylamine, one day, 61%; phenethyl-
 amine, three weeks, 54%. The products obtained were of high purity, having
 melting points closely in accord with the values given in the literature.
 
-(1)  Delépine, Compt. Rend 120, 501 (1895); 124, 292 (1897);
+(1)  Delï¿½pine, Compt. Rend 120, 501 (1895); 124, 292 (1897);
      Bull. soc. chim. [3] 17, 290 (1897); ibid. [4] 31, 108 (1922).
 (2)  Mannich and Hahn, Ber., 44, 1542 (1911).
 (3)  Foldi, Ber 58, 1830 (1920).

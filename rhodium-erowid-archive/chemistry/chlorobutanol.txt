@@ -13,24 +13,24 @@ varying other reaction conditions produced the following results:
 -------------------------------------------------------------------------------
  Experiment              KOH             Time            Temp            Yield
 -------------------------------------------------------------------------------
- 1                       2.0 g           2 h             -5°C            69.3%
- 2                       1.0 g           2 h             -5°C            71.0%
- 3                       0.5 g           2 h             -5°C            51.9%
- 4                       1.0 g           1 h             -5°C            68.4%
- 5                       1.0 g           2 h              0°C            63.2%
+ 1                       2.0 g           2 h             -5ï¿½C            69.3%
+ 2                       1.0 g           2 h             -5ï¿½C            71.0%
+ 3                       0.5 g           2 h             -5ï¿½C            51.9%
+ 4                       1.0 g           1 h             -5ï¿½C            68.4%
+ 5                       1.0 g           2 h              0ï¿½C            63.2%
 -------------------------------------------------------------------------------
 
 Experimental:
 
 45 ml Acetone, 5 ml chloroform and 1 gram powdered potassium hydroxide was mixed
-in a 250ml flask, and the reaction mixture was stirred at -5°C for two hours.
+in a 250ml flask, and the reaction mixture was stirred at -5ï¿½C for two hours.
 The resulting suspension was filtered, and the filtrate was freed from excess
 acetone by distillation. The yellowish oily residue was mixed with 50ml of
 ice-cold water and chlorobutanol hemihydrate precipitated as a white crystalline
 material, which was filtered off and dried (preferably in a vacuum desiccator).
-Yield 71% of theory, melting point 78.4°C after recrystallization from water.
+Yield 71% of theory, melting point 78.4ï¿½C after recrystallization from water.
 
-Ref:  Monatshefte für Chemie 114, 813-816 (1983)
+Ref:  Monatshefte fï¿½r Chemie 114, 813-816 (1983)
 
 ===============================================================================
 
@@ -193,7 +193,7 @@ Notes:
 (19.7.99-added caveats, corrected text)
 
 1. The filtrate from filtering off the water from the chlorobutanol contains
-   significnat quantites of chlorobutanol.  Further crystals can sometimes be
+   significnat quantites of chlorobutanol. Further crystals can sometimes be
    found in this so-called 'mother liquor' (from from organic chem lab text)
    if it is re-cooled. Chlorobutanol is slightly soluble in room temp water
    (1g/125 ml, Drill, Pharmacology in Medicine, 2nd ed., 1958, p.156).
@@ -213,12 +213,12 @@ Notes:
 From "Recreational Drugs" by Professor Buzz:
 
 Chlorobutol (Chloretone) 1 mole of dry acetone and 2 moles of chloroform is 
-cooled to 10°C with good, constant stirring. To this mixture add finely 
+cooled to 10ï¿½C with good, constant stirring. To this mixture add finely 
 powdered KOH (20% by weight of the above mixture), at a slow rate to keep the 
-reaction temp below 50°. Continue to stir and cool for 24 hours more. Filter 
+reaction temp below 50ï¿½. Continue to stir and cool for 24 hours more. Filter 
 the mass and wash with acetone. The filtrate and washings are bulked and 
-distilled, and the fraction boiling at 165-175°C) is collected in water. 
-The hydrate is filtered and recrystallized from 50% ethanol. mp: 77-78°C.
+distilled, and the fraction boiling at 165-175ï¿½C) is collected in water. 
+The hydrate is filtered and recrystallized from 50% ethanol. mp: 77-78ï¿½C.
     
 Chlorobutol is a mild hypnotic with analgesic properties, used in seasickness, 
 persistent hiccupping, and irritations due to chronic skin diseases. 

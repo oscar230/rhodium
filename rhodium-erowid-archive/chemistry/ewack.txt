@@ -3,13 +3,13 @@
 -------------------------------------------------------------------------------
 
 (Legion Bob introduces this pretty little monster:   This article was on Rhodium
-in the form of some scanned in pictures.  Bob typed it up for the sake of making
+in the form of some scanned in pictures. Bob typed it up for the sake of making
 it easier to view, and so it can be copied and pasted wildely for the sake of
-discussion.   Bob's comments are liberally sprinkled in–hopefully it's still
-clear who wrote what.   This article describes the Electrochemical Wacker
+discussion.  Bob's comments are liberally sprinkled inï¿½hopefully it's still
+clear who wrote what.  This article describes the Electrochemical Wacker
 Oxydation of olefins (in our case, safrole.)  The process is essentially one of
 using two catalysts, with electrical current run through the solution to
-continuously regenerate them.   The graphics from the origional articles are
+continuously regenerate them.  The graphics from the origional articles are
 ommited, check them out at Rhodium (E-wacker.))
 
 Chemistry Letters, pp. 121-124, 1994
@@ -29,13 +29,13 @@ corresponding methyl ketones in good yields.
 
     (Bob translates:   Safrole is a 'terminal olefin.'  Dump it in a container
 with palladium chloride, tri(4-bromophenyl)amine and a solvent (what?) and run
-electricity through it.  POOF!  Ketones.  In the case of safrole, the MDP2P
-ketone.  It *sounds* so simple...)
+electricity through it. POOF!  Ketones. In the case of safrole, the MDP2P
+ketone. It *sounds* so simple...)
 
       The Wacker type process with palladium(II) chloride and copper(II) as
 catalysts in aqueous media under oxygen (Bob:  Which is to say, the famous O2
 wacker) is one of the useful methods for conversion of terminal olefins to
-methyl ketones (#1).  A variety of modified methods of this reaction by devising
+methyl ketones (#1). A variety of modified methods of this reaction by devising
 the reoxidation process for palladium(0) to palladium(II) have been reported in
 order to avoid chlorination encountered in the process with copper(II) chloride
 (#2).
@@ -47,8 +47,8 @@ Usually divided cell systems have been utilized to avoid the deposition of
 palladium metal onto the cathode, which often led to unsatisfactory reaction
 conversion. (#6)   Herein, we report an improved procedure for the
 electrochemical Wacker type reaction by use of triarylamine as a recyclable
-mediator (#7) for regeneration of Pd(II) from Pd(0).   The electrolysis can be
-achieved in both a divided or an undivided cells.  In this double mediatory
+mediator (#7) for regeneration of Pd(II) from Pd(0).  The electrolysis can be
+achieved in both a divided or an undivided cells. In this double mediatory
 system, electrooxidation effects formation of triarylamine cation radical from
 triarylamine which regenerates palladium(II) species.
 
@@ -56,7 +56,7 @@ triarylamine which regenerates palladium(II) species.
 
       The cation radicals of triarylamines are stable (#8) and hence useful as
 redox catalysts for indirect electrooxidations such as deprotonation and
-irreversible cleavage of carbon-sulfur bond (#7).  Redox step by the cation
+irreversible cleavage of carbon-sulfur bond (#7). Redox step by the cation
 radical of triarylamine is considered to involve the formation of an
 intermediate complex, which would lead to a negative shift of the oxidation
 potential compared with those of the substrates. (#9)   These features of the
@@ -64,43 +64,43 @@ cation radicals of triarylamines are of interest as a recyclable organic redox
 for regeneration of Pd(II) from Pd(0) in the double mediatory system.
 
      (Bob tries to translate:   The electricity flowing through the solution
-converts the triarylamine into a radical (positively charged ion).   The
+converts the triarylamine into a radical (positively charged ion).  The
 palladium is being converted from it's Pd(II) form to Pd(0) when it converts the
-safrole into MDP2P ketone.   The triarylamine radicals then react with the the
+safrole into MDP2P ketone.  The triarylamine radicals then react with the the
 Pd(0), turning the palladium back into it's catalytically usefull Pd(II) form,
 and in the process the radicals get converted back to plain old triarylamine.
-The process repeats itself as long as the safrole and electricity last.  :-)
+The process repeats itself as long as the safrole and electricity last. :-)
 
      The electrolyses were carried out either in a divided or undivided cell
-under a constant applied voltage.   Typically, the electrolysis in an undivided
+under a constant applied voltage.  Typically, the electrolysis in an undivided
 cell was performed by using the substrate (1 mmol), PdCl2 (5 mol%), and
 (4-BrC6H4)3N (5 mol%) in an MeCN-H20 (7:1)-(Pt)-(Pt) system at an applied
 voltage of 3 volts and a current of 2-3 milliamps for 2-3 Faradays/mol, giving
-the desired methyl ketones.  The results of the electrochemical Wacker
+the desired methyl ketones. The results of the electrochemical Wacker
 oxidations are given in Table 2.
 
      (Bob:  A Faraday is one mole of electrons (ie. it's a measurement of how
 much electricity flows through based on the ammount of current and how long it
 flows for.)   To calculate F, you take amps of current * time in seconds /
-96,500.  So, 10 mA of power flowing for one hour (3600 seconds) gives us ( 0.010
+96,500. So, 10 mA of power flowing for one hour (3600 seconds) gives us ( 0.010
 amps * 3600 sec/96500 conversion factor), which comes out to a wretched .00037
 Faradays (moles of electrons.)   Note that the reaction is described in terms of
 F/mole of olefin, which is only logical (the more material processed the more
 electrons needed.)  What this means is that if you want to process .01 moles
 (just under 2 grams) of safrole, you'll need to leave on that 10 mA current for
-about 50 to 80 hours.    Now, I'm sure your first impulse is to say 'scew that',
+about 50 to 80 hours.   Now, I'm sure your first impulse is to say 'scew that',
 but the methods and cells used by these scientists were tiny experimental ones,
-not the sort of industrial-scale visions a bee might have.   For instance, how
+not the sort of industrial-scale visions a bee might have.  For instance, how
 much current can the system withstand?  How well does it scale up?  A reasonably
 sized aparatus capable of Wacking a whole mole of safrole (~190g) might be
-achieved with 30 amps (@3 volts) in about 2-3 hours.   Ahh, but what bored bee
+achieved with 30 amps (@3 volts) in about 2-3 hours.  Ahh, but what bored bee
 will do the experiment?  :-)   And how should the cell be built?   Bob likes
 glass (any old cooking pan may work), but what material should be used for the
 electrodes?)   Putting together this unusual power supply would also be a
-nuisance, but certainly no great obstacle to the electronics geeks.   Bob is
+nuisance, but certainly no great obstacle to the electronics geeks.  Bob is
 also semi-concerned about the high palladium:olefin ratio (1:20) but the
 palladium appears to recover and recycle well, and the ratio might be lowerable
-without adverse effect.   On the bright side, Bob is 99% sure this thing could
+without adverse effect.  On the bright side, Bob is 99% sure this thing could
 be scaled waaaay up.)
 
 
@@ -108,15 +108,15 @@ be scaled waaaay up.)
 electrochemical process in the double mediatroy system, three kinds of organic
 redoxes such as triarylamine (entry 1 in chart below), dephenoqhinone (entry 2
 in chart) and hydroquinone (our old friend, entry 3 in chart) were examined for
-the oxidation of 1-undencene (1a).  It is known that in general unsubstituted
+the oxidation of 1-undencene (1a). It is known that in general unsubstituted
 terminal olefines like 1a are susceptible to the isomerization of the double
-bond to internal posititions during the palladium-catalyzed Wacker process.   As
+bond to internal posititions during the palladium-catalyzed Wacker process.  As
 shown in Table 1, the ratio of the desired 2-undecane (2a) vs. other ketones
 such as 3-, 4-, and 5- undecanones is affected by the kind of organic mediator.
 
        (Bob:  Like the man says--your choice of mediator (the chemical that gets
 ionized by the electricity so it can restore the palladium to P(II)) will affect
-yield.   However, note that the same mediator chemical will give better or worse
+yield.  However, note that the same mediator chemical will give better or worse
 results with different starting olefins (In our case, safrole.))
 
       Among three organic mediators attempted, the highest yield of the Wacker
@@ -126,7 +126,7 @@ olefin, it produced a higher percentage of the desired ketone vs. the undesired
 ones.)
 
       The efficiency of the electrooxidation is also affected by the kind of
-palladium complexes.  PdCl2 and Pd(OAc)2 were preferentially used in the
+palladium complexes. PdCl2 and Pd(OAc)2 were preferentially used in the
 undivided and divided cell systems, respectively.
 
 [Table 1]
@@ -135,17 +135,17 @@ undivided and divided cell systems, respectively.
 
 a)  Reaction is carried out in a CH3CN/H2O (9:1 V/V, 10 ml)-Et4NOTs-(Pt)-(Pt)
 system in the presence of Pd(OAc)2 (5 mol%) and an organic mediator (20 mol%) at
-room temperature (20 C) in a divided cell.   Conditions:  3.0 Volts (using
-0.4-5.5 mA of current); Electricity charged: 2.5-3.0 Faradays/mol.  b) Yields
+room temperature (20 C) in a divided cell.  Conditions:  3.0 Volts (using
+0.4-5.5 mA of current); Electricity charged: 2.5-3.0 Faradays/mol. b) Yields
 are determined by gas chromatagraph analyses based on internal standard
-(2-octanone.)  Numbers in parenthesis show selectivity of 2a.  c) Combined yield
-of 3-, 4-, and 5-undecanones by gas chromatograph analyses.  d) Combined yield
+(2-octanone.)  Numbers in parenthesis show selectivity of 2a. c) Combined yield
+of 3-, 4-, and 5-undecanones by gas chromatograph analyses. d) Combined yield
 of 2a and other ketones.
 
-    (Bob bitches:  And that's the bad news.  The best reaction still only gave
-39% yield of the desired ketone when using undecane.   But...keep reading, true
-believers.   Bob has spotted an old friend in the below table of other olefins
-tried.  Yep, right there at the top.   Safrole!   AND IT YIELDS AT 85% in an
+    (Bob bitches:  And that's the bad news. The best reaction still only gave
+39% yield of the desired ketone when using undecane.  But...keep reading, true
+believers.  Bob has spotted an old friend in the below table of other olefins
+tried. Yep, right there at the top.  Safrole!   AND IT YIELDS AT 85% in an
 undivided cell!)   YEEEEHA!    OK, that's still not as good as the best O2
 wackers...but this method doesn't seem to exactly have been pushed to it's
 limits yet (recall that the first O2 wackers described at Rhodium yielded about
@@ -155,12 +155,12 @@ limits yet (recall that the first O2 wackers described at Rhodium yielded about
 
       The combined use of PdCl2 or Pd(OAc)2 palladium chloride or palladium
 acetate with tri(4-bromophenyl)amine (3) was applied to the oxidation of a
-variety of terminal olefins and the results are shown in Table 2.  The desired
+variety of terminal olefins and the results are shown in Table 2. The desired
 methyl ketones 2 are obtained in good yields when the starting olefins possess
 substituents such as a methoxy group (Entry 2), carbonyl functions (Entries 3-5)
-and an amino group (Entry 6) at the neighboring positions.   A small ammount of
+and an amino group (Entry 6) at the neighboring positions.  A small ammount of
 by-products such as aldehyde (Entry 2) and dehydrated compound (Entry 9) are
-found.   Up to 50 turnovers of the palladium catalyst could be achieved without
+found.  Up to 50 turnovers of the palladium catalyst could be achieved without
 noticeable loss of activity of the electrolysis system.
 
       (Bob Lusts:   Re-using the palladium 50 times and it's still ticking?
@@ -168,12 +168,12 @@ It's a Good Thing.)
 
       The present work was partially supported by The Grant-in-Aid for
 Scientific Research No. 05650883 from the Ministry of Education, Science and
-Culture of Japan.  We thank Prof. S. Saito for helpful discussions and are
+Culture of Japan. We thank Prof. S. Saito for helpful discussions and are
 grateful to the SC-NMR laboratory of Okayama University for experiments with the
 Varian VXR-500 and -200 instruments.
 
 
-References.   (Bob hates references.   Too much damn punctuation.)
+References.  (Bob hates references.  Too much damn punctuation.)
 
 1)  J. Tsuji, "Organic Synthesis with Palladium Compounds", Springer Verlag,
     Berlin (1980); R. F. Heck, "Palladium Reagents in Organic Synthesis",

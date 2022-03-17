@@ -32,7 +32,7 @@ blocked..
 
 
 The use of NXS (N-Halosucccinimid) are OK for making DOX ore 2-CX from DMA/2-CH.
-And you don’t need to use CCl4. It can been done in hexane ore P.ether.
+And you donï¿½t need to use CCl4. It can been done in hexane ore P.ether.
 The yield is around 80-95% See J.Org.Chem. 1993,58,3072-3075
 
 
@@ -80,9 +80,9 @@ Standard Procedure for aromatic halogenation:
 
 A solution of TBHP(tertbutylhydroperoxide)(70% aqueaous, 0.15mL, 1.17 mmol)
 was added to a cooled mixture of HBr (48% aqueaous, 0.2 mL, 1.17 mmol) in
-methanol (5 mL) and the mixture stirred for 5 min.  To this cold solution
+methanol (5 mL) and the mixture stirred for 5 min. To this cold solution
 1.17 mmol of the aromatic is added, stirred for 30 min. and then refluxed
-for 6 hours.  Extract with DCM and they purify by column chromatography.
+for 6 hours. Extract with DCM and they purify by column chromatography.
 
 Anisole to 4-BromoAnisole 76%
 1,4-dimethoxybenzene to 2-Br-1,4-dimethoxybenzene  89%

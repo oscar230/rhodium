@@ -60,9 +60,9 @@ between the sheets. If the clay is heated (to around 100 C) so as to remove
 most of the interlamellar water until only 'one layer' of water remains, at
 about 5% total water level, the Bronsted acidity increases markedly to that
 of a very strong acid indeed. Heating to a higher temperature (at around
-200-300°C) results in collapse of the clay interlayer structure as the
+200-300ï¿½C) results in collapse of the clay interlayer structure as the
 water is driven out, resulting in a decrease in Bronsted acidity but an
-increase in Lewis acidity. Further heating (to around 450°C and above)
+increase in Lewis acidity. Further heating (to around 450ï¿½C and above)
 results eventually in complete dehydroxylation of the aluminosilicate
 lattice, producing a completely amorphous solid that retains Lewis acidity.
 
@@ -222,7 +222,7 @@ freshly prepared reagent: it loses about 40 % of its reactivity upon
 standing exposed to air for 4 h, or under n-pentane for 24 h.
 
 The thermal stability of Clayfen was investigated by differential
-calorimetric analysis. Above 59°C, it decomposes with an enthalpy release
+calorimetric analysis. Above 59ï¿½C, it decomposes with an enthalpy release
 of ~ 20 cal/g. This is a first order process, with calculated half-lives of
 53 min at 69 C (in boiling n-hexane, for instance) or of 14 min at 80 C
 (the temperature of boiling benzene). In our experience the latter is the
@@ -252,18 +252,18 @@ For examples of applications of Clayfen, Claycop and K10 see references
 
 References:
 
-1.  J A Ballantine in Chp 4. p100-103. In "Bologh, Laszlo, Organic
+1. J A Ballantine in Chp 4. p100-103. In "Bologh, Laszlo, Organic
     Chemistry Using Clays", 1993, Springer-Verlag.
-2.  From "Clay-Supported Copper(II) and Iron(III) Nitrates: Novel
+2. From "Clay-Supported Copper(II) and Iron(III) Nitrates: Novel
     Multi-Purpose Reagents for Organic Synthesis. A Cornelis, P Laszlo.
     Synthesis 1985, 909-918.
-3.  Cornelis, Laszlo & Pennetreau, Clay Miner 1983, 18, 437; CA 1984, 100, 102362.
-4.  Cornelis, Laszlo & Pennetreau, Bull. Soc. Chim. Belg. 1984, 93, 961
-5.  B. Theng, The Chemistry of Clay-Organic Reactions, Wiley NY, 1974.
-6.  McKillop & Young, Synthesis 1979, 401, 481.
-7.  Theng, Dev. Sedimentol. 1982, 35, 197; CA 1982, 97, 197524;
-8.  Lagaly, Phil. Trans. R. Soc. Lond. A 1984, 311, 315
-9.  Cornelis & Laszlo, Synthesis 1980, 849.
+3. Cornelis, Laszlo & Pennetreau, Clay Miner 1983, 18, 437; CA 1984, 100, 102362.
+4. Cornelis, Laszlo & Pennetreau, Bull. Soc. Chim. Belg. 1984, 93, 961
+5. B. Theng, The Chemistry of Clay-Organic Reactions, Wiley NY, 1974.
+6. McKillop & Young, Synthesis 1979, 401, 481.
+7. Theng, Dev. Sedimentol. 1982, 35, 197; CA 1982, 97, 197524;
+8. Lagaly, Phil. Trans. R. Soc. Lond. A 1984, 311, 315
+9. Cornelis & Laszlo, Synthesis 1980, 849.
 10. Addison. Prog. Inorg. Chem. 1967, 8, 195.
 11. Addison, Logan, Wallwork, Garner. Q. Rev. Chem. Soc. 1971, 25, 289.
 12. Bologh, Hermecz, Meszaros, Laszlo. Helv. Chim. Acta 1984, 67, 2270.

@@ -305,7 +305,7 @@ _______________________________________________________
 Journal of the Chemical Soceity, 2854 (1951)
 Linstead, Shephard and Weedon:
 
-634.    Anodic Syntheses.    Part V.*   Electrolysis of N-Acylamino-acids.
+634.   Anodic Syntheses.   Part V.*   Electrolysis of N-Acylamino-acids.
 A Novel Alkoxylation Reaction
 .
 By R. P. LINSTEAD, B. R. SKEPHMID, and B. C. L. WEEDON.
@@ -317,12 +317,12 @@ Analogous reactions occur in both ethanol and isopropanol.
 
 Under similar conditions N-acyl derivatives of 6-aminohexanoic acid, [gamma]-
 aminobutyric acid, and [beta]-alanine undergo the normal Kolbe reaction giving
- the corresponding derivatives of polymethylenediamines in ca. 20— 40% yields.
+ the corresponding derivatives of polymethylenediamines in ca. 20ï¿½ 40% yields.
 
 
 THE Kolbe synthesis of compounds of the type R*R by electrolysis of the acids
  R-CO,H is known to be accompanied by side reactions, a number of which were
-described by Kolbe himself (Annaltn. 1849, 69, 257).    The extent to which
+described by Kolbe himself (Annaltn. 1849, 69, 257).   The extent to which
 by-products are formed is governed both by the experimental conditions and to
  a marked degree, by the structure of the acid, to a electrolysed. A survey
 of the literature reveals that presence of substituents [alpha] to the carboxyl
@@ -371,21 +371,21 @@ methanolic hydrogen chloride (cf. UiS.P. 2,364,737; B.P. 557,932), which gave
 
 Anodic  methoxylation also took place readily with N-acetyl- and
 N-carbobenzyloxygylcine, giving N-methoxymethylacetamide (I;  R = Me) and
--benzylurethane (I; R = PhCH2O) in 78 and 74% yield respectively.  Similarly
+-benzylurethane (I; R = PhCH2O) in 78 and 74% yield respectively. Similarly
   N-acetyl-  and  N-benzoyl-DL-[alpha]-alanine gave the N-l'-methoxyethyl-
 amides (III;  R = Me and Ph) in 85   and 91%   yield respectively.
 
 The use of solvents other than methanol was also briefly investigated, and
 by electrolysis of N-benzoylglycine in ethanol and isopropanol, and of N-
 benzoyl-DL-[alpha]-alanine in ethanol, the corresponding ethoxy- and
-isoopropoxy-alkylamides were obtained (56—70%).
+isoopropoxy-alkylamides were obtained (56ï¿½70%).
 
 
 [Page 2855]
 
 These reactions can be generalised as follows :
-X-NH-CHR-CO2H +  R'-OH   ——>    X-NH-CHR-OR' + CO2
-where X is acyl, R hydrogen or methyl, and R' alkyl.    The alkoxyalkyl-amides
+X-NH-CHR-CO2H +  R'-OH   ï¿½ï¿½>    X-NH-CHR-OR' + CO2
+where X is acyl, R hydrogen or methyl, and R' alkyl.   The alkoxyalkyl-amides
  (acylaminoethers) so produced are of a rare type hard to prepare in other ways.
    The yields are high aid the products easily obtained as crystalline solids
  or colourless distillable liquids.
@@ -440,7 +440,7 @@ aminohexanoic acid but yields were given in one case only. We find that normal
  Kolbe coupling occurs in the electrolysis in methanol of a considerable range
 of acylamino-acids other than those of the [alpha]-series. The reaction
 
-X-NH[CH2]n-CO2H   ——>    X-NH-[CH2]2n-NHX
+X-NH[CH2]n-CO2H   ï¿½ï¿½>    X-NH-[CH2]2n-NHX
 
 proceeds in about 30% yield where n is 2, 4, or 6. Thus 6-acetamido-,
 6-benzamido-, and 6-carbobenzyloxyamino-hexanoic acids yielded the corresponding

@@ -64,7 +64,7 @@ being reflux for 2-3 hrs with 15-20% H2SO4.
 A few other references to effect the same transformation are more obscure
 but included here anyway:
 
-J Pharm Soc Jpn.  74, 975 (1954)
+J Pharm Soc Jpn. 74, 975 (1954)
 J Assoc Off Anal Chem. 61, 951 (1978)
 
 An example of the reaction delineated in the two above references is provided
@@ -104,7 +104,7 @@ The resulting suspension is stirred for five minutes at room temperature
 succinimide (NBS) (Note 4) is added in small portions over calculated 10 min. 
 A yellow color appears when the first portion of NBS is added, and by the 
 time the addition is complete, the solution is bright orange. During the 
-addition the temperature of the mixture rises to 50-55°C, and all of 
+addition the temperature of the mixture rises to 50-55ï¿½C, and all of 
 (E)-stilbene dissolves. The contents of the flask are stirred for antoher 
 fifteen minutes and poured into 1L of ice water; the product separates 
 immediately as a white solid (Note 5). The aqueous slurry is transferred to 
@@ -112,11 +112,11 @@ a separatory funnel with the aid of 50ml portions of water and diethyl ether,
 and extracted with four 200ml portions of ether. The combined ethereal 
 extracts are washed with 250ml of water and 250ml of sodium chloride solution, 
 dried over anhydrous magnesium sulfate, and evaporated with a rotary evaporator 
-at a water bath temperature of calculated 30°C. The pale yellow, crystalline 
+at a water bath temperature of calculated 30ï¿½C. The pale yellow, crystalline 
 residue is dissolved, to the extent possible, in 600ml of hot hexane, and the 
 resulting suspension is filtered while hot, removing a small amount of insoluble 
 impurity. Cooling the filtrate provides colorless fibers of analytically pure
-erythro-2-bromo-1,2-diphenylethanol, m.p. 83-84°C (Note 6); a second crop
+erythro-2-bromo-1,2-diphenylethanol, m.p. 83-84ï¿½C (Note 6); a second crop
 of crystals is obtained by concetrating the mother liquor to 200ml (Note 7). 
 The combined yield is 22-24.9g (80-90% of theoretical)
 
@@ -138,7 +138,7 @@ skin absorption. Cost is about $10.00 or less. It is there available on the
 shelf as DMSO.
 
 Note 3. The suspension may be warmed to dissolve the alkene more rapidly.
-        If the suspension is warmed, it MUST be cooled below 30øC before
+        If the suspension is warmed, it MUST be cooled below 30ï¿½C before
         proceeding further to prevent a vigorous reaction when the NBS is
         added. The submitters recommend that the warm suspension be cooled
         under an atmosphere of nitrogen.

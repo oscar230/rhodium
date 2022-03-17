@@ -101,7 +101,7 @@ Entry   R       R1                 to NaBH4 ratio    sec (a)     Yield (b)
         substrates with NaBH4-Al2O3 at room temperature.
 (b)     Unoptimized yields of isolated products that exhibited physical and
         spectral properties in accord with the assigned structures.
-(c)     In an oil bath at 130°C (temperature attained in MW oven. 2 min),
+(c)     In an oil bath at 130ï¿½C (temperature attained in MW oven. 2 min),
         the reaction stopped at 40% conversion even after 4 h.
 
 	In conclusion, we have developed a facile and practical method for the
@@ -111,7 +111,7 @@ system, NaBH4-Al2O3, that is accelerated by microwave irradiation.
 
 					REFERENCES AND NOTES
 
-1.      (a) Balogh, M.; Laszlo, P. Organic Chemistry Using Clays;
+1.     (a) Balogh, M.; Laszlo, P. Organic Chemistry Using Clays;
             Springer-Verlag: Berlin, 1993.
         (b) Laszlo, P. Preparative Chemistry using Supported Reagents,
             Academic Press, San Diego, California 1987, specially for
@@ -122,18 +122,18 @@ system, NaBH4-Al2O3, that is accelerated by microwave irradiation.
         (e) Kabalka, G.W.; Wadgacnkar, P.P.; Chatla, N. Synth. Commun.
             1990, 20, 293.
 
-2.      Banfi, E.N.; Riva, R. In Reagents for Organic Synthesis, Ed. L.
+2.     Banfi, E.N.; Riva, R. In Reagents for Organic Synthesis, Ed. L.
         Paquette, Wiley, New York, 1995, Vol. 7, pp. 4522-4528.
 
-3.      Santaniello, E.; Ponti, F.; Manzocchi, A. Synthesis 1978, 891.
+3.     Santaniello, E.; Ponti, F.; Manzocchi, A. Synthesis 1978, 891.
 
-4.      Toda, F.; Kiyoshige, K.; Yagi, M. Angew. Chem. Int. Ed Engl.
+4.     Toda, F.; Kiyoshige, K.; Yagi, M. Angew. Chem. Int. Ed Engl.
         1989, 28, 320.
 
-5.      Caycho, J.R.; Tellado, F.G.; Armas, P.D.; Tellado, J.J.M.
+5.     Caycho, J.R.; Tellado, F.G.; Armas, P.D.; Tellado, J.J.M.
         Tetrahedron Lett. 1997,38, 277.
 
-6.      (a) Varma, R.S.; Saini, R.K. Tetrahedron Lett. 1997, 38, in press;
+6.     (a) Varma, R.S.; Saini, R.K. Tetrahedron Lett. 1997, 38, in press;
         (b) Varma, R.S.; Dahiya, R. Tetrahedron Lett. 1997, 38, 2043;
         (c) Varma, R.S.; Dahiya, R.; Kumar, S. Tetrahedron Lett 1997,
             38, 2039;
@@ -146,16 +146,16 @@ system, NaBH4-Al2O3, that is accelerated by microwave irradiation.
         (g) Varma, R.S.; Lamoure, J.B.; Varma, M. Tetrahedron Lett. 1993,
             34, 3029.
 
-7.      (10%) NaBH4-Alumina, is prepared by thoroughly mixing NaBH4 (5.0 g)
+7.     (10%) NaBH4-Alumina, is prepared by thoroughly mixing NaBH4 (5.0 g)
         with neutral alumina (45.0 g) in solid state using a pestle and
         mortar; admixing three components, carbonyl substrate, NaBH4 and
         alumina together is equally efficient.
 
-8.      For a critical evaluation of activation process by microwaves see:
+8.     For a critical evaluation of activation process by microwaves see:
         Raner, K.D.; Strauss, C.R.; Vyskoc, F.; Mokbel, L. J. Org. Chem.
         1993, 58, 950. The temperature of the alumina bath (heat sink)
         inside a Sears Kenmore microwave oven (operating at 2450 MHz)
         equipped with a turntable at full power (900 Watts) found to be
-        ~70°C after 30 seconds of irradiation.
+        ~70ï¿½C after 30 seconds of irradiation.
 
 --------------------------------------------------------------------------

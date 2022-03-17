@@ -31,7 +31,7 @@ hydrochloride, the MW=428.53. REMEMBER that sulfate is a divalent
 anion, so you have two molar equivalents of ephedrine for each mole of
 ephedrine sulfate.
 
-4.  I've redone the calculations using the correct values.  Since this
+4. I've redone the calculations using the correct values. Since this
 is kitchen chemistry, in the end the recipe will work OK as it is
 written, as the recalculations show that the required volumes don't
 change enough to matter with kitchen chem (in)accuracy. This is true
@@ -67,58 +67,58 @@ Subject: Potential Problems with CAT FAQ, my v.2
    Date: 2 Feb 1998 23:14:37 +0100
 
 I happened to be with a friend over the weekend who was doing a CAT synthesis
-just like in the CAT FAQ.  Now he had done it successfully before, but in this
-case I was around to take a look at the technique and add my two cents.  I saw
+just like in the CAT FAQ. Now he had done it successfully before, but in this
+case I was around to take a look at the technique and add my two cents. I saw
 several potential problems:
 
-1.  The synthesis is imprecise on the subject of whether the solution becomes
-basic as the oxidation progresses.   From my calculations, some but not all of
+1. The synthesis is imprecise on the subject of whether the solution becomes
+basic as the oxidation progresses.  From my calculations, some but not all of
 the HCl from the ephedrine salt is used up in the end  as KCl is crystalized
-out.  KOH is a much stronger base than CAT, so it follows that the Cl- goes to
-the K in preference to the CAT.  Thus there is always some un-neutralized CAT
-in the mixture.  Thus the need to add extra HCl at the end.   Unneutralized CAT
+out. KOH is a much stronger base than CAT, so it follows that the Cl- goes to
+the K in preference to the CAT. Thus there is always some un-neutralized CAT
+in the mixture. Thus the need to add extra HCl at the end.  Unneutralized CAT
 is very problematic as it is very unstable towards cyclization which is
 irreversible.
 
 I told my friend to add an equimolar amount (to pot permanganate used) of HCl
-to the mixture towards the end.  This worked out well, as we got a nice dry CAT
-HCl and KCl mixture at crystalization.    However, I would want to be careful
+to the mixture towards the end. This worked out well, as we got a nice dry CAT
+HCl and KCl mixture at crystalization.   However, I would want to be careful
 even about the addition of HCl to permanganate and manganese dioxide as both
-liberate chlorine from it.  Free chlorine will split up ephedrine or CAT. 
+liberate chlorine from it. Free chlorine will split up ephedrine or CAT. 
 Perhaps H2SO4 is a better choice.
 
-2.  The famed "pistacchio" smell is suspect.  I do know that CAT base and its
-salts have distinctive ketone smell and tast respectively.   However, I believe
-several of the syntheses report the smell as the reaction progresses.  My
+2. The famed "pistacchio" smell is suspect. I do know that CAT base and its
+salts have distinctive ketone smell and tast respectively.  However, I believe
+several of the syntheses report the smell as the reaction progresses. My
 experience is that you won't smell anything unless the solution is basified. 
 If you do smell a nutty like substance it is BENZALDEHYDE, the ruination of
 ephedrine.
 
 Along those lines an experiment was conducted with bleaching liquid (5.25%
-sodium hypchlorite).  1g of ephedrine HCl was reacted with an equimolar amount
-of bleach at 2degrees C along with 100ml of vinegar.   The immediate smell of
-chlorine was noted, and the solution let sit for a couple of hours.  Later the
+sodium hypchlorite). 1g of ephedrine HCl was reacted with an equimolar amount
+of bleach at 2degrees C along with 100ml of vinegar.  The immediate smell of
+chlorine was noted, and the solution let sit for a couple of hours. Later the
 solution was basified, and lo and behold there was that wonderful "pistacchio"
-smell of benzaldehyde.  Now if anyone thinks this was CAT they can try it
-themselves and see if they can get off.  If you don't know what benzaldehyde
-smells like, just go to the store and buy some "almond extract".  We didn't try
+smell of benzaldehyde. Now if anyone thinks this was CAT they can try it
+themselves and see if they can get off. If you don't know what benzaldehyde
+smells like, just go to the store and buy some "almond extract". We didn't try
 to ingest the stuff, as who knows what chlorinated crap might have been in
 there, like chloroephedrine.
 
 Therefore, you can draw two conclusions:  either I AM CORREST OR- BLEACH CAN BE
 USED TO MAKE CAT, if you believe the smell was CAT instead of benzaldehyde-  it
 was very strong- every ephedrine molecule must have been converted into
-something.  As I said, we didn't ingest it, so maybe we are wrong and we would
+something. As I said, we didn't ingest it, so maybe we are wrong and we would
 have had the most righteous high ever :)  :)
 
 Another experiment was tried where ephedrine base was reacted with bleach and
-sodium bicarbonate to maintain basic conditions in the cold.  No acid was
-added.  It sat for a few hours, apparently unchanged, but I'm not certain as
-the ephedrine ended up with a kind of chlorinated tast.  No benzaldehyde smell
-in that case.   I wonder what might happen with more vigorous conditions, as
+sodium bicarbonate to maintain basic conditions in the cold. No acid was
+added. It sat for a few hours, apparently unchanged, but I'm not certain as
+the ephedrine ended up with a kind of chlorinated tast. No benzaldehyde smell
+in that case.  I wonder what might happen with more vigorous conditions, as
 there was one report somewhere of CAT being made via calcium hypochlorite.
 
-Anyway, I've got to take a Khatnap now.  Too much experimentation is hard on
+Anyway, I've got to take a Khatnap now. Too much experimentation is hard on
 the body.
 
 Cheers,    Pugsley.
@@ -130,20 +130,20 @@ Date:         1998/05/26
 Newsgroups:   alt.drugs.chemistry 
 
 Ever wonder why all these idiots think that Cat is barely worth the effort?
-Total misinformation.  Put this on Hyper-unreal, you idiots:
-Cat does not smell like almonds or pistachio ice-cream.  Benzaldehyde does.
-Its the chemical you get when you screw up the reaction.  You can easily
-prove this by adding some ephedrine to bleach.  Do you think you can make
+Total misinformation. Put this on Hyper-unreal, you idiots:
+Cat does not smell like almonds or pistachio ice-cream. Benzaldehyde does.
+Its the chemical you get when you screw up the reaction. You can easily
+prove this by adding some ephedrine to bleach. Do you think you can make
 cat with bleach?  No, you can't, but you can oxidize the hell out of the
 molecule. 
 
 A real (but not hyper :) Cat synthesis uses vinegar as the reaction liquid
-(instead of neutral pH) with a small quantity of permanganate.  When the
+(instead of neutral pH) with a small quantity of permanganate. When the
 reaction is over, the liquid is quickly basified, and the solution
 extracted with chloroform or TCE, which inhibits conversion to the inactive
-cyclo product.  No almond smell has ever been evidenced with this reaction,
-yet it produces Cat.   The organic solvent is evaporated almost to dryness,
-where a small amount of 6M H2SO4 is added.  There is some heating and the
+cyclo product. No almond smell has ever been evidenced with this reaction,
+yet it produces Cat.  The organic solvent is evaporated almost to dryness,
+where a small amount of 6M H2SO4 is added. There is some heating and the
 rest of the organic evaporates, leaving a water solution of Cat sulfate,
 which can then be evaporated further to get a solid.
  
@@ -172,7 +172,7 @@ fine, but there is no reason to blindly nullify all other methods.
 
 Third, the likelyhood of the cleavage occuring of which you speak is
 slim. Many side reactions can occur to a small degree, but
-benzaldehyde cannot be the main product.  Jones reagant just will not
+benzaldehyde cannot be the main product. Jones reagant just will not
 do that. However, my very old notes from a land far away where such
 things are legal, indicate they I was most pleased when the reaction
 was done in an ice bath. I did this because literature indicated that
@@ -217,51 +217,51 @@ Regarding the anonymous poster and Lone Ranger's reply to "...cat does not
 smell like almonds...":
 
 I feel I have to comment since the whole issue was raised originally in one
-of my posts a long time ago and now archived on Lycaeum.  My main points:
+of my posts a long time ago and now archived on Lycaeum. My main points:
 
 It is true that the neutral chilled H2O solution method of permanganate
 synthesis of cat does produce mainly benzaldehyde and varying small amounts
-of cat.  
+of cat. 
 
 Ephedrine when exposed to a basic solution of bleach produces an
 intermediate compound which in a short amount of time converts into
-benzaldehyde.  The intermediate is unknown.
+benzaldehyde. The intermediate is unknown.
 
 Regarding the chromic acid method, the poster made no comments about it and
-neither will I.  I have no experience with it, since I was always able to
+neither will I. I have no experience with it, since I was always able to
 make very pure cat with my own acidic permanganate synthesis, so I never
-bothered.   
+bothered.  
 
 The free cat base does have its own unique smell, but definitely not like
-pistachio ice cream or almond extract.  It is more along the lines of other
-aromatic amines, like 4-MA base.  I assume that someone a long time ago was
+pistachio ice cream or almond extract. It is more along the lines of other
+aromatic amines, like 4-MA base. I assume that someone a long time ago was
 successful in making cat along with some benzaldehyde and then erroniously
 concluded that cat smelled like this.
 
 Chemists can argue and argue about the mechanisms regarding the formation of 
 benzaldehyde, but the empirical results show that it is produced each and
-every time from the neutral cat synthesis.  Chemistry in the real world does 
-not always conform to some text book equations.   Especially when it comes
-to powerful oxidations.   Permanganate is capable of oxidizing many other
-substances, so who knows what impurity etc might be helping out.  All I know 
+every time from the neutral cat synthesis. Chemistry in the real world does 
+not always conform to some text book equations.  Especially when it comes
+to powerful oxidations.  Permanganate is capable of oxidizing many other
+substances, so who knows what impurity etc might be helping out. All I know 
 is that reasonable diligance was used incorporating pure reagents, H2O, etc. 
  (If the synthesis requires being done under helium, then perhaps its not
 very good for the home chemist :) just kidding)
 
 It may be noted as an interesting aside that its possible to produce 3,4
-benzaldehyde from safrol using similar oxidations.  Although I would use
+benzaldehyde from safrol using similar oxidations. Although I would use
 ozone for the best yield.
 
 Finally,  adding ephedrine to a solution of bleach and bicarbonate, letting
 it sit for a couple of hours, and then washing and drying, produces some
-intermediate that eventually converts to benzaldehyde.  I am very curious
+intermediate that eventually converts to benzaldehyde. I am very curious
 whether the intermediate chemical is psychoactive, but then curiosity killed 
 the cat, as adding halogens to psychoacive chemicals usually either produces 
 a more powerful drug- or produces a very toxic drug.
 
-Lastly, no one has to take my word for all of this.  The experiments are
+Lastly, no one has to take my word for all of this. The experiments are
 very simple and conclusive, and unlike the cold cat synthesis, they are
-repeatable.  
+repeatable. 
 
 Oh, and by the way, all of you unsuccessful former cat cooks should go to
 the store and buy a bottle of Almond Extract and take a whiff so that what I 

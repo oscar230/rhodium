@@ -7,7 +7,7 @@ From Brauer's:
 Palladium (II) Chloride
 
 The anhydrous salt is prepared by heating loose palladium sponge (contained in a porcelain boat set in a glass tube) to a dull red heat in a stream of
-Cl2. According to Krustinsons, the decomposition pressure of PdCl2 reaches 1 atm. at 738°C. By dissolving finely divided Pd in conc. HCl
+Cl2. According to Krustinsons, the decomposition pressure of PdCl2 reaches 1 atm. at 738ï¿½C. By dissolving finely divided Pd in conc. HCl
 through which Cl2 is bubbled, one obtains a solution in which both H2PdCl4 and H2PdCl6 can be detected. Concentrating the solution also yields a
 residue of PdCl2.
 
@@ -67,7 +67,7 @@ giving a solution. containing. 420 g. PdCl2/L. Increasing current density. to 12
 solutionns. containing. 330-340 g. PdCl/L. A solution. contg.332 g. PdCl2/L. was obtained with current efficiency of 99.5% over 10 hrs.with 6 N HCI in
 the anolyte and IO N KCI in the catholyte at 25-32 degrees. Palladium was not deposited on the cathode in any of the experiments.
 
-Electrochemical method for preparation of salts.  A. I. Ryazanov, G. D. Chigrinova, and A. I. Vol'fson. U.S.S.R. 138,922. Appl. July 28, 1939.
+Electrochemical method for preparation of salts. A. I. Ryazanov, G. D. Chigrinova, and A. I. Vol'fson. U.S.S.R. 138,922. Appl. July 28, 1939.
 PdCl2,TeCI4,and BiCI3 are obtained by anodic dissolution. of the respective metals in HCI in an electrolytic bath with 3 chambers. To intensify the
 process, the metals are used as powders and placed on graphite plate-type electrodes, provided with perforations for elimination of the salt solution.
 

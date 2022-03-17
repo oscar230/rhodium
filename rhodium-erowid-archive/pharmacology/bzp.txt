@@ -13,9 +13,9 @@ Date: Tue, 17 Jun 1997 11:21:51 -0700
 
 1-Benzylpiperazine
 
-1-Benzylpiperazine is a CNS stimulant.  In doses around 20-100 mg it
-produces euphoria, wakefullness, improved vigilance.  The ratio of
-centeral/peripheral effects is roughly  that of d-amphetamine.  The
+1-Benzylpiperazine is a CNS stimulant. In doses around 20-100 mg it
+produces euphoria, wakefullness, improved vigilance. The ratio of
+centeral/peripheral effects is roughly  that of d-amphetamine. The
 duration of action is 6-8 hours.
 
 Benzylpiperazine, like the amphetamines triggering the release of dopamine
@@ -29,14 +29,14 @@ They also noted that lower doses were not detected by the subjects.
 Piberaline
 
 Piberaline is 1-benzyl-4-picolonyl-piperazine; the picolonic acid amide of
-BZP and is metabolised to BZP.  It has been researched as an antidepressant.
+BZP and is metabolised to BZP. It has been researched as an antidepressant.
 
 1-Piperonylpiperazine
 
 Piperonylpiperazine also referred to as 1-(3,4-methylenedioxy)-benzyl-
 piperazine (MDBPZ) shares the same substiutions on the benzene ring as
-methylenedioxyamphetamine (MDA).  I do not know of any referrence to MDA
-like activity.  There are animal studies indicating that it blocks the
+methylenedioxyamphetamine (MDA). I do not know of any referrence to MDA
+like activity. There are animal studies indicating that it blocks the
 putative neurotoxic effects of MDMA and possibly the enactogenic effects as
 well.
 
@@ -48,20 +48,20 @@ notoriously unreliable.
 
 Fipexide
 
-Fipexide is a nootropic sold under the brand name Vigilor.  Originally
+Fipexide is a nootropic sold under the brand name Vigilor. Originally
 marketed towards the geriatric patient it has become one of the growing
 number of drugs used as cognitive enhancers.
 
 Interestingly it is the p-chlorophenylacetamide of piperonylpierazine
-(MDBZP) and is converted to MDBZP in vivo.  It is availiable from mail
+(MDBZP) and is converted to MDBZP in vivo. It is availiable from mail
 order pharmacies specializing in smart drugs. Anyone with experience with
 Fipexide is encouraged to share their knowledge.
 
 Other BenzylPiperazine Derivatives
 
 1-Benzyl-4-diphenylmethylpiperazine exibits cerebral vasodialating
-properties, many analogs have been synthesised.  The 3,4,5 trimethoxy being
-the most potent if I recall.  There are phosphonate derivatives that are Ca
+properties, many analogs have been synthesised. The 3,4,5 trimethoxy being
+the most potent if I recall. There are phosphonate derivatives that are Ca
 channel blockers.
 
 ================================================================================
@@ -113,19 +113,19 @@ Here is a quote from a letter from a resercher who is using TFMPP and
 BZP HCl in his studies:
 
 "Benzylpiperazine Hydrochloride (BZP HCl) simulates methamphetamine use
-in lab animals.  It is a strong anorexic.  Anorexic capacity is
-frequently equated with euphoriant capacity...  My observations show
+in lab animals. It is a strong anorexic. Anorexic capacity is
+frequently equated with euphoriant capacity... My observations show
 this correlation to be true.
 
 3-Trifluoromethylphenylpiperazine Monohydrochloride (TFMPP), mimics MDMA
-in lab animals.  A combination of BZP HCl and TFMPP has been observed to
+in lab animals. A combination of BZP HCl and TFMPP has been observed to
 cause activity that is prefered to MDMA in chemical discrimination tests
 with lab animals.
 
 A ratio of 2 parts BZP HCl to 1 part TFMPP was used for these chemical
-descrimination tests.  Larger laboratory primates were given 200 mg. of
-BZP HCl mixed with 100 mg. of TFMPP.  Observed activity appeared to last
-from 6 to 10 hours.  There was an increased sociability observed in all
+descrimination tests. Larger laboratory primates were given 200 mg. of
+BZP HCl mixed with 100 mg. of TFMPP. Observed activity appeared to last
+from 6 to 10 hours. There was an increased sociability observed in all
 animals given this preparation.
 
 Loss of apetite was observed both in the BZP HCl only group and the BZP
@@ -135,29 +135,29 @@ HCL and TFMPP (2:1) group."
 
 I have read that benzyl piperazine is an active stimulant
 similiar in properties to amphetamines in a dosage of 20-100 mg.
-I have read this in PIHKAL by our good friend Dr. Shulgin.  I
-seem to recall his reaction to make "E" entry number 72.  Is it
+I have read this in PIHKAL by our good friend Dr. Shulgin. I
+seem to recall his reaction to make "E" entry number 72. Is it
 not possible that reacting p-methoxyphenol with fromyl
 piperazine as a 40% solution with a 40% solution of formaldehyde
 heated on steam bath would yield a substituted benzlpiperazine
 just requiring the conversion of the hydroxy group to a methyl
 ether and the addition of a bromine in the benzenes fourth
-position as well as removal of the formyl group.  Sounds good so
+position as well as removal of the formyl group. Sounds good so
 far but how to make the methyl ether from the hydroxyl- I tend
 to think that a alkali hydroxide and alkyl halide may work but
 by products would be high in terms of the quarternary ammonium
-halides formation.  If there was maybe a way to convert the
+halides formation. If there was maybe a way to convert the
 quarternary ammonium halide back to a three degree amine.
 Another possible route maybe is to use methyl sulfate and
-hydroxide or carbonate.  Or possibly the diazomethane reaction
+hydroxide or carbonate. Or possibly the diazomethane reaction
 but how would a formyl or if removed a two degree amine
 react-would it?  A layer of ether could hold the substituted
 benzylpiperazine and the aqeous layer hold the precursors to the
-diazomethane.  One last question how would one concentrate the
+diazomethane. One last question how would one concentrate the
 reactants so that poly piperazinomethylation does not occur in
 the other opn ortho position of the phenol?  I think much might
 be discovered by delving into various analogs of
-benzylpiperazines.  I would greatly appreciate input from my
+benzylpiperazines. I would greatly appreciate input from my
 fellow experimental innovators of hypothetical chemistry.
 
 Thanks in advance
@@ -174,19 +174,19 @@ Forums: alt.drugs.chemistry
 Did anybody catch the comment in Shulgins book about the amphetamine
 like properties Benzyl Piperazine posseses?  I even think he said
 something about the possibility of 3,4 methylenedioxy benzylpiperazine
-having MDA like qualities.  Well heres a brief skeleton of a synthesis I
+having MDA like qualities. Well heres a brief skeleton of a synthesis I
 worked out for this intriguing molecule.
 
 First off if you can get ahold of piperonal then great, but most people
 can't. So we'll start from a more basic building block- isosafrole.
 This is oxidized with Na2Cr2O7/H2SO4 as gunther directs in his essential
-oils volumes to yield 80% piperonal as the bisulphite complex.  The
+oils volumes to yield 80% piperonal as the bisulphite complex. The
 solid bisulphite complex is boiled with sodium carbonate to give a good
-yield of pure piperonal(3,4 methylenedioxy benzaldehyde).  This aldehyde
+yield of pure piperonal(3,4 methylenedioxy benzaldehyde). This aldehyde
 is reacted with formaldehyde and KOH to give a 70% yield of the benzyl
-alcohol as illustrated in Org. Syn. Coll. Vol. 2 .  The alcohol is then
+alcohol as illustrated in Org. Syn. Coll. Vol. 2 . The alcohol is then
 chlorinated with thionyl chloride to yield 3,4 methylenedioxy
-benzylchloride.  This is reacted with 2 moles of piperazine (DOES ANYONE
+benzylchloride. This is reacted with 2 moles of piperazine (DOES ANYONE
 KNOW HOW WATCHED THIS CHEM. IS?) as directed in org syn vol 5 to give a
 high yield of 3,4 methylenedioxy benzylpiperazine.
 
@@ -207,7 +207,7 @@ This is a synth ive seen.
 1.) To 35.25 grams of  benzyl piperazine add 99% Isopropyl alcohol to
     make 200ml. of solution.
 2.) Make a separate solution containing 250 ml of chilled acetone and
-    35 ml of concentrated Hydrochloric acid added slowly.  After making
+    35 ml of concentrated Hydrochloric acid added slowly. After making
     this 285 ml of solution, add another 115ml of acetone to make 400ml
     of this solution.
 3.) Slowly add 200ml of the acetone/HCl solution to the
@@ -280,9 +280,9 @@ piperazine, so you might not get off but...
 ================================================================================
 
 Here is the information regarding 1-benzylpiperazine also known as
-N-benzylpiperazine.  The benzylpiperazine currently availiable from CRSB is the
-chemical discussed in PHIKAL.   It is sold as  the free base which is caustic
-and unstable.  It forms a really pretty dicarbonate on standing in open air.
+N-benzylpiperazine. The benzylpiperazine currently availiable from CRSB is the
+chemical discussed in PHIKAL.  It is sold as  the free base which is caustic
+and unstable. It forms a really pretty dicarbonate on standing in open air.
 The dihydrochloride is fine with to off white crystals.
 
 Here is the quote from PIHKAL:
@@ -358,7 +358,7 @@ The central issues seem to be:
    * "Is Shulgin refering to N-Benzylpiperazine?"
    * "Is it an amphetamine like CNS stimulant?"
 
-Both are true.  BPZ is about one tenth the potency of dextroamphetamine
+Both are true. BPZ is about one tenth the potency of dextroamphetamine
 but in comparable doses subjectively the same.
 
 In the PHIKAL, within the commentary on phenethylamine, Shulgin took the
@@ -370,7 +370,7 @@ oppotunity to discuss two related classes compounds.
      Phenyl amines- compounds where the benzene ring is connected to the
      amine nitrogen directly.
 
-One benzyl amine he states is an amphetamine like CNS stimulant.  His
+One benzyl amine he states is an amphetamine like CNS stimulant. His
 exact words were
 
      "There is a benzyl amine that is a pure stimulant, which has been
@@ -388,13 +388,13 @@ posible benzylpiperazine stating:
      amphetamine ?"
 
 I responded that I concluded that Shulgin was indeed refering to the
-N-benzylpiperazine.  If he were refering to the 2-benzylpiperzine it
-would not be a benzylamine.  Further when addressing the MDMA analog he
-did specify (N-(3,4-methylenedioxy)piperazine).  None the less, I had
+N-benzylpiperazine. If he were refering to the 2-benzylpiperzine it
+would not be a benzylamine. Further when addressing the MDMA analog he
+did specify (N-(3,4-methylenedioxy)piperazine). None the less, I had
 very little information on benzylpiperazine (BZP) and it sounded
 interesting.
 
-The following abstracts concure.  I would be fascinated to know if the
+The following abstracts concure. I would be fascinated to know if the
 3.4 methylenedioxy analog or the 4Me 2,5DiMeO BPZ  had CNS activity
 related to their phenethylamine/phenisopropylamine counterparts.
 
@@ -574,7 +574,7 @@ Title
 	antidepressant agent Trelibet (EGYT-475) and its metabolite EGYT-2760 on
 	isolated rat fundus.
 Author
-     	Malomvölgyi B; Tóthfalusi L; Tekes K; Magyar K
+     	Malomvï¿½lgyi B; Tï¿½thfalusi L; Tekes K; Magyar K
 Source
      	Acta Physiol Hung, 1991, 78:3, 201-9
 Abstract
@@ -718,16 +718,16 @@ peripheral effects (mediated by the a2 receptor) would be intolerable.
 In summary, BZPs action could be described as somewhere between amphetamine and
 MDMA including a yohimbine like action as well, with limited to moderate abuse potential.
 
-[1] Magyar, K., Fekete, MIK., Tekes, K. and Török, TL.
+[1] Magyar, K., Fekete, MIK., Tekes, K. and Tï¿½rï¿½k, TL.
 The action of trelibet, a new antidepressive agent on [3H]noradrenaline release from rabbit pulmonary artery.
 European Journal of Pharmacology. 130, 219-227, 1986.
 
-[2] Malomvölgyi, B., Tóthfalusi, L., Tekes, K. and Magyar, K.
+[2] Malomvï¿½lgyi, B., Tï¿½thfalusi, L., Tekes, K. and Magyar, K.
 Comparison of serotonin agonistic and antagonistic activities of a new antidepressant agent trelibet
 (EGYT-475) and its metabolite EGYT-2760 on isolated rat fundus.
 Acta Physiologica Hungarica, 73), 201-209, 1991.
 
-[3] Tekes, K., László, T., Malomvölgyi, B., Hermán, F. and Magyar, K.
+[3] Tekes, K., Lï¿½szlï¿½, T., Malomvï¿½lgyi, B., Hermï¿½n, F. and Magyar, K.
 Studies on the biochemical mode of action of EGYT-475, a new antidepressant.
 Polish Journal of Pharmacology and Pharmacy. 39, 203-211, 1987.
 
@@ -1034,7 +1034,7 @@ CAS #                         [2759-28-6]
  Water determination          <=0.5% (K.F.)
  d                            1.0140
  Refractive index (sodium D)  1.5467
- Fp                           >112°
+ Fp                           >112ï¿½
  Hazard symbol                C
  Risk/safety phrases          R 34    S 24/25    UN 3267    DOT 8
  Properties                   LIGHT SENSITIVE

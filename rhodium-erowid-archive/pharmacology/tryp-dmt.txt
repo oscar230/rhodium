@@ -44,7 +44,7 @@ page 582.
   ...... Tryptophan, a natural and nutritionally essential amino-acid,
    is a centrally active intoxicant and sleep provider in man. It is
    converted metabolicaly to tryptamine, which is a little bit
-   psychedelic.  When administered with methionine (another amino-acid
+   psychedelic. When administered with methionine (another amino-acid
    know to methylate things) it produces methylated tryptamines, the two
    best studied being N-methyltryptamine (NMT) and N,N-dimethytryptamine
    (DMT). The effects that result are hard to categorize, reflecting the
@@ -62,13 +62,13 @@ methionine (again without permission):
    donation (cycle A). The active methylation donor is S-adenosyl-
    methionine (SAM), which is produced from methionine by the addition 
    of ATP (adenosine triphosphate). After the methyl group has been 
-   donated (reaction 3), homocysteine remains.  Because homocysteine has 
+   donated (reaction 3), homocysteine remains. Because homocysteine has 
    pro-oxidant properties (elevated levels are associated with cardio-
    vascular disease), it must be detoxified. Two separate mechanisms 
    exist both of which are serine dependent. In the first (reaction 1), 
    homocysteine is re-methylated by methyltetrahydrofolate (Me-THF, or 
    "activated" folic acid) back to methionine, and the SAM cycle is 
-   closed.  Under most circumstances, this should be the dominant 
+   closed. Under most circumstances, this should be the dominant 
    pathway. In the second mechanism (reaction 2), homocysteine is 
    combined with serine to form cystathionine which is split back apart 
    (slightly differently) to yield cysteine and homoserine. This 

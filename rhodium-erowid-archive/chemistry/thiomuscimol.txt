@@ -4,9 +4,9 @@ Thiomuscimol
 GABA-A receptor agonist
 
 5-(aminomethyl)-3-(2H)-isothiazolone
-Mol. Wt. 130.10; C4H13N3O2S; [62020-54-6]; White solid; mp 140°C
+Mol. Wt. 130.10; C4H13N3O2S; [62020-54-6]; White solid; mp 140ï¿½C
 Soluble in water, slightly soluble in ethanol. Solutions may be stored 
-tightly sealed for several days at 4°C
+tightly sealed for several days at 4ï¿½C
 
       O
        \\
@@ -63,10 +63,10 @@ which should react with one mole of persulfate to give dithiamuscimol:
 
 Sorry, I didn't mean dithiamuscimol, I meant the amine precursor to that.
 To get this compound would be very easy, and the reactions fairly likely to
-work.  You could then try hydrolyzing the compound with OH-, and hope that
-the SH will hydrolyze and that the NH2 will stay intact.  The 3- and 5-
+work. You could then try hydrolyzing the compound with OH-, and hope that
+the SH will hydrolyze and that the NH2 will stay intact. The 3- and 5-
 positions are vulnerable to nucleophilic attack (unlike many aromatics),
-because of the nitrogen.  This hydrolysis would be a bit more of a gamble,
+because of the nitrogen. This hydrolysis would be a bit more of a gamble,
 though I would say the odds are in favor of it working (at least if you can
 get the conditions right).
 
@@ -159,7 +159,7 @@ a new psychedelic of high potency and powerful effect, as simple thio
 substitutions have been highly successful, ala Shulgin and phenethylamine
 homologs. I use literal IUPAC style nomenclature here, and it is not totally
 compatible with separate heterocyclic nomenclature -- but does give more 
-detail for the layman.  Here are the structures.
+detail for the layman. Here are the structures.
 
 start with or make the chain 3-amino-1-imino-1-propanol (tautomer of 
 3-amino-propionamide)

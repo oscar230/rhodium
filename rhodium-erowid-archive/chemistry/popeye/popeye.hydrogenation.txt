@@ -1,17 +1,17 @@
                               HOME HYDROGENATION
 
- This is not an article on how to hydrogenate your home.  For that
+ This is not an article on how to hydrogenate your home. For that
 information you would want to consult alt.elemental.architecture,
 alt.explosions,die.die.die, etc.
 
- I am speaking within a very narrowly defined range here.  This outlines a
+ I am speaking within a very narrowly defined range here. This outlines a
 specific type of catalytic hydrogenation: the one I know about...don't
 extrapolate any of this info toward broader chemical theory if
 yaKnowhatImean. Coincidentally, this process can be utilized in the
 manufacture of drugs like Methamphetamine and other home remedies.
 
  Hydrogenation is a chemical process which involves introducing elemental
-hydrogen gas to a liquid solution  containing a catalyst.  The catalyst
+hydrogen gas to a liquid solution  containing a catalyst. The catalyst
 latches onto the H atoms then gives them up, to bond with the molecules in
 solution.
 
@@ -22,25 +22,25 @@ CATALYST-
  The catalyst consists of a metal in powder form which has been sifted into
 a buffer like Carbon, it is all very fine powder, black and nasty,
 shouldn't be inhaled and gets all over everything if you're not careful,
-leaving your fingerprints for all to see.  Catalysts come in different
-concentrations.  For example: 10% Palladium on Carbon would be 90% carbon
+leaving your fingerprints for all to see. Catalysts come in different
+concentrations. For example: 10% Palladium on Carbon would be 90% carbon
 and 10% Palladium by mass, and is expressed: <10% Pd/C>. This procedure
-describes the use of Pd/C as the catalyst.   Other catalysts are used in
+describes the use of Pd/C as the catalyst.  Other catalysts are used in
 hydrogenation but I am unfamiliar with them.
 
 The catalyst is always settled and filtered out after the process, it is
 then washed with distilled water, dried, and is reusable up to around 20
-times.  With this in mind, it's not too expensive.
+times. With this in mind, it's not too expensive.
 
 HYDROGEN GAS-
  The hydrogen is supplied from a pressure tank. A fresh Hydrogen tank
-contains extreme pressure.  For this reason, a pressure regulater is
+contains extreme pressure. For this reason, a pressure regulater is
 required , fitting a simple valve to the tank is potentially catastrophic.
 Even pressuring a Parr shaker requires a regulated or low pressure feed.
 
- A regulator for a cutting torch is the obvious and best choice.  You have
+ A regulator for a cutting torch is the obvious and best choice. You have
 to use the regulator and gauge set from the oxygen side of the torch
-set-up, since it is designed for high pressures.  Once you have used a
+set-up, since it is designed for high pressures. Once you have used a
 regulator and hoses for hydrogen, NEVER use them for anything else,
 hydrogen is absorbed into  materials and this limits their safe usage with
 other gases.
@@ -86,7 +86,7 @@ and neoprene is best.
 
 
 PRESSURE REACTION VESSEL-
-        Where the gas and liquid get together with the catalyst.  It must
+        Where the gas and liquid get together with the catalyst. It must
 be able to contain (for our purposes) 60 psi, capable of a gas supply hose
 connection, and an access opening at least the size of a quarter; silver
 dollar or larger is better, any opening larger than 4" and I would do alot
@@ -96,17 +96,17 @@ of dry run pressure testing before using, to make sure it will hold.
                  Examples of SS containers which are easily converted:
                         Stove top milk steamer devices as used in home
 Cappicinno synthesis as well as some types of stove top expresso makers.
-There are as many varieties of these as there are Yuppies.  They have cool
+There are as many varieties of these as there are Yuppies. They have cool
 little SS valves already configured in.
                         Soda fountain equipment. For larger batches, or
 mandatory life sentence quantities,  the refillable containers that soda
 fountain syrup comes in are excellent (they're about 6 gals), also the tank
-on the CO2 maker.  These systems are phasing out right now commercially and
-components are surplus everywhere.  Can also be ripped off from the little
+on the CO2 maker. These systems are phasing out right now commercially and
+components are surplus everywhere. Can also be ripped off from the little
 fenced in area behind the local convenience store.
 
 
-        Glass is used commonly, but I don't like it.  There is no advantage
+        Glass is used commonly, but I don't like it. There is no advantage
 in transparancy for this application. You have to be able to wire or clamp
 a stopper and design a hose barb that won't pop out and guess at the psi
 capacity. There is Sci-glass spec'ed for this.
@@ -123,28 +123,28 @@ doing...not preferred.
 SHAKER-
 The Pressure Reaction Vessel is fastened to this mechanical
 device...imagine a paint shaker...the paint can is your pressure reaction
-vessel...that's it.  There are as many home hydrogenator designs as there
+vessel...that's it. There are as many home hydrogenator designs as there
 are ambitious speedfreaks. Some are brilliant, others are pretty damn
 funny, still others are unintended amateur militia ordinance or automatic
-911 dialers.  In deciding on, or tweaking out your own shaker device, there
+911 dialers. In deciding on, or tweaking out your own shaker device, there
 are a few things you should know.
 
  As mentioned, the contents of your reaction vessel are a liquid solution,
-which is flammable, and a solid catalyst in powder form.  The catalyst is
+which is flammable, and a solid catalyst in powder form. The catalyst is
 wha-chaCall PYROGLYPHIC (SP), implying potentially EXPLOSIVE. Into this you
 are preparing to pump in HYDROGEN and fucking shake it ?!!
- Proper understanding of handling the catalyst is required.  The catalyst
+ Proper understanding of handling the catalyst is required. The catalyst
 is dangerous when dry and floating around in the air like dust, especially
-around oxygen...see grain elevater explosions-Texas City Disaster.  Keeping
-the catalyst wet throughout the entire procedure is key to survival.  This
+around oxygen...see grain elevater explosions-Texas City Disaster. Keeping
+the catalyst wet throughout the entire procedure is key to survival. This
 is also why the Pressure reaction Martini is 'shaken not stirred' (kudos
-jamesBond).  Those of you who have utilized mechanical or magnetic stirs,
+jamesBond). Those of you who have utilized mechanical or magnetic stirs,
 know that the liquid occasionally sloshes up pretty high on the inside of
 the vessel, the catalyst could easily slosh up there, dry out, then
-dust...you know the rest.  With an effective shaker, the whole inside of
+dust...you know the rest. With an effective shaker, the whole inside of
 the vessel is constantly washed with solution so this cannot happen.
 Therefore,this is the minimum level of activity required to prevent
-incident.  Shakers also create the most desirable exposure of catalyst
+incident. Shakers also create the most desirable exposure of catalyst
 surface area to the gas, increasing efficiency and uniformity of the
 reaction.
 
@@ -152,7 +152,7 @@ reaction.
 Here are some approaches to shaker devices
 
 Straightforward approach-go out and buy a paint shaker then design a
-reaction vessel to fit it.  (fixed or detachable hose config.)
+reaction vessel to fit it. (fixed or detachable hose config.)
 
 Bizarre approach- The Milwaukee Skateboard-> You will need: A variable
 speed SAWZALL, a skateboard, a C-clamp, four 1x4's 12" long, A workbench
@@ -161,13 +161,13 @@ Place the body of a Sawzall in a vice so that it is parallel to the bench
 and turned sideways, put two blades in the Sawzall by stacking them (short
 blades).
 C-clamp the blade tips to the stern of the skateboard which rides on the
-benchtop.  Nail the 1x4's together so as to imitate two lengths of angle
+benchtop. Nail the 1x4's together so as to imitate two lengths of angle
 iron each a foot long. Lay the wooden angle pieces on the bench on the port
 and starboard sides of the skateboard and parallel and not so snugly so as
-to prevent travel.  Tack them to the bench.  You now have a little
+to prevent travel. Tack them to the bench. You now have a little
 bobsledTunnel sortaThing for the skateboard to run back and forth within.
 Attach the reaction vessel (a cylinder) to the skateboard by laying down on
-it's side and duct taping it on.  Set the sawzall speed then use the
+it's side and duct taping it on. Set the sawzall speed then use the
 trigger lock.
 (detachable hose config.)
 
@@ -177,13 +177,13 @@ the ceiling, shake it back & forth by hand on the dangle...tiring, need
 partner for shift work, not recommended.
 (fixed or detachable hose config.)
 
-The high dollar approach-  Buy a Parr shaker. For about three grand.  I
+The high dollar approach-  Buy a Parr shaker. For about three grand. I
 held onto one of these for an ex-partner/friend who took a mandatory
 retirement in Folsum for 3 to 5...and had some occasion to try it out.
 They're bullet proof, precision machined, over built.
   These are designed for mini-yield experimentation, not production.
   The model I'm familiar with had a meager 1L capacity yet weighed approx
-200 lbs. and took up 42"x27" of floor space.  The bottle clamp was not
+200 lbs. and took up 42"x27" of floor space. The bottle clamp was not
 tweakable to greater capacity...the motor was NOT sparkless, the exhaust
 valve seat was way too small and clogged with catalyst every single time.
 Before returning it to the owner, I had to change all the  bolts from
@@ -195,7 +195,7 @@ POPEYE's bathtub Sailorman approach:
         I thought this one up myself, it is fairly intuitive so I'm sure
 others have too.
         Buy a bunch of those suction cup rubber mats and stick them on the
-sides and bottom of a bathtub.  Fill the tub.  After pressuring the
+sides and bottom of a bathtub. Fill the tub. After pressuring the
 reaction vessel, detach the hose, orient the cylindrical vessel
 horizontally, float it, then spin it, rocking end to end slightly.
         POPEYE recommends this method because if there are any leaks, they
@@ -209,14 +209,14 @@ are evident from bubbles in tub.
 2. In a seperate beaker, carefully add dry catalyst, them moisten with a
 non-reactive solvent, Hexane is common.
 3. Introduce 1/3rd reaction mixture to catalyst 'paste', stir briskly,
-quickly transfer to pressure vessel. Repeat. Repeat.  Pressure vessel
+quickly transfer to pressure vessel. Repeat. Repeat. Pressure vessel
 should never exceed 2/3rds full to allow for sloshAbout.
 4. Seal pressure container, afix hydrogen feed line, and pressurize
-container to 40psi.  Now realign valves and release the pressure into a
-safe exhaust.  This is called 'purging',  and is done three times.
+container to 40psi. Now realign valves and release the pressure into a
+safe exhaust. This is called 'purging',  and is done three times.
 5. Now pressurize to 60psi, cut off H feed then shake (or spin)
 6. Continuously monitor the pressure gauge and when the pressure within the
-vessel falls below 20psi, repressurize to 60psi.  When uptake of hydrogen
+vessel falls below 20psi, repressurize to 60psi. When uptake of hydrogen
 ceases (after 3x's is average) reacton is finished.
 7. Remove pressure vessel from shaker and orient in a vertical position,
 let rest about 15 minutes, then slowly release pressure into safe
@@ -262,12 +262,12 @@ The hydrogen is endlessly being taken up.
  Methanol is used as a solvent/carrier in this description...appropriate
 substitution where necessary.
  Combine contents of aspirator and pressure container into a  glass vessel
-which can be stoppered. Rinse containers with methanol and add.  The
+which can be stoppered. Rinse containers with methanol and add. The
 holding vessel should then be filled to the top with methanol to purge the
 air and prevent any wierd oxidation catastrophes, then stoppered.
 
- Let sit for halfAday until Pd/C settles out.  Carefully suction out the
-reaction mixture without disturbing Pd/C sedimentation.  To increase yield,
+ Let sit for halfAday until Pd/C settles out. Carefully suction out the
+reaction mixture without disturbing Pd/C sedimentation. To increase yield,
 refill container with methanol and repeat last step. Now, filter solution
 until it is free of catalyst, adding more methanol to carry solution
 through filtercake as necessary. Vaccuum or distill off Methanol leaving
@@ -278,8 +278,8 @@ product.
 
                         *final disclaimer*
 I am not 'in the business', I have grown weary of 'the business' and
-worrying about the cops.  It is interesting to note that the existence of
-one is very much dependent upon the health of the other.   You would do
+worrying about the cops. It is interesting to note that the existence of
+one is very much dependent upon the health of the other.  You would do
 good to avoid both. If you think about it, that is where the real value of
 this Newsgroup lies.
   -Peace
@@ -292,24 +292,24 @@ this Newsgroup lies.
 Subject:      the holy hydrogenator
 
    Combine 100 gms L-ephedrine  and 890 mls. glacial Acetic Acid in a 5L
-ehrlemeyer on a stir plate and begin stirring.  Slowly add 66.56mls
+ehrlemeyer on a stir plate and begin stirring. Slowly add 66.56mls
 Sulphuric Acid at a rate which will keep the temperature below 71C. 
    In a pressure container, a paste is made up of 65 gms. Pd/C and enough
 glacial acetic to moisten, the contents of the ehrlemeyer are then added.
 The container is sealed and heat blanketed so that the temperature can be
 held at 38C.
    The dieties are called upon,  the sacred valves are gently fondled, and
-a  holy purge is brought about.  The vessel is annointed with the most
-elemental of all gasses.  Now the sacramental hydrogenation ceremony is
+a  holy purge is brought about. The vessel is annointed with the most
+elemental of all gasses. Now the sacramental hydrogenation ceremony is
 carried forth. The straining of the catalyst shall follow and all that was
 before, will be no longer, and in its place shall be born anew, and it is
 good, and it is freebased, so that the primordial  elements and acids be
-torn asunder that they shall be cast aside.  And the oil is extracted, and
+torn asunder that they shall be cast aside. And the oil is extracted, and
 the oil is acidified, and from the oil shall the pure white crystals
 emerge.
 
-   And it was done.  Yea, though it was done in ancient times, it did come
-to pass.  And those who witnessed, were heard to say, "These are not the
+   And it was done. Yea, though it was done in ancient times, it did come
+to pass. And those who witnessed, were heard to say, "These are not the
 promised  yields!" and doubt was cast even upon the virtue of the chosen
 few crystals which came about amidst a gnashing of teeth, wringing of
 hands and a great burning of the eyes.
@@ -321,13 +321,13 @@ fallow fields of hollow crystal, or was I led astray by false scripture
 unto a fool's quest, wherein no man could but cast his ephedrine into the
 sea and harvest only wind.
      What say Ye?...for I know not where to lay my faith, or place my
-trust.  Is this a travesty of the cheministry, a fuming trial of Meth
+trust. Is this a travesty of the cheministry, a fuming trial of Meth
 oozala's children..or have I but mine ownself to blame for worshipping not
 even at the high school alter of the organics and handling the Glass of
 Ware not in the traditions of the elders, but like a tamer of scooters who
 shuns his own somnabulistic ritual.
 
-You may testify by E-Mail or before the flock.  
+You may testify by E-Mail or before the flock. 
 
 When you plant ice
 You're gonna harvest
@@ -349,7 +349,7 @@ My anonymous Net Pal asked me to post this for information purposes only.
 experienced in certain chemical processes/techniques.
  This describes illegal activity, this is posted cross-eyed and double
 blind anonymous, I could be making this up, I have already been publicly
-denounced, don't try this in Tupperware...  I have hereby disclaimed, you
+denounced, don't try this in Tupperware... I have hereby disclaimed, you
 have been warned....be careful in realTime, remember to keep your mouth
 shut.
  All responses expounding ethical and/or moral pretences will be mutilated
@@ -371,12 +371,12 @@ Since we all have computers, formatting a PO is worth the trouble.
  Supplying a PO also helps you to tell the difference between clerks who
 may need info just to fill out in-house paperwork for banal reasons, and
 nosey, brainwashed, gung-ho, bootlicking, snitchPrick targetheads who will
-invariably ask for verification or ID.  If the Bullshit on the PO ain't
-good enough, fuck'em, walk out.  And while you're at it, tell them that  a
+invariably ask for verification or ID. If the Bullshit on the PO ain't
+good enough, fuck'em, walk out. And while you're at it, tell them that  a
 legitimate businessperson, such as yourself, has no interest in being
 shitlisted with Jack-booted government thugs just because a bunch of slimy
 dope fiends can't control themselves and everybody else refuses to mind
-their own fucking business.  POPEYE never slinks out like a common
+their own fucking business. POPEYE never slinks out like a common
 criminal.
 
  In the interest of bandwidth preservation, I will not belabor common sense
@@ -397,11 +397,11 @@ chemErased, could be different now,  call and ask, use a pay phone.
 
         Stealing/Bribing- Since POPEYE actually IS a common criminal,
 behold: petroChem plants and many oil refineries use this in cracking
-towers by the ton. It comes in bags like concrete in bulk.  Plants have
+towers by the ton. It comes in bags like concrete in bulk. Plants have
 security against industrial sabotage and politico-terrorist corporate
 paranoid delusional contingencies so it's best to hit railroad cars en
 route (obviously while they are stopped somewhere) or bribe truck drivers
-or plant workers to steal it for you.  Good product can be much more
+or plant workers to steal it for you. Good product can be much more
 persuasive than money, since these folks are well paid but overworked.
 
 
@@ -409,12 +409,12 @@ Hydrogen Gas:
         As mentioned this can be acquired at chem supply houses but I don't
 know if you must sign for it or if they put little bugs or homing devices
 or detonators in them,  or follow you home in a helicopter.
-        A well stocked welding supply house.  It is used in specialized
+        A well stocked welding supply house. It is used in specialized
 welding, glass blowing, neon sign art, sci glass and any application that
-requires a totally clean burn but not extreme temperature.  Whether you are
+requires a totally clean burn but not extreme temperature. Whether you are
 leasing a tank from the supplier, or purchasing one, you will be required
-to register it.  This is a theft discouraging thing that all welding supply
-houses engage in.  A letterhead may suffice.  POPEYE is a Biker and always
+to register it. This is a theft discouraging thing that all welding supply
+houses engage in. A letterhead may suffice. POPEYE is a Biker and always
 knows lots of welders, I had someone get one for me, on pay or barter, when
 I was into this sort of thing.
 

@@ -91,9 +91,9 @@ on the specific requirements of the MCA consult Public Law P.L. 104-237.
 
 Legal Requirements Pertaining to Licit Drug Products Containing Listed Chemicals
 
-Q.      What legal drug products are controlled under the MCA?
+Q.     What legal drug products are controlled under the MCA?
 
-A.      The MCA modifies the exemption for legal drug products which contain
+A.     The MCA modifies the exemption for legal drug products which contain
         either ephedrine, pseudoephedrine or phenylpropanolamine. Whereas the
         removal of the exemption for ephedrine combination products was
         effective upon signing of the MCA, most transactions involving legal
@@ -107,17 +107,17 @@ retail sales and for sales by mail order). This new threshold applies only to
 ephedrine combination products and the threshold remains zero for ephedrine
 products which do not contain another active ingredient.
 
-Q.      What are thresholds?
+Q.     What are thresholds?
 
-A.      A "threshold" is the quantity of a particular chemical, above which
+A.     A "threshold" is the quantity of a particular chemical, above which
         record keeping requirements and other control provisions of the CSA
         apply. Thresholds differ according to the individual chemical.
 
                       Requirements for Retail Distributors
 
-Q.      How do I determine whether I am considered a retail distributor?
+Q.     How do I determine whether I am considered a retail distributor?
 
-A.      The MCA defines a retail distributor as a grocery store, general
+A.     The MCA defines a retail distributor as a grocery store, general
         merchandise store, drug store, or other entity or person whose
         activities as a distributor of legal drug products containing listed
         chemicals are limited almost exclusively to sales for personal use, both
@@ -126,11 +126,11 @@ A.      The MCA defines a retail distributor as a grocery store, general
         as sub-threshold sales of less than 24 grams to an individual for
         legitimate personal use.)
 
-Q.      I sell pseudoephedrine, phenylpropanolamine, and combination ephedrine
+Q.     I sell pseudoephedrine, phenylpropanolamine, and combination ephedrine
         products in my convenience store. Am I required to register or keep
         records of the sales?
 
-A.      Requirements with respect to combination ephedrine products went into
+A.     Requirements with respect to combination ephedrine products went into
         effect on October 3, 1996; the requirements pertaining to
         pseudoephedrine and PPA do not go into effect until October 3, 1997.
         However, the DEA has proposed to exempt retail distributors from the
@@ -139,13 +139,13 @@ A.      Requirements with respect to combination ephedrine products went into
         transactions; however, please read the following question and answer as
         this may make you subject to the registration requirement.
 
-Q.      I operate a convenience store at which I sell pseudoephedrine,
+Q.     I operate a convenience store at which I sell pseudoephedrine,
         phenylpropanolamine, and combination ephedrine products to walk-in
         customers. Can I occasionally distribute some of these products to
         another store if they run low without affecting my status as a retail
         distributor?
 
-A.      The MCA definition of 'retail distributor' does allow for a retailer to
+A.     The MCA definition of 'retail distributor' does allow for a retailer to
         engage in very infrequent and small quantity transactions of this
         nature. However, retailers should be extremely cautious in this regard
         since they are required to limit their sales of these products "almost
@@ -158,38 +158,38 @@ A.      The MCA definition of 'retail distributor' does allow for a retailer to
         affecting its status as a retail distributor, a record of the
         transaction would have to be maintained if it were above threshold.
 
-Q.      Am I required to place pseudoephedrine, phenylpropanolamine and
+Q.     Am I required to place pseudoephedrine, phenylpropanolamine and
         ephedrine products behind the counter?
 
-A.      While ephedrine single-entity products must be stored behind the
+A.     While ephedrine single-entity products must be stored behind the
         counter, there is no such requirement for pseudoephedrine, PPA or
         combination ephedrine products.
 
-Q.      My firm is already registered with DEA to distribute single-entity
+Q.     My firm is already registered with DEA to distribute single-entity
         ephedrine products. Will DEA's waiver of registration for retail
         distributors of pseudoephedrine, PPA and combination ephedrine products
         also apply to single entity ephedrine products?
 
-A.      No, it does not. All handlers of single-entity ephedrine products must
+A.     No, it does not. All handlers of single-entity ephedrine products must
         be registered under previous provisions of the law.
 
-Q.      My firm currently has a DEA registration to distribute/dispense
+Q.     My firm currently has a DEA registration to distribute/dispense
         controlled substances. Will we be required to obtain a separate DEA
         chemical registration to distribute pseudoephedrine, PPA, combination
         ephedrine, and single-entity ephedrine products?
 
-A.      No, the law requires that any person who manufactures and distributes a
+A.     No, the law requires that any person who manufactures and distributes a
         List I chemical must register, however the DEA has provided an exemption
         for CSA registrants in 21 CFR 1309.25; you will not be required to
         obtain a separate DEA chemical registration if you are already a
         controlled substance registrant.
 
-Q.      The new law states that there is a limit of 24 grams on retail sales of
+Q.     The new law states that there is a limit of 24 grams on retail sales of
         pseudoephedrine, phenylpropanolamine, and combination ephedrine products
         How much is that and can I sell more in a single transaction without
         getting in trouble?
 
-A.      The limit of 24 grams on retail sales does not pertain to blister packs
+A.     The limit of 24 grams on retail sales does not pertain to blister packs
         of pseudoephedrine and phenylpropanolamine. The reference to a limit of
         24 grams is actually a threshold and not an absolute cap on the
         quantities which may be sold. You may sell more than 24 grams in a
@@ -202,27 +202,27 @@ A.      The limit of 24 grams on retail sales does not pertain to blister packs
 For a listing of the number of dosage units of pseudoephedrine, PPA, and
 ephedrine equivalent to 24 grams, see Appendix A, at the end of this discussion.
 
-Q.      In addition to pseudoephedrine, phenylpropanolamine, and combination
+Q.     In addition to pseudoephedrine, phenylpropanolamine, and combination
         ephedrine products, I also sell single-entity ephedrine products in my
         convenience store. Does the retail distributor exemption from
         registration and record keeping also apply to single-entity ephedrine
         products? How about the 24 gram single transaction limit?
 
-A.      No, the waiver of registration will only apply to pseudoephedrine, PPA,
+A.     No, the waiver of registration will only apply to pseudoephedrine, PPA,
         and combination ephedrine products. All distributors of single entity
         ephedrine products must obtain a registration. In addition, the
         threshold for single-entity ephedrine products is zero. Therefore, all
         transactions of single-entity ephedrine products are regulated
         transactions which require a record to be maintained.
 
-Q.      As a retail distributor, I ensure that my sales of pseudoephedrine,
+Q.     As a retail distributor, I ensure that my sales of pseudoephedrine,
         phenylpropanolamine, and combination ephedrine products remain
         consistent with the requirements for exemption from registration and
         record keeping (i.e. sales to walk-in customers only and not more than
         24 grams in a single transaction). Are there any other requirements or
         concerns that I should be aware of?
 
-A.      The MCA provides for the publication of a surveillance list which
+A.     The MCA provides for the publication of a surveillance list which
         contains chemicals, products, materials, or equipment used in the
         manufacture of controlled substances and listed chemicals. These items
         and all listed chemicals are referred to as "laboratory supply". (Note
@@ -243,11 +243,11 @@ Also, firms which distribute a pseudoephedrine, PPA or ephedrine product via
 Postal, private or commercial carrier to non-regulated parties, must report all
 such transactions to DEA on a monthly basis.
 
-Q.      What is the difference between the ephedrine products that were already
+Q.     What is the difference between the ephedrine products that were already
         regulated by DEA prior to MCA and combination ephedrine products that
         the new law regulates?
 
-A.      Single-entity ephedrine products are those ephedrine products which do
+A.     Single-entity ephedrine products are those ephedrine products which do
         not contain another active medicinal ingredient in therapeutically
         significant quantities. Therefore ephedrine is the sole active medicinal
         ingredient in these products. All such products must be stored behind
@@ -262,31 +262,31 @@ are afforded a waiver from registration for retail distributors.
 
                     Requirements for Wholesale Distributors:
 
-Q.      I am a wholesale distributor of combination ephedrine products (i.e. I
+Q.     I am a wholesale distributor of combination ephedrine products (i.e. I
         distribute these products and do not qualify as a retail distributor).
         Do I have to get a registration now for those activities?
 
-A.      Yes, requirements for distribution of combination ephedrine products are
+A.     Yes, requirements for distribution of combination ephedrine products are
         currently in effect. The DEA has issued a Federal Register Notice
         providing guidance on how to obtain a registration. Firms distributing
         combination ephedrine products may continue to conduct legitimate
         business if they had submitted an application for registration by July
         12, 1997.
 
-Q.      How about pseudoephedrine and phenylpropanolamine products?
+Q.     How about pseudoephedrine and phenylpropanolamine products?
 
-A.      There currently is no registration requirement for legal drug products
+A.     There currently is no registration requirement for legal drug products
         containing pseudoephedrine or phenylpropanolamine. The registration and
         record keeping requirements pertaining to those products will become
         effective on October 3, 1997.
 
-Q.      The new law states that for distributors who are not retail distributors
+Q.     The new law states that for distributors who are not retail distributors
         or distributors required to report to DEA on a monthly basis, there is a
         transaction limit of one kilogram for combination ephedrine products. If
         I am one of these distributors, can I sell more than one kilogram in a
         transaction?
 
-A.      Yes, the one kilogram amount is a threshold, above which records must be
+A.     Yes, the one kilogram amount is a threshold, above which records must be
         maintained. It is not an absolute cap on quantities which may be
         distributed. Please note, however, that the cumulative threshold
         provisions apply to these transactions.
@@ -295,22 +295,22 @@ Therefore, records must be maintained if the cumulative amount for multiple
 transactions to a person within a calendar month exceeds the threshold of one
 kilogram.
 
-Q.      I am a distributor who is registered with DEA for controlled substance
+Q.     I am a distributor who is registered with DEA for controlled substance
         activities. Do I have to obtain a separate chemical registration to
         distribute pseudoephedrine, phenylpropanolamine, and combination
         ephedrine products? Do I have to keep records?
 
-A.      No, you do not have to obtain a separate registration. However, if you
+A.     No, you do not have to obtain a separate registration. However, if you
         engage in an above threshold transaction, or in cumulative transactions
         to a person greater than the threshold quantity within a calendar month,
         you must maintain a record of the transaction.
 
-Q.      I am registered with DEA to distribute single-entity ephedrine products.
+Q.     I am registered with DEA to distribute single-entity ephedrine products.
         I also distribute combination ephedrine products. Do I have to change my
         registration to reflect my combination ephedrine activities? What if I
         also handle pseudoephedrine and phenylpropanolamine products?
 
-A.      No, if you are already registered to distribute ephedrine products you
+A.     No, if you are already registered to distribute ephedrine products you
         do not need to modify your registration to handle combination ephedrine
         products. However, if you distribute pseudoephedrine and PPA products,
         in October of 1997, you must request that your registration be modified
@@ -318,21 +318,21 @@ A.      No, if you are already registered to distribute ephedrine products you
         letter to DEA. Please note that there will not be any additional fees
         required.
 
-Q.      I am a distributor of prescription pseudoephedrine, phenylpropanolamine,
+Q.     I am a distributor of prescription pseudoephedrine, phenylpropanolamine,
         and combination ephedrine products only. Do I have to register and keep
         records of such distributions?
 
-A.      DEA has an existing exemption for prescription drug products; therefore,
+A.     DEA has an existing exemption for prescription drug products; therefore,
         normal prescription records or records required under part 205 of the
         Food, Drug and Cosmetic Act, are considered adequate to satisfy the
         record keeping requirements.
 
-Q.      I have heard that the new law does not go into effect for
+Q.     I have heard that the new law does not go into effect for
         pseudoephedrine and phenyl-propanolamine products until October 3, 1997,
         and that I don't have to worry about any requirements under DEA's laws
         until then. Is this true?
 
-A.      No, firms which distribute these products via Postal, private or
+A.     No, firms which distribute these products via Postal, private or
         commercial carrier to non-regulated parties must report all such
         transactions to DEA on a monthly basis. In addition, since these
         products contain a listed chemical, the firm may be held criminally
@@ -342,26 +342,26 @@ A.      No, firms which distribute these products via Postal, private or
         provisions pertaining to distribution with "reckless disregard" of
         illicit use. Violations can carry a civil penalty up to $250,000.
 
-Q.      When the requirements of the new law go into effect for pseudoephedrine
+Q.     When the requirements of the new law go into effect for pseudoephedrine
         and phenylpropanolamine products in October of 1997, will I be exempt
         from registration and record keeping if I only distribute ordinary
         over-the-counter pseudoephedrine and phenylpropanolamine products
         (blister packs with less than 3 grams per package)?
 
-A.      No, only retail distributors are exempted from registration for the
+A.     No, only retail distributors are exempted from registration for the
         distribution of these products. However, existing CSA registrants are
         not required to obtain a separate registration.
 
-Q.      How many dosage units are there in the thresholds for pseudoephedrine,
+Q.     How many dosage units are there in the thresholds for pseudoephedrine,
         phenylpropanolamine, and combination ephedrine products?
 
-A.      See Appendix A, at the end of this discussion.
+A.     See Appendix A, at the end of this discussion.
 
-Q.      What is the difference between the ephedrine products that were already
+Q.     What is the difference between the ephedrine products that were already
         regulated by DEA and the combination ephedrine products that the new law
         controls?
 
-A.      Single-entity ephedrine products are those ephedrine products which do
+A.     Single-entity ephedrine products are those ephedrine products which do
         not contain another active medicinal ingredient in therapeutically
         significant quantities. Therefore ephedrine is the sole active medicinal
         ingredient in these products. All such products are subject to a zero
@@ -375,13 +375,13 @@ retail distributors who distribute via Postal, private or commercial carrier to
 non-regulated parties (and thus required to report to DEA on a monthly basis)
 are subject to a threshold of 24 grams for record keeping purposes.
 
-Q.      I understand that if a distribution of pseudoephedrine,
+Q.     I understand that if a distribution of pseudoephedrine,
         phenylpropanolamine, and combination ephedrine products is less than the
         threshold for the product, then it is not a regulated transaction. If I
         always distribute less than the threshold in all my transactions, am I
         exempt from DEA's regulations?
 
-A.      No, there is currently a registration requirement for non-retail
+A.     No, there is currently a registration requirement for non-retail
         combination ephedrine product distributors regardless of whether their
         sales are above or below the threshold. In addition, there will be the
         same registration requirement for non-retail pseudoephedrine and PPA
@@ -394,13 +394,13 @@ A.      No, there is currently a registration requirement for non-retail
 
                        New Monthly Reporting Requirement
 
-Q.      I distribute by mail and/or delivery to non-regulated persons (i.e.
+Q.     I distribute by mail and/or delivery to non-regulated persons (i.e.
         consumer or end user). When must my firm begin to report sales of
         pseudoephedrine, phenylpropanolamine and combination ephedrine products?
         Do I have to report all of my sales? What information should be included
         and to whom do I send these reports?
 
-A.      Yes, the requirement to report all such distributions is currently in
+A.     Yes, the requirement to report all such distributions is currently in
         effect. Therefore, on a monthly basis, reports should be filed with:
 
         The Chemical Operations Section
@@ -411,21 +411,21 @@ A.      Yes, the requirement to report all such distributions is currently in
         on how to report to DEA. This Notice provides guidance on what
         information should be included in these reports.
 
-Q.      Who is required to submit reports on a monthly basis of each transaction
+Q.     Who is required to submit reports on a monthly basis of each transaction
         conducted during the previous month involving ephedrine, pseudoephedrine
         and phenylpropanolamine products?
 
-A.      Any distributor who engages in a transaction with a non-regulated party
+A.     Any distributor who engages in a transaction with a non-regulated party
         (i.e. consumer or end user) via Postal, private or commercial carrier,
         is required to submit a monthly report of all such transactions to DEA.
 
-Q.      What threshold applies to such transactions for reporting purposes?
+Q.     What threshold applies to such transactions for reporting purposes?
 
-A.      All such transactions must reported regardless of size
+A.     All such transactions must reported regardless of size
 
-Q.      What threshold applies for record keeping purposes?
+Q.     What threshold applies for record keeping purposes?
 
-A.      The record keeping threshold for the distributors required to report
+A.     The record keeping threshold for the distributors required to report
         transactions to DEA on a monthly basis is 24 grams for combination
         ephedrine products. This is a non-cumulative threshold.
 
@@ -442,48 +442,48 @@ threshold will be 24 grams for these distributors.
 Requirements Pertaining to All Listed Chemical Products including Legal Drug
 Products:
 
-Q.      How long are records required to be kept for List I and List II
+Q.     How long are records required to be kept for List I and List II
         chemicals?
 
-A.      The MCA reduced the record retention requirement from four years to two
+A.     The MCA reduced the record retention requirement from four years to two
         years for List I chemicals. Therefore, all chemical records are subject
         to a two year retention period.
 
-Q.      When can my firm begin to keep only two years of sales records for
+Q.     When can my firm begin to keep only two years of sales records for
         listed chemicals?
 
-A.      Immediately. Effective October 3, 1996, regulated persons need not
+A.     Immediately. Effective October 3, 1996, regulated persons need not
         maintain records for more than two years.
 
-Q.      What types of identification am I required to obtain from my customers?
+Q.     What types of identification am I required to obtain from my customers?
 
-A.      For sales to individuals, the type of documents and other evidence of
+A.     For sales to individuals, the type of documents and other evidence of
         proof must consist of at least the signature of the purchaser, a copy of
         a driver's license and one other form of identification. (For specific
         guidance, see 21 U.S.C. Section 1310.07)
 
-Q.      If I supply a threshold amount of a List I chemical to a customer who
+Q.     If I supply a threshold amount of a List I chemical to a customer who
         also sells the List I chemical over threshold amounts, do my records
         have to have my customer's DEA registration number?
 
-A.      Yes, your records should include your customer's registration number. If
+A.     Yes, your records should include your customer's registration number. If
         the customer has applied for a DEA registration and has not yet received
         that registration, you should obtain confirmation that the customer has
         applied for that registration. In such instances, a copy of the
         application for registration will suffice.
 
-Q.      What is the Special Surveillance List? When will the Special
+Q.     What is the Special Surveillance List? When will the Special
         Surveillance List be published?
 
-A.      The MCA provides for the publication of a surveillance list which
+A.     The MCA provides for the publication of a surveillance list which
         contains chemicals, products, materials, or equipment used in the
         manufacture of controlled substances and listed chemicals. These items
         are referred to as "laboratory supply". The DEA is currently preparing
         this surveillance list.
 
-Q.      If I sell Iodine or HCl gas, what records am I required to keep?
+Q.     If I sell Iodine or HCl gas, what records am I required to keep?
 
-A.      While certain export transactions of hydrochloric acid and HCl gas were
+A.     While certain export transactions of hydrochloric acid and HCl gas were
         already regulated under the CSA, the MCA added regulatory controls on
         domestic transactions of iodine and HCl gas. The DEA will soon publish a
         Federal Register Notice which establishes a threshold for these domestic

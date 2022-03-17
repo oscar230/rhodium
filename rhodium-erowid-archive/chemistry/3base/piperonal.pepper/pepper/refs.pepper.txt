@@ -34,14 +34,14 @@ GB1336511 , 1973-11-07
 Study of piperine in Fructus piperis Longi by supercritical fluid extraction.
 
 Li, Xianyi; Yuan, Hailong; Gou, Kuibin; Liu, Zhengliang; Zhang, Chun (No.222 Hospital of 
-PLA, Jilin 132011, Peop. Rep. China).  Zhongguo Yiyuan Yaoxue Zazhi, 20(10), 597-599 
-(Chinese) 2000 Zhongguo Yiyuan Yaoxue Zazhi Bianjibu.  CODEN: ZYYAEP.  ISSN: 1001-5213.  
+PLA, Jilin 132011, Peop. Rep. China). Zhongguo Yiyuan Yaoxue Zazhi, 20(10), 597-599 
+(Chinese) 2000 Zhongguo Yiyuan Yaoxue Zazhi Bianjibu. CODEN: ZYYAEP. ISSN: 1001-5213. 
 DOCUMENT TYPE: Journal CA Section: 11 (Plant Biochemistry)
 
 The supercrit. fluid extn. (SFE) method for extg. piperine from Fructus piperis Longi was 
-presented.  The extd. piperine was detd. by HPLC.  SFE conditions were as follows: pressure 
-38.5 MPa, temp. 70°, 0.4 mL methanol as a modifier, static extn. 5 min, and dynamic extn. 
-vol. 5 mL.  The results showed that SFE was a quick, accurate, and high efficiency extn. 
+presented. The extd. piperine was detd. by HPLC. SFE conditions were as follows: pressure 
+38.5 MPa, temp. 70ï¿½, 0.4 mL methanol as a modifier, static extn. 5 min, and dynamic extn. 
+vol. 5 mL. The results showed that SFE was a quick, accurate, and high efficiency extn. 
 method.
 ------------------------------------------------------------------------------------------
 http://www.ots.duke.edu/tropibiojnl/claris/44-2/!CICCI~1.HTM
@@ -54,12 +54,12 @@ Burger, W.C. 1971. Piperaceae. In Flora costaricensis. Fieldiana, Botany 35: 5-2
 
 Castro, O. & L.J. Poveda. 1983. Piper auritum (H.B.K.) familia Piperaceae. Estudio preliminar del aceite esencial de sus hojas. Ing. Cienc. Quim. 7: 24-25.
 
-Gottlieb, O.R., M. Koketsu, M.T. Magalhaes, J.G.S. Maia, P.H. Mendes, A.I. da Rocha, M.L. da Silva & V.C. Wilberg. 1981. Óleos essenciais da Amazonia VII. Acta Amazon.
+Gottlieb, O.R., M. Koketsu, M.T. Magalhaes, J.G.S. Maia, P.H. Mendes, A.I. da Rocha, M.L. da Silva & V.C. Wilberg. 1981. ï¿½leos essenciais da Amazonia VII. Acta Amazon.
 11: 143-148.
 
-Gupta, M.P., T.D. Arias, N.H. Williams, R. Bos & D.H.E. Tattje. 1985. Safrole, the main component of the essential oil from Piper auritum of Panamá. J. Nat. Prod. 48: 330.
+Gupta, M.P., T.D. Arias, N.H. Williams, R. Bos & D.H.E. Tattje. 1985. Safrole, the main component of the essential oil from Piper auritum of Panamï¿½. J. Nat. Prod. 48: 330.
 
-Harborne, J.B. 1985. Introducción a la bioquímica ecológica. Alhambra, Madrid. 355 p.
+Harborne, J.B. 1985. Introducciï¿½n a la bioquï¿½mica ecolï¿½gica. Alhambra, Madrid. 355 p.
 
 Harborne, J.B. & B.L. Turner. 1984. Plant Chemosystematics. Academic, Londres. 562 p.
 

@@ -8,7 +8,7 @@
 SCHEDULE I
 ==========================================================================
 
-1.      Opium Poppy (Papaver somniferum), its preparations, derivatives,
+1.     Opium Poppy (Papaver somniferum), its preparations, derivatives,
         alkaloids and salts, including:
 
         (1)              Opium
@@ -59,7 +59,7 @@ SCHEDULE I
 
 --------------------------------------------------------------------------
 
-2.      Coca (Erythroxylon), its preparations, derivatives, alkaloids and
+2.     Coca (Erythroxylon), its preparations, derivatives, alkaloids and
         salts, including:
 
         (1)              Coca leaves
@@ -68,7 +68,7 @@ SCHEDULE I
 
 --------------------------------------------------------------------------
 
-3.      Phenylpiperidines, their intermediates, salts, derivatives and
+3.     Phenylpiperidines, their intermediates, salts, derivatives and
         analogues and salts of intermediates, derivatives and analogues,
         including:
 
@@ -102,7 +102,7 @@ SCHEDULE I
 
 --------------------------------------------------------------------------
 
- 4.     Phenazepines, their salts, derivatives and salts of derivatives including:
+ 4.    Phenazepines, their salts, derivatives and salts of derivatives including:
 
         (1)              Proheptazine
 
@@ -114,7 +114,7 @@ SCHEDULE I
 
 --------------------------------------------------------------------------
 
- 5.     Amidones, their intermediates, salts, derivatives and salts of
+ 5.    Amidones, their intermediates, salts, derivatives and salts of
         intermediates and derivatives including:
 
         (1)              Dimethylaminodiphenylbutanonitrile
@@ -139,7 +139,7 @@ SCHEDULE I
 
 --------------------------------------------------------------------------
 
- 7.     Phenalkoxams, their salts, derivatives and salts of derivatives including:
+ 7.    Phenalkoxams, their salts, derivatives and salts of derivatives including:
 
  (1)              Dimenoxadol
  (2)              Dioxaphetyl butyrate
@@ -147,7 +147,7 @@ SCHEDULE I
 
 --------------------------------------------------------------------------
 
-8.      Thiambutenes, their salts, derivatives and salts of derivatives including:
+8.     Thiambutenes, their salts, derivatives and salts of derivatives including:
 
         (1)              Diethylthiambutene
         (2)              Dimethylthiambutene
@@ -165,7 +165,7 @@ SCHEDULE I
 
 --------------------------------------------------------------------------
 
-10.     Morphinans, their salts, derivatives and salts of derivatives including:
+10.    Morphinans, their salts, derivatives and salts of derivatives including:
 
         (1)              Buprenorphine
         (2)              Drotebanol
@@ -188,7 +188,7 @@ but not including
 
 --------------------------------------------------------------------------
 
-11.     Benzazocines, their salts, derivatives and salts of derivatives including:
+11.    Benzazocines, their salts, derivatives and salts of derivatives including:
 
         (1)              Phenazocine
         (2)              Metazocine
@@ -200,7 +200,7 @@ but not including
 
 --------------------------------------------------------------------------
 
-12.     Ampromides, their salts, derivatives and salts of derivatives including:
+12.    Ampromides, their salts, derivatives and salts of derivatives including:
 
         (1)              Diampromide
         (2)              Phenampromide
@@ -216,16 +216,16 @@ but not including
 
 --------------------------------------------------------------------------
 
-14.     Phencyclidine, its salts, derivatives and analogues and salts of
+14.    Phencyclidine, its salts, derivatives and analogues and salts of
         derivatives and analogues
 
 --------------------------------------------------------------------------
 
-15.     Piritramide, its salts, derivatives and salts of derivatives
+15.    Piritramide, its salts, derivatives and salts of derivatives
 
 --------------------------------------------------------------------------
 
-16.     Fentanyls, their salts, derivatives, and analogues and salts of
+16.    Fentanyls, their salts, derivatives, and analogues and salts of
         derivatives and analogues, including:
 
         (1)              Acetylmethylfentanyl
@@ -244,7 +244,7 @@ but not including
 
 --------------------------------------------------------------------------
 
-17.     Tilidine, its salts, derivatives and salts of derivatives
+17.    Tilidine, its salts, derivatives and salts of derivatives
 
 --------------------------------------------------------------------------
 
@@ -280,7 +280,7 @@ but not including
 ==========================================================================
 SCHEDULE III
 ==========================================================================
-1.      Amphetamines, their salts, derivatives, isomers and analogues and
+1.     Amphetamines, their salts, derivatives, isomers and analogues and
         salts of derivatives, isomers and analogues including:
 
         (1)    amphetamine 
@@ -304,31 +304,31 @@ SCHEDULE III
        (19)    N-Propyl-3,4-methylenedioxyamphetamine
        (20)    N-(2-Hydroxyethyl)-alpha-methylbenzeneethanamine
 
- 2.     Methylphenidate, and any salt thereof
- 3.     Methaqualone, and any salt thereof
- 4.     Mecloqualone, and any salt thereof
- 5.     Lysergic acid diethylamide (LSD) and any salt thereof
- 6.     N,N-Diethyltryptamine (DET) and any salt thereof
- 7.     N,N-Dimethyltryptamine (DMT) and any salt thereof
- 8.     N-Methyl-3-piperidyl benzilate (LBJ) and any salt thereof
- 9.     Harmaline and any salt thereof
-10.     Harmalol, and any salt thereof
-11.     Psilocin, and any salt thereof
-12.     Psilocybin, and any salt thereof
-13.     N-(1-phenylcyclohexyl)ethylamine (PCE) and any salt thereof
-14.     1-[1-(2-Thienyl)cyclohexyl]piperidine (TCP) and any salt thereof
-15.     1-Phenyl-N-propylcyclohexanamine and any salt thereof
-16.     1-(1-Phenylcyclohexyl)pyrrolidine and any salt thereof
-17.     Mescaline and any salt thereof, but not peyote (lophophora)
-18.     4-Methylaminorex
-19.     Cathinone ((-)-alpha-aminopropiophenone) and any salt thereof
-20.     Fenetylline, and any salt thereof
-21.     2-Methylamino-1-phenyl-1-propanone and any salt thereof
-22.     1-[1-(Phenylmethyl)cyclohexyl]piperidine and any salt thereof
-23.     1-[1-(4-Methylphenyl)cyclohexyl]piperidine and any salt thereof
-24.     2C-B, and any salt, isomer or salt of isomer thereof
-25.     Flunitrazepam
-26.     4-hydroxybutanoic acid (GHB) and any salt thereof
+ 2.    Methylphenidate, and any salt thereof
+ 3.    Methaqualone, and any salt thereof
+ 4.    Mecloqualone, and any salt thereof
+ 5.    Lysergic acid diethylamide (LSD) and any salt thereof
+ 6.    N,N-Diethyltryptamine (DET) and any salt thereof
+ 7.    N,N-Dimethyltryptamine (DMT) and any salt thereof
+ 8.    N-Methyl-3-piperidyl benzilate (LBJ) and any salt thereof
+ 9.    Harmaline and any salt thereof
+10.    Harmalol, and any salt thereof
+11.    Psilocin, and any salt thereof
+12.    Psilocybin, and any salt thereof
+13.    N-(1-phenylcyclohexyl)ethylamine (PCE) and any salt thereof
+14.    1-[1-(2-Thienyl)cyclohexyl]piperidine (TCP) and any salt thereof
+15.    1-Phenyl-N-propylcyclohexanamine and any salt thereof
+16.    1-(1-Phenylcyclohexyl)pyrrolidine and any salt thereof
+17.    Mescaline and any salt thereof, but not peyote (lophophora)
+18.    4-Methylaminorex
+19.    Cathinone ((-)-alpha-aminopropiophenone) and any salt thereof
+20.    Fenetylline, and any salt thereof
+21.    2-Methylamino-1-phenyl-1-propanone and any salt thereof
+22.    1-[1-(Phenylmethyl)cyclohexyl]piperidine and any salt thereof
+23.    1-[1-(4-Methylphenyl)cyclohexyl]piperidine and any salt thereof
+24.    2C-B, and any salt, isomer or salt of isomer thereof
+25.    Flunitrazepam
+26.    4-hydroxybutanoic acid (GHB) and any salt thereof
 
 
 
@@ -337,7 +337,7 @@ SCHEDULE IV
 ==========================================================================
 
 
-1.      Barbiturates, their salts and derivatives including
+1.     Barbiturates, their salts and derivatives including
 
         (1)              Allobarbital 
         (2)              Alphenal 
@@ -377,30 +377,30 @@ SCHEDULE IV
  (3)              Thiobarbituric Acid (2-thiobarbituric acid)
  (4)              Thiopental (5-ethyl-5-(1-methylbutyl)-2-thiobarbituric acid)
 
- 3.                    Chlorphentermine and any salt thereof
- 4.                    Diethylpropion and any salt thereof
- 5.                    Phendimetrazine and any salt thereof
- 6.                    Phenmetrazine and any salt thereof
- 7.                    Pipradol and any salt thereof
- 8.                    Phentermine and any salt thereof
- 9.                    Butorphanol
+ 3.                   Chlorphentermine and any salt thereof
+ 4.                   Diethylpropion and any salt thereof
+ 5.                   Phendimetrazine and any salt thereof
+ 6.                   Phenmetrazine and any salt thereof
+ 7.                   Pipradol and any salt thereof
+ 8.                   Phentermine and any salt thereof
+ 9.                   Butorphanol
 (l-N-cyclobutylmethyl-3,14-dihydroxymorphinan) and any salt thereof
-10.                    Nalbuphine
+10.                   Nalbuphine
 (N-cyclobutylmethyl-4,5-epoxy-morphinan-3,6,14-triol) and any salt thereof
-11.                    Glutethimide (2-ethyl-2-phenylglutarimide)
-12.                    Clotiazepam
+11.                   Glutethimide (2-ethyl-2-phenylglutarimide)
+12.                   Clotiazepam
 (5-(o-chlorophenyl)-7-ethyl-1,3-dihydro-1-methyl-2H-thieno[2,3-e]-1,4-diazepin-2
 -one) and any salt thereof
 
-13.                    Ethchlorvynol (ethyl-2-chlorovinyl ethynyl carbinol)
+13.                   Ethchlorvynol (ethyl-2-chlorovinyl ethynyl carbinol)
 
-14.                    Ethinamate (1-ethynylcyclohexanol carbamate)
+14.                   Ethinamate (1-ethynylcyclohexanol carbamate)
 
-15.                    Mazindol
+15.                   Mazindol
 
-16.                    Meprobamate 
+16.                   Meprobamate 
 
-17.   		     Methyprylon (3,3-diethyl-5-methyl-2,4-piperidinedione)
+17.  		     Methyprylon (3,3-diethyl-5-methyl-2,4-piperidinedione)
 
 18.	Benzodiazepines, their salts and derivatives, including:
 
@@ -442,21 +442,21 @@ SCHEDULE IV
 (33)              Flunitrazepam
 
 
-19.                    Catha edulis Forsk., its preparations, derivatives,
+19.                   Catha edulis Forsk., its preparations, derivatives,
 alkaloids and salts, including:
 
  (1)              Cathine (d-threo-2-amino-1-hydroxy-1-phenylpropane)
 
-20.                    Fencamfamin
+20.                   Fencamfamin
  and any salt thereof
 
-21.                    Fenproporex
+21.                   Fenproporex
  and any salt thereof
 
-22.                    Mefenorex
+22.                   Mefenorex
 and any salt thereof
 
-23.                    Anabolic steroids and their derivatives including:
+23.                   Anabolic steroids and their derivatives including:
 
 	 (1)              Androisoxazole
 	 (2)              Androstanolone 
@@ -502,7 +502,7 @@ and any salt thereof
 	(42)              Tiomesterone
 	(43)              Trenbolone 
 
-24.                    Zeranol
+24.                   Zeranol
 
 
 
@@ -521,11 +521,11 @@ SCHEDULE V
 SCHEDULE VI
 ==========================================================================
 
-	1.    Benzyl methyl ketone (P2P) (1-phenyl-2-propanone)
-	2.    Ephedrine 
-	3.    Ergometrine
-	4.    Ergotamine
-	5.    Lysergic acid
+	1.   Benzyl methyl ketone (P2P) (1-phenyl-2-propanone)
+	2.   Ephedrine 
+	3.   Ergometrine
+	4.   Ergotamine
+	5.   Lysergic acid
 	6.	Pseudoephedrine
 
 

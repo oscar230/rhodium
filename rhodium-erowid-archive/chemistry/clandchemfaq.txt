@@ -20,7 +20,7 @@ Subject: 1. Introduction and Miscellanea
 Introduction
 ------------
 
-It was the best of times.  It was the worst of times.
+It was the best of times. It was the worst of times.
 
 UseNet is one of the most amazing phenomenon I have ever seen:  a
 dynamic synthesis of human knowledge, thought, and understanding.
@@ -33,7 +33,7 @@ But as the human spirit soars to unimaginable heights, so does it
 wallow in the gutter of depravity with equal, if not greater joy.
 
 As a high traffic newsgroup, alt.drugs generates about 130 posts a
-day.  And according to news.lists estimates (Jan. 1995), has 120,000
+day. And according to news.lists estimates (Jan. 1995), has 120,000
 daily readers, a possibly conservative figure.
 
 A topic of continuing interest -- enough to result in the 1994
@@ -49,7 +49,7 @@ Primer.
 Copyright Notice
 ----------------
 
-This document is Copyright (c) 1995 by Yogi Shan.  This text, in 
+This document is Copyright (c) 1995 by Yogi Shan. This text, in 
 whole or in part, may not be sold in any medium, including but not 
 limited to electronic, CD-ROM, or print, without the express written 
 permission of Yogi Shan.
@@ -66,14 +66,14 @@ is expressly forbidden without prior written permission.
 
 REWARD OFFERED!:  If you know of any violation of this copyright
 notice, please show your gratitude to the author for making 
-available this document, by letting him know.  As well, I'll give 
+available this document, by letting him know. As well, I'll give 
 you 25% of any damage award (net) I get from legal action.
 
 If you have found this document of use, a $5 donation is requested
 to any of the following:  the American Civil Liberties Union (ACLU), 
 Amnesty International, or any schizophrenia/mental health charitable 
-organization.  Please let the author <yshan@bnr.ca> know if you have 
-made such a donation.  It will truly brighten his day.  Thanks!
+organization. Please let the author <yshan@bnr.ca> know if you have 
+made such a donation. It will truly brighten his day. Thanks!
 
 Where To Find This Document
 ---------------------------
@@ -195,7 +195,7 @@ Other World Wide Web and other Net sites are:
 
 There are a variety of FAQs and other documents, which range from
 excellent to not-so-excellent, available at the hyperreal.com site
-(the "official" alt.drugs site).  In case it changes (making this 
+(the "official" alt.drugs site). In case it changes (making this 
 reference stale), the pointer to the site is regularly posted to 
 alt.drugs as the alt.drugs FAQ and the Net Resources FAQ.
 
@@ -213,42 +213,42 @@ as well as at:
 
 There's an interesting piece in the Notes section (at the end), 
 describing the trials and tribulations of clandestine MDMA 
-manufacture as experienced by some English entrepreneurs.  The 
+manufacture as experienced by some English entrepreneurs. The 
 appendix (by Alexander Shulgin) lists a number of synthetic 
-references for MDMA, though it is incomplete.  The MDMA 
+references for MDMA, though it is incomplete. The MDMA 
 FAQ at hyperreal.com has a good chemistry section too.
 
 Email <Cora.Belgique@agora.stm.it> for a regular e-mail report
 summarizing an extensive variety of newspaper reports on issues
-of drugs and drug control.  Focus is on European newspapers by
-the anti-prohibition group.  Not really clandestine chemistry
+of drugs and drug control. Focus is on European newspapers by
+the anti-prohibition group. Not really clandestine chemistry
 related, but interesting nonetheless. 
 
 As well, some very high quality chemical and pharmacological
 information is occasionally posted by some readers of alt.drugs.
 However, the signal-to-noise ratio is very low (< 1:100), so you 
-have to pay close attention.  Even worse are the idiots who have 
-read a book or two and now fancy themselves as experts.  They are 
+have to pay close attention. Even worse are the idiots who have 
+read a book or two and now fancy themselves as experts. They are 
 not.
 
 As with the rest of the net, reputation is a good *indication*.
-Majority rules is not.  Never gamble where issues concern health, 
-safety, or freedom.  In the interests of eugenics, feel free to 
+Majority rules is not. Never gamble where issues concern health, 
+safety, or freedom. In the interests of eugenics, feel free to 
 ignore the previous statement.
 
 Though the focus is on "smart" drugs, alt.psychoactives is a related 
 group with a much lower traffic level that you might want to check 
-out/post to.  Ditto for alt.drugs.psychedelic.
+out/post to. Ditto for alt.drugs.psychedelic.
 
 alt.drugs.chemistry
 -------------------
 
-Make it easy for the DEA:  post your chemistry questions here.  After 
+Make it easy for the DEA:  post your chemistry questions here. After 
 all, we wouldn't want them having to wade through a lot of silly "I'm 
 really baked! (Hi, Mom!)" posts.
 
 Less well propagated on the net (by half!) than alt.drugs, for obvious 
-reasons.  In order to maximize your audience, cross-post to alt.drugs 
+reasons. In order to maximize your audience, cross-post to alt.drugs 
 if you're going to post here.
 
 sci.chem
@@ -257,7 +257,7 @@ sci.chem
 Many a great mind will attempt to tap into the knowledge-base of 
 *real* chemists in their glorious quest for riches, er, I mean 
 enlightenment, by posting thinly disguised drug manufacturing 
-questions to sci.chem.  Usually related to the manufacture of 
+questions to sci.chem. Usually related to the manufacture of 
 methamphetamine, these queries generally fool only the totally 
 naive.
 
@@ -265,12 +265,12 @@ The questions are generally phrased around the topic of reducing
 agents, reduction of benzylic alcohols, reductive amination, or 
 the ever-popular benzyl methyl ketone/phenylacetone, the archaic
 pre-IUPAC names for P-2-P, the notorious (and scheduled) amphetamine
-precursor.  (P-2-P was mentioned briefly in the Harrison Ford movie
+precursor. (P-2-P was mentioned briefly in the Harrison Ford movie
 "Witness".)
 
 Such questions seldom produce the desired result, though I suppose 
 there's no harm in trying, as long as you don't mind being flamed, 
-or having your name passed to the relevant civil authorities.  On 
+or having your name passed to the relevant civil authorities. On 
 the other hand, I've also seen some craftily worded drug synthesis 
 questions successfully run the gauntlet without detection.
 
@@ -280,7 +280,7 @@ Posting anonymously tips off many people to the true nature of your
 misc.legal & misc.legal.moderated
 ---------------------------------
 
-Get all your legal questions answered NOW.  There's no Newsfeed in 
+Get all your legal questions answered NOW. There's no Newsfeed in 
 Leavenworth.
 
 Anon Remailers
@@ -309,20 +309,20 @@ Subject: 4. Books:  The Good, The Bad, And The Ugly
 
            "[It's] the last American folk adventure...
             the light in the moon...narcotics agents
-            chasing you all over the land.  It's a
+            chasing you all over the land. It's a
             fantasy made real."
 
                           -- George Marquardt, convicted
                              drug chemist, on his profession 
 
 As with the Net in general, there is a paucity of accurate 
-information available on the subject of illicit drugs.  Even 
+information available on the subject of illicit drugs. Even 
 the fact of publication is not necessarily a guarantee of any 
 sort of technical legitimacy, particularly, though not limited 
 to, "counter-culture" efforts.
 
 There are many reasons why people write books, but making money 
-is one of the biggest.  When the subject is of an illegal nature, 
+is one of the biggest. When the subject is of an illegal nature, 
 the likelihood of inadequate, incomplete, or blatantly wrong 
 information is even higher than usual.
 
@@ -332,12 +332,12 @@ First Amendment.
 
 Ever seen the list of "underground" books by Ragnar Benson & 
 Duncan Long?  How many things can these guys be "expert" in?  
-Not bloody likely.  What's that maxim?  If you can't do, teach.
+Not bloody likely. What's that maxim?  If you can't do, teach.
 
 One of the more egregious examples of gross error in the drug 
 book realm, was the "Cocaine Consumer's Handbook" by one David 
-Lee (Berkeley, California:  And/Or Press, 1976).  In it, Mr. 
-Lee flogged the notorious "Clorox [bleach] Test" for cocaine.  
+Lee (Berkeley, California:  And/Or Press, 1976). In it, Mr. 
+Lee flogged the notorious "Clorox [bleach] Test" for cocaine. 
 This test, described in excruciating detail, and complete with 
 color photographs, purported to detect not only eight different 
 adulterants and diluents, but the relative percentage purity of 
@@ -345,7 +345,7 @@ the cocaine itself.
 
 Alas, several years later, the test was finally unmasked as utter 
 nonsense by PharmChem, a reputable Menlo Park, CA  street drug 
-analysis organization.  Their testing established that the orange 
+analysis organization. Their testing established that the orange 
 color produced when lidocaine is present in the sample being tested
 was the extent of the Clorox Test's scope and usefulness.
 
@@ -365,12 +365,12 @@ page (!) list of addiction service agencies.
 So it goes.
 
 There are many other such errors large and small that have made it 
-into print.  Books like the "Anarchist Cookbook" (infra) are ridden 
-with them.  For instance grafting a hop plant onto a marijuana root 
+into print. Books like the "Anarchist Cookbook" (infra) are ridden 
+with them. For instance grafting a hop plant onto a marijuana root 
 (debunked by Crombie & Crombie (1975) and Starks (1990), infra), 
 and making meth from soft coal, ammonia, and bluing compound 
 (described in "Complete Guide to the Street Drug Game" by Scott 
-French.  Secaucus, NJ:  Lyle Stuart (1976)) are all complete bunk. 
+French. Secaucus, NJ:  Lyle Stuart (1976)) are all complete bunk. 
 
 Militating against the writing of quality books is that the fact of 
 the matter is that if you gain enough knowledge to be a competent 
@@ -386,14 +386,14 @@ trade.
      desperation, and apparently inspired by lurid media 
      accounts of Fentanyl analogue manufacture, out of the 
      blue he decided to go into the synthetic heroin 
-     business.  
+     business. 
 
      Unfortunately for him, he had no contacts for distributing 
-     his 3-methylfentanyl product.  In a hopelessly amateurish
+     his 3-methylfentanyl product. In a hopelessly amateurish
      attempt to make such contacts -- he approached a black 
      DuPont janitor -- he was promptly turned in, arrested, 
      convicted, and sentenced to an 18 year Federal prison term 
-     (Ouch!).  For apostasy, more than anything else. 
+     (Ouch!). For apostasy, more than anything else. 
 
      Needless to say, Dr. Hovey was also promptly fired.
 
@@ -401,7 +401,7 @@ trade.
      case at Parke-Davis Pharmaceuticals in England.)
 
 Nonetheless, reliable books on clandestine chemistry have been 
-published.  Below are some of the more accurate efforts I have seen.
+published. Below are some of the more accurate efforts I have seen.
 
 It is no coincidence that the "good" ones originate from the San 
 Francisco Bay area, a center of politically-motivated underground 
@@ -413,41 +413,41 @@ postal/customs authorities in countries such as Canada and Australia.
 "Psychedelic Chemistry"
 ----------------------
 
-M.V.Smith.  Port Townsend, Washington:  Loompanics (1981).
+M.V.Smith. Port Townsend, Washington:  Loompanics (1981).
 <loompanx@olympus.net> (P.O. Box 1197, Port Townsend, WA 98368).
 
 Largely abstracted from the specialist literature, PC is the 
-hands-down leader in a very small field.  It's a classic.  LSD, 
+hands-down leader in a very small field. It's a classic. LSD, 
 mescaline, psychedelic amphetamines, and THC are thoroughly 
-covered, among others.  One of the more interesting "recipes" 
+covered, among others. One of the more interesting "recipes" 
 is an actual underground one for the large-scale production of 
 LSD; to wit, a two million (!) dose batch. 
 
 M.V. Smith (a reference to the Martian messiah in Robert Heinlein's
 '60s SF classic, "Stranger in a Strange Land") is a pseudonym for 
-Michael Starks, author of "Marijuana Chemistry" (infra).  PC was 
+Michael Starks, author of "Marijuana Chemistry" (infra). PC was 
 originally published by San Francisco's RipOff Press, and -- 
 unfortunately for the budding felon -- requires a thorough grounding 
-in organic chemistry to make heads or tails of.  Though out of date, 
+in organic chemistry to make heads or tails of. Though out of date, 
 it is generally accurate.
 
-There are two known serious mistakes.  The first is an MDA synthesis
+There are two known serious mistakes. The first is an MDA synthesis
 where hydrogen peroxide is substituted for water, with possibly 
-unfortunate results.  This mistake was copied from the "Chemical
+unfortunate results. This mistake was copied from the "Chemical
 Abstracts" (infra) abstract that was the source of this entry. 
 
-The second error is the extension of the Ritter Reaction to MDA.  
+The second error is the extension of the Ritter Reaction to MDA. 
 According to a 1958 _Bull. Soc. Chim. Fr._ paper and others, 
 apparently ring-substituted allylbenzenes will cyclicize to the 
 3,4-dihydro-isoquinoline.
 
 Loompanics also sells a few other books on clandestine chemistry, 
-which range from trash to OK.  An example is Jim DeKorne's 
+which range from trash to OK. An example is Jim DeKorne's 
 "Psychedelic Shamanism", which is in the worthless trash category.
 
 DeKorne is apparently a devotee of botanical psychedelics -- 
 though not devoted enough to bother accurately documenting chemical 
-extraction procedures.  [See the hyperreal.com web site for two 
+extraction procedures. [See the hyperreal.com web site for two 
 reviews of DeKorne's book, as well as the two previously mentioned 
 alt.drugs FAQs which are not only better, but free to boot.]
 
@@ -455,7 +455,7 @@ alt.drugs FAQs which are not only better, but free to boot.]
 ------------------------------
 
 ("Phenethylamines I Have Known And Loved"), Alexander & Ann 
-Shulgin.  Berkeley, California:  Transform Press (1991).
+Shulgin. Berkeley, California:  Transform Press (1991).
 (P.O. Box 13675, Berkeley, CA 94701).
 
 Authored by a published, legitimate, and respected chemist (his 
@@ -466,7 +466,7 @@ alkylarylethylamines and congeners), including MDMA.
 Many of these compounds, such as STP, were first synthesized,
 and/or pharmacologically noticed, by Shulgin himself, beginning 
 in the mid-60s while working for Dow Chemical (Smith & Luce, 
-infra).  _PIHKAL_ was Shulgin's "going public" with the fact 
+infra). _PIHKAL_ was Shulgin's "going public" with the fact 
 that his work continued long after government funding was shut 
 off, Schedule I classification, and finally, the Analogue Act,
 had strangled the field this Ghost in the Machine advocated.
@@ -477,7 +477,7 @@ chapter by Shulgin in the "Handbook of Psychopharmacology" (11:
 
 Like PC, you have to be a chemist to understand the syntheses,
 since explanations of the synthetic routes are either sparse 
-or non-existent.  The "recipe" section is available at the 
+or non-existent. The "recipe" section is available at the 
 hyperreal.com site.
 
 It is believed that Dr. Shulgin is less respected -- in more staid 
@@ -491,22 +491,22 @@ Substances, and fined him $25,000.
 "Marijuana Chemistry"
 --------------------
 
-Michael Starks.  Berkeley, California:  Ronin Press (1990).
+Michael Starks. Berkeley, California:  Ronin Press (1990).
 (P.O. Box 1035, Berkeley, CA 94701).
 
 A detailed examination, written for the layman, of the world's most 
-thoroughly persecuted peasant inebriant.  Extensively covers potency 
+thoroughly persecuted peasant inebriant. Extensively covers potency 
 issues in growing, home hash oil manufacture, and isomerization.
 
-Good discussion on the pros and cons of various extraction solvents.  
+Good discussion on the pros and cons of various extraction solvents. 
 Contains an updated section on THC synthesis from PC, which Starks 
-also wrote.  Originally published as "Marijuana Potency" (And/Or 
+also wrote. Originally published as "Marijuana Potency" (And/Or 
 Press, 1977).
 
 "The Anarchist Cookbook"
 -----------------------
 
-William Powell.  Secaucus, NJ:  Barricade Books (1971)
+William Powell. Secaucus, NJ:  Barricade Books (1971)
 ($22 [includes S&H] from P.O.Box 1401, Secaucus, N.J. 07096).
 
 I mention the infamous AC because of its notoriety, popular appeal 
@@ -520,11 +520,11 @@ electronic eavesdropping, making the AC the first mass market
 publication created with the express purpose of subverting modern 
 technology in order to overthrow the government.
 
-For this reason alone, the book is a classic.  
+For this reason alone, the book is a classic. 
 
 Unfortunately, the book is outdated and full of all sorts of mistakes, 
 though most of the dangerous ones are confined to the explosives 
-chapter.  The DMT recipe will *not* work (you have to use anhydrous 
+chapter. The DMT recipe will *not* work (you have to use anhydrous 
 dimethylamine, not the 40% aqueous commercial solution that the AC 
 implies), for instance, Aldrich won't sell you trimethoxyphenylaceto-
 nitrile, and the "bananadine" and peanut skin recipes are nonsense.
@@ -545,7 +545,7 @@ Acid" (by Adam Gottlieb) are several old, but reasonably accurate
 reprint pamphlets.
 
 Though technically accurate, they sprang forth from a time when
-chemical sales were much less strictly controlled.  Use at face
+chemical sales were much less strictly controlled. Use at face
 value is pretty much guaranteed to end you up in jail, rank 
 amateur status notwithstanding.
 
@@ -565,12 +565,12 @@ them (donations cheerfully accepted!).
 These include "Recreational Drugs" (by Prof. Buzz), "Secrets of 
 Methamphetamine Manufacture" (4th ed., Uncle Fester), and "The 
 Construction and Operation of Clandestine Drug Laboratories" (Jack 
-B. Nimble).  No word on whether a "Get Out of Jail Free" Card 
-comes with purchase.  The imaginative pseudonyms may give you some 
+B. Nimble). No word on whether a "Get Out of Jail Free" Card 
+comes with purchase. The imaginative pseudonyms may give you some 
 clue as to the quality of these books, which is quite uneven.
 
 Fester seems to focus on the Leuckart reaction, which though simple 
-to do, has a rather low yield.  It's obvious he was clever enough to 
+to do, has a rather low yield. It's obvious he was clever enough to 
 locate the "Org. Synth. Collective Volumes", though this is not 
 particularly clever, in my mind. He repeats the Ritter reaction 
 error mentioned previously.
@@ -578,7 +578,7 @@ error mentioned previously.
 Fester has also written "Practical LSD Manufacture" which is an
 interesting title given that unlike his amphetamine book, it
 seems highly doubtful that he has any actual practical experience
-in this area.  His horn-tooting about having discovered the
+in this area. His horn-tooting about having discovered the
 infamous "Operation Julie" LSD formula (Lee & Shlain, infra,
 p. 288) is utter nonsense:  propionyl anhydride is a reportable 
 precursor due to its utility in reversed ester synthetic opiate 
@@ -587,7 +587,7 @@ production.
 Popular Culture
 ---------------
 
-The underground chemist as pop icon.  The incorporation of the
+The underground chemist as pop icon. The incorporation of the
 clandestine chemist into popular culture has been limited with
 the unfamiliarity of the public -- and indeed the authors and
 screen-writers that entertain them -- with the highly technical
@@ -621,10 +621,10 @@ appearances to test, for New York gangsters, the 60 kg. heroin
 shipment from Marseilles that is the subject of the film.
 
 In the first test, the chemist performs a "Thiele tube melting point 
-test" to determine the purity of the heroin.  An archaic, low-tech,
+test" to determine the purity of the heroin. An archaic, low-tech,
 but quite effective testing method for relatively pure organics, 
 this test utilizes the fact that 100% pure heroin hydrochloride (aka 
-"China White") melts at precisely 243-244 deg. C.  
+"China White") melts at precisely 243-244 deg. C. 
 
 The more "cut" (diluted) or impure the heroin, the wider the temper-
 ature range from initial to complete melting, and the lower the 
@@ -643,31 +643,31 @@ the temperature.
 His running commentary on the heroin's purity begins at an arbitrary 
 baseline ("blast off") of 180 degrees Centigrade:
 
-   "Blast off! ...One-eight-oh...  
-    Two Hundred:  Good Housekeeping Seal of Approval...  
+   "Blast off! ...One-eight-oh... 
+    Two Hundred:  Good Housekeeping Seal of Approval... 
     Two-ten:  U.S. Government Certified...
     Two-twenty:  Lunar trajectory; Junk-of-the-Month Club sirloin 
-                 steak...  
+                 steak... 
     Two-thirty:  Grade A poison...
 
-   "Absolutely dynamite.  [It's] 89% pure 'junk' -- best I've
-    ever seen.  If the rest is like this, you'll be dealin' on
+   "Absolutely dynamite. [It's] 89% pure 'junk' -- best I've
+    ever seen. If the rest is like this, you'll be dealin' on
     this load for two years."
 
 In Howard's second appearance, he performs the crude but quick
 Marquis Reagent spot test as a final, last minute check before the
-smack shipment and buy money change hands.  The Marquis Reagent, a 
+smack shipment and buy money change hands. The Marquis Reagent, a 
 formaldehyde/sulfuric acid mixture, turns purple on contact with 
-opiates.  [In at least some home-video versions of the movie this is 
+opiates. [In at least some home-video versions of the movie this is 
 not clear, and the purple color looks orange.] 
 
 A sleazy, underwear-less biker "cook", replete with triple-necked, 
 ground-glass jointed flask, is portrayed as a minor character in the 
-1991 movie, "Rush".  He's the one that coerces the female undercover 
+1991 movie, "Rush". He's the one that coerces the female undercover 
 narc [Jennifer Jason Leigh] into dropping some sort of psychedelic 
-following a drug buy.  (The reason he French kissed her at the end of 
+following a drug buy. (The reason he French kissed her at the end of 
 this scene, by the way, is to make sure that she had really swallowed 
-the pill.  She had -- rather than holding it under her tongue like 
+the pill. She had -- rather than holding it under her tongue like 
 most narcs would -- which no doubt saved her from some immediate 
 grief.)
 
@@ -677,7 +677,7 @@ infiltrating some bikers running a speed lab.
 
 In the fiction book category, "The Alchemist" by Kenneth Goddard 
 (N.Y.:  Bantam, 1985), is a cliche-ridden potboiler about a manufac-
-turer of PCP analogues.  Gives the whole business a bad name [the 
+turer of PCP analogues. Gives the whole business a bad name [the 
 fiction book business, that is].
 
 A nice color poster showing a submachine-gun-totting, ninja-ed out 
@@ -706,7 +706,7 @@ The "Merck Index"
 
 I can answer 90% of the technical questions posted to alt.drugs 
 by merely leafing through the copy I have at home of this exceedingly 
-useful book.  It's truly the chemist's bible.  The Merck is a 
+useful book. It's truly the chemist's bible. The Merck is a 
 dictionary of thousands of chemicals, listing their structure, basic 
 chemical and pharmacological properties (though the angle seems to
 be more along the lines of a medicinal chemist), and pointers to 
@@ -714,14 +714,14 @@ synthesis and more detailed info.
 
 "The Merck" -- as it's referred to by those in the know -- will be in 
 the reference section of any university science library, and any decent 
-public library.  No, it isn't available on the Net.
+public library. No, it isn't available on the Net.
 
 The Merck -- not to be confused with the "Merck Manual" -- is a window 
-to the scientific specialist literature.  Expect to have to learn some 
-chemistry to use it effectively.  Your librarian can help you on 
-locating the journals referenced.  (Don't worry, I doubt she'll have
+to the scientific specialist literature. Expect to have to learn some 
+chemistry to use it effectively. Your librarian can help you on 
+locating the journals referenced. (Don't worry, I doubt she'll have
 the slightest clue what you're up to.)  Most of the articles you seek 
-will be well-thumbed.  Some will have been razored out of their volume:  
+will be well-thumbed. Some will have been razored out of their volume:  
 living testimony to the "thermoplastic" morals of many a drug user, 
 unaware that desecrating books is the mark of low-born barbarians, 
 and a sin against God and Man.
@@ -744,13 +744,13 @@ Have no fear, Chem. Abs. is here!
 
 Though the actual paper is *always* best, abstracts of U.S. and 
 foreign chemical patents and journal articles can also be found 
-in this invaluable journal.  Any chem student, or the reference 
-librarian, can show you how to use it.  You'll have to learn even 
-more chemistry to effectively use Chem. Abs.  (Hint:  Me = methyl, 
+in this invaluable journal. Any chem student, or the reference 
+librarian, can show you how to use it. You'll have to learn even 
+more chemistry to effectively use Chem. Abs. (Hint:  Me = methyl, 
 Ac = acetyl).
 
 Chem.Abs. is also good if you only read English, providing a 
-convenient translation of foreign language papers.  (Personally, 
+convenient translation of foreign language papers. (Personally, 
 I have found that being able to translate German -- as well as 
 the occasional French and Italian paper -- extremely useful in 
 my forays into the literature).
@@ -760,7 +760,7 @@ my forays into the literature).
 Subject: 6. Historical References on Underground Chemistry
 
       "I had a number of projects that I wished to pursue
-       in France.  I wanted to learn to speak the language,
+       in France. I wanted to learn to speak the language,
        I wanted to break my father loose from his grief
        over the death of my mother, and especially, I 
        wanted to put a methylenedioxy group in place of
@@ -769,10 +769,10 @@ Subject: 6. Historical References on Underground Chemistry
                                  -- Dr. Alexander Shulgin
                                    "PIHKAL"
 
-Ah yes.  History, "the lie that all historians can agree on." 
+Ah yes. History, "the lie that all historians can agree on." 
 
 There is a dearth of historical information available on the subject of 
-underground/clandestine chemistry.  Considering the shadowy and covert 
+underground/clandestine chemistry. Considering the shadowy and covert 
 nature of the business, this is really not surprising.
 
 If I've missed any noteworthy publications, please let me know.
@@ -780,17 +780,17 @@ If I've missed any noteworthy publications, please let me know.
 I could also have written sections on MDMA, Quaaludes, PCP/Angel Dust, 
 and heroin (both natural and synthetic analogues), but for reasons of 
 brevity, I won't (except for a selected bibliography on synthetic 
-opiates).  Interestingly, different drugs have radically different 
+opiates). Interestingly, different drugs have radically different 
 stories reflecting their unique origins, histories, markets, and 
 pharmacology.
 
 Going back a few decades, the moonshining business in the rural
 Eastern U.S. provides an interesting historical antecedent to the 
-modern day drug manufacturing business.  Serious researchers are
+modern day drug manufacturing business. Serious researchers are
 advised to examine this angle. 
 
 I found the parallels quite fascinating, from the analogous precursor 
-controls on sugar, to the flurry of Federal laws passed.  (Ever wonder
+controls on sugar, to the flurry of Federal laws passed. (Ever wonder
 why U.S. liquor bottles are embossed with the warning "Federal Law
 prohibits re-filling"?)
 
@@ -798,7 +798,7 @@ prohibits re-filling"?)
 ----------------------------------------
 
         "A little poison now and then, that makes for
-         agreeable dreams.  And much poison in the end,
+         agreeable dreams. And much poison in the end,
          for an agreeable death."
 
                              -- "Thus Spake Zarathustra"
@@ -826,11 +826,11 @@ investigators -- outweighed the disadvantages.
 
 However, at the same time, it is also interesting to note that 
 this article deliberately provided clandestine chemists with a 
-correction to a wrong procedure.  An obscure method for producing 
+correction to a wrong procedure. An obscure method for producing 
 methamphetamine involves the condensation of the Grignard, benzyl 
-magnesium chloride, with other reactants.  However the order of 
+magnesium chloride, with other reactants. However the order of 
 mixing of these reagents in one of the reaction's original literature
-cites (a Chem. Abs. abstract of a British Patent) is incorrect.  
+cites (a Chem. Abs. abstract of a British Patent) is incorrect. 
 This error was then reproduced in a shoddy underground drug-making 
 guide.
 
@@ -850,7 +850,7 @@ Speed Labs
    
    "Polydichloric Euthimal!  Those stupid bastards
     are taking Polydichloric Euthimal!  It's an
-    amphetamine.  Strongest thing you ever saw.
+    amphetamine. Strongest thing you ever saw.
     Makes you feel *wonderful*."
 
                               -- Dr. Lazarus
@@ -865,7 +865,7 @@ The rise of the speed lab during the early 60s is documented in
 1970), a chronicle of the travails of the Haight-Ashbury Free Clinic 
 during the 1967 Summer of Love, "The Speed Culture" (Lester Grinspoon 
 & Peter Hedblom), and "Licit and Illicit Drugs" (Edward Brecher. Mt. 
-Vernon, NY: Consumers Union, 1972).  
+Vernon, NY: Consumers Union, 1972). 
 
 The first two books are out-of-print, but all three are classic works 
 well worth locating for anyone interested in the sociological as well 
@@ -878,7 +878,7 @@ them down (U.S. General Accounting Office Report GGD-82-8 (1981) and
 Frank (1983), supra).
 
 February 1980 saw the U.S. scheduling of the main clandestine precursor, 
-phenyl-2-propanone (aka P-2-P).  Within a few years the unregulated 
+phenyl-2-propanone (aka P-2-P). Within a few years the unregulated 
 chemical l-ephedrine had replaced P-2-P as the main methamphetamine 
 precursor, and was being openly advertised in drug magazines such 
 as "High Times" by 1983. Since P-2-P produces the racemic mixture
@@ -900,9 +900,9 @@ chemical and logistic skills had matured, but before law enforcement
 tactics had had time to catch up) -- the late 60s to mid 70s -- is over.
 
 [One story I've heard was an HA method from the old days in Northern 
-California.  A 55-gallon steel drum would be filled with a mixture of 
-P-2-P, methylamine, aluminum foil, etc.  The lid was quickly sealed, 
-and the drum rolled into a mountain stream for cooling.  On returning 
+California. A 55-gallon steel drum would be filled with a mixture of 
+P-2-P, methylamine, aluminum foil, etc. The lid was quickly sealed, 
+and the drum rolled into a mountain stream for cooling. On returning 
 after three days, if the drum had not exploded, it would now be filled 
 with raw methamphetamine ready for purification.]
 
@@ -910,12 +910,12 @@ The Sixties bred a generation of "hippie" chemists, smugglers, and
 high-level dealers at least superficially motivated by idealism and 
 the radical rejectionist politics of those turbulent times.
 
-This change in attitude was not lost on the pursuers.  As one DEA 
+This change in attitude was not lost on the pursuers. As one DEA 
 forensic expert commented with typically dry understatement: "It 
 appears that the illicit production of dangerous drugs has become 
 an intellectual and professional challenge to many individuals 
 associated with their misuse." (Gunn et al., "Clandestine Drug Labs", 
-_J.For.  Sci._ 15(1):51-64 (1970)).
+_J.For. Sci._ 15(1):51-64 (1970)).
 
 Changing times and the maturation of law enforcement efforts to 
 counter the drug threat invariably elicited a "changing of the guard", 
@@ -933,7 +933,7 @@ society to stamp it out.
 
 The end result was an amoral business aggressively pursued by the 
 government, which could dismantle organizations like a domino game, 
-rolling over one defendant after another with ruthless efficiency.  
+rolling over one defendant after another with ruthless efficiency. 
 A business riddled with informants and marked by endemic internecine 
 violence, rip-offs, and government-front chemical company sting 
 operations.
@@ -942,24 +942,24 @@ operations.
    evolution" paradigm, elaborated with respect to marijuana
    cultivation in Northern California during the '80s, see 
    Yves Lavigne's "Good Guy, Bad Guy:  Drugs and the Changing 
-   Face of Organized Crime".  NY:  Random House (1991)]
+   Face of Organized Crime". NY:  Random House (1991)]
 
 The wary should note that the mere purchase or attempted purchase of 
 laboratory equipment and/or chemicals of any type can be considered
 "suspicious" unless through an established, legitimate company or 
-educational institution.   The take-down from time to time of labs 
+educational institution.  The take-down from time to time of labs 
 run out of university Chemistry Departments -- sometimes even by 
 faculty members -- testifies to the danger of this sort of shenanigan
 even with access through legitimate channels. 
 
 Sorry kids, trying to buy chemicals with cash or a money order, or
-using a fake letterhead just doesn't cut it anymore.  It hasn't for
+using a fake letterhead just doesn't cut it anymore. It hasn't for
 years.
 
 As a result, the manufacture of controlled substances within the U.S. 
 is almost exclusively controlled by organized professional gangs 
 equipped with the financial resources and sophisticated logistics 
-necessary to successfully challenge the government.  The days of the 
+necessary to successfully challenge the government. The days of the 
 basement cowboy chemist are long gone.
 
 Between 1977 and 1984, over a dozen papers -- mostly originating
@@ -967,7 +967,7 @@ in Europe -- appeared in the literature (_J.For.Sci._ 22:842 (1976),
 _J.For.Sci._ 22(1): 40-52 (1971), _Arch.Krim._ 162(5-6): 171-175 
 (1978), _J.For.Sci._ 23(4): 693-700 (1978), _Bull. on Narc._ 36(1): 
 47-57 (1984)) on the impurities found in clandestinely-manufactured 
-amphetamines.  
+amphetamines. 
 
 Focusing mainly on the Leuckart reaction, which is easy to find in 
 the literature, and thus popular as a synthetic route, this research 
@@ -1001,7 +1001,7 @@ LSD Manufacturing:  Boys -- and Girls -- in the 'Hood
 
 The clandestine manufacture of LSD is logistically complex, 
 requiring a variety of difficult to obtain "watched" chemicals, 
-and a comparatively sophisticated lab setup.  Notwithstanding 
+and a comparatively sophisticated lab setup. Notwithstanding 
 the previous statement, like any of the illicit syntheses I 
 have examined, the reaction, if done in a typical organic chem 
 laboratory, would be considered routine.
@@ -1013,7 +1013,7 @@ altruism.
 As such, there seems to be no violence associated with any level 
 of the LSD trade, and acid chemists and dealers (and many users) 
 typically have a semi-mystical, proselytizing reverence for the 
-substance (cf. PIHKAL).  As a result, laboratory busts are rare, 
+substance (cf. PIHKAL). As a result, laboratory busts are rare, 
 and though user demographics have changed considerably, overall
 consumption has remained more or less steady (in the tens of 
 millions of hits per year), since the late Sixties.
@@ -1030,7 +1030,7 @@ data.
 Augustus Owsley Stanley III (also known as "Owsley", aka "Owl", 
 aka "Bear"; he eventually changed his name legally to "Owsley 
 Stanley") was the first major "acid chemist", and he is considered 
-a legendary figure from that era by some.  His quite colorful 
+a legendary figure from that era by some. His quite colorful 
 story is chronicled in "The Electric Kool-Aid Acid Test" by Tom 
 Wolfe (Bantam, 1968).
 
@@ -1043,7 +1043,7 @@ A recent and fairly lengthy interview with Owsley, in which he
 criticizes the accuracy of both "Storming Heaven" and the '82
 Rolling Stone piece, may be found in "Conversations with the
 Dead:  the Grateful Dead Interview Book" (David Gans, N.Y.:  
-Citadel Underground (1991)).  This interview mostly concerns
+Citadel Underground (1991)). This interview mostly concerns
 Owsley's musical background and association with the Grateful
 Dead as their soundman and financial patron in their early days
 in the '60s.
@@ -1061,7 +1061,7 @@ million hits of LSD and a quarter kilo of STP ("Owsley Guilty:
 
 Owsley passed the torch to associates Nicholas Sand and Tim Scully, 
 of "Orange Sunshine" [ALD-52] fame, along with the mysterious 
-Ronald Stark.  
+Ronald Stark. 
 
 All three were involved with supplying psychedelics to the 
 Brotherhood of Eternal Love, a loosely-based California hash 
@@ -1069,7 +1069,7 @@ smuggling and LSD distribution ring founded in 1966.
 
 ALD-52, 1-acetyl-LSD, was actually the first major "designer drug", 
 though it being technically legal did not save Scully and Sand 
-from 20 and 15 year federal prison terms respectively, in 1974.  
+from 20 and 15 year federal prison terms respectively, in 1974. 
 
 As disclosed in a 1952 U.S. Patent to Sandoz Pharmaceuticals by 
 the team of Stoll, Troxler, and (Albert) Hofmann, lysergic acid 
@@ -1095,7 +1095,7 @@ intermediate:
 
 Though such reaction flipping is in general of uncertain utility 
 (it's completely reaction and reactant-dependent), in this case it 
-works (cf. Johnson (1973)).  
+works (cf. Johnson (1973)). 
 
 And as an unpublished route, effectively Sand and Scully had come 
 up with a new synthesis of ALD-52 -- which they soon put to use by 
@@ -1136,21 +1136,21 @@ logistically ideal for the purpose of large scale drug trafficking.
 
 The first to recognize and exploit this possibility was George "Baby 
 Huey" Wethern, Vice-President of Sonny Barger's infamous Oakland 
-chapter of the HAs.  Wethern turned state's evidence in 1972, and
-testified at the '74 Sand/Scully trial among others.  (See the 
+chapter of the HAs. Wethern turned state's evidence in 1972, and
+testified at the '74 Sand/Scully trial among others. (See the 
 somewhat self-serving "A Wayward Angel", by George Wethern & Vincent 
-Colnett.  NY:  Richard Marek (1978); see also the Michael Kennedy
+Colnett. NY:  Richard Marek (1978); see also the Michael Kennedy
 interview (supra)). 
 
 I know of only two books devoted to the nether-world of illicit LSD 
 manufacturing:
 
-"The Brotherhood of Eternal Love", Stewart Tendler & David May.  
-London:  Panther Books (1984).  Out of Print.  (I haven't been able 
+"The Brotherhood of Eternal Love", Stewart Tendler & David May. 
+London:  Panther Books (1984). Out of Print. (I haven't been able 
 to get my hands on anything but brief excerpts of this book [and would 
 love to hear from anyone who has a copy], but see "Acid Dreams" by 
-Lee & Shlain.  NY: Grove Press (1985) and "Storming Heaven", by Jay 
-Stevens.  N.Y.: Harper & Row (1987)).
+Lee & Shlain. NY: Grove Press (1985) and "Storming Heaven", by Jay 
+Stevens. N.Y.: Harper & Row (1987)).
 
   (Tendler covered the "Operation Julie" bust (infra) for the 
    [London Sunday] "Times", but the "Times Educational 
@@ -1162,10 +1162,10 @@ Stevens.  N.Y.: Harper & Row (1987)).
    The Senate Report", "High Times", Fall 1974 for opposing 
    viewpoints on the scope of the Brotherhood conspiracy.)
 
-"Operation Julie", Dick Lee & Colin Pratt.  London:  W.H.Allen (1978).  
-Out of Print.  Covers the tracking and 1977 take-down of the U.K. 
+"Operation Julie", Dick Lee & Colin Pratt. London:  W.H.Allen (1978). 
+Out of Print. Covers the tracking and 1977 take-down of the U.K. 
 organization led by Richard Kemp that formed from the regrouping of the 
-post-indictment remnants of the BEL.  The Kemp ring allegedly 
+post-indictment remnants of the BEL. The Kemp ring allegedly 
 manufactured 60% of the world's LSD at the time, amounting to tens 
 of millions of hits over a several year period.
 
@@ -1253,7 +1253,7 @@ and much later, than a-methylfentanyl, and also caused some O.D.s
 3-methyl fentanyl was also the narcotic later made by both Michael 
 Hovey and George Marquardt.
 
-  Monastero in "America's Habit".  President's 
+  Monastero in "America's Habit". President's 
   Commission on Organized Crime (1986)
 
  "New York Times", 881225.
@@ -1277,14 +1277,14 @@ Literature cites on MPPP, of Parkinson's Disease fame:
  "The Case of the Frozen Addict", PBS "Nova",
   (1986), transcript of show
 
-  Sanford Markey, ed.  "MPTP - A Neurotoxin 
+  Sanford Markey, ed. "MPTP - A Neurotoxin 
   Producing a Parkinsonian Syndrome"  Orlando, 
   Fl.:  Academic Press (1986)  [haven't seen
   this one; book based on Centers for Disease
   Control investigation] 
 
  "The Case of the Frozen Addicts"  Langston &
-  Palfreman.  NY: Pantheon (1995).  [You've
+  Palfreman. NY: Pantheon (1995). [You've
   seen the PBS show, now read the more detailed
   book!]
 
@@ -1300,8 +1300,8 @@ Subject: 7. "You Have Greatly Misunderstood the Purpose of the Net"
             You yourself have said that knowledge is
             power."
 
-           "No!" he said emphatically.  "Power rests on
-            the kind of knowledge one holds.  What is
+           "No!" he said emphatically. "Power rests on
+            the kind of knowledge one holds. What is
             the sense of knowing things that are useless?"
 
                               -- "The Teachings of Don Juan:
@@ -1310,9 +1310,9 @@ Subject: 7. "You Have Greatly Misunderstood the Purpose of the Net"
 
 UseNet at its best is a network of some of the brightest minds in the 
 civilized world, getting together to discuss whatever strikes their
-collective fancy.  Professors and academics, engineers and scientists,
+collective fancy. Professors and academics, engineers and scientists,
 polymaths, and intelligent people everywhere, getting together to kick
-ideas, information, and scurrilous personal attacks back and forth.  A
+ideas, information, and scurrilous personal attacks back and forth. A
 synthesis of great minds and intellects, altruistically donating their
 time and effort in glorious cosmic synergy.
 
@@ -1330,29 +1330,29 @@ Trade Secrets, Or "Where Can I get Oil of Sassafras?", "How Do I
                Isomerize Dextromethorphan to the Narcotic Levo Form?"
 
 Just because you ask a question on the Net, does not mean 
-anyone's going to answer it.  Or in particular on alt.drugs --
+anyone's going to answer it. Or in particular on alt.drugs --
 a newsgroup dominated by drug burn-outs, trollers, poseurs, and 
 wannabes -- answer it correctly.
 
 You may get an answer to your question, but you can't 
 realistically expect it when it amounts to a trade 
-secret.  Someone who poses such a question obviously 
-has a recipe for making MDMA, aka E.  The recipe requires
-oil of sassafras, or another source of safrole.  Needless
+secret. Someone who poses such a question obviously 
+has a recipe for making MDMA, aka E. The recipe requires
+oil of sassafras, or another source of safrole. Needless
 to say, the government is aware of this too, and it's 
 somewhat difficult, though not impossible, to get.
 
 Broadcasting to the world, via UseNet, where to get it, 
 is a good way to get the government to clamp down on 
-that source of supply.  Why on earth would you expect 
+that source of supply. Why on earth would you expect 
 anyone to tell you how to get rich (illegally) anyway?  
 Figure it out yourself, idiot!
 
 The codeine extraction question is another good one, 
-commonly asked on alt.drugs.  Tylenol #1's are OTC in 
-Canada, Australia, and elsewhere.  Someone was selling 
+commonly asked on alt.drugs. Tylenol #1's are OTC in 
+Canada, Australia, and elsewhere. Someone was selling 
 such a recipe for thousands of dollars in New Zealand a 
-few years back.  So why would someone give it to you 
+few years back. So why would someone give it to you 
 for free?  Your grasp of philanthropy is deeply flawed, 
 pal.
 
@@ -1376,16 +1376,16 @@ to explore the matter.
 The fact of the matter, however, is that widely publicizing 
 certain things -- and the Net is as wide as it gets -- 
 inevitably results in their negation through government 
-action.  I don't say this to stifle people from posting 
+action. I don't say this to stifle people from posting 
 information, but there is such a thing as discretion, ya know.
 
   [I'm reminded of Abbie Hoffman's omission in his 1970 
    classic, "Steal This Book", of the "dead baby birth 
-   certificate" method for obtaining false ID.  Hoffman 
+   certificate" method for obtaining false ID. Hoffman 
    feared that widespread publicity would spur government 
    action to close what he viewed as an escape hatch for 
-   fugitive radicals.  Indeed, by early 1974, Hoffman was 
-   himself on the lam from a cocaine trafficking beef.   
+   fugitive radicals. Indeed, by early 1974, Hoffman was 
+   himself on the lam from a cocaine trafficking beef.  
 
    Hoffman's self-censorship only delayed the inevitable 
    however -- the scam was out only a year later in 
@@ -1418,32 +1418,32 @@ one of my biggest net.peeves.
 "Why Didn't Anyone Answer my [Stupid] Question?"
 -----------------------------------------------
 
-No, we're not too lazy or too arrogant.  Er, well, maybe we are, 
+No, we're not too lazy or too arrogant. Er, well, maybe we are, 
 but dammit, we're not sitting here waiting around to respond to 
 whatever minuscule thought percolates through your tiny, 1/4 watt 
-cerebrum.  That's Lamont's job.
+cerebrum. That's Lamont's job.
 
-Ever hear of a library?  It's an amazing place.  Medicinal 
+Ever hear of a library?  It's an amazing place. Medicinal 
 chemistry is around RM315 if you've graduated past the Dewey 
 Decimal System.
 
 I started posting to the Net on the premise that I should put 
-back in, for what I've gotten out of the Net.  Inspired by the 
+back in, for what I've gotten out of the Net. Inspired by the 
 venerable Bill Nelson, who presides over in rec.pyrotechnics, 
 I began posting to alt.drugs primarily safety information, 
-and corrections to inaccurate posts.  Other than that, if a 
-post interests me, time-permitting, I *may* respond.  If it 
-doesn't, I don't.  _C'est la vie_.
+and corrections to inaccurate posts. Other than that, if a 
+post interests me, time-permitting, I *may* respond. If it 
+doesn't, I don't. _C'est la vie_.
 
 You're a lot more likely to get a response if you show you've
 done your homework -- made some sort of preliminary effort to
-investigate the question yourself.  I think I first got fed
+investigate the question yourself. I think I first got fed
 up with the intellectual parasites that infest alt.drugs (and
 much of the rest of the net) when during a lengthy thread on
 petroleum ether, some nitwit posted the very same question
 we had just finished discussing.
 
-Yes, indeed.  A fool's thoughts:  the briny well that never
+Yes, indeed. A fool's thoughts:  the briny well that never
 runs dry.
 
 Is the DEA on the Net?
@@ -1454,18 +1454,18 @@ ARPANET has evolved into.
 
 Of course they're on the Net, fool!
 
-This was definitively confirmed in December 1994 by Lamont.  No 
+This was definitively confirmed in December 1994 by Lamont. No 
 surprise here, except among the drug-addled.
 
 Of course, it is also the height of narcissism to think that the 
-DEA gives a hoot whether you are a dope-smokin' degenerate.  
-Believe me, they have more important things to worry about.  
+DEA gives a hoot whether you are a dope-smokin' degenerate. 
+Believe me, they have more important things to worry about. 
 State and local criminal investigators might, however, be a 
 different matter.
 
 More importantly, the fact that you posted a message to alt.drugs 
 such as, "I'm really baked!" [You're such a clever lad, aren't you?] 
-may not concern you now.  However you may wish to consider the fact 
+may not concern you now. However you may wish to consider the fact 
 that it's quite probable that someone somewhere is archiving *all* 
 net traffic, and that in ten or twenty years when you do care, it 
 may come back to haunt you.
@@ -1475,10 +1475,10 @@ Such is the price of a dissipated youth.
 Can I Rely on Net.answers to my Questions?
 ------------------------------------------
 
-No.  Next question, please.
+No. Next question, please.
 
-The Net is a whore that takes on all customers.  This is its 
-bane, as well as its beauty.  The nature of alt.drugs makes 
+The Net is a whore that takes on all customers. This is its 
+bane, as well as its beauty. The nature of alt.drugs makes 
 it particularly vulnerable to inaccurate, incomplete, and 
 downright erroneous answers from an assortment of flakes:  
 poseurs trying to elbow their way to the front of the intell-
@@ -1487,7 +1487,7 @@ by exaggerating their expertise, and pseudo-experts trying to
 pump up their flagging egos by marking a corner of the Inner 
 Circle.
 
-After all, the One-eyed Man is King in the Land of the Blind.  
+After all, the One-eyed Man is King in the Land of the Blind. 
 Such misguided and/or maladapted individuals are most dangerous 
 when they provide partially correct answers or answers lacking 
 the appropriate caveats.
@@ -1506,7 +1506,7 @@ Their selfless dedication to, and pursuit of the Truth is truly
 the Net at its best, and should be an inspiration to all.
 
 Unfortunately, everyone but Lamont and Steve withdrew from posting,
-or post only infrequently.  Make of that what you will.
+or post only infrequently. Make of that what you will.
 
 But the bottom line, after all, is that you get what you pay for.
 If you rely on net.information at face value without independent 
@@ -1527,12 +1527,12 @@ Subject: 8. The Law:  Do Not Pass Go, Do Not Collect $200,000
                                   The Tragically Hip (1989)
 
 Not surprisingly, it is a serious crime everywhere to make 
-and distribute drugs.  Even less surprisingly, this has failed
+and distribute drugs. Even less surprisingly, this has failed
 to make much of a dent in the manufacture and traffick in such 
 substances.
 
 Since the U.S. is at the forefront of the War on Drugs, I will 
-concentrate on U.S. statutes only.  I no longer follow U.S. 
+concentrate on U.S. statutes only. I no longer follow U.S. 
 law particularly closely, so some of this information may be 
 out of date.
 
@@ -1548,7 +1548,7 @@ and precursors) are in Title 21, Sections 800-900 (21
 USC 800-900).
 
 (Interestingly, first offense drug possession is a misdemeanor
-in the U.S. under Federal law.  Unfortunately, minor 
+in the U.S. under Federal law. Unfortunately, minor 
 offenders are typically prosecuted under State Law, which 
 usually makes drug possession a felony.)
 
@@ -1558,17 +1558,17 @@ and Corrupt Organizations, 18 USC 1962), and the Controlled
 Substance Analog Enforcement Act (21 USC 802.32).
 
 RICO and CCE are the legal bludgeons the Feds use against 
-drug rings that achieve any sort of success.  They are 
+drug rings that achieve any sort of success. They are 
 quite draconian in both scope and harshness.
 
 State law is an entirely different and separate affair from 
-Federal law and jurisdiction.  Each of the fifty states has 
+Federal law and jurisdiction. Each of the fifty states has 
 its own body of laws, and you can be prosecuted under _both_ 
 federal and state statutes, double jeopardy notwithstanding.
 
 California and Texas are two states which, in tandem with the
 level of local lab activity, have a fairly well developed 
-body of statutes in this area.  In particular, state precursor
+body of statutes in this area. In particular, state precursor
 control laws preceded that of the Feds by well over a decade.
 
 For California State Law (the Health and Safety Code covers 
@@ -1579,10 +1579,10 @@ drug-related laws), see:
 The long-predicted (Maclean & Pournelle, unpublished (1972) & 
 Brecher, supra)) rise of synthetic heroin analogues precipitated 
 the passing in 1986 of the federal Controlled Substance Analogue 
-Enforcement Act.  This closed what had become a major loophole in 
+Enforcement Act. This closed what had become a major loophole in 
 prior legislation, the so-called "designer" drugs (pharmacologi-
-cally similar, minor chemical variants of banned drugs).  Analogues, 
-however, were not a recent problem.  The first open source mention 
+cally similar, minor chemical variants of banned drugs). Analogues, 
+however, were not a recent problem. The first open source mention 
 was Gunn et al. (1970, supra) (cf. Baum (1985), supra).
 
 Finally, the 1988 Chemical Diversion Trafficking Act (21 USC 802.33 -
@@ -1602,7 +1602,7 @@ the drug laws are also Federal crimes.
 
 However much you think that drugs are plentiful and peachy-
 keen, you would be well-advised to note that manufacture and
-organized trafficking are not looked upon kindly.  Prosecution
+organized trafficking are not looked upon kindly. Prosecution
 is vigorous and aggressive, and these people don't fool around.
 
 Don't say you weren't warned.
@@ -1640,7 +1640,7 @@ A current list of proscribed drugs may also be obtained by writing:
                  Drug Enforcement Administration
                  Attn: Drug Control Section
                  1405 "I" Street, N.W.
-                 Washington, D.C.  20537
+                 Washington, D.C. 20537
 
 ------------------------------
 
@@ -1654,17 +1654,17 @@ Subject: 9. Morality & Ethics
                            -- "Round Here"
                                Counting Crows (1993)
 
-I've always been fascinated by the subject of outlaw chemistry.  
+I've always been fascinated by the subject of outlaw chemistry. 
 But radical chic aside, the more I've seen of things, the 
 less and less happy I've become with the morality of it all.
 
 I've even begun to question the value of that relatively 
-benign class of substances known as the psychedelics.  (What 
+benign class of substances known as the psychedelics. (What 
 was it that Ram Dass once said?  "Psychedelics have a message 
 to give, but once you get the message:  hang up.")
 
 With the rest, however, -- narcotics, ups, and downs -- the
-answer is quite clear.  And it ain't a good one.
+answer is quite clear. And it ain't a good one.
 
 For no matter how delightful you find the chemistry or the
 prospect of easy money and free dope, the fact of the matter 
@@ -1681,7 +1681,7 @@ crank lab?
 
 No matter how you rationalize it, there is no way to escape 
 the cruel reality that drugs are about two things:  money and 
-power.  Amassed through the corrupt exploitation of human
+power. Amassed through the corrupt exploitation of human
 weakness.
 
 And if they catch you -- and the odds are very much 
@@ -1699,7 +1699,7 @@ And they *all* profit to the detriment of society.
 
 Now, don't get me wrong:  criminal sanctions against drug 
 *users* are clearly not just wrong-headed, but more 
-importantly, counter-productive.  It is fairly obvious, as 
+importantly, counter-productive. It is fairly obvious, as 
 the Dutch and Swiss governments, and the highly respected 
 "Economist" magazine see it, that drug use is a social 
 problem and public health issue that should be dealt with 

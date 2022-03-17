@@ -76,7 +76,7 @@
                <br><br>
                <p class="mainTitle">Failed Connection.<br><br>
 </p>
-               <p class="mainBigBody">We're sorry.  Your request failed to connect to our servers.
+               <p class="mainBigBody">We're sorry. Your request failed to connect to our servers.
 We may be experiencing technical difficulties and suggest that you
 try again later.<br>
 See the <a href="http://www.archive.org/about/faqs.php#The_Wayback_Machine">FAQs</a> for more info and help, or <a href="mailto:wayback@archive.org">contact</a> us.<br>

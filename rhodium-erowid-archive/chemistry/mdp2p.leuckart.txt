@@ -6,25 +6,25 @@ Subject: mdma syntesis problem
 
 > in "chemical abstracts 52, 11965 (1985) manufacture of extacy"
 >
-> "Add 23g of above ketone to 65g formamide and heat at 190° for 5 hours."
-> Question - Is it 190°C or 190°F, and how would this heating practically be
+> "Add 23g of above ketone to 65g formamide and heat at 190ï¿½ for 5 hours."
+> Question - Is it 190ï¿½C or 190ï¿½F, and how would this heating practically be
 > done? reflux or pipebomb?
 
 Don't ever try anything like that, but it's 190 Centigrade, and you use a reflux
-condenser.  Evolution of carbon dioxide drives the reaction forward (it's a
+condenser. Evolution of carbon dioxide drives the reaction forward (it's a
 Leuckart condensation),  you would defeat your purpose if you used a pipe bomb.
-Also 190 is probably too high.  At about 165-170 you will start to see the
-formation of a lot of little tiny bubbles, like in a glass of beer.  This is
-what you want, the carbon dioxide is being evolved.  You don't need to keep
+Also 190 is probably too high. At about 165-170 you will start to see the
+formation of a lot of little tiny bubbles, like in a glass of beer. This is
+what you want, the carbon dioxide is being evolved. You don't need to keep
 raising
-the temperature all the way to 190.   I would stay in the 165-175
+the temperature all the way to 190.  I would stay in the 165-175
 range, just make sure you're getting the bubbles.
 
-  Also, you say you're using formamide.  That will give you MDA
+  Also, you say you're using formamide. That will give you MDA
 (methylenedioxyamphetamine), not MDMA (N-methyl-MDA).
-Needless to say, don't ever try anything like THAT, either.  ;^)
-Ecstacy is MDMA.   To get MDMA you would have to use
-N-methylformamide.  The reaction with formamide is easier.
+Needless to say, don't ever try anything like THAT, either. ;^)
+Ecstacy is MDMA.  To get MDMA you would have to use
+N-methylformamide. The reaction with formamide is easier.
 
 Avoid getting water in the reaction mixture -- You could prepare your formamide
 FRESH by heating ammonium formate in a
@@ -34,7 +34,7 @@ distillation apparatus and driving off all the H2O that is formed.
 Cherrie Baby:
 
 Towards the Rehabilitation of the Leuckart Reductive Amination Reaction using 
-Microwave Technology. André Loupy et al, Tetr. Lett. 37(45), p 8177-80 (1996).
+Microwave Technology. Andrï¿½ Loupy et al, Tetr. Lett. 37(45), p 8177-80 (1996).
 
 Abstract: The Leuckart reductive amination of carbonyl compounds was dramatically 
 enhanced with respect to conventional heating by a specific microwave effect 
@@ -60,7 +60,7 @@ filtration on Florisil and solvent evaporation.
 Notes:
 [1]. Formamide was found to give better yields than Ammonium formate 
      (between 2% - 10% higher).
-[2]. temperature range ~ 180° to 210° C. The temperature was continuously 
+[2]. temperature range ~ 180ï¿½ to 210ï¿½ C. The temperature was continuously 
      measured and controlled by IR detection [Jacqualt, pat # 549495 AI (1992)]
 [3]. The reaction time was 30 minutes in total.
 [4]. In some cases the reaction seemed to restart when fresh formamide-formic 
@@ -78,17 +78,17 @@ Notes:
 MDA (3,4-methylenedioxyamphetamine)
 
            The following synthesis is not meant to be carried out by a novice
-      chemist, although it is not terribly difficult.  For descriptions of
+      chemist, although it is not terribly difficult. For descriptions of
       how to carry out the procedures, a standard lab procedures reference
       manual should be aquired by the reader (or preferably the reader 
       should take college organic chemistry).
            This is the synthesis for MDA which can be found on page 79 of
       Psychedelic Chemistry, which was first published in Chemical Abstracts
-      52, 11965c (1958).  The former however has the above noted
+      52, 11965c (1958). The former however has the above noted
       typographical error of 75 ml 15% HCl being written as 57ml 15% HCl.
-      The original article also has a typographical error.  In the synthesis
+      The original article also has a typographical error. In the synthesis
       of MDA from the ketone it reads H2O2 where it should read H2O --
-      following the former procedure would be explosive.  As a side note,
+      following the former procedure would be explosive. As a side note,
       this is the same process of making the ketone from isosafrole as
       Shulgin uses in PiHKAL, thus the synthesis of the ketone is somewhat
       more verbose than the synthesis of MDA from the ketone.
@@ -96,25 +96,25 @@ MDA (3,4-methylenedioxyamphetamine)
            To a well stirred, cooled mixture of 34g of 30% H202 (hydrogen
       peroxide) in 150g 80% HCO2H (formic acid) there was added, dropwise, a
       solution of 32.4g isosafrole in 120ml acetone at a rate that kept the
-      reaction mixture from exceeding 40 deg C.  This required a bit over
-      1 hour, and external cooling was used as necessary.  Stirring was
+      reaction mixture from exceeding 40 deg C. This required a bit over
+      1 hour, and external cooling was used as necessary. Stirring was
       continued for 16 hours, and care was taken that the slow exothermic
-      reaction did not cause excess heating.  An external bath with running
-      water worked well.  During this time the solution progressed from an
-      orange color to a deep red.  All volatile components were removed under
-      vacuum which yielded some 60g of a very deep residue.  This was 
+      reaction did not cause excess heating. An external bath with running
+      water worked well. During this time the solution progressed from an
+      orange color to a deep red. All volatile components were removed under
+      vacuum which yielded some 60g of a very deep residue. This was 
       dissolved in 60ml of MeOH (methyl alcohol -- methanol), treated with
       360ml of 15% H2SO4 (sulfuric acid), and heated for 3 hours on the
-      steam bath.  After cooling the mixture was extracted with 3x75ml
-      Et2O (diethyl ether) or C6H6 (benzene).  Its recommended that, the
+      steam bath. After cooling the mixture was extracted with 3x75ml
+      Et2O (diethyl ether) or C6H6 (benzene). Its recommended that, the
       pooled extracts can washed -- first with H2O and then with dilute NaOH
-      (sodium hydroxide).  Then the solvent is removed under vacuum to
+      (sodium hydroxide). Then the solvent is removed under vacuum to
       afford 20.6g 3,4-methylenedioxyphenylacetone (3,4-methylenedioxybenzyl
-      methyl ketone).  The final residue may be distilled at 2.0mm/108-112 deg
+      methyl ketone). The final residue may be distilled at 2.0mm/108-112 deg
       C, or at about 160 deg C at the water pump.
            Add 23g 3,4-methylenedioxyphenylacetone to 65g HCONH2 (formamide)
-      and heat at 190 deg for five hours.  Cool, add 100ml H20, extract with
-      C6H6 (benzene) and evaporate in vacuum the extract.  Add 8ml MeOH
+      and heat at 190 deg for five hours. Cool, add 100ml H20, extract with
+      C6H6 (benzene) and evaporate in vacuum the extract. Add 8ml MeOH
       (methyl alcohol -- methanol) and 75ml 15% HCl to residue, heat on
       water bath two hours and extract in vacuum (or basify with KOH and
       extract the oil with benzene and dry, evaporate in vacuum) to get
@@ -131,17 +131,17 @@ This method is used in the past in Europe on huge scale to make MDMA:
 
 [1] 150 L MDP2P + 400 L NMF + 75 L Formic acid :
 
-heat to 190°C (at 140°C H2O + Formic acid comes over) for about 6 Hrs. until
+heat to 190ï¿½C (at 140ï¿½C H2O + Formic acid comes over) for about 6 Hrs. until
 smell of Ammonia-gas is present at the collecting flask. No vacuum! Let cool and
 wash with 350 L water to get rid of excess NMF. Tap off 160 L oil and extract
-the remaining water with 2 x 30 L DCM. Cook off that DCM at 60°C and 200 mm Hg.
+the remaining water with 2 x 30 L DCM. Cook off that DCM at 60ï¿½C and 200 mm Hg.
 Add the 20 L extra oil to the 160 L = 180 L.
 
 [2] Cook with HCl : Hydrolysis.
 
-180 L oil + 100 L methanol + (250 L HCl 36% + 550 L H2O): Mix and cook. At 60-65°C
+180 L oil + 100 L methanol + (250 L HCl 36% + 550 L H2O): Mix and cook. At 60-65ï¿½C
 MeOH distills over, after that go to 95 C and stay there for 3 Hrs. You make now
-the chloride salt, which dissolves in the water part. Let cool off to 40°C and
+the chloride salt, which dissolves in the water part. Let cool off to 40ï¿½C and
 extract with 40 L DCM. THROW AWAY THE DCM extract, this is full of impurities.
 KEEP the water-part!
 
@@ -154,7 +154,7 @@ distill off the DCM to get raw base.
 
 [4] Distillate.
 
-At 4 mm Hg (or any other good vacuum) and 145°C you distillate the raw base to
+At 4 mm Hg (or any other good vacuum) and 145ï¿½C you distillate the raw base to
 get the clean base. (first remove DCM and water).
 
 [5] Crystalls.

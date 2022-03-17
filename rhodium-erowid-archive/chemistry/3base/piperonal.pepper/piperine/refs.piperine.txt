@@ -19,15 +19,15 @@ roempp-cd-rom: piperin
 
 Remsen
 
-Ira (18461927), Prof. für Organ. Chemie, Johns Hopkins Univ., Baltimore (USA). 
+Ira (18461927), Prof. fï¿½r Organ. Chemie, Johns Hopkins Univ., Baltimore (USA). 
 Arbeitsgebiete: Entdeckung des Saccharins (zusammen mit Fahlberg), Konstitution von Piperin, 
-Begründer des American Chemical Journal.
+Begrï¿½nder des American Chemical Journal.
 
-Lit.: Chem. Unserer Zeit 20, A 37, 47 (1986) ï Neufeldt, S. 71 ï Pötsch, S. 360.
+Lit.: Chem. Unserer Zeit 20, A 37, 47 (1986) ï¿½ Neufeldt, S. 71 ï¿½ Pï¿½tsch, S. 360.
 
 
 
-Quelle: Römpp Lexikon Chemie  Version 2.0, Stuttgart/New York: Georg Thieme Verlag 1999
+Quelle: Rï¿½mpp Lexikon Chemie  Version 2.0, Stuttgart/New York: Georg Thieme Verlag 1999
 ------------------------------------------------------------------------------------------
 refs: piperin isolation
 =======================
@@ -46,24 +46,24 @@ http://www.thioxazobiotechlab.com/NEWSLETPIP.html
 NEW AMIDES  FROM PIPERINE -  A NATURAL ALKALOID WITH POTENTIAL INSECTICIDAL AND OTHER PHARMACOLOGICAL ACTIVITY. 
   
 
-           The insecticidal properties of black pepper extracts were discovered as early as 1924.  Piperine is the major constituent found in Piper nigrum and it was
-found to be toxic to domestic fly.  The potential of this class of compounds as a model for the development of pesticides has been investigated by several
+           The insecticidal properties of black pepper extracts were discovered as early as 1924. Piperine is the major constituent found in Piper nigrum and it was
+found to be toxic to domestic fly. The potential of this class of compounds as a model for the development of pesticides has been investigated by several
 researchers. 
 
-         Several new amides were described from piperic acid (obtained by hydrolysis of piperine).   [ Synthesis and insecticidal activity of new amide derivatives of
-piperine.   Vanderlu?cia F de paula et al, Pest Manag. Sci., 56, 768-174,2000]. 
+         Several new amides were described from piperic acid (obtained by hydrolysis of piperine).  [ Synthesis and insecticidal activity of new amide derivatives of
+piperine.  Vanderlu?cia F de paula et al, Pest Manag. Sci., 56, 768-174,2000]. 
 
-         synthesis of a number of amide with piperic acid using heterocyclic amines.  Such as amino derivatives of   flavones, coumarins and several other nitrogen
+         synthesis of a number of amide with piperic acid using heterocyclic amines. Such as amino derivatives of   flavones, coumarins and several other nitrogen
 heterocyclics will be rewarding.These heterocyclics are known to  elaborate insecticidal activity. These compounds may exhibit wide range of other pharmacological
 activities also. 
     Piperine was also isolated from Piper longum . 
 Papers of related interest : 
 
-1.    SUHCF et al, Isolation, identification and insecticidal properties of Piper nigrum amides, J. Agric Food Chem., 29, 115-118 (1981). 
+1.   SUHCF et al, Isolation, identification and insecticidal properties of Piper nigrum amides, J. Agric Food Chem., 29, 115-118 (1981). 
 
-2.    Miyakado M. et al,   The Piperaceae amides 6.  Chemisty and insecticidal activity of Piperaceae amides and their synthetic analogues. J. Pest. Sci.,10, 11-17,
+2.   Miyakado M. et al,   The Piperaceae amides 6. Chemisty and insecticidal activity of Piperaceae amides and their synthetic analogues. J. Pest. Sci.,10, 11-17,
 1985. 
-3.     Miyakado M. et al,  Insecticidal unsaturated isobutyl amides, in ?Insecticides of Plant Origin? ed. By Arnason J.T. et al, ACS symposium series 387, Maple
+3.    Miyakado M. et al,  Insecticidal unsaturated isobutyl amides, in ?Insecticides of Plant Origin? ed. By Arnason J.T. et al, ACS symposium series 387, Maple
 Press, New York, pp173-187,1989. 
                                                                                                                               NEWS LETTER 
                                                                                                                                     HOME
@@ -75,7 +75,7 @@ people contributed to modern medicine.
 
 
                                       For further information contact:  director@thioxazobiotechlab.com 
-                                                               ©copy rights reserved
+                                                               ï¿½copy rights reserved
 ------------------------------------------------------------------------------------------
 http://www.aluinfo.de/download/Arbeitsblaetter(1).pdf
 
@@ -105,28 +105,28 @@ PMID: 6885950 [PubMed - indexed for MEDLINE]
 
 http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=6885950&dopt=Abstract
 ------------------------------------------------------------------------------------------
-L. Rügheimer, " Künstliches Piperin ", Ber.  15 1390 (1882)
+L. Rï¿½gheimer, " Kï¿½nstliches Piperin ",. r.  15 1390 (1882)
 ------------------------------------------------------------------------------------------
 Supercritical fluid extraction in the quality control of piperine.
 
 Yuan, Yong-Fang; Bian, Jun; Zhou, Jian; Shi, Lifu (Department of Pharmacy, Changhai 
-Hospital, Shanghai 200433, Peop. Rep. China).  Zhongguo Yaoke Daxue Xuebao, 31(3), 199-202 
-(Chinese) 2000 Zhongguo Yaoke Daxue.  CODEN: ZHYXE9.  ISSN: 1000-5048.  DOCUMENT TYPE: 
+Hospital, Shanghai 200433, Peop. Rep. China). Zhongguo Yaoke Daxue Xuebao, 31(3), 199-202 
+(Chinese) 2000 Zhongguo Yaoke Daxue. CODEN: ZHYXE9. ISSN: 1000-5048. DOCUMENT TYPE: 
 Journal CA Section: 63 (Pharmaceuticals)
 
 A Supercrit. Fluid Extn. (SFE) method was developed for the extn. of effective components in 
-Piper longum L.  The optimal extn. conditions of SFE were designed.  The comparison was 
-conducted between SFE and traditional org. extn.  The optimal SFE conditions were that: (1) 
+Piper longum L. The optimal extn. conditions of SFE were designed. The comparison was 
+conducted between SFE and traditional org. extn. The optimal SFE conditions were that: (1) 
 alc. was used as a modifier of supercrit. fluid CO2 and (2) the sample was extd. by this 
 supercrit. fluid in statics for 15 min and then 5 mL dynamically at 40 and 2. 068 X 107 
-Pa(3000Psi).  The method was simple, rapid, perfect, and its extn. rate was higher than that 
+Pa(3000Psi). The method was simple, rapid, perfect, and its extn. rate was higher than that 
 by org. solvent extn.
 ------------------------------------------------------------------------------------------
 from CA 2002:
 =============
 
-The process comprises extg. pepper with mixed solvent at 25-40° for 1-6 h, filtering, 
-concg., crystg., and recrystg. with dichloroethylene or Et acetate.  The mixed solvent is 
+The process comprises extg. pepper with mixed solvent at 25-40ï¿½ for 1-6 h, filtering, 
+concg., crystg., and recrystg. with dichloroethylene or Et acetate. The mixed solvent is 
 ethanol, methanol, acetone, Et ether, Et acetate, dichloromethane, benzene, and/or 
 chloroform.
 
@@ -172,14 +172,14 @@ and further purifying. Its advantages are simple process, high extraction rate
 Process for piperine resin preparation from pepper powders.
 
 Lin, Xiaoming; Shi, Zaifeng; Sun, Zhenfan (Lutianyuan High and New Technology Development 
-Co., Ltd., Hainan Province, Peop. Rep. China).  Faming Zhuanli Shenqing Gongkai Shuomingshu 
-CN 1290730 A 11 Apr 2001, 5 pp.  (Chinese). (People's Republic of China).  CODEN: CNXXEV.  
-CLASS: ICM: C09F001-00.  APPLICATION: CN 2000-130396 3 Nov 2000.  DOCUMENT TYPE: Patent CA 
+Co., Ltd., Hainan Province, Peop. Rep. China). Faming Zhuanli Shenqing Gongkai Shuomingshu 
+CN 1290730 A 11 Apr 2001, 5 pp. (Chinese). (People's Republic of China). CODEN: CNXXEV. 
+CLASS: ICM: C09F001-00. APPLICATION: CN 2000-130396 3 Nov 2000. DOCUMENT TYPE: Patent CA 
 Section: 37 (Plastics Manufacture and Processing)
 
 The process comprises: smashing dried black (or white) pepper to powder with av. diam. <2 
 mm, mixing the powder with mixed org. solvent with a ratio of solvent/pepper=1/1-6/1, 
-stirring the mixt. at 25-40° for 1-6 h, sepg. by filtering to obtain leaching liquor, distg. 
+stirring the mixt. at 25-40ï¿½ for 1-6 h, sepg. by filtering to obtain leaching liquor, distg. 
 to remove org. solvent and collecting the resin contg. high piperine, wherein the solvent is 
 selected form ethanol, methanol, acetone, Et ether, Et acetate, ethylene dichloride, benzene 
 and trichloromethane.
