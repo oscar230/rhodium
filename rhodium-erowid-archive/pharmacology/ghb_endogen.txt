@@ -42,7 +42,7 @@
 									  <td nowrap align="center"><img src="http://web.archive.org/images/shim.gif" width="1" height="20"> 
 										<b class="mainBodyW"><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Enter 
 										Web Address:</font> 
-										<input type="text" name="url" value="http://" size="24" maxlength="256">&nbsp;</b> 
+										<input type="text" name="url" value="http://" size="24" maxlength="256"> </b> 
 											<select name="datespec" size="1">
 											<option selected>All</option>
 											<option>2001</option>
@@ -52,8 +52,8 @@
 											<option>1997</option>
 											<option>1996</option>
 											</select>
-											&nbsp;<input type="Submit" name="Submit" value="Take Me Back" align="absMiddle">
-											&nbsp;<a href="http://web.archive.org/collections/web/advanced.html" style="color:white;font-size:11px">Adv. Search</a>
+											 <input type="Submit" name="Submit" value="Take Me Back" align="absMiddle">
+											 <a href="http://web.archive.org/collections/web/advanced.html" style="color:white;font-size:11px">Adv. Search</a>
 										</td>
 									  </tr>
 								</table>
